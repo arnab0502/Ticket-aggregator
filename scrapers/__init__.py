@@ -4,11 +4,12 @@ To add a new source: create a module in this package exposing
 `scrape() -> list[Event]`, then add it to SCRAPERS below.
 """
 
-from . import allevents, bookmyshow, eventz, movies
+from . import allevents, bookmyshow, eventz, football, movies
 
 SCRAPERS = {
     "AllEvents": allevents.scrape,
     "Eventz": eventz.scrape,
     "Movies": movies.scrape,
+    "Football": football.scrape,
     "BookMyShow": bookmyshow.scrape,
 }

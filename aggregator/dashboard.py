@@ -28,6 +28,48 @@ MOVIE_BOOKING_LINKS = [
     {"p": "District", "u": "https://www.district.in/movies/"},
 ]
 
+# Ticketmaster localizes per country; pick the right storefront per league.
+TICKETMASTER_BY_LEAGUE = {
+    "EPL": "https://www.ticketmaster.co.uk/search?q=",
+    "Bundesliga": "https://www.ticketmaster.de/search?keyword=",
+    "La Liga": "https://www.ticketmaster.es/search?keyword=",
+    "Ligue 1": "https://www.ticketmaster.fr/fr/recherche?keyword=",
+}
+
+
+def _football_srcs(card_title: str, league: str, extra: dict) -> tuple[list[dict], str]:
+    """Ticket chips + buying-guide line for a football match card."""
+    from urllib.parse import quote
+
+    q = quote(card_title)
+    srcs = []
+    if extra.get("official_url"):
+        srcs.append({"p": "Official", "u": extra["official_url"], "pmin": None})
+
+    if league == "ISL":
+        srcs += [
+            {"p": "BookMyShow", "u": "https://in.bookmyshow.com/explore/sports", "pmin": None},
+            {"p": "District", "u": "https://www.district.in/sports/", "pmin": None},
+            {"p": "Paytm Insider", "u": "https://insider.in/all-events-in-india/sports", "pmin": None},
+        ]
+        guide = ("ISL tickets sell on <span class='win'>BookMyShow / District / Paytm Insider</span> "
+                 "from ~₹200 — resale markets rarely list ISL, book direct.")
+    else:
+        tm = TICKETMASTER_BY_LEAGUE.get(league)
+        if tm:
+            srcs.append({"p": "Ticketmaster", "u": tm + q, "pmin": None})
+        srcs += [
+            {"p": "StubHub", "u": f"https://www.stubhub.com/find/s/?q={q}", "pmin": None},
+            {"p": "viagogo", "u": f"https://www.viagogo.com/search?q={q}", "pmin": None},
+            {"p": "SeatGeek", "u": f"https://seatgeek.com/search?search={q}", "pmin": None},
+        ]
+        official = "the club's official ticket office" if not extra.get("official_url") \
+            else "<span class='win'>Official</span> (club ticket office)"
+        guide = (f"Cheapest & safest: {official} or Ticketmaster. Sold out? "
+                 "StubHub / viagogo / SeatGeek resale — prices float above face value, "
+                 "compare all three before paying.")
+    return srcs, guide
+
 
 def _fmt_price(lo, hi) -> str:
     f = lambda n: f"₹{int(n):,}" if n == int(n) else f"₹{n:,}"
@@ -101,9 +143,12 @@ def _build_cards(events: list[dict]) -> list[dict]:
         date = min((m["date"] for m in members if m["date"]), default="")
         venue = next((m["venue"] for m in members if m["venue"]), "")
 
-        cmp_line = _comparison(srcs) if len(seen_src) > 1 else None
-        if category == "Movies" and not cmp_line:
-            cmp_line = None  # movie chips are booking links, not scraped prices
+        cmp_title = "Platform comparison"
+        if category == "Football":
+            srcs, cmp_line = _football_srcs(lead["title"], city, lead.get("extra") or {})
+            cmp_title = "Ticket buying guide"
+        else:
+            cmp_line = _comparison(srcs) if len(seen_src) > 1 else None
 
         cards.append({
             "n": lead["title"],
@@ -113,9 +158,11 @@ def _build_cards(events: list[dict]) -> list[dict]:
             "dtxt": _fmt_date(date),
             "v": venue or ("Cinemas nationwide" if category == "Movies" else city),
             "pmin": min(prices) if prices else None,
-            "ptxt": _fmt_price(min(prices) if prices else None, max(highs) if highs else None),
+            "ptxt": ("Prices on ticket sites" if category == "Football" and not prices
+                     else _fmt_price(min(prices) if prices else None, max(highs) if highs else None)),
             "srcs": srcs,
             "cmp": cmp_line,
+            "cmpt": cmp_title,
         })
     cards.sort(key=lambda c: c["date"])
     return cards
@@ -160,6 +207,7 @@ TEMPLATE = """<!DOCTYPE html>
   .b-kids{background:#14332a;color:var(--green)} .b-beer{background:#2a1f3d;color:var(--purple)}
   .b-magic{background:#33142c;color:var(--pink)} .b-music{background:#14243d;color:var(--blue)}
   .b-market{background:#2e2e1a;color:#d4d46a} .b-other{background:#252a3a;color:var(--muted)}
+  .b-foot{background:#0f2e33;color:#4dd0e1}
   .meta{color:var(--muted);font-size:12.5px;line-height:1.5}
   .meta .d{color:var(--text);font-weight:600}
   .price{font-size:14px;font-weight:700;color:var(--green)}
@@ -170,6 +218,10 @@ TEMPLATE = """<!DOCTYPE html>
   .s-allevents{background:#12341f;border-color:#1d5c37} .s-district{background:#2b1d47;border-color:#4c357c}
   .s-eventz{background:#3d2a12;border-color:#6b4a1e} .s-bms{background:#3d1216;border-color:#6b1e26}
   .s-cherishx{background:#3d1230;border-color:#6b1e55} .s-wiki{background:#252a3a;border-color:#3a4158}
+  .s-stubhub{background:#3d1a3d;border-color:#6b2e6b} .s-tm{background:#12253d;border-color:#1e426b}
+  .s-vg{background:#123d33;border-color:#1e6b59} .s-sg{background:#3d2312;border-color:#6b3e1e}
+  .s-official{background:#1a3d1a;border-color:#2e6b2e} .s-insider{background:#2d1240;border-color:#502070}
+  .s-espn{background:#3d1216;border-color:#6b1e26}
   .compare{background:var(--card2);border:1px dashed #4c357c;border-radius:10px;padding:10px 12px;font-size:12.5px;line-height:1.6}
   .compare .t{color:var(--purple);font-weight:700;font-size:11px;letter-spacing:.5px;text-transform:uppercase;margin-bottom:3px}
   .compare .win{color:var(--green);font-weight:700}
@@ -206,7 +258,7 @@ TEMPLATE = """<!DOCTYPE html>
   <div class="note">
     <b>How to read this:</b> Each card shows the event with every platform it was found on — click a source chip to open that listing and book. Cards with a
     <span class="dupbanner">⇄ PRICE COMPARE</span> banner were found on 2+ platforms — the comparison box shows which is cheaper.<br><br>
-    <b>Caveats:</b> Prices, dates and availability change fast — always confirm on the booking page. BookMyShow &amp; District block full automated scraping, so their chips are booking links rather than scraped prices; AllEvents and Eventz are indexed directly, movies come from release calendars. Movie ticket prices vary by cinema/format (typically ₹150–600). Re-run <b>python run.py</b> anytime for a fresh snapshot.
+    <b>Caveats:</b> Prices, dates and availability change fast — always confirm on the booking page. BookMyShow &amp; District block full automated scraping, so their chips are booking links rather than scraped prices; AllEvents and Eventz are indexed directly, movies come from release calendars, football fixtures from ESPN's public API. Movie ticket prices vary by cinema/format (typically ₹150–600). <b>Football:</b> buy from the club's Official ticket office or Ticketmaster first (face value); StubHub / viagogo / SeatGeek are resale markets — legitimate, but prices float above face value and some clubs restrict resale, so check the club's resale policy. ISL tickets: BookMyShow / District / Paytm Insider. Re-run <b>python run.py</b> anytime for a fresh snapshot.
   </div>
 </div>
 
@@ -215,8 +267,8 @@ const EVENTS=__DATA__;
 
 const CITIES=["All",...new Set(EVENTS.map(e=>e.city).filter(c=>c!=="All cities"))].concat(EVENTS.some(e=>e.city==="All cities")?[]:[]);
 const CATS=["All",...new Set(EVENTS.map(e=>e.cat))];
-const catClass={"Comedy":"b-comedy","Movies":"b-movies","Kids & Family":"b-kids","Beer & Nightlife":"b-beer","Magic":"b-magic","Music & Culture":"b-music","Markets & Expos":"b-market"};
-const srcClass={"AllEvents":"s-allevents","District":"s-district","Eventz":"s-eventz","BookMyShow":"s-bms","CherishX":"s-cherishx","Wikipedia":"s-wiki"};
+const catClass={"Comedy":"b-comedy","Movies":"b-movies","Kids & Family":"b-kids","Beer & Nightlife":"b-beer","Magic":"b-magic","Music & Culture":"b-music","Markets & Expos":"b-market","Football":"b-foot"};
+const srcClass={"AllEvents":"s-allevents","District":"s-district","Eventz":"s-eventz","BookMyShow":"s-bms","CherishX":"s-cherishx","Wikipedia":"s-wiki","StubHub":"s-stubhub","Ticketmaster":"s-tm","viagogo":"s-vg","SeatGeek":"s-sg","Official":"s-official","Paytm Insider":"s-insider","ESPN":"s-espn"};
 let state={city:"All",cat:"All",q:"",src:"",sort:"date",dupOnly:false};
 
 const srcSel=document.getElementById("src");
@@ -253,7 +305,7 @@ function render(){
       ${e.cmp?`<span class="dupbanner">⇄ PRICE COMPARE</span>`:""}
       <div class="meta"><span class="d">${e.dtxt}</span><br>📍 ${e.v} · ${e.city}</div>
       <div class="${e.pmin!=null?'price':'price na'}">${e.ptxt}</div>
-      ${e.cmp?`<div class="compare"><div class="t">Platform comparison</div>${e.cmp}</div>`:""}
+      ${e.cmp?`<div class="compare"><div class="t">${e.cmpt||'Platform comparison'}</div>${e.cmp}</div>`:""}
       <div class="srcs">${e.srcs.map(s=>`<a class="src ${srcClass[s.p]||''}" href="${s.u}" target="_blank">${s.p} ↗</a>`).join("")}</div>
     </div>`).join(""):`<div class="empty">No events match these filters — try widening them.</div>`;
 }

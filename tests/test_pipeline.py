@@ -116,6 +116,52 @@ def test_movies_parsing():
     print("ok: movies parsing")
 
 
+ESPN_FIXTURE = {
+    "events": [{
+        "name": "Chelsea at Arsenal",
+        "date": "2026-08-15T14:00Z",
+        "links": [{"href": "https://www.espn.in/football/match/_/gameId/1"}],
+        "competitions": [{
+            "venue": {"fullName": "Emirates Stadium", "address": {"city": "London"}},
+            "competitors": [
+                {"homeAway": "home", "team": {"displayName": "Arsenal"}},
+                {"homeAway": "away", "team": {"displayName": "Chelsea"}},
+            ],
+        }],
+    }],
+}
+
+
+def test_football_parsing_and_chips():
+    from scrapers.football import _parse_scoreboard
+    from aggregator.dashboard import _build_cards
+    evs = _parse_scoreboard(ESPN_FIXTURE, "EPL")
+    assert len(evs) == 1
+    ev = evs[0]
+    assert ev.title == "Arsenal vs Chelsea"
+    assert ev.venue == "Emirates Stadium, London"
+    assert ev.extra["official_url"].startswith("https://www.arsenal.com")
+
+    d = ev.to_dict()
+    d["group_id"], d["multi_source"] = 0, False
+    card = _build_cards([d])[0]
+    chips = {s["p"] for s in card["srcs"]}
+    assert {"Official", "Ticketmaster", "StubHub", "viagogo", "SeatGeek"} <= chips, chips
+    stub = next(s for s in card["srcs"] if s["p"] == "StubHub")
+    assert "stubhub.com" in stub["u"] and "Arsenal" in stub["u"]
+    assert card["cmpt"] == "Ticket buying guide"
+    print("ok: football parsing + ticket chips")
+
+
+def test_isl_chips():
+    from aggregator.dashboard import _football_srcs
+    srcs, guide = _football_srcs("Bengaluru FC vs Kerala Blasters", "ISL", {})
+    chips = {s["p"] for s in srcs}
+    assert {"BookMyShow", "District", "Paytm Insider"} <= chips, chips
+    assert "BookMyShow" in guide
+    print("ok: ISL ticket chips")
+
+
 def test_containment_dedupe():
     from aggregator.dedupe import normalize, similar
     assert similar(normalize("Out Of Order ft.Shashi Dhiman"), normalize("Shashi Dhiman Live"))
@@ -129,5 +175,7 @@ if __name__ == "__main__":
     test_dedupe_and_dashboard()
     test_eventz_parsing()
     test_movies_parsing()
+    test_football_parsing_and_chips()
+    test_isl_chips()
     test_containment_dedupe()
     print("All tests passed.")
