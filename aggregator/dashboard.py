@@ -91,17 +91,32 @@ def _football_srcs(card_title: str, league: str, extra: dict) -> tuple[list[dict
         guide_tail = ("Official/Ticketmaster = face value; StubHub / viagogo / SeatGeek = resale, "
                       "usually above face value.")
 
-    # Comparison rows: face-value baseline + any live marketplace prices
+    # Comparison rows: face-value baseline, then one row PER SOURCE showing
+    # either its live price or why there isn't one yet.
+    def row(label: str, value: str, cls: str = "na") -> str:
+        return (f"<div class='cmprow'><span>{label}</span>"
+                f"<span class='{cls}'>{value}</span></div>")
+
     rows = []
     face = LEAGUE_FACE_VALUE.get(league)
     if face:
-        rows.append(f"<div class='cmprow'><span>Face value (typical)</span>"
-                    f"<span class='win'>{face}</span></div>")
-    for name, p in live.items():
-        sym = CUR_SYMBOL.get(p["cur"], "")
-        rng = f"{sym}{int(p['min'])}" + (f"–{sym}{int(p['max'])}" if p["max"] != p["min"] else "")
-        rows.append(f"<div class='cmprow'><span>{name} (live)</span>"
-                    f"<span class='lose'>{rng}</span></div>")
+        rows.append(row("Face value (typical)", face, "win"))
+
+    def live_or(label: str, fallback: str) -> str:
+        p = live.get(label)
+        if p:
+            sym = CUR_SYMBOL.get(p["cur"], "")
+            rng = f"{sym}{int(p['min'])}" + (f"–{sym}{int(p['max'])}" if p["max"] != p["min"] else "")
+            return row(f"{label} (live)", rng, "lose")
+        return row(label, fallback)
+
+    if league == "ISL":
+        rows.append(row("BookMyShow / District / Insider", "~₹200+, open chip"))
+    else:
+        rows.append(live_or("Ticketmaster", "🔑 free API key → live price"))
+        rows.append(live_or("SeatGeek", "🔑 free API key → live price"))
+        rows.append(row("StubHub / viagogo", "resale — open chip for live price"))
+
     guide = "".join(rows) + f"<div class='cmpsum'>{guide_tail}</div>"
     return srcs, guide
 

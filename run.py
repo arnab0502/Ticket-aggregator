@@ -10,6 +10,18 @@ import json
 import os
 import sys
 
+
+def _load_dotenv(path: str) -> None:
+    """Tiny .env loader (KEY=value lines) so API keys don't need exports."""
+    if not os.path.exists(path):
+        return
+    with open(path, encoding="utf-8") as f:
+        for line in f:
+            line = line.strip()
+            if line and not line.startswith("#") and "=" in line:
+                k, _, v = line.partition("=")
+                os.environ.setdefault(k.strip(), v.strip().strip("'\""))
+
 from aggregator.dedupe import assign_groups
 from aggregator.dashboard import generate
 
@@ -34,6 +46,7 @@ def scrape_all() -> list[dict]:
 
 
 def main() -> int:
+    _load_dotenv(os.path.join(ROOT, ".env"))
     if "--offline" in sys.argv:
         if not os.path.exists(DATA_PATH):
             print("No data/events.json yet — run without --offline first.")
