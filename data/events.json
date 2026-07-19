@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Shashi Dhiman Live",
+    "city": "Bangalore",
+    "category": "Comedy",
+    "source": "District",
+    "url": "https://www.district.in/activities/comedy-shows-in-bengaluru",
+    "date": "2026-08-02T19:00:00+05:30",
+    "venue": "Comedy Theory, Koramangala",
+    "price_min": 299.0,
+    "price_max": 299.0,
+    "currency": "INR",
+    "image": "",
+    "extra": {"note": "sample data — run `python run.py` to scrape live"}
+  },
+  {
+    "title": "Shashi Dhiman - Live Standup Show",
+    "city": "Bangalore",
+    "category": "Comedy",
+    "source": "Eventz",
+    "url": "https://www.eventz.co.in/comedy-shows-in-bangalore",
+    "date": "2026-08-02T19:00:00+05:30",
+    "venue": "Comedy Theory, Koramangala",
+    "price_min": 499.0,
+    "price_max": 499.0,
+    "currency": "INR",
+    "image": "",
+    "extra": {"note": "sample data"}
+  },
+  {
+    "title": "Relapse - A Standup Comedy Show by Aakash Mehta",
+    "city": "Hyderabad",
+    "category": "Comedy",
+    "source": "AllEvents",
+    "url": "https://allevents.in/hyderabad/comedy",
+    "date": "2026-07-19T20:00:00+05:30",
+    "venue": "Aaromale, Film Nagar",
+    "price_min": 499.0,
+    "price_max": 799.0,
+    "currency": "INR",
+    "image": "",
+    "extra": {"note": "sample data"}
+  },
+  {
+    "title": "Puppet Show for Kids",
+    "city": "Delhi NCR",
+    "category": "Kids",
+    "source": "CherishX",
+    "url": "https://cherishx.com/experience/1320/delhi-ncr/puppet-show-for-kids",
+    "date": "2026-07-26T11:00:00+05:30",
+    "venue": "At home / venue of choice",
+    "price_min": 2499.0,
+    "price_max": 2499.0,
+    "currency": "INR",
+    "image": "",
+    "extra": {"note": "sample data"}
+  },
+  {
+    "title": "Friday Beer Fest & Happy Hours",
+    "city": "Mumbai",
+    "category": "Nightlife",
+    "source": "AllEvents",
+    "url": "https://allevents.in/mumbai/parties",
+    "date": "2026-07-24T18:00:00+05:30",
+    "venue": "Lower Parel",
+    "price_min": 750.0,
+    "price_max": 1500.0,
+    "currency": "INR",
+    "image": "",
+    "extra": {"note": "sample data"}
+  }
+]
