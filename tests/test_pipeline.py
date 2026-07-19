@@ -149,8 +149,28 @@ def test_football_parsing_and_chips():
     assert {"Official", "Ticketmaster", "StubHub", "viagogo", "SeatGeek"} <= chips, chips
     stub = next(s for s in card["srcs"] if s["p"] == "StubHub")
     assert "stubhub.com" in stub["u"] and "Arsenal" in stub["u"]
-    assert card["cmpt"] == "Ticket buying guide"
+    assert card["cmpt"] == "Ticket price comparison"
+    assert "Face value (typical)" in card["cmp"] and "£30" in card["cmp"]
     print("ok: football parsing + ticket chips")
+
+
+def test_football_live_prices():
+    from aggregator.dashboard import _football_srcs
+    extra = {
+        "official_url": "https://www.arsenal.com/tickets",
+        "prices": {
+            "SeatGeek": {"min": 95.0, "max": 450.0, "cur": "USD", "url": "https://seatgeek.com/e/1"},
+            "Ticketmaster": {"min": 40.0, "max": 90.0, "cur": "GBP", "url": "https://tm.uk/e/1"},
+        },
+    }
+    srcs, cmp_html = _football_srcs("Arsenal vs Chelsea", "EPL", extra)
+    sg = next(s for s in srcs if s["p"] == "SeatGeek")
+    assert sg["pmin"] == 95.0 and sg["cur"] == "$" and sg["u"] == "https://seatgeek.com/e/1"
+    tm = next(s for s in srcs if s["p"] == "Ticketmaster")
+    assert tm["pmin"] == 40.0 and tm["cur"] == "£"
+    assert "SeatGeek (live)" in cmp_html and "$95–$450" in cmp_html
+    assert "Ticketmaster (live)" in cmp_html and "£40–£90" in cmp_html
+    print("ok: football live price rows")
 
 
 def test_isl_chips():
@@ -176,6 +196,7 @@ if __name__ == "__main__":
     test_eventz_parsing()
     test_movies_parsing()
     test_football_parsing_and_chips()
+    test_football_live_prices()
     test_isl_chips()
     test_containment_dedupe()
     print("All tests passed.")

@@ -37,11 +37,38 @@ TICKETMASTER_BY_LEAGUE = {
 }
 
 
+# Typical matchday face-value ranges (2026), shown so the comparison box
+# always has a baseline even without live marketplace prices.
+LEAGUE_FACE_VALUE = {
+    "EPL": "£30–£100",
+    "Bundesliga": "€15–€70",
+    "La Liga": "€25–€100",
+    "Ligue 1": "€15–€80",
+    "ISL": "₹200–₹1,500",
+}
+
+CUR_SYMBOL = {"USD": "$", "GBP": "£", "EUR": "€", "INR": "₹"}
+
+
 def _football_srcs(card_title: str, league: str, extra: dict) -> tuple[list[dict], str]:
-    """Ticket chips + buying-guide line for a football match card."""
+    """Ticket chips + price-comparison box for a football match card.
+
+    Live prices (extra['prices'], from the SeatGeek / Ticketmaster APIs)
+    are shown on chips and as comparison rows; the league's typical
+    face-value range is always shown as the baseline row.
+    """
     from urllib.parse import quote
 
     q = quote(card_title)
+    live = extra.get("prices") or {}
+
+    def chip(name: str, default_url: str) -> dict:
+        p = live.get(name)
+        if p:
+            return {"p": name, "u": p.get("url") or default_url,
+                    "pmin": p["min"], "cur": CUR_SYMBOL.get(p["cur"], "")}
+        return {"p": name, "u": default_url, "pmin": None}
+
     srcs = []
     if extra.get("official_url"):
         srcs.append({"p": "Official", "u": extra["official_url"], "pmin": None})
@@ -52,22 +79,30 @@ def _football_srcs(card_title: str, league: str, extra: dict) -> tuple[list[dict
             {"p": "District", "u": "https://www.district.in/sports/", "pmin": None},
             {"p": "Paytm Insider", "u": "https://insider.in/all-events-in-india/sports", "pmin": None},
         ]
-        guide = ("ISL tickets sell on <span class='win'>BookMyShow / District / Paytm Insider</span> "
-                 "from ~₹200 — resale markets rarely list ISL, book direct.")
+        guide_tail = "Book direct on BookMyShow / District / Paytm Insider — resale markets rarely list ISL."
     else:
-        tm = TICKETMASTER_BY_LEAGUE.get(league)
-        if tm:
-            srcs.append({"p": "Ticketmaster", "u": tm + q, "pmin": None})
+        tm_search = TICKETMASTER_BY_LEAGUE.get(league, "")
         srcs += [
+            chip("Ticketmaster", tm_search + q),
+            chip("SeatGeek", f"https://seatgeek.com/search?search={q}"),
             {"p": "StubHub", "u": f"https://www.stubhub.com/find/s/?q={q}", "pmin": None},
             {"p": "viagogo", "u": f"https://www.viagogo.com/search?q={q}", "pmin": None},
-            {"p": "SeatGeek", "u": f"https://seatgeek.com/search?search={q}", "pmin": None},
         ]
-        official = "the club's official ticket office" if not extra.get("official_url") \
-            else "<span class='win'>Official</span> (club ticket office)"
-        guide = (f"Cheapest & safest: {official} or Ticketmaster. Sold out? "
-                 "StubHub / viagogo / SeatGeek resale — prices float above face value, "
-                 "compare all three before paying.")
+        guide_tail = ("Official/Ticketmaster = face value; StubHub / viagogo / SeatGeek = resale, "
+                      "usually above face value.")
+
+    # Comparison rows: face-value baseline + any live marketplace prices
+    rows = []
+    face = LEAGUE_FACE_VALUE.get(league)
+    if face:
+        rows.append(f"<div class='cmprow'><span>Face value (typical)</span>"
+                    f"<span class='win'>{face}</span></div>")
+    for name, p in live.items():
+        sym = CUR_SYMBOL.get(p["cur"], "")
+        rng = f"{sym}{int(p['min'])}" + (f"–{sym}{int(p['max'])}" if p["max"] != p["min"] else "")
+        rows.append(f"<div class='cmprow'><span>{name} (live)</span>"
+                    f"<span class='lose'>{rng}</span></div>")
+    guide = "".join(rows) + f"<div class='cmpsum'>{guide_tail}</div>"
     return srcs, guide
 
 
@@ -146,9 +181,16 @@ def _build_cards(events: list[dict]) -> list[dict]:
         venue = next((m["venue"] for m in members if m["venue"]), "")
 
         cmp_title = "Platform comparison"
+        ptxt_override = None
         if category == "Football":
             srcs, cmp_line = _football_srcs(lead["title"], city, lead.get("extra") or {})
-            cmp_title = "Ticket buying guide"
+            cmp_title = "Ticket price comparison"
+            live_chips = [s for s in srcs if s.get("pmin") is not None]
+            if live_chips:
+                cheapest = min(live_chips, key=lambda s: s["pmin"])
+                ptxt_override = f"From {cheapest.get('cur', '')}{int(cheapest['pmin'])} ({cheapest['p']})"
+            else:
+                ptxt_override = "Prices on ticket sites"
         else:
             cmp_line = _comparison(srcs) if len(seen_src) > 1 else None
 
@@ -160,8 +202,8 @@ def _build_cards(events: list[dict]) -> list[dict]:
             "dtxt": _fmt_date(date),
             "v": venue or ("Cinemas nationwide" if category == "Movies" else city),
             "pmin": min(prices) if prices else None,
-            "ptxt": ("Prices on ticket sites" if category == "Football" and not prices
-                     else _fmt_price(min(prices) if prices else None, max(highs) if highs else None)),
+            "ptxt": ptxt_override or _fmt_price(min(prices) if prices else None,
+                                                max(highs) if highs else None),
             "srcs": srcs,
             "cmp": cmp_line,
             "cmpt": cmp_title,
@@ -312,7 +354,7 @@ function render(){
       <div class="meta"><span class="d">${e.dtxt}</span><br>📍 ${e.v} · ${e.city}</div>
       <div class="${e.pmin!=null?'price':'price na'}">${e.ptxt}</div>
       ${e.cmp?`<div class="compare"><div class="t">${e.cmpt||'Platform comparison'}</div>${e.cmp}</div>`:""}
-      <div class="srcs">${e.srcs.map(s=>`<a class="src ${srcClass[s.p]||''}" href="${s.u}" target="_blank">${s.p}${s.pmin!=null?` · ₹${s.pmin}`:''} ↗</a>`).join("")}</div>
+      <div class="srcs">${e.srcs.map(s=>`<a class="src ${srcClass[s.p]||''}" href="${s.u}" target="_blank">${s.p}${s.pmin!=null?` · ${s.cur||'₹'}${s.pmin}`:''} ↗</a>`).join("")}</div>
     </div>`).join(""):`<div class="empty">No events match these filters — try widening them.</div>`;
 }
 document.getElementById("q").oninput=e=>{state.q=e.target.value.toLowerCase();render();};

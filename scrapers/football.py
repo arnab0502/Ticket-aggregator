@@ -14,7 +14,9 @@ cheapest and safest starting point.
 from __future__ import annotations
 
 import json
+import os
 from datetime import date, timedelta
+from urllib.parse import quote
 
 from .base import Event, clean, fetch
 
@@ -110,6 +112,66 @@ def _parse_scoreboard(payload: dict, league_label: str) -> list[Event]:
     return events
 
 
+PRICE_ENRICH_CAP = 40  # max matches to look up per marketplace API
+
+
+def _enrich_seatgeek(events: list[Event]) -> None:
+    """Live resale prices from SeatGeek's official free API.
+
+    Get a client id at https://seatgeek.com/account/develop then:
+        export SEATGEEK_CLIENT_ID=your_id
+    Prices are in USD.
+    """
+    key = os.environ.get("SEATGEEK_CLIENT_ID")
+    if not key:
+        print("  (set SEATGEEK_CLIENT_ID for live resale prices — free key at seatgeek.com/account/develop)")
+        return
+    for ev in events[:PRICE_ENRICH_CAP]:
+        url = f"https://api.seatgeek.com/2/events?client_id={key}&q={quote(ev.title)}&per_page=1"
+        raw = fetch(url)
+        if not raw:
+            continue
+        try:
+            hits = json.loads(raw).get("events") or []
+            stats = hits[0].get("stats") or {}
+            lo, hi = stats.get("lowest_price"), stats.get("highest_price")
+            if lo:
+                ev.extra.setdefault("prices", {})["SeatGeek"] = {
+                    "min": lo, "max": hi or lo, "cur": "USD", "url": hits[0].get("url", ""),
+                }
+        except (json.JSONDecodeError, IndexError, AttributeError):
+            continue
+
+
+def _enrich_ticketmaster(events: list[Event]) -> None:
+    """Face-value/primary prices from Ticketmaster's official Discovery API.
+
+    Get a free key at https://developer.ticketmaster.com then:
+        export TICKETMASTER_API_KEY=your_key
+    Prices come back in the event's local currency (GBP/EUR).
+    """
+    key = os.environ.get("TICKETMASTER_API_KEY")
+    if not key:
+        print("  (set TICKETMASTER_API_KEY for primary-sale prices — free key at developer.ticketmaster.com)")
+        return
+    for ev in events[:PRICE_ENRICH_CAP]:
+        url = (f"https://app.ticketmaster.com/discovery/v2/events.json"
+               f"?apikey={key}&keyword={quote(ev.title)}&size=1")
+        raw = fetch(url)
+        if not raw:
+            continue
+        try:
+            hits = (json.loads(raw).get("_embedded") or {}).get("events") or []
+            pr = (hits[0].get("priceRanges") or [{}])[0]
+            if pr.get("min"):
+                ev.extra.setdefault("prices", {})["Ticketmaster"] = {
+                    "min": pr["min"], "max": pr.get("max", pr["min"]),
+                    "cur": pr.get("currency", "EUR"), "url": hits[0].get("url", ""),
+                }
+        except (json.JSONDecodeError, IndexError, AttributeError):
+            continue
+
+
 def scrape() -> list[Event]:
     start = date.today()
     end = start + timedelta(days=WINDOW_DAYS)
@@ -133,4 +195,7 @@ def scrape() -> list[Event]:
         found = _parse_scoreboard(payload, label)
         print(f"    -> {len(found)} fixtures")
         events += found
+
+    _enrich_seatgeek(events)
+    _enrich_ticketmaster(events)
     return events

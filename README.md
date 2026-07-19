@@ -69,6 +69,23 @@ re-scrapes daily and commits the refreshed dashboard. Enable **Settings →
 Pages → Deploy from branch → main** to host `dashboard.html` at
 `https://<you>.github.io/ticket-aggregator/dashboard.html`.
 
+## Football: live ticket prices (optional, free API keys)
+
+Football fixtures (EPL, Bundesliga, La Liga, Ligue 1, ISL) come from
+ESPN's public API with no key needed. Ticket marketplaces block scraping,
+so match cards always show a typical face-value range plus pre-built
+search links (Official club office, Ticketmaster, StubHub, viagogo,
+SeatGeek). For **live** prices in the comparison box, add free official
+API keys:
+
+```bash
+export SEATGEEK_CLIENT_ID=...     # https://seatgeek.com/account/develop (resale, USD)
+export TICKETMASTER_API_KEY=...   # https://developer.ticketmaster.com (primary, GBP/EUR)
+python run.py
+```
+
+StubHub's API is partner-only, so StubHub chips stay search links.
+
 ## Known limitations
 
 - **BookMyShow and District actively block scrapers** (Cloudflare / bot
