@@ -95,23 +95,25 @@ def _fmt_date(iso: str) -> str:
 
 
 def _comparison(srcs: list[dict]) -> str | None:
-    priced = [s for s in srcs if s.get("pmin") is not None]
+    """Side-by-side price rows, one per platform, cheapest highlighted."""
     if len(srcs) < 2:
         return None
+    priced = [s for s in srcs if s.get("pmin") is not None]
     if len(priced) >= 2:
-        best = min(priced, key=lambda s: s["pmin"])
-        parts = []
-        for s in sorted(priced, key=lambda s: s["pmin"]):
-            cls = "win" if s["pmin"] == best["pmin"] else "lose"
-            parts.append(f"{s['p']}: <span class='{cls}'>₹{int(s['pmin'])}</span>")
-        line = " · ".join(parts)
+        best = min(s["pmin"] for s in priced)
+        rows = []
+        for s in sorted(srcs, key=lambda s: (s.get("pmin") is None, s.get("pmin") or 0)):
+            if s.get("pmin") is not None:
+                cls = "win" if s["pmin"] == best else "lose"
+                price = f"<span class='{cls}'>₹{int(s['pmin'])}</span>"
+            else:
+                price = "<span class='na'>see listing</span>"
+            rows.append(f"<div class='cmprow'><span>{s['p']}</span>{price}</div>")
         prices = sorted({s["pmin"] for s in priced})
-        if len(prices) > 1:
-            diff = int(prices[-1] - prices[0])
-            line += f" — {best['p']} is ~₹{diff} cheaper for the same show."
-        else:
-            line += " — same price, book on either."
-        return line
+        cheapest = min(priced, key=lambda s: s["pmin"])["p"]
+        summary = (f"<div class='cmpsum'>{cheapest} is ₹{int(prices[-1] - prices[0])} cheaper</div>"
+                   if len(prices) > 1 else "<div class='cmpsum'>Same price — book on either</div>")
+        return "".join(rows) + summary
     names = " and ".join(s["p"] for s in srcs)
     return f"Cross-listed on {names} — prices differ by platform, compare before booking."
 
@@ -226,6 +228,10 @@ TEMPLATE = """<!DOCTYPE html>
   .compare .t{color:var(--purple);font-weight:700;font-size:11px;letter-spacing:.5px;text-transform:uppercase;margin-bottom:3px}
   .compare .win{color:var(--green);font-weight:700}
   .compare .lose{color:var(--red)}
+  .compare .na{color:var(--muted)}
+  .cmprow{display:flex;justify-content:space-between;gap:12px;padding:2px 0;border-bottom:1px solid #262b3f}
+  .cmprow:last-of-type{border-bottom:none}
+  .cmpsum{margin-top:6px;color:var(--muted);font-size:11.5px;font-style:italic}
   .dupbanner{display:inline-block;font-size:10.5px;background:#2b1d47;color:var(--purple);border-radius:6px;padding:3px 8px;font-weight:700;letter-spacing:.3px}
   .note{margin-top:28px;background:var(--card);border:1px solid var(--border);border-radius:12px;padding:14px 18px;color:var(--muted);font-size:12.5px;line-height:1.7}
   .note b{color:var(--text)}
@@ -306,7 +312,7 @@ function render(){
       <div class="meta"><span class="d">${e.dtxt}</span><br>📍 ${e.v} · ${e.city}</div>
       <div class="${e.pmin!=null?'price':'price na'}">${e.ptxt}</div>
       ${e.cmp?`<div class="compare"><div class="t">${e.cmpt||'Platform comparison'}</div>${e.cmp}</div>`:""}
-      <div class="srcs">${e.srcs.map(s=>`<a class="src ${srcClass[s.p]||''}" href="${s.u}" target="_blank">${s.p} ↗</a>`).join("")}</div>
+      <div class="srcs">${e.srcs.map(s=>`<a class="src ${srcClass[s.p]||''}" href="${s.u}" target="_blank">${s.p}${s.pmin!=null?` · ₹${s.pmin}`:''} ↗</a>`).join("")}</div>
     </div>`).join(""):`<div class="empty">No events match these filters — try widening them.</div>`;
 }
 document.getElementById("q").oninput=e=>{state.q=e.target.value.toLowerCase();render();};
