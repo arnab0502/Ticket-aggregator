@@ -10,7 +10,7 @@ import json
 
 from bs4 import BeautifulSoup
 
-from .base import Event, fetch, parse_prices
+from .base import Event, clean, fetch, parse_prices
 
 # (city slug, display name, category slug, our category label)
 PAGES = [
@@ -47,7 +47,7 @@ def _iter_jsonld_events(html: str):
 
 
 def _event_from_jsonld(obj: dict, city: str, category: str) -> Event | None:
-    title = (obj.get("name") or "").strip()
+    title = clean(obj.get("name") or "")
     url = obj.get("url") or ""
     if not title or not url:
         return None
@@ -86,6 +86,31 @@ def _event_from_jsonld(obj: dict, city: str, category: str) -> Event | None:
         price_max=max(prices) if prices else None,
         image=image if isinstance(image, str) else "",
     )
+
+
+def fetch_price(event_url: str) -> tuple[float | None, float | None]:
+    """Fetch an AllEvents detail page and pull ticket prices from its JSON-LD.
+
+    Listing pages usually omit offers, so this is used to enrich events that
+    matched a cross-source duplicate group (where price comparison matters).
+    """
+    html = fetch(event_url)
+    if not html:
+        return None, None
+    prices: list[float] = []
+    for obj in _iter_jsonld_events(html):
+        offers = obj.get("offers")
+        offers = offers if isinstance(offers, list) else [offers] if offers else []
+        for off in offers:
+            if isinstance(off, dict):
+                for key in ("price", "lowPrice", "highPrice"):
+                    try:
+                        prices.append(float(off[key]))
+                    except (KeyError, TypeError, ValueError):
+                        pass
+    if not prices:
+        prices = parse_prices(html)[:5]  # fallback: first few ₹ amounts on the page
+    return (min(prices), max(prices)) if prices else (None, None)
 
 
 def scrape() -> list[Event]:

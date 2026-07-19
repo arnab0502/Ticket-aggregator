@@ -52,6 +52,25 @@ def main() -> int:
         print(f"Saved {len(events)} events -> {DATA_PATH}")
 
     assign_groups(events)
+
+    # Enrich: events in a cross-source group missing a price are worth a
+    # detail-page fetch so the price comparison actually has numbers.
+    if "--offline" not in sys.argv:
+        from scrapers.allevents import fetch_price
+
+        candidates = [
+            e for e in events
+            if e["multi_source"] and e["price_min"] is None and e["source"] == "AllEvents"
+        ][:15]  # cap so a big run stays fast
+        if candidates:
+            print(f"Enriching prices for {len(candidates)} cross-listed events…")
+        for e in candidates:
+            lo, hi = fetch_price(e["url"])
+            if lo is not None:
+                e["price_min"], e["price_max"] = lo, hi
+        with open(DATA_PATH, "w", encoding="utf-8") as f:
+            json.dump(events, f, ensure_ascii=False, indent=2)
+
     dupes = sum(1 for e in events if e["multi_source"])
     generate(events, DASHBOARD_PATH)
     print(f"Dashboard -> {DASHBOARD_PATH} ({len(events)} events, {dupes} on multiple sites)")

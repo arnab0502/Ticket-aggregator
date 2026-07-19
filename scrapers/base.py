@@ -58,6 +58,12 @@ def fetch(url: str, timeout: int = 20) -> str | None:
     return None
 
 
+def clean(text: str) -> str:
+    """Unescape HTML entities and collapse whitespace."""
+    import html
+    return re.sub(r"\s+", " ", html.unescape(text or "")).strip()
+
+
 PRICE_RE = re.compile(r"(?:₹|Rs\.?|INR)\s*([\d,]+(?:\.\d+)?)", re.IGNORECASE)
 
 

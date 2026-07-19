@@ -11,12 +11,16 @@ from __future__ import annotations
 import re
 from difflib import SequenceMatcher
 
-STOPWORDS = {"live", "show", "the", "a", "an", "in", "at", "by", "standup", "stand-up", "comedy"}
+STOPWORDS = {
+    "live", "show", "shows", "the", "a", "an", "in", "at", "by", "ft", "feat",
+    "featuring", "of", "and", "standup", "stand", "up", "comedy", "solo", "tour",
+}
 SIMILARITY_THRESHOLD = 0.78
 
 
 def normalize(title: str) -> str:
-    t = re.sub(r"[^a-z0-9 ]", " ", title.lower())
+    import html
+    t = re.sub(r"[^a-z0-9 ]", " ", html.unescape(title).lower())
     words = [w for w in t.split() if w not in STOPWORDS]
     return " ".join(words)
 
@@ -25,6 +29,11 @@ def similar(a: str, b: str) -> bool:
     if not a or not b:
         return False
     if a == b:
+        return True
+    # Containment: "shashi dhiman" ⊂ "out order shashi dhiman" is a match.
+    wa, wb = set(a.split()), set(b.split())
+    small, big = (wa, wb) if len(wa) <= len(wb) else (wb, wa)
+    if len(small) >= 2 and small <= big:
         return True
     return SequenceMatcher(None, a, b).ratio() >= SIMILARITY_THRESHOLD
 
