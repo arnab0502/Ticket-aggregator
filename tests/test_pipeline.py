@@ -67,8 +67,8 @@ def test_dedupe_and_dashboard():
         generate(events, out)
         html = open(out, encoding="utf-8").read()
         assert "Shashi Dhiman Live" in html
-        assert json.dumps  # embedded JSON present
-        assert "India Events Aggregator" in html
+        assert "India Events" in html
+        assert "PRICE COMPARE" in html  # merged card with comparison box
     print("ok: dedupe + dashboard generation")
 
 
