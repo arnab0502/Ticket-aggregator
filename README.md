@@ -1,10 +1,13 @@
 # 🎟️ India Events Aggregator
 
-Aggregates shows and events (comedy, kids, nightlife, and more) from Indian
-listing sites into one filterable dashboard, and flags events listed on
-multiple platforms so you can compare prices.
+Aggregates shows and events (comedy, kids, nightlife, football and more) from
+Indian and international listing sites into one filterable dashboard, and
+flags events listed on multiple platforms so you can compare prices.
 
-**Sources:** AllEvents, Eventz — more can be added (see below).
+**Sources:** AllEvents, Eventz, Wikipedia (movie release calendars), ESPN
+(football fixtures), BookMyShow (best-effort) — plus ticket marketplace
+links (Official club sites, Ticketmaster, StubHub, viagogo, SeatGeek) for
+football matches.
 **Output:** a single self-contained `dashboard.html` you can open in any
 browser or host on GitHub Pages.
 
@@ -17,8 +20,12 @@ python run.py --offline  # rebuild dashboard from data/events.json without scrap
 python tests/test_pipeline.py   # run the offline test suite
 ```
 
-The repo ships with a small sample `data/events.json`, so `--offline` works
+The repo ships with a sample `data/events.json`, so `--offline` works
 immediately after cloning.
+
+**To refresh the dashboard:** run `python run.py`, then reload
+`dashboard.html` in your browser. That's the whole loop — the script
+re-scrapes every source and regenerates the HTML file each time.
 
 ## How it works
 
@@ -28,6 +35,9 @@ run.py                    entry point: scrape → dedupe → dashboard
 │   ├── base.py           Event model, polite rate-limited fetch, price parsing
 │   ├── allevents.py      parses schema.org JSON-LD from allevents.in
 │   ├── eventz.py         defensive HTML parsing of eventz.co.in
+│   ├── movies.py         upcoming Hindi film releases from Wikipedia
+│   ├── football.py       EPL/Bundesliga/LaLiga/Ligue1/ISL fixtures via ESPN API
+│   ├── bookmyshow.py     best-effort (BMS blocks most scraping)
 │   └── __init__.py       SCRAPERS registry
 ├── aggregator/
 │   ├── dedupe.py         fuzzy title matching per city → duplicate groups
@@ -47,6 +57,25 @@ SCRAPERS["MySite"] = mysite.scrape
 ```
 
 That's it — dedupe and the dashboard pick it up automatically.
+
+## Football: live ticket prices (optional, free API keys)
+
+Football fixtures (EPL, Bundesliga, La Liga, Ligue 1, ISL) come from
+ESPN's public API with no key needed. Ticket marketplaces block scraping,
+so match cards always show a typical face-value range plus pre-built
+search links (Official club office, Ticketmaster, StubHub, viagogo,
+SeatGeek). For **live** prices in the comparison box, copy `.env.example`
+to `.env` and add free official API keys:
+
+```bash
+cp .env.example .env
+# then edit .env and paste in:
+SEATGEEK_CLIENT_ID=...     # https://seatgeek.com/account/develop (resale, USD)
+TICKETMASTER_API_KEY=...   # https://developer.ticketmaster.com (primary, GBP/EUR)
+python run.py
+```
+
+StubHub's API is partner-only, so StubHub chips stay search links.
 
 ## Collaborating via GitHub
 
@@ -69,28 +98,12 @@ re-scrapes daily and commits the refreshed dashboard. Enable **Settings →
 Pages → Deploy from branch → main** to host `dashboard.html` at
 `https://<you>.github.io/ticket-aggregator/dashboard.html`.
 
-## Football: live ticket prices (optional, free API keys)
-
-Football fixtures (EPL, Bundesliga, La Liga, Ligue 1, ISL) come from
-ESPN's public API with no key needed. Ticket marketplaces block scraping,
-so match cards always show a typical face-value range plus pre-built
-search links (Official club office, Ticketmaster, StubHub, viagogo,
-SeatGeek). For **live** prices in the comparison box, add free official
-API keys:
-
-```bash
-export SEATGEEK_CLIENT_ID=...     # https://seatgeek.com/account/develop (resale, USD)
-export TICKETMASTER_API_KEY=...   # https://developer.ticketmaster.com (primary, GBP/EUR)
-python run.py
-```
-
-StubHub's API is partner-only, so StubHub chips stay search links.
-
 ## Known limitations
 
-- **BookMyShow and District actively block scrapers** (Cloudflare / bot
-  detection). Plain HTTP scraping won't work for them; options are their
-  official partner APIs, or a headless browser (Playwright) — PRs welcome.
+- **BookMyShow, District, StubHub, viagogo and Ticketmaster actively block
+  scrapers** (Cloudflare / Akamai bot detection). Football and movie cards
+  work around this with pre-built search links and (optionally) official
+  free APIs (SeatGeek, Ticketmaster) rather than scraping.
 - Prices and availability change daily; every card links to the live
   booking page, which is the source of truth.
 - Be respectful: the scraper rate-limits itself (1 request / 1.5 s). Check
