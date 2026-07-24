@@ -1,5 +1,21 @@
 [
   {
+    "title": "Love, Death & Ketchup by Varun Grover",
+    "city": "Bangalore",
+    "category": "Comedy",
+    "source": "AllEvents",
+    "url": "https://allevents.in/bangalore/love-death-and-ketchup-by-varun-grover/3900030021430427",
+    "date": "2026-08-08",
+    "venue": "MLR Convention Centre: Whitefield, Bengaluru",
+    "price_min": 999.0,
+    "price_max": 2499.0,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czgvYmFubmVycy9iMmViOTZhMC00YmFmLTExZjEtODUzNC02YjY0NzI1OTE4MWItcmltZy13MTIwMC1oNjAwLWRjOGUzNzJmLWdtaXIuanBnP3Y9MTc3ODMzNTM0Mg.avif",
+    "extra": {},
+    "group_id": 0,
+    "multi_source": true
+  },
+  {
     "title": "Allow Me!: A Standup Comedy Show by Rahul Dua",
     "city": "Bangalore",
     "category": "Comedy",
@@ -12,7 +28,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czMvYmFubmVycy80YjEzNmUxMC03YjBhLTExZjEtOWM1Zi1iMTViZDU2NTY1MDktcmltZy13MTIwMC1oNjAwLWRjMDYwNTAzLWdtaXIuanBnP3Y9MTc4MzU0MTk1Ng.avif",
     "extra": {},
-    "group_id": 0,
+    "group_id": 1,
     "multi_source": false
   },
   {
@@ -28,7 +44,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czgvYmFubmVycy9hMjAwYTQxMC04NGE0LTExZjEtOGE4Yy0zZmU1N2Q3MGU1ODktcmltZy13MTIwMC1oNjAwLWRjZjJlY2RkLWdtaXIuanBnP3Y9MTc4NDU5NzgwNQ.avif",
     "extra": {},
-    "group_id": 1,
+    "group_id": 2,
     "multi_source": false
   },
   {
@@ -44,7 +60,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czkvYmFubmVycy85YzQxYzJkMC04NWJiLTExZjEtYWJkYS1kZmVhMTBiZTk5NWUtcmltZy13MTIwMC1oNjAwLWRjYTNhM2EzLWdtaXIuanBnP3Y9MTc4NDcxNzYyNQ.avif",
     "extra": {},
-    "group_id": 2,
+    "group_id": 3,
     "multi_source": false
   },
   {
@@ -60,7 +76,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czkvYmFubmVycy8zMzM5YjNhMC04NTMwLTExZjEtODMyYy1kNTllZjY0ZDlhNmEtcmltZy13MTIwMC1oNjAwLWRjZjJjNzZmLWdtaXIuanBnP3Y9MTc4NDY1Nzc0OQ.avif",
     "extra": {},
-    "group_id": 3,
+    "group_id": 4,
     "multi_source": false
   },
   {
@@ -76,24 +92,8 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czUvYmFubmVycy9kNjVmMWI5MC04NTZlLTExZjEtYTA4OS03ZjczOTlmMWMyYjAtcmltZy13MTIwMC1oNjAwLWRjZTdjNTk3LWdtaXIuanBnP3Y9MTc4NDY4NDY1MQ.avif",
     "extra": {},
-    "group_id": 4,
-    "multi_source": false
-  },
-  {
-    "title": "Love, Death & Ketchup by Varun Grover",
-    "city": "Bangalore",
-    "category": "Comedy",
-    "source": "AllEvents",
-    "url": "https://allevents.in/bangalore/love-death-and-ketchup-by-varun-grover/3900030395628733",
-    "date": "2026-08-08",
-    "venue": "MLR Convention Centre: Whitefield, Bengaluru",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czIvYmFubmVycy81MmUwZTA4MC04NTE2LTExZjEtYWJkYS1kZmVhMTBiZTk5NWUtcmltZy13MTIwMC1oNjAwLWRjOGUzNjJmLWdtaXIuanBnP3Y9MTc4NDY0NjYzNQ.avif",
-    "extra": {},
     "group_id": 5,
-    "multi_source": true
+    "multi_source": false
   },
   {
     "title": "I AM WORTH IT ft. Rajat Sood",
@@ -112,22 +112,6 @@
     "multi_source": true
   },
   {
-    "title": "Corporate Majdoor By Anmol Garg",
-    "city": "Bangalore",
-    "category": "Comedy",
-    "source": "AllEvents",
-    "url": "https://allevents.in/bangalore/corporate-majdoor-by-anmol-garg/3900030377081715",
-    "date": "2026-07-24",
-    "venue": "TAG Comedy Club: Bengaluru",
-    "price_min": 1.3,
-    "price_max": 999.0,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czIvYmFubmVycy84YTRjN2MwMC03YWRmLTExZjEtYWY3Mi1iZmI1MGI3NzYyNTUtcmltZy13MTIwMC1oNjAwLWRjZjNmMWYwLWdtaXIuanBnP3Y9MTc4MzUyMzU5NA.avif",
-    "extra": {},
-    "group_id": 7,
-    "multi_source": true
-  },
-  {
     "title": "Kahanibaaz By Ashish Vidyarthi - Bengaluru",
     "city": "Bangalore",
     "category": "Comedy",
@@ -140,7 +124,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czkvYmFubmVycy9lMmQ1NmM5MC04NzJhLTExZjEtODg5Ny1kMWM4ODdkMjY2OTctcmltZy13MTIwMC1oNjc1LWRjMDQwMTAxLWdtaXIuanBnP3Y9MTc4NDg3NTM2OQ.avif",
     "extra": {},
-    "group_id": 8,
+    "group_id": 7,
     "multi_source": false
   },
   {
@@ -156,7 +140,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czYvYmFubmVycy9iMDk3ZjNiMC04NGM4LTExZjEtYTBmMC1iM2ZjMDU5MzBlMTYtcmltZy13MTIwMC1oNjAwLWRjMjA2OGE2LWdtaXIuanBnP3Y9MTc4NDYxMzI5MQ.avif",
     "extra": {},
-    "group_id": 9,
+    "group_id": 8,
     "multi_source": false
   },
   {
@@ -172,7 +156,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czMvYmFubmVycy9kMTBjYTJkMC03YTczLTExZjEtYjA0OC04NTJlMWZkMmQ2N2EtcmltZy13MTIwMC1oNjAwLWRjMTYwNzA1LWdtaXIuanBnP3Y9MTc4MzQ3NzMyNw.avif",
     "extra": {},
-    "group_id": 10,
+    "group_id": 9,
     "multi_source": true
   },
   {
@@ -188,7 +172,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czIvYmFubmVycy8yZDhhMjU1MC01ZmRmLTExZjEtODE0NC0zNzdjMGM0MzQ1OWYtcmltZy13MTIwMC1oNjAwLWRjOGRmZmU5LWdtaXIuanBnP3Y9MTc4MDU1NDc1Nw.avif",
     "extra": {},
-    "group_id": 11,
+    "group_id": 10,
     "multi_source": false
   },
   {
@@ -204,7 +188,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czIvYmFubmVycy81ZWJlNjYwMC03YTczLTExZjEtYWUzNi01ZDU0ZmNkODkwNjktcmltZy13MTIwMC1oNjAwLWRjMWEwMjAyLWdtaXIuanBnP3Y9MTc4MzQ3NzEzNQ.avif",
     "extra": {},
-    "group_id": 12,
+    "group_id": 11,
     "multi_source": true
   },
   {
@@ -220,7 +204,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEwL2Jhbm5lcnMvYWNmZmU4MzAtNWZjZS0xMWYxLWFmNjAtMDU3ZjNmYWI5ZTA2LXJpbWctdzEyMDAtaDYwMC1kYzQ3MDYxOC1nbWlyLmpwZz92PTE3ODA1NDc2Njk.avif",
     "extra": {},
-    "group_id": 13,
+    "group_id": 12,
     "multi_source": true
   },
   {
@@ -236,8 +220,24 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czIvYmFubmVycy8wYTc4NTUwMC03YWJhLTExZjEtYjE4ZS1kZmMwZWM1OTZiZjQtcmltZy13MTIwMC1oNjAwLWRjMTkxMzUxLWdtaXIuanBnP3Y9MTc4MzUwNzQ4OA.avif",
     "extra": {},
-    "group_id": 14,
+    "group_id": 13,
     "multi_source": false
+  },
+  {
+    "title": "Pure Veg Jokes - Morning Show by Saikiran",
+    "city": "Bangalore",
+    "category": "Comedy",
+    "source": "AllEvents",
+    "url": "https://allevents.in/bangalore/pure-veg-jokes-morning-show-by-saikiran/3900030393868139",
+    "date": "2026-08-23",
+    "venue": "The Comedy Theatre, Indiranagar: Bengaluru",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czQvYmFubmVycy8xZTI0ZDViMC04NGJhLTExZjEtOGE4Yy0zZmU1N2Q3MGU1ODktcmltZy13MTIwMC1oNjAwLWRjMzg1YzUwLWdtaXIuanBnP3Y9MTc4NDYwNzAzMw.avif",
+    "extra": {},
+    "group_id": 14,
+    "multi_source": true
   },
   {
     "title": "Gorillaz The Mountain Tour 2027",
@@ -250,7 +250,7 @@
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEvYmFubmVycy80ZDFiNjhiMC04NzYzLTExZjEtOWE5ZS0zOWNhMDE1MWNkNjYtcmltZy13MTIwMC1oNjc1LWRjZDljYWEzLWdtaXIuanBnP3Y9MTc4NDg5OTU5OQ.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEvYmFubmVycy9lOWRhZjhmMC04NzYzLTExZjEtODg5Ny1kMWM4ODdkMjY2OTctcmltZy13MTIwMC1oNjc1LWRjZDljYWEzLWdtaXIuanBnP3Y9MTc4NDg5OTg2Mg.avif",
     "extra": {},
     "group_id": 15,
     "multi_source": false
@@ -368,22 +368,6 @@
     "multi_source": true
   },
   {
-    "title": "Shaadi Shud I? by Mohammed Hussain",
-    "city": "Bangalore",
-    "category": "Kids",
-    "source": "AllEvents",
-    "url": "https://allevents.in/bangalore/shaadi-shud-i-by-mohammed-hussain/3900030376000652",
-    "date": "2026-08-09",
-    "venue": "The Comedy Theatre, Indiranagar: Bengaluru",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czcvYmFubmVycy85ZDE5YTg5MC03YWMwLTExZjEtYWY3Mi1iZmI1MGI3NzYyNTUtcmltZy13MTIwMC1oNjAwLWRjNWFiY2U2LWdtaXIuanBnP3Y9MTc4MzUxMDMxMQ.avif",
-    "extra": {},
-    "group_id": 23,
-    "multi_source": false
-  },
-  {
     "title": "Lenny's Kids Concert Tour - Bengaluru",
     "city": "Bangalore",
     "category": "Kids",
@@ -395,6 +379,22 @@
     "price_max": null,
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czkvYmFubmVycy9jYzg5YmVkMC04NTYwLTExZjEtYTA4OS03ZjczOTlmMWMyYjAtcmltZy13MTIwMC1oNjAwLWRjMTE4ZTkwLWdtaXIuanBnP3Y9MTc4NDY3ODYyMg.avif",
+    "extra": {},
+    "group_id": 23,
+    "multi_source": false
+  },
+  {
+    "title": "Shaadi Shud I? by Mohammed Hussain",
+    "city": "Bangalore",
+    "category": "Kids",
+    "source": "AllEvents",
+    "url": "https://allevents.in/bangalore/shaadi-shud-i-by-mohammed-hussain/3900030376000652",
+    "date": "2026-08-09",
+    "venue": "The Comedy Theatre, Indiranagar: Bengaluru",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czcvYmFubmVycy85ZDE5YTg5MC03YWMwLTExZjEtYWY3Mi1iZmI1MGI3NzYyNTUtcmltZy13MTIwMC1oNjAwLWRjNWFiY2U2LWdtaXIuanBnP3Y9MTc4MzUxMDMxMQ.avif",
     "extra": {},
     "group_id": 24,
     "multi_source": false
@@ -432,6 +432,22 @@
     "multi_source": false
   },
   {
+    "title": "AI Innovation Lab for Kids | 8-Week Hands-on Program Whitefield",
+    "city": "Bangalore",
+    "category": "Kids",
+    "source": "AllEvents",
+    "url": "https://allevents.in/bangalore/ai-innovation-lab-for-kids-8-week-hands-on-program-whitefield-tickets/80002271863898",
+    "date": "2026-08-01",
+    "venue": "SPOT Whitefield",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4yLmFsbGV2ZW50cy5pbi90aHVtYnMvdGh1bWI2YTYzNGQxYjZkYTMzLmpwZw.avif",
+    "extra": {},
+    "group_id": 27,
+    "multi_source": false
+  },
+  {
     "title": "Boho texture paintin + Pottery (Art Carnival)",
     "city": "Bangalore",
     "category": "Kids",
@@ -444,7 +460,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czMvYmFubmVycy8zNjBmZGM3MC04NTkwLTExZjEtYWJkYS1kZmVhMTBiZTk5NWUtcmltZy13MTIwMC1oNjAwLWRjZDFkNGQyLWdtaXIuanBnP3Y9MTc4NDY5ODk4NQ.avif",
     "extra": {},
-    "group_id": 27,
+    "group_id": 28,
     "multi_source": false
   },
   {
@@ -460,23 +476,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4yLmFsbGV2ZW50cy5pbi90aHVtYnMvdGh1bWI2YTRkMTFiODgwZDg5LmpwZw.avif",
     "extra": {},
-    "group_id": 28,
-    "multi_source": false
-  },
-  {
-    "title": "THE ROOM OF MEMORIES MLR 25th 2PM",
-    "city": "Bangalore",
-    "category": "Kids",
-    "source": "AllEvents",
-    "url": "https://allevents.in/bangalore/the-room-of-memories-mlr-25th-2pm-tickets/80003258499359",
-    "date": "2026-10-25",
-    "venue": "MLR Cultural Centre",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4yLmFsbGV2ZW50cy5pbi90aHVtYnMvdGh1bWI2YTRkMTFiODgwZDg5LmpwZw.avif",
-    "extra": {},
-    "group_id": 28,
+    "group_id": 29,
     "multi_source": false
   },
   {
@@ -492,7 +492,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4yLmFsbGV2ZW50cy5pbi90aHVtYnMvdGh1bWI2YTYxYzgxZDRkMWI3LmpwZw.avif",
     "extra": {},
-    "group_id": 29,
+    "group_id": 30,
     "multi_source": false
   },
   {
@@ -508,7 +508,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czYvYmFubmVycy9hYjlkMGE3MC00YjYyLTExZjEtODUzNC02YjY0NzI1OTE4MWItcmltZy13MTIwMC1oNjAwLWRjMjAxYzFkLWdtaXIuanBnP3Y9MTc3ODMwMjI1OA.avif",
     "extra": {},
-    "group_id": 30,
+    "group_id": 31,
     "multi_source": false
   },
   {
@@ -524,7 +524,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEvYmFubmVycy81YTQyYzYyMC04NDdkLTExZjEtOTU3Zi1mMWYwNjQ2MjM0MGQtcmltZy13MTIwMC1oNjc1LWRjMDEyZjE3LWdtaXIuanBnP3Y9MTc4NDU4MDkzNA.avif",
     "extra": {},
-    "group_id": 31,
+    "group_id": 32,
     "multi_source": false
   },
   {
@@ -540,23 +540,23 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEwL2Jhbm5lcnMvZmEwZDEwZDAtODc1Yi0xMWYxLTlhOWUtMzljYTAxNTFjZDY2LXJpbWctdzEyMDAtaDY3NS1kYzYwMzQyNy1nbWlyLmpwZz92PTE3ODQ4OTY0NTM.avif",
     "extra": {},
-    "group_id": 32,
+    "group_id": 33,
     "multi_source": false
   },
   {
-    "title": "South Masquerade Party Tamil Edition",
+    "title": "The Great Indian Riff Off featuring Girish and The Chronicles at The Humming Tree",
     "city": "Bangalore",
     "category": "Nightlife",
     "source": "AllEvents",
-    "url": "https://allevents.in/bangalore/south-masquerade-party-tamil-edition-tickets/80003495919307",
+    "url": "https://allevents.in/bangalore/the-great-indian-riff-off-featuring-girish-and-the-chronicles-at-the-humming-tree/4100030429241754",
     "date": "2026-07-26",
-    "venue": "Vibe pub koramangala",
+    "venue": "The Humming Tree Bar and Bistro | Indiranagar, Bangalore",
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4yLmFsbGV2ZW50cy5pbi90aHVtYnMvdGh1bWI2YTYwODYyNWM2ZGU3LmpwZw.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czcvYmFubmVycy9lZjkwY2FlMC04NzNiLTExZjEtODg5Ny1kMWM4ODdkMjY2OTctcmltZy13MTIwMC1oNjc1LWRjMDczNjJjLWdtaXIuanBnP3Y9MTc4NDg4MjY5MQ.avif",
     "extra": {},
-    "group_id": 33,
+    "group_id": 34,
     "multi_source": false
   },
   {
@@ -572,7 +572,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEvYmFubmVycy9iOTFiODAxMC04NzFiLTExZjEtODg5Ny1kMWM4ODdkMjY2OTctcmltZy13MTIwMC1oNjc1LWRjNDcwNTE3LWdtaXIuanBnP3Y9MTc4NDg2ODg1Ng.avif",
     "extra": {},
-    "group_id": 13,
+    "group_id": 12,
     "multi_source": true
   },
   {
@@ -588,7 +588,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czMvYmFubmVycy8yMTM2YjQ4MC04NTA1LTExZjEtYWJkYS1kZmVhMTBiZTk5NWUtcmltZy13MTIwMC1oNjAwLWRjZDc3ODMwLWdtaXIuanBnP3Y9MTc4NDYzOTI1MA.avif",
     "extra": {},
-    "group_id": 34,
+    "group_id": 35,
     "multi_source": false
   },
   {
@@ -603,22 +603,6 @@
     "price_max": null,
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czkvYmFubmVycy84ZmRhMTJlMC04NWUzLTExZjEtYTQ5MS1jMzM1MWUzNzFjNDEtcmltZy13MTIwMC1oNjc1LWRjZTljODlmLWdtaXIuanBnP3Y9MTc4NDczNDc4NA.avif",
-    "extra": {},
-    "group_id": 35,
-    "multi_source": false
-  },
-  {
-    "title": "SOUTH DJ EVENT THALAPATHY SPECIAL",
-    "city": "Bangalore",
-    "category": "Nightlife",
-    "source": "AllEvents",
-    "url": "https://allevents.in/bangalore/south-dj-event-thalapathy-special-tickets/80009955196385",
-    "date": "2026-07-25",
-    "venue": "JB Arena (Just BLR)",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4yLmFsbGV2ZW50cy5pbi90aHVtYnMvdGh1bWI2YTU4Y2ZlZGJlMmU0LmpwZw.avif",
     "extra": {},
     "group_id": 36,
     "multi_source": false
@@ -677,7 +661,7 @@
     "category": "Nightlife",
     "source": "AllEvents",
     "url": "https://allevents.in/bangalore/telugu-tashan-night/3900030246171957",
-    "date": "2026-07-24",
+    "date": "2026-08-07",
     "venue": "BudBee Restobar 104: Bengaluru",
     "price_min": null,
     "price_max": null,
@@ -688,17 +672,17 @@
     "multi_source": false
   },
   {
-    "title": "Kisi Ko Batana Mat Ft. Anubhav Singh Bassi",
-    "city": "Mumbai",
-    "category": "Comedy",
+    "title": "Retro to Metro",
+    "city": "Bangalore",
+    "category": "Nightlife",
     "source": "AllEvents",
-    "url": "https://allevents.in/mumbai/kisi-ko-batana-mat-ft-anubhav-singh-bassi/3900030426486957",
-    "date": "2026-08-14",
-    "venue": "Bal Gandharva Rang Mandir: Mumbai",
+    "url": "https://allevents.in/bangalore/retro-to-metro/3900030401983920",
+    "date": "2026-07-25",
+    "venue": "Blah Bla: Bengaluru",
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czgvYmFubmVycy85MjA4ZDUzMC04NWEwLTExZjEtYWJkYS1kZmVhMTBiZTk5NWUtcmltZy13MTIwMC1oNjAwLWRjNzcxZDIwLWdtaXIuanBnP3Y9MTc4NDcwNjAxMQ.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czUvYmFubmVycy8yYjVhYzQyMC04NTJjLTExZjEtYWJkYS1kZmVhMTBiZTk5NWUtcmltZy13MTIwMC1oNjAwLWRjMDQwMjA1LWdtaXIuanBnP3Y9MTc4NDY1NjAxNw.avif",
     "extra": {},
     "group_id": 41,
     "multi_source": false
@@ -752,22 +736,6 @@
     "multi_source": false
   },
   {
-    "title": "Kal ki Chinta Nahi Karta ft. Ravi Gupta",
-    "city": "Mumbai",
-    "category": "Comedy",
-    "source": "AllEvents",
-    "url": "https://allevents.in/mumbai/kal-ki-chinta-nahi-karta-ft-ravi-gupta/3900030185655350",
-    "date": "2026-08-21",
-    "venue": "Sri Shanmukhananda Fine Arts &amp; Sangeetha: Mumbai",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEwL2Jhbm5lcnMvNmI3NWU3MDAtNjQ3Yi0xMWYxLTk5OGUtN2Q2NjU1YTFiN2E0LXJpbWctdzEyMDAtaDYwMC1kYzEwMDMxYS1nbWlyLmpwZz92PTE3ODEwNjE2Njc.avif",
-    "extra": {},
-    "group_id": 45,
-    "multi_source": false
-  },
-  {
     "title": "Allow Me!: A Standup Comedy Show by Rahul Dua",
     "city": "Mumbai",
     "category": "Comedy",
@@ -780,7 +748,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEvYmFubmVycy9lOWYwYTA0MC04NGE0LTExZjEtOTU3Zi1mMWYwNjQ2MjM0MGQtcmltZy13MTIwMC1oNjAwLWRjMDYwNTAzLWdtaXIuanBnP3Y9MTc4NDU5NzkyNg.avif",
     "extra": {},
-    "group_id": 46,
+    "group_id": 45,
     "multi_source": false
   },
   {
@@ -796,7 +764,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czcvYmFubmVycy8yNjYzY2M0MC03YjBhLTExZjEtOWM1Zi1iMTViZDU2NTY1MDktcmltZy13MTIwMC1oNjAwLWRjZjJlY2RkLWdtaXIuanBnP3Y9MTc4MzU0MTg5NQ.avif",
     "extra": {},
-    "group_id": 47,
+    "group_id": 46,
     "multi_source": false
   },
   {
@@ -812,7 +780,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czQvYmFubmVycy80ZGViOTBmMC03YWUxLTExZjEtOWM1Zi1iMTViZDU2NTY1MDktcmltZy13MTIwMC1oNjAwLWRjZDRlOGVkLWdtaXIuanBnP3Y9MTc4MzUyNDM1Mg.avif",
     "extra": {},
-    "group_id": 48,
+    "group_id": 47,
     "multi_source": false
   },
   {
@@ -828,7 +796,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEvYmFubmVycy9iZWUwM2Y1MC04NGY0LTExZjEtYWJkYS1kZmVhMTBiZTk5NWUtcmltZy13MTIwMC1oNjAwLWRjMDYwNTA1LWdtaXIuanBnP3Y9MTc4NDYzMjIxMw.avif",
     "extra": {},
-    "group_id": 49,
+    "group_id": 48,
     "multi_source": false
   },
   {
@@ -844,7 +812,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czUvYmFubmVycy8wMDYyYTU0MC02NDQyLTExZjEtOTk4ZS03ZDY2NTVhMWI3YTQtcmltZy13MTIwMC1oNjAwLWRjZmZmNTI3LWdtaXIuanBnP3Y9MTc4MTAzNzAwNg.avif",
     "extra": {},
-    "group_id": 50,
+    "group_id": 49,
     "multi_source": false
   },
   {
@@ -860,7 +828,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czIvYmFubmVycy8yZTdiMWQ2MC03YWFjLTExZjEtODY1YS0zM2I1NTkzNmRjMGUtcmltZy13MTIwMC1oNjAwLWRjMjgyZDQ4LWdtaXIuanBnP3Y9MTc4MzUwMTUzNg.avif",
     "extra": {},
-    "group_id": 51,
+    "group_id": 50,
     "multi_source": false
   },
   {
@@ -876,7 +844,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czgvYmFubmVycy84MjFmYTc0MC03YjYyLTExZjEtODc4YS03MWExOTgyZTk4MzAtcmltZy13MTIwMC1oNjAwLWRjNDUxZTEzLWdtaXIuanBnP3Y9MTc4MzU3OTg0NA.avif",
     "extra": {},
-    "group_id": 52,
+    "group_id": 51,
     "multi_source": false
   },
   {
@@ -892,7 +860,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czcvYmFubmVycy8zNmIxNDBkOTdmZGYzMDk0YmVmNDBjZDZiMzNlODJhNTA3OWFiNjhlZjhkYjcxNWI1NTllZWUxMTc1Y2RmZGVmLXJpbWctdzEyMDAtaDY3NS1kYzAwMDAwMC1nbWlyP3Y9MTc4Mjg3OTg5Ng.avif",
     "extra": {},
-    "group_id": 53,
+    "group_id": 52,
     "multi_source": false
   },
   {
@@ -908,7 +876,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czUvYmFubmVycy9jZjViYjlmMC04NjY1LTExZjEtODg5Ny1kMWM4ODdkMjY2OTctcmltZy13MTIwMC1oNjc1LWRjYmQ1MjRhLWdtaXIuanBnP3Y9MTc4NDc5MDcyNQ.avif",
     "extra": {},
-    "group_id": 54,
+    "group_id": 53,
     "multi_source": false
   },
   {
@@ -924,7 +892,39 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czcvYmFubmVycy9lYzQ2Mzc2MC03YTkwLTExZjEtYjE4ZS1kZmMwZWM1OTZiZjQtcmltZy13MTIwMC1oNjAwLWRjMjkyOTJiLWdtaXIuanBnP3Y9MTc4MzQ4OTgyOA.avif",
     "extra": {},
+    "group_id": 54,
+    "multi_source": false
+  },
+  {
+    "title": "Grin Revolution: Twice as Good",
+    "city": "Mumbai",
+    "category": "Comedy",
+    "source": "AllEvents",
+    "url": "https://allevents.in/mumbai/grin-revolution-twice-as-good/3900030397782458",
+    "date": "2026-07-24",
+    "venue": "Mukti Manch: Andheri West",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czcvYmFubmVycy81OTY1NzI2MC04MWY0LTExZjEtOTU3Zi1mMWYwNjQ2MjM0MGQtcmltZy13MTIwMC1oNjAwLWRjYzgzNzNjLWdtaXIuanBnP3Y9MTc4NDMwMjE4OQ.avif",
+    "extra": {},
     "group_id": 55,
+    "multi_source": false
+  },
+  {
+    "title": "New Material Nights by Atul Khatri: KCC",
+    "city": "Mumbai",
+    "category": "Comedy",
+    "source": "AllEvents",
+    "url": "https://allevents.in/mumbai/new-material-nights-by-atul-khatri-kcc/3900030406526347",
+    "date": "2026-07-27",
+    "venue": "Khar Comedy Club: Mumbai",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEwL2Jhbm5lcnMvNGRhN2IzYjAtODRiMS0xMWYxLThhOGMtM2ZlNTdkNzBlNTg5LXJpbWctdzEyMDAtaDYwMC1kY2JkNTI0YS1nbWlyLmpwZz92PTE3ODQ2MDMyNDc.avif",
+    "extra": {},
+    "group_id": 53,
     "multi_source": false
   },
   {
@@ -1076,13 +1076,13 @@
     "city": "Mumbai",
     "category": "Kids",
     "source": "AllEvents",
-    "url": "https://allevents.in/mumbai/chembur-kids-carnival/3900029794343939",
+    "url": "https://allevents.in/mumbai/chembur-kids-carnival/3900030046702643",
     "date": "2026-10-31",
     "venue": "St. Anthony`s Homes Co-Operative Society: Mumbai",
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czgvYmFubmVycy9lMmJlNzVmMC03OWY0LTExZjEtYWUzNi01ZDU0ZmNkODkwNjktcmltZy13MTIwMC1oNjAwLWRjZDdlYWY1LWdtaXIuanBnP3Y9MTc4MzQyMjgxMQ.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEvYmFubmVycy8wOGQ0NmMwMC01ZmJlLTExZjEtYjE2Zi0wZjlmNDY5NWIwYzQtcmltZy13MTIwMC1oNjAwLWRjZDdlYWY1LWdtaXIuanBnP3Y9MTc4MDU0MDUyMg.avif",
     "extra": {},
     "group_id": 65,
     "multi_source": false
@@ -1125,7 +1125,7 @@
     "category": "Kids",
     "source": "AllEvents",
     "url": "https://allevents.in/mumbai/emotions-lab/3900030234096241",
-    "date": "2026-07-24",
+    "date": "2026-07-26",
     "venue": "Level 2, Concourse Area, NMACC",
     "price_min": null,
     "price_max": null,
@@ -1280,22 +1280,6 @@
     "multi_source": false
   },
   {
-    "title": "Gaurav Gupta Live",
-    "city": "Delhi NCR",
-    "category": "Comedy",
-    "source": "AllEvents",
-    "url": "https://allevents.in/new-delhi/gaurav-gupta-live/3900030385489104",
-    "date": "2026-07-28",
-    "venue": "The Laugh Store: DLF Cyberhub, Gurugram",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czgvYmFubmVycy80ZDIyYzFkMC04NTk5LTExZjEtYTA4OS03ZjczOTlmMWMyYjAtcmltZy13MTIwMC1oNjAwLWRjMTkxOTE5LWdtaXIuanBnP3Y9MTc4NDcwMjg4OQ.avif",
-    "extra": {},
-    "group_id": 77,
-    "multi_source": false
-  },
-  {
     "title": "Brocode The Big Line Up 2026",
     "city": "Delhi NCR",
     "category": "Comedy",
@@ -1308,23 +1292,23 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czUvYmFubmVycy8xNTQ5NzQ1MC03YTZmLTExZjEtYjA0OC04NTJlMWZkMmQ2N2EtcmltZy13MTIwMC1oNjAwLWRjMmQyZDJjLWdtaXIuanBnP3Y9MTc4MzQ3NTI5NA.avif",
     "extra": {},
-    "group_id": 78,
+    "group_id": 77,
     "multi_source": false
   },
   {
-    "title": "Comedy Open Mic 24 July 4:00 PM",
+    "title": "Gaurav Gupta Live",
     "city": "Delhi NCR",
     "category": "Comedy",
     "source": "AllEvents",
-    "url": "https://allevents.in/new-delhi/comedy-open-mic-24-july-4-00-pm-tickets/80001030599694",
-    "date": "2026-07-24",
-    "venue": "Hideout Studio",
+    "url": "https://allevents.in/new-delhi/gaurav-gupta-live/3900030385489104",
+    "date": "2026-07-28",
+    "venue": "The Laugh Store: DLF Cyberhub, Gurugram",
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4yLmFsbGV2ZW50cy5pbi90aHVtYnMvdGh1bWI2ODZmYTM5ZjJjZjZiLmpwZw.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czgvYmFubmVycy80ZDIyYzFkMC04NTk5LTExZjEtYTA4OS03ZjczOTlmMWMyYjAtcmltZy13MTIwMC1oNjAwLWRjMTkxOTE5LWdtaXIuanBnP3Y9MTc4NDcwMjg4OQ.avif",
     "extra": {},
-    "group_id": 79,
+    "group_id": 78,
     "multi_source": false
   },
   {
@@ -1340,7 +1324,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czQvYmFubmVycy8yOGI0ZDA4MC03YWFmLTExZjEtYjE4ZS1kZmMwZWM1OTZiZjQtcmltZy13MTIwMC1oNjAwLWRjZmRmZWZlLWdtaXIuanBnP3Y9MTc4MzUwMjgxNA.avif",
     "extra": {},
-    "group_id": 80,
+    "group_id": 79,
     "multi_source": false
   },
   {
@@ -1356,7 +1340,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czMvYmFubmVycy84NTBlNGQzMC04NTllLTExZjEtYWJkYS1kZmVhMTBiZTk5NWUtcmltZy13MTIwMC1oNjAwLWRjZWVkM2FmLWdtaXIuanBnP3Y9MTc4NDcwNTEzMQ.avif",
     "extra": {},
-    "group_id": 81,
+    "group_id": 80,
     "multi_source": false
   },
   {
@@ -1388,7 +1372,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czQvYmFubmVycy81N2QyNmRjMC02NDkxLTExZjEtYjZlOC0zZGRkNGM4NWZhMzQtcmltZy13MTIwMC1oNjAwLWRjZTgyYTJmLWdtaXIuanBnP3Y9MTc4MTA3MTA4Mw.avif",
     "extra": {},
-    "group_id": 82,
+    "group_id": 81,
     "multi_source": false
   },
   {
@@ -1403,6 +1387,22 @@
     "price_max": null,
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czgvYmFubmVycy9lZTI1NGI5MC04NTljLTExZjEtYTA4OS03ZjczOTlmMWMyYjAtcmltZy13MTIwMC1oNjAwLWRjZjRkZWMwLWdtaXIuanBnP3Y9MTc4NDcwNDQ0OA.avif",
+    "extra": {},
+    "group_id": 82,
+    "multi_source": false
+  },
+  {
+    "title": "Aise kaise by Amit Tandon",
+    "city": "Delhi NCR",
+    "category": "Comedy",
+    "source": "AllEvents",
+    "url": "https://allevents.in/new-delhi/aise-kaise-by-amit-tandon/3900030397852331",
+    "date": "2026-12-19",
+    "venue": "Talkatora Indoor Stadium: Delhi",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEvYmFubmVycy9hN2MyZDg5MC04NTZkLTExZjEtYWJkYS1kZmVhMTBiZTk5NWUtcmltZy13MTIwMC1oNjAwLWRjMDMwMTAxLWdtaXIuanBnP3Y9MTc4NDY4NDE0Mw.avif",
     "extra": {},
     "group_id": 83,
     "multi_source": false
@@ -1952,6 +1952,22 @@
     "multi_source": false
   },
   {
+    "title": "Sawwadi",
+    "city": "Hyderabad",
+    "category": "Nightlife",
+    "source": "AllEvents",
+    "url": "https://allevents.in/hyderabad/sawwadi/4100030426350614",
+    "date": "2026-07-26",
+    "venue": "SKYHY Live | Gachibowli, Hyderabad",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czYvYmFubmVycy83Y2NkYzhlMC04NzVmLTExZjEtODg5Ny1kMWM4ODdkMjY2OTctcmltZy13MTIwMC1oNjc1LWRjMDIwMjAyLWdtaXIuanBnP3Y9MTc4NDg5Nzk2MQ.avif",
+    "extra": {},
+    "group_id": 116,
+    "multi_source": false
+  },
+  {
     "title": "Fake Wedding",
     "city": "Hyderabad",
     "category": "Nightlife",
@@ -1964,7 +1980,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEwL2Jhbm5lcnMvZjFlYzk3OTAtODRmZS0xMWYxLWFiZGEtZGZlYTEwYmU5OTVlLXJpbWctdzEyMDAtaDYwMC1kY2RlZDJkYy1nbWlyLmpwZz92PTE3ODQ2MzY1OTQ.avif",
     "extra": {},
-    "group_id": 116,
+    "group_id": 117,
     "multi_source": false
   },
   {
@@ -1980,7 +1996,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czMvYmFubmVycy83OTAzNGMzMC04NTE2LTExZjEtODMyYy1kNTllZjY0ZDlhNmEtcmltZy13MTIwMC1oNjAwLWRjZmVkODE4LWdtaXIuanBnP3Y9MTc4NDY0NjY5OQ.avif",
     "extra": {},
-    "group_id": 117,
+    "group_id": 118,
     "multi_source": false
   },
   {
@@ -1996,7 +2012,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czIvYmFubmVycy8zMWVlODM1MC04NDllLTExZjEtYTBmMC1iM2ZjMDU5MzBlMTYtcmltZy13MTIwMC1oNjAwLWRjYzBjMGMwLWdtaXIuanBnP3Y9MTc4NDU5NTA0MA.avif",
     "extra": {},
-    "group_id": 118,
+    "group_id": 119,
     "multi_source": false
   },
   {
@@ -2011,22 +2027,6 @@
     "price_max": null,
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czcvYmFubmVycy80YTM3ZGU3MC04NWJiLTExZjEtOGY3Mi1lZGU5NjhiNGIxZDAtcmltZy13MTIwMC1oNjc1LWRjNGM3ZWExLWdtaXIucG5nP3Y9MTc4NDcxNzQ4Nw.avif",
-    "extra": {},
-    "group_id": 119,
-    "multi_source": false
-  },
-  {
-    "title": "Sawwadi",
-    "city": "Hyderabad",
-    "category": "Nightlife",
-    "source": "AllEvents",
-    "url": "https://allevents.in/hyderabad/sawwadi/4100030426350614",
-    "date": "2026-07-26",
-    "venue": "SKYHY Live | Gachibowli, Hyderabad",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czkvYmFubmVycy8zNzg2MTVlMC04NzRhLTExZjEtYThhNC02MzFiMTc1ZjNkNzgtcmltZy13MTIwMC1oNjc1LWRjMDIwMjAyLWdtaXIuanBnP3Y9MTc4NDg4ODgyNQ.avif",
     "extra": {},
     "group_id": 120,
     "multi_source": false
@@ -2124,8 +2124,8 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 7,
-    "multi_source": true
+    "group_id": 126,
+    "multi_source": false
   },
   {
     "title": "Shamik Chakrabarti Live",
@@ -2140,7 +2140,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 126,
+    "group_id": 127,
     "multi_source": false
   },
   {
@@ -2156,7 +2156,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 127,
+    "group_id": 128,
     "multi_source": false
   },
   {
@@ -2172,7 +2172,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 128,
+    "group_id": 129,
     "multi_source": false
   },
   {
@@ -2188,7 +2188,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 129,
+    "group_id": 130,
     "multi_source": false
   },
   {
@@ -2204,7 +2204,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 130,
+    "group_id": 131,
     "multi_source": false
   },
   {
@@ -2220,7 +2220,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 131,
+    "group_id": 132,
     "multi_source": false
   },
   {
@@ -2236,7 +2236,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 132,
+    "group_id": 133,
     "multi_source": false
   },
   {
@@ -2252,7 +2252,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 133,
+    "group_id": 134,
     "multi_source": false
   },
   {
@@ -2268,7 +2268,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 134,
+    "group_id": 135,
     "multi_source": false
   },
   {
@@ -2284,7 +2284,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 135,
+    "group_id": 136,
     "multi_source": false
   },
   {
@@ -2316,7 +2316,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 136,
+    "group_id": 137,
     "multi_source": false
   },
   {
@@ -2332,7 +2332,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 137,
+    "group_id": 138,
     "multi_source": false
   },
   {
@@ -2380,7 +2380,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 138,
+    "group_id": 139,
     "multi_source": false
   },
   {
@@ -2396,7 +2396,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 139,
+    "group_id": 140,
     "multi_source": false
   },
   {
@@ -2412,7 +2412,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 140,
+    "group_id": 141,
     "multi_source": false
   },
   {
@@ -2428,7 +2428,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 141,
+    "group_id": 142,
     "multi_source": false
   },
   {
@@ -2444,7 +2444,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 142,
+    "group_id": 143,
     "multi_source": false
   },
   {
@@ -2460,7 +2460,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 13,
+    "group_id": 12,
     "multi_source": true
   },
   {
@@ -2476,7 +2476,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 10,
+    "group_id": 9,
     "multi_source": true
   },
   {
@@ -2492,7 +2492,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 143,
+    "group_id": 144,
     "multi_source": false
   },
   {
@@ -2508,7 +2508,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 5,
+    "group_id": 0,
     "multi_source": true
   },
   {
@@ -2524,7 +2524,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 144,
+    "group_id": 145,
     "multi_source": false
   },
   {
@@ -2540,7 +2540,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 145,
+    "group_id": 146,
     "multi_source": false
   },
   {
@@ -2556,7 +2556,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 146,
+    "group_id": 147,
     "multi_source": false
   },
   {
@@ -2572,7 +2572,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 147,
+    "group_id": 148,
     "multi_source": false
   },
   {
@@ -2588,7 +2588,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 148,
+    "group_id": 149,
     "multi_source": false
   },
   {
@@ -2604,7 +2604,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 149,
+    "group_id": 150,
     "multi_source": false
   },
   {
@@ -2620,7 +2620,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 150,
+    "group_id": 151,
     "multi_source": false
   },
   {
@@ -2636,7 +2636,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 151,
+    "group_id": 152,
     "multi_source": false
   },
   {
@@ -2652,7 +2652,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 152,
+    "group_id": 153,
     "multi_source": false
   },
   {
@@ -2668,8 +2668,8 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 153,
-    "multi_source": false
+    "group_id": 14,
+    "multi_source": true
   },
   {
     "title": "Ganesh Live",
@@ -2700,7 +2700,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 12,
+    "group_id": 11,
     "multi_source": true
   },
   {
