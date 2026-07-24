@@ -74,6 +74,26 @@ sites than currently shown. Not fixed yet — flag it if you want pagination
 added; it's a moderate scope increase (more requests per run, longer
 scrape time) but technically straightforward for both sources.
 
+**Football's marketplace/official chips had several dead links — checked
+every one against the live sites and fixed what was actually broken:**
+StubHub's URL pattern 404'd for every single match (`/find/s/?q=` doesn't
+exist; fixed to `/search?q=`). Five clubs' "Official" ticket links 404'd
+outright (Chelsea, Man Utd, Borussia Dortmund, Bayer Leverkusen, Sevilla,
+Real Madrid) — each replaced with a verified working URL (a real ticket
+page where one exists, otherwise the club's homepage rather than a dead
+link). Also discovered **Paytm Insider (`insider.in`) now 301-redirects to
+`district.in`** — it's been absorbed into District, not a separate
+platform, so the ISL chip that duplicated it was removed rather than
+showing two chips for the same site. Four ticket subdomains (Bayern
+Munich, Eintracht Frankfurt, PSG, Monaco) timed out/connection-errored
+from this environment rather than returning a clear pass/fail — left
+unchanged since that's inconclusive, not confirmed broken; worth a manual
+click-check if you rely on those specifically. SeatGeek and AMC Theatres
+block automated requests entirely (403 on literally every URL, including
+their own homepages), so their links are unverifiable by this method but
+likely fine for a real browser — bot-detection systems usually distinguish
+scripted requests from real browser sessions.
+
 If something big is still missing after reading this table, that's a gap
 worth closing, not an inherent limit of the approach — flag it.
 

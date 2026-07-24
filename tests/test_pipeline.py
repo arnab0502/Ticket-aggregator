@@ -186,7 +186,8 @@ def test_isl_chips():
     from aggregator.dashboard import _football_srcs
     srcs, guide = _football_srcs("Bengaluru FC vs Kerala Blasters", "ISL", {})
     chips = {s["p"] for s in srcs}
-    assert {"BookMyShow", "District", "Paytm Insider"} <= chips, chips
+    assert {"BookMyShow", "District"} <= chips, chips
+    assert "Paytm Insider" not in chips  # insider.in now redirects to district.in — same platform
     assert "BookMyShow" in guide
     print("ok: ISL ticket chips")
 

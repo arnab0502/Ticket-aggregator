@@ -94,12 +94,14 @@ def _football_srcs(card_title: str, league: str, extra: dict) -> tuple[list[dict
         srcs.append({"p": "Official", "u": extra["official_url"], "pmin": None})
 
     if league == "ISL":
+        # Paytm Insider (insider.in) now 301-redirects to district.in — it's
+        # been absorbed into District, not a separate platform anymore, so
+        # showing both would just be two chips pointing at the same site.
         srcs += [
             {"p": "BookMyShow", "u": "https://in.bookmyshow.com/explore/sports", "pmin": None},
             {"p": "District", "u": f"https://www.district.in/search?q={q}", "pmin": None},
-            {"p": "Paytm Insider", "u": "https://insider.in/", "pmin": None},
         ]
-        guide_tail = "Book direct on BookMyShow / District / Paytm Insider — resale markets rarely list ISL."
+        guide_tail = "Book direct on BookMyShow / District — resale markets rarely list ISL."
     else:
         tm_search = TICKETMASTER_BY_LEAGUE.get(league, "")
         srcs += [
@@ -307,7 +309,7 @@ TEMPLATE = """<!DOCTYPE html>
   .s-cherishx{background:#3d1230;border-color:#6b1e55} .s-wiki{background:#252a3a;border-color:#3a4158}
   .s-stubhub{background:#3d1a3d;border-color:#6b2e6b} .s-tm{background:#12253d;border-color:#1e426b}
   .s-vg{background:#123d33;border-color:#1e6b59} .s-sg{background:#3d2312;border-color:#6b3e1e}
-  .s-official{background:#1a3d1a;border-color:#2e6b2e} .s-insider{background:#2d1240;border-color:#502070}
+  .s-official{background:#1a3d1a;border-color:#2e6b2e}
   .s-espn{background:#3d1216;border-color:#6b1e26}
   .s-eventbrite{background:#3d1f08;border-color:#6b3a12} .s-fandango{background:#1f2e3d;border-color:#355a78}
   .s-amc{background:#2a1f0a;border-color:#4a3712}
@@ -354,7 +356,7 @@ TEMPLATE = """<!DOCTYPE html>
   <div class="note">
     <b>How to read this:</b> Each card shows the event with every platform it was found on — click a source chip to open that listing and book. Cards with a
     <span class="dupbanner">⇄ PRICE COMPARE</span> banner were found on 2+ platforms — the comparison box shows which is cheaper.<br><br>
-    <b>Caveats:</b> Prices, dates and availability change fast — always confirm on the booking page. BookMyShow &amp; District block full automated scraping, so their chips are booking links rather than scraped prices; AllEvents, Eventz and Eventbrite are indexed directly, movies come from release calendars (Wikipedia, India and US), football fixtures from ESPN's public API. Movie ticket prices vary by cinema/format (typically ₹150–600 in India; Fandango/AMC pricing varies by market in the US). <b>Football:</b> buy from the club's Official ticket office or Ticketmaster first (face value); StubHub / viagogo / SeatGeek are resale markets — legitimate, but prices float above face value and some clubs restrict resale, so check the club's resale policy. ISL tickets: BookMyShow / District / Paytm Insider. Football lives in its own <b>⚽ Football</b> tab with a location filter based on each match's actual stadium city, separate from the Events city/region filter. Re-run <b>python run.py</b> anytime for a fresh snapshot.
+    <b>Caveats:</b> Prices, dates and availability change fast — always confirm on the booking page. BookMyShow &amp; District block full automated scraping, so their chips are booking links rather than scraped prices; AllEvents, Eventz and Eventbrite are indexed directly, movies come from release calendars (Wikipedia, India and US), football fixtures from ESPN's public API. Movie ticket prices vary by cinema/format (typically ₹150–600 in India; Fandango/AMC pricing varies by market in the US). <b>Football:</b> buy from the club's Official ticket office or Ticketmaster first (face value); StubHub / viagogo / SeatGeek are resale markets — legitimate, but prices float above face value and some clubs restrict resale, so check the club's resale policy. ISL tickets: BookMyShow / District. Football lives in its own <b>⚽ Football</b> tab with a location filter based on each match's actual stadium city, separate from the Events city/region filter. Re-run <b>python run.py</b> anytime for a fresh snapshot.
   </div>
 </div>
 
@@ -364,7 +366,7 @@ const EVENTS=__DATA__;
 const CITIES=["All",...new Set(EVENTS.filter(e=>e.cat!=="Football").map(e=>e.city).filter(c=>c!=="All cities"))];
 const CATS=["All",...new Set(EVENTS.filter(e=>e.cat!=="Football").map(e=>e.cat))];
 const catClass={"Comedy":"b-comedy","Movies":"b-movies","Kids & Family":"b-kids","Beer & Nightlife":"b-beer","Magic":"b-magic","Music & Culture":"b-music","Markets & Expos":"b-market","Football":"b-foot"};
-const srcClass={"AllEvents":"s-allevents","District":"s-district","Eventz":"s-eventz","BookMyShow":"s-bms","CherishX":"s-cherishx","Wikipedia":"s-wiki","StubHub":"s-stubhub","Ticketmaster":"s-tm","viagogo":"s-vg","SeatGeek":"s-sg","Official":"s-official","Paytm Insider":"s-insider","ESPN":"s-espn","Eventbrite":"s-eventbrite","Fandango":"s-fandango","AMC Theatres":"s-amc"};
+const srcClass={"AllEvents":"s-allevents","District":"s-district","Eventz":"s-eventz","BookMyShow":"s-bms","CherishX":"s-cherishx","Wikipedia":"s-wiki","StubHub":"s-stubhub","Ticketmaster":"s-tm","viagogo":"s-vg","SeatGeek":"s-sg","Official":"s-official","ESPN":"s-espn","Eventbrite":"s-eventbrite","Fandango":"s-fandango","AMC Theatres":"s-amc"};
 
 // Football's venue string is "<Stadium>, <City>" (see scrapers/football.py) —
 // use the part after the last comma as its location, independent of the

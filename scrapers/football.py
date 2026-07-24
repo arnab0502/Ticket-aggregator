@@ -35,9 +35,9 @@ LEAGUES = [
 OFFICIAL_TICKETS = {
     # EPL
     "Arsenal": "https://www.arsenal.com/tickets",
-    "Chelsea": "https://www.chelseafc.com/en/tickets",
+    "Chelsea": "https://www.chelseafc.com/en/tickets/mens-tickets",
     "Liverpool": "https://www.liverpoolfc.com/tickets",
-    "Manchester United": "https://www.manutd.com/en/tickets-and-hospitality",
+    "Manchester United": "https://www.manutd.com/en",
     "Manchester City": "https://www.mancity.com/tickets",
     "Tottenham Hotspur": "https://www.tottenhamhotspur.com/tickets/",
     "Newcastle United": "https://www.newcastleunited.com/en/tickets",
@@ -46,16 +46,16 @@ OFFICIAL_TICKETS = {
     "Everton": "https://www.evertonfc.com/tickets",
     # Bundesliga
     "Bayern Munich": "https://fcbayern.com/en/tickets",
-    "Borussia Dortmund": "https://www.bvb.de/eng/Tickets",
+    "Borussia Dortmund": "https://www.bvb.de/Tickets",
     "RB Leipzig": "https://www.rbleipzig.com/en/tickets",
-    "Bayer Leverkusen": "https://www.bayer04.de/en-us/page/tickets",
+    "Bayer Leverkusen": "https://www.bayer04.de/",
     "Eintracht Frankfurt": "https://tickets.eintracht.de",
     # La Liga
-    "Real Madrid": "https://www.realmadrid.com/en/tickets",
+    "Real Madrid": "https://www.realmadrid.com/en-US/tickets",
     "Barcelona": "https://www.fcbarcelona.com/en/tickets",
     "Atlético Madrid": "https://www.atleticodemadrid.com/en/tickets",
     "Atletico Madrid": "https://www.atleticodemadrid.com/en/tickets",
-    "Sevilla": "https://www.sevillafc.es/en/tickets",
+    "Sevilla": "https://sevillafc.es/",
     "Athletic Club": "https://www.athletic-club.eus/en/tickets",
     # Ligue 1
     "PSG": "https://tickets.psg.fr",
