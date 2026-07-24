@@ -1,8 +1,8 @@
-name: Daily scrape
+name: Periodic scrape
 
 on:
   schedule:
-    - cron: "30 2 * * *"   # 08:00 IST daily
+    - cron: "0 */3 * * *"   # every 3 hours
   workflow_dispatch: {}     # allow manual runs from the Actions tab
 
 permissions:
@@ -24,5 +24,5 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add data/events.json dashboard.html
-          git diff --cached --quiet || git commit -m "chore: daily scrape $(date -u +%F)"
+          git diff --cached --quiet || git commit -m "chore: scrape refresh $(date -u +'%F %H:%M')"
           git push

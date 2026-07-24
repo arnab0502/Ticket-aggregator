@@ -378,20 +378,44 @@ document.getElementById("sort").onchange=e=>{state.sort=e.target.value;render();
 document.getElementById("dupOnly").onchange=e=>{state.dupOnly=e.target.checked;render();};
 render();
 </script>
+__LIVE_SCRIPT__
 </body>
 </html>
 """
 
+# Polling script for the local dev server (serve.py): checks /api/status every
+# few seconds and reloads the page when a newer scrape has landed. Harmless
+# no-op on static hosting (Netlify etc.) since that endpoint doesn't exist
+# there — the fetch just fails silently and nothing reloads.
+LIVE_SCRIPT = """<script>
+(function(){
+  var known=__VERSION__;
+  function poll(){
+    fetch('/api/status',{cache:'no-store'}).then(r=>r.json()).then(function(d){
+      var dot=document.getElementById('livedot');
+      if(dot) dot.textContent=d.scraping?' · 🔄 refreshing…':' · ✓ live';
+      if(d.version&&d.version!==known) location.reload();
+    }).catch(function(){});
+  }
+  var sub=document.querySelector('.sub');
+  if(sub) sub.innerHTML+='<span id="livedot"></span>';
+  poll();
+  setInterval(poll,4000);
+})();
+</script>"""
 
-def generate(events: list[dict], out_path: str) -> None:
+
+def generate(events: list[dict], out_path: str, *, live: bool = False, version: float | None = None) -> None:
     cards = _build_cards(events)
     sources = sorted({s["p"] for c in cards for s in c["srcs"]})
+    live_script = LIVE_SCRIPT.replace("__VERSION__", json.dumps(version if version is not None else 0)) if live else ""
     html = (
         TEMPLATE
         .replace("__DATA__", json.dumps(cards, ensure_ascii=False))
         .replace("__COUNT__", str(len(cards)))
         .replace("__GENERATED__", datetime.now(timezone.utc).strftime("%a %d %b %Y, %H:%M UTC"))
         .replace("__SOURCES__", " · ".join(sources))
+        .replace("__LIVE_SCRIPT__", live_script)
     )
     with open(out_path, "w", encoding="utf-8") as f:
         f.write(html)

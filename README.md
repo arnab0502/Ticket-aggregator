@@ -23,14 +23,27 @@ python tests/test_pipeline.py   # run the offline test suite
 The repo ships with a sample `data/events.json`, so `--offline` works
 immediately after cloning.
 
-**To refresh the dashboard:** run `python run.py`, then reload
-`dashboard.html` in your browser. That's the whole loop — the script
-re-scrapes every source and regenerates the HTML file each time.
+**One-off refresh:** run `python run.py`, then reload `dashboard.html` in
+your browser.
+
+**Live/auto-refreshing dashboard:** run `python serve.py` instead. It opens
+the dashboard instantly from cached data, then re-scrapes in the background
+on a timer (every 20 min by default — `--interval <seconds>` to change it).
+Each source updates the page as soon as it finishes, and the open browser
+tab auto-reloads whenever new data lands — no manual re-run needed. Leave
+it running in a terminal; `Ctrl+C` to stop.
+
+```bash
+python serve.py                     # http://127.0.0.1:8000, scrape every 20 min
+python serve.py --interval 600      # every 10 min
+python serve.py --port 8080 --no-browser
+```
 
 ## How it works
 
 ```
-run.py                    entry point: scrape → dedupe → dashboard
+run.py                    one-off entry point: scrape → dedupe → dashboard
+serve.py                  live server: instant cached load, background re-scrape, auto-reload
 ├── scrapers/
 │   ├── base.py           Event model, polite rate-limited fetch, price parsing
 │   ├── allevents.py      parses schema.org JSON-LD from allevents.in
@@ -40,6 +53,7 @@ run.py                    entry point: scrape → dedupe → dashboard
 │   ├── bookmyshow.py     best-effort (BMS blocks most scraping)
 │   └── __init__.py       SCRAPERS registry
 ├── aggregator/
+│   ├── env.py            tiny .env loader shared by run.py / serve.py
 │   ├── dedupe.py         fuzzy title matching per city → duplicate groups
 │   └── dashboard.py      renders dashboard.html with embedded JSON data
 ├── data/events.json      last scrape result
@@ -94,9 +108,40 @@ Then add teammates under **Settings → Collaborators** on GitHub. Suggested
 workflow: branch → pull request → review → merge.
 
 A GitHub Actions workflow (`.github/workflows/scrape.yml`) is included that
-re-scrapes daily and commits the refreshed dashboard. Enable **Settings →
-Pages → Deploy from branch → main** to host `dashboard.html` at
+re-scrapes every 3 hours and commits the refreshed `dashboard.html`. Enable
+**Settings → Pages → Deploy from branch → main** to host it at
 `https://<you>.github.io/ticket-aggregator/dashboard.html`.
+
+**Keep the repo public** so those Actions runs stay free (unlimited minutes
+on public repos; private repos get 2,000 free min/month, and a run every 3
+hours can get close to that). `.env` is already gitignored, so no API keys
+are exposed by going public.
+
+### Hosting on Netlify instead of GitHub Pages
+
+Netlify only serves static files — there's no server to run `serve.py`'s
+background scraper there. Freshness instead comes from the same GitHub
+Actions cron job rebuilding `dashboard.html` every 3 hours and pushing it;
+Netlify just redeploys whenever that push lands:
+
+1. Push this repo to GitHub (public, per above).
+2. In Netlify: **Add new site → Import an existing project → GitHub**, pick
+   the repo.
+3. Deploy — build command and publish directory come from `netlify.toml`
+   (already in the repo): no build step, publishes the repo root, and
+   redirects `/` to `/dashboard.html` (Netlify looks for `index.html` at
+   the root by default, and there isn't one, so without this redirect the
+   site's root URL would 404).
+4. Netlify auto-redeploys on every push, including the Actions bot's scrape
+   commits — so the hosted page refreshes itself every ~3 hours without you
+   touching anything.
+
+This is "auto-refreshing on a schedule," not "live per visit" — a visitor
+always sees the latest completed scrape, not one triggered by their own
+page load. Skyscanner-style true per-visit live scraping isn't practical on
+static hosting for scrapers this heavy (and would also make you look like
+a bot to the ticketing sites much faster, since Netlify's cloud IPs are
+shared and already flagged by Cloudflare/Akamai far more than a home IP).
 
 ## Known limitations
 

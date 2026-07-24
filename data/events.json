@@ -42,7 +42,7 @@
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czMvYmFubmVycy9kNzQ0NDE1MC04MjgyLTExZjEtOTU3Zi1mMWYwNjQ2MjM0MGQtcmltZy13MTIwMC1oNjAwLWRjZjJlY2RkLWdtaXIuanBnP3Y9MTc4NDM2MzM4OQ.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czgvYmFubmVycy9hMjAwYTQxMC04NGE0LTExZjEtOGE4Yy0zZmU1N2Q3MGU1ODktcmltZy13MTIwMC1oNjAwLWRjZjJlY2RkLWdtaXIuanBnP3Y9MTc4NDU5NzgwNQ.avif",
     "extra": {},
     "group_id": 2,
     "multi_source": false
@@ -58,26 +58,26 @@
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czQvYmFubmVycy9kOGY3NDgyMC04MjM4LTExZjEtOGE4Yy0zZmU1N2Q3MGU1ODktcmltZy13MTIwMC1oNjAwLWRjYTNhM2EzLWdtaXIuanBnP3Y9MTc4NDMzMTYxMA.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czkvYmFubmVycy85YzQxYzJkMC04NWJiLTExZjEtYWJkYS1kZmVhMTBiZTk5NWUtcmltZy13MTIwMC1oNjAwLWRjYTNhM2EzLWdtaXIuanBnP3Y9MTc4NDcxNzYyNQ.avif",
     "extra": {},
     "group_id": 3,
     "multi_source": false
   },
   {
-    "title": "Trying New Material By Jaspreet Singh",
+    "title": "VIR DAS - SOUNDS OF INDIA - BENGALURU",
     "city": "Bangalore",
     "category": "Comedy",
     "source": "AllEvents",
-    "url": "https://allevents.in/bangalore/trying-new-material-by-jaspreet-singh/3900030397915657",
-    "date": "2026-07-19",
-    "venue": "The Underground Comedy Club: Bengaluru",
+    "url": "https://allevents.in/bangalore/vir-das-sounds-of-india-bengaluru/3900030423975240",
+    "date": "2026-09-11",
+    "venue": "Good Shepherd Auditorium: Bengaluru",
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czYvYmFubmVycy8xMTIxMWIwMC04MWZjLTExZjEtYTBmMC1iM2ZjMDU5MzBlMTYtcmltZy13MTIwMC1oNjAwLWRjZjllYWQzLWdtaXIuanBnP3Y9MTc4NDMwNTUwNA.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czkvYmFubmVycy8zMzM5YjNhMC04NTMwLTExZjEtODMyYy1kNTllZjY0ZDlhNmEtcmltZy13MTIwMC1oNjAwLWRjZjJjNzZmLWdtaXIuanBnP3Y9MTc4NDY1Nzc0OQ.avif",
     "extra": {},
     "group_id": 4,
-    "multi_source": true
+    "multi_source": false
   },
   {
     "title": "Trial Show by Danish Sait",
@@ -90,57 +90,25 @@
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czgvYmFubmVycy82ZDk4NjkwMC04MzYwLTExZjEtOGE4Yy0zZmU1N2Q3MGU1ODktcmltZy13MTIwMC1oNjAwLWRjZTdjNTk3LWdtaXIuanBnP3Y9MTc4NDQ1ODU2MA.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czUvYmFubmVycy9kNjVmMWI5MC04NTZlLTExZjEtYTA4OS03ZjczOTlmMWMyYjAtcmltZy13MTIwMC1oNjAwLWRjZTdjNTk3LWdtaXIuanBnP3Y9MTc4NDY4NDY1MQ.avif",
     "extra": {},
     "group_id": 5,
     "multi_source": false
   },
   {
-    "title": "LESSONS by Daniel Fernandes",
+    "title": "I AM WORTH IT ft. Rajat Sood",
     "city": "Bangalore",
     "category": "Comedy",
     "source": "AllEvents",
-    "url": "https://allevents.in/bangalore/lessons-by-daniel-fernandes/3900030296660323",
-    "date": "2026-07-19",
-    "venue": "URU Whitefield: Bengaluru",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEwL2Jhbm5lcnMvODU2NTUyMTAtN2FjMi0xMWYxLTljNWYtYjE1YmQ1NjU2NTA5LXJpbWctdzEyMDAtaDYwMC1kYzhiZDBmMy1nbWlyLmpwZz92PTE3ODM1MTExMzA.avif",
-    "extra": {},
-    "group_id": 6,
-    "multi_source": true
-  },
-  {
-    "title": "Spoiler Alert, a standup comedy solo by Anshu Mor",
-    "city": "Bangalore",
-    "category": "Comedy",
-    "source": "AllEvents",
-    "url": "https://allevents.in/bangalore/spoiler-alert-a-standup-comedy-solo-by-anshu-mor/3900030388819441",
-    "date": "2026-07-25",
-    "venue": "The Comedy Theatre, Indiranagar: Bengaluru",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czkvYmFubmVycy83ZjFmOTEzMC04MmI2LTExZjEtOGE4Yy0zZmU1N2Q3MGU1ODktcmltZy13MTIwMC1oNjAwLWRjMjA2OGE2LWdtaXIuanBnP3Y9MTc4NDM4NTU3NQ.avif",
-    "extra": {},
-    "group_id": 7,
-    "multi_source": false
-  },
-  {
-    "title": "Shashi Dhiman Live",
-    "city": "Bangalore",
-    "category": "Comedy",
-    "source": "AllEvents",
-    "url": "https://allevents.in/bangalore/shashi-dhiman-live/3900030068712053",
-    "date": "2026-07-19",
+    "url": "https://allevents.in/bangalore/i-am-worth-it-ft-rajat-sood/3900030184562947",
+    "date": "2026-07-31",
     "venue": "The Comedy Theatre, Indiranagar: Bengaluru",
     "price_min": 499.0,
-    "price_max": 499.0,
+    "price_max": 899.0,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czcvYmFubmVycy9lZTIxNDYyMC02NDJkLTExZjEtOWFlZS1iYmE1YjUyNzgyZmUtcmltZy13MTIwMC1oNjAwLWRjMDUwODE1LWdtaXIuanBnP3Y9MTc4MTAyODM4NQ.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czYvYmFubmVycy8zNmZjM2U5MC02NDJlLTExZjEtOWM4Ni1jM2QzMjcwZDQ5YTctcmltZy13MTIwMC1oNjAwLWRjMDUzMDJjLWdtaXIuanBnP3Y9MTc4MTAyODUwOA.avif",
     "extra": {},
-    "group_id": 8,
+    "group_id": 6,
     "multi_source": true
   },
   {
@@ -156,55 +124,39 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czIvYmFubmVycy84YTRjN2MwMC03YWRmLTExZjEtYWY3Mi1iZmI1MGI3NzYyNTUtcmltZy13MTIwMC1oNjAwLWRjZjNmMWYwLWdtaXIuanBnP3Y9MTc4MzUyMzU5NA.avif",
     "extra": {},
+    "group_id": 7,
+    "multi_source": true
+  },
+  {
+    "title": "Kahanibaaz By Ashish Vidyarthi - Bengaluru",
+    "city": "Bangalore",
+    "category": "Comedy",
+    "source": "AllEvents",
+    "url": "https://allevents.in/bangalore/kahanibaaz-by-ashish-vidyarthi-bengaluru/4100030429210327",
+    "date": "2026-08-02",
+    "venue": "Mother Tekhla Auditorium",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czkvYmFubmVycy9lMmQ1NmM5MC04NzJhLTExZjEtODg5Ny1kMWM4ODdkMjY2OTctcmltZy13MTIwMC1oNjc1LWRjMDQwMTAxLWdtaXIuanBnP3Y9MTc4NDg3NTM2OQ.avif",
+    "extra": {},
+    "group_id": 8,
+    "multi_source": false
+  },
+  {
+    "title": "Spoiler Alert, a standup comedy solo by Anshu Mor",
+    "city": "Bangalore",
+    "category": "Comedy",
+    "source": "AllEvents",
+    "url": "https://allevents.in/bangalore/spoiler-alert-a-standup-comedy-solo-by-anshu-mor/3900030388819441",
+    "date": "2026-07-25",
+    "venue": "The Comedy Theatre, Indiranagar: Bengaluru",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czYvYmFubmVycy9iMDk3ZjNiMC04NGM4LTExZjEtYTBmMC1iM2ZjMDU5MzBlMTYtcmltZy13MTIwMC1oNjAwLWRjMjA2OGE2LWdtaXIuanBnP3Y9MTc4NDYxMzI5MQ.avif",
+    "extra": {},
     "group_id": 9,
-    "multi_source": true
-  },
-  {
-    "title": "I AM WORTH IT ft. Rajat Sood",
-    "city": "Bangalore",
-    "category": "Comedy",
-    "source": "AllEvents",
-    "url": "https://allevents.in/bangalore/i-am-worth-it-ft-rajat-sood/3900030184562947",
-    "date": "2026-07-31",
-    "venue": "The Comedy Theatre, Indiranagar: Bengaluru",
-    "price_min": 499.0,
-    "price_max": 899.0,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czYvYmFubmVycy8zNmZjM2U5MC02NDJlLTExZjEtOWM4Ni1jM2QzMjcwZDQ5YTctcmltZy13MTIwMC1oNjAwLWRjMDUzMDJjLWdtaXIuanBnP3Y9MTc4MTAyODUwOA.avif",
-    "extra": {},
-    "group_id": 10,
-    "multi_source": true
-  },
-  {
-    "title": "Pure Veg Jokes - Morning Show by Saikiran",
-    "city": "Bangalore",
-    "category": "Comedy",
-    "source": "AllEvents",
-    "url": "https://allevents.in/bangalore/pure-veg-jokes-morning-show-by-saikiran/3900030393868139",
-    "date": "2026-08-23",
-    "venue": "The Comedy Theatre, Indiranagar: Bengaluru",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czQvYmFubmVycy85OWJiNGUwMC04MmE1LTExZjEtOTU3Zi1mMWYwNjQ2MjM0MGQtcmltZy13MTIwMC1oNjAwLWRjMzg1YzUwLWdtaXIuanBnP3Y9MTc4NDM3ODMxOA.avif",
-    "extra": {},
-    "group_id": 11,
-    "multi_source": true
-  },
-  {
-    "title": "Magician Vicky Krish's International Magic Show",
-    "city": "Bangalore",
-    "category": "Comedy",
-    "source": "AllEvents",
-    "url": "https://allevents.in/bangalore/magician-vicky-krishs-international-magic-show/3900030291568629",
-    "date": "2026-07-19",
-    "venue": "Town Hall: Bengaluru",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czIvYmFubmVycy82YWVmNTBlMC03YTdmLTExZjEtYjA0OC04NTJlMWZkMmQ2N2EtcmltZy13MTIwMC1oNjAwLWRjMmUxNzEyLWdtaXIuanBnP3Y9MTc4MzQ4MjMxMA.avif",
-    "extra": {},
-    "group_id": 12,
     "multi_source": false
   },
   {
@@ -220,7 +172,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czMvYmFubmVycy9kMTBjYTJkMC03YTczLTExZjEtYjA0OC04NTJlMWZkMmQ2N2EtcmltZy13MTIwMC1oNjAwLWRjMTYwNzA1LWdtaXIuanBnP3Y9MTc4MzQ3NzMyNw.avif",
     "extra": {},
-    "group_id": 13,
+    "group_id": 10,
     "multi_source": true
   },
   {
@@ -236,6 +188,54 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czIvYmFubmVycy8yZDhhMjU1MC01ZmRmLTExZjEtODE0NC0zNzdjMGM0MzQ1OWYtcmltZy13MTIwMC1oNjAwLWRjOGRmZmU5LWdtaXIuanBnP3Y9MTc4MDU1NDc1Nw.avif",
     "extra": {},
+    "group_id": 11,
+    "multi_source": false
+  },
+  {
+    "title": "Sapan Verma Live - 2026 New Tour",
+    "city": "Bangalore",
+    "category": "Comedy",
+    "source": "AllEvents",
+    "url": "https://allevents.in/bangalore/sapan-verma-live-2026-new-tour/3900030234386734",
+    "date": "2026-09-06",
+    "venue": "Bangalore International Centre: Bengaluru",
+    "price_min": 499.0,
+    "price_max": 799.0,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czIvYmFubmVycy81ZWJlNjYwMC03YTczLTExZjEtYWUzNi01ZDU0ZmNkODkwNjktcmltZy13MTIwMC1oNjAwLWRjMWEwMjAyLWdtaXIuanBnP3Y9MTc4MzQ3NzEzNQ.avif",
+    "extra": {},
+    "group_id": 12,
+    "multi_source": true
+  },
+  {
+    "title": "Aashish Solanki Live In Bengaluru",
+    "city": "Bangalore",
+    "category": "Comedy",
+    "source": "AllEvents",
+    "url": "https://allevents.in/bangalore/aashish-solanki-live-in-bengaluru/3900030141970757",
+    "date": "2026-08-07",
+    "venue": "Phoenix Market City, Whitefield: Bengaluru",
+    "price_min": 499.0,
+    "price_max": 799.0,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEwL2Jhbm5lcnMvYWNmZmU4MzAtNWZjZS0xMWYxLWFmNjAtMDU3ZjNmYWI5ZTA2LXJpbWctdzEyMDAtaDYwMC1kYzQ3MDYxOC1nbWlyLmpwZz92PTE3ODA1NDc2Njk.avif",
+    "extra": {},
+    "group_id": 13,
+    "multi_source": true
+  },
+  {
+    "title": "Silly Papa By Angad Singh Ranyal",
+    "city": "Bangalore",
+    "category": "Comedy",
+    "source": "AllEvents",
+    "url": "https://allevents.in/bangalore/silly-papa-by-angad-singh-ranyal/3900030024288820",
+    "date": "2026-07-25",
+    "venue": "The Underground Comedy Club: Bengaluru",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czIvYmFubmVycy8wYTc4NTUwMC03YWJhLTExZjEtYjE4ZS1kZmMwZWM1OTZiZjQtcmltZy13MTIwMC1oNjAwLWRjMTkxMzUxLWdtaXIuanBnP3Y9MTc4MzUwNzQ4OA.avif",
+    "extra": {},
     "group_id": 14,
     "multi_source": false
   },
@@ -250,7 +250,7 @@
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czkvYmFubmVycy85ZGZmYzNiMC04MzkwLTExZjEtOGE4Yy0zZmU1N2Q3MGU1ODktcmltZy13MTIwMC1oNjc1LWRjZDljYWEzLWdtaXIuanBnP3Y9MTc4NDQ3OTI1Nw.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEwL2Jhbm5lcnMvNjUyMzY0YTAtODczOS0xMWYxLTlhOWUtMzljYTAxNTFjZDY2LXJpbWctdzEyMDAtaDY3NS1kY2Q5Y2FhMy1nbWlyLmpwZz92PTE3ODQ4ODE2MDA.avif",
     "extra": {},
     "group_id": 15,
     "multi_source": false
@@ -336,17 +336,17 @@
     "multi_source": true
   },
   {
-    "title": "THE ROOM OF MEMORIES MLR 24th 4PM",
+    "title": "Nagarbhavi Biggest open air Dandiya Garba - 2026",
     "city": "Bangalore",
     "category": "Kids",
     "source": "AllEvents",
-    "url": "https://allevents.in/bangalore/the-room-of-memories-mlr-24th-4pm-tickets/80003400916253",
-    "date": "2026-10-24",
-    "venue": "MLR Cultural Centre",
+    "url": "https://allevents.in/bangalore/nagarbhavi-biggest-open-air-dandiya-garba-2026/3900030140965739",
+    "date": "2026-10-11",
+    "venue": "The Soda Factory: Bengaluru",
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4yLmFsbGV2ZW50cy5pbi90aHVtYnMvdGh1bWI2YTRkMTFiODgwZDg5LmpwZw.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEvYmFubmVycy8wNmYyMDE1MC01ZDU2LTExZjEtOGFiYy04NWUwMmJjM2UwZWQtcmltZy13MTIwMC1oNjAwLWRjZWU0NDc5LWdtaXIuanBnP3Y9MTc4MDI3NTk0OQ.avif",
     "extra": {},
     "group_id": 21,
     "multi_source": false
@@ -364,39 +364,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4yLmFsbGV2ZW50cy5pbi90aHVtYnMvdGh1bWI2YTRkMTFiODgwZDg5LmpwZw.avif",
     "extra": {},
-    "group_id": 21,
-    "multi_source": false
-  },
-  {
-    "title": "Shaadi Shud I? by Mohammed Hussain",
-    "city": "Bangalore",
-    "category": "Kids",
-    "source": "AllEvents",
-    "url": "https://allevents.in/bangalore/shaadi-shud-i-by-mohammed-hussain/3900030376000652",
-    "date": "2026-08-09",
-    "venue": "The Comedy Theatre, Indiranagar: Bengaluru",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czcvYmFubmVycy85ZDE5YTg5MC03YWMwLTExZjEtYWY3Mi1iZmI1MGI3NzYyNTUtcmltZy13MTIwMC1oNjAwLWRjNWFiY2U2LWdtaXIuanBnP3Y9MTc4MzUxMDMxMQ.avif",
-    "extra": {},
     "group_id": 22,
-    "multi_source": false
-  },
-  {
-    "title": "Nagarbhavi Biggest open air Dandiya Garba - 2026",
-    "city": "Bangalore",
-    "category": "Kids",
-    "source": "AllEvents",
-    "url": "https://allevents.in/bangalore/nagarbhavi-biggest-open-air-dandiya-garba-2026/3900030140965739",
-    "date": "2026-10-11",
-    "venue": "The Soda Factory: Bengaluru",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEvYmFubmVycy8wNmYyMDE1MC01ZDU2LTExZjEtOGFiYy04NWUwMmJjM2UwZWQtcmltZy13MTIwMC1oNjAwLWRjZWU0NDc5LWdtaXIuanBnP3Y9MTc4MDI3NTk0OQ.avif",
-    "extra": {},
-    "group_id": 23,
     "multi_source": false
   },
   {
@@ -412,23 +380,23 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czMvYmFubmVycy9lZWFhODM2MC03YjIzLTExZjEtYjE4ZS1kZmMwZWM1OTZiZjQtcmltZy13MTIwMC1oNjAwLWRjMTcxMDE3LWdtaXIuanBnP3Y9MTc4MzU1Mjk2OA.avif",
     "extra": {},
-    "group_id": 24,
+    "group_id": 23,
     "multi_source": true
   },
   {
-    "title": "THE ROOM OF MEMORIES MLR 24th 7PM",
+    "title": "Shaadi Shud I? by Mohammed Hussain",
     "city": "Bangalore",
     "category": "Kids",
     "source": "AllEvents",
-    "url": "https://allevents.in/bangalore/the-room-of-memories-mlr-24th-7pm-tickets/80003072105290",
-    "date": "2026-10-24",
-    "venue": "MLR Cultural Centre",
+    "url": "https://allevents.in/bangalore/shaadi-shud-i-by-mohammed-hussain/3900030376000652",
+    "date": "2026-08-09",
+    "venue": "The Comedy Theatre, Indiranagar: Bengaluru",
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4yLmFsbGV2ZW50cy5pbi90aHVtYnMvdGh1bWI2YTRkMTFiODgwZDg5LmpwZw.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czcvYmFubmVycy85ZDE5YTg5MC03YWMwLTExZjEtYWY3Mi1iZmI1MGI3NzYyNTUtcmltZy13MTIwMC1oNjAwLWRjNWFiY2U2LWdtaXIuanBnP3Y9MTc4MzUxMDMxMQ.avif",
     "extra": {},
-    "group_id": 21,
+    "group_id": 24,
     "multi_source": false
   },
   {
@@ -442,7 +410,7 @@
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEwL2Jhbm5lcnMvYWRlNTMyMTAtODM0Zi0xMWYxLThhOGMtM2ZlNTdkNzBlNTg5LXJpbWctdzEyMDAtaDYwMC1kYzExOGU5MC1nbWlyLmpwZz92PTE3ODQ0NTEzNjc.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czkvYmFubmVycy9jYzg5YmVkMC04NTYwLTExZjEtYTA4OS03ZjczOTlmMWMyYjAtcmltZy13MTIwMC1oNjAwLWRjMTE4ZTkwLWdtaXIuanBnP3Y9MTc4NDY3ODYyMg.avif",
     "extra": {},
     "group_id": 25,
     "multi_source": false
@@ -458,7 +426,7 @@
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czkvYmFubmVycy8wNDdkMzI3MC04MzQyLTExZjEtOTU3Zi1mMWYwNjQ2MjM0MGQtcmltZy13MTIwMC1oNjAwLWRjZmVmZWZlLWdtaXIuanBnP3Y9MTc4NDQ0NTQ5OQ.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEwL2Jhbm5lcnMvNjNlZDVlYzAtODU0ZS0xMWYxLTliZTUtNGJlYmY0NGI0OTgwLXJpbWctdzEyMDAtaDYwMC1kY2ZlZmVmZS1nbWlyLmpwZz92PTE3ODQ2NzA3MTU.avif",
     "extra": {},
     "group_id": 26,
     "multi_source": false
@@ -480,19 +448,51 @@
     "multi_source": false
   },
   {
-    "title": "Madras to Malabar 2.0",
+    "title": "Boho texture paintin + Pottery (Art Carnival)",
     "city": "Bangalore",
-    "category": "Nightlife",
+    "category": "Kids",
     "source": "AllEvents",
-    "url": "https://allevents.in/bangalore/madras-to-malabar-20-tickets/80002290841365",
-    "date": "2026-07-19",
-    "venue": "Vibe pub koramangala",
+    "url": "https://allevents.in/bangalore/boho-texture-paintin-pottery-art-carnival/3900030392200453",
+    "date": "2026-08-15",
+    "venue": "Art Beat: Bengaluru.",
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4yLmFsbGV2ZW50cy5pbi90aHVtYnMvdGh1bWI2YTU3M2ViMTUyZjIwLmpwZw.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czMvYmFubmVycy8zNjBmZGM3MC04NTkwLTExZjEtYWJkYS1kZmVhMTBiZTk5NWUtcmltZy13MTIwMC1oNjAwLWRjZDFkNGQyLWdtaXIuanBnP3Y9MTc4NDY5ODk4NQ.avif",
     "extra": {},
     "group_id": 28,
+    "multi_source": false
+  },
+  {
+    "title": "THE ROOM OF MEMORIES MLR 24th 4PM",
+    "city": "Bangalore",
+    "category": "Kids",
+    "source": "AllEvents",
+    "url": "https://allevents.in/bangalore/the-room-of-memories-mlr-24th-4pm-tickets/80003400916253",
+    "date": "2026-10-24",
+    "venue": "MLR Cultural Centre",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4yLmFsbGV2ZW50cy5pbi90aHVtYnMvdGh1bWI2YTRkMTFiODgwZDg5LmpwZw.avif",
+    "extra": {},
+    "group_id": 22,
+    "multi_source": false
+  },
+  {
+    "title": "Thala DJ NIGHT 2.0",
+    "city": "Bangalore",
+    "category": "Nightlife",
+    "source": "AllEvents",
+    "url": "https://allevents.in/bangalore/thala-dj-night-20-tickets/80006772103011",
+    "date": "2026-07-25",
+    "venue": "Babylonia - Global Food and Cocktails",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4yLmFsbGV2ZW50cy5pbi90aHVtYnMvdGh1bWI2YTYxYzgxZDRkMWI3LmpwZw.avif",
+    "extra": {},
+    "group_id": 29,
     "multi_source": false
   },
   {
@@ -508,7 +508,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czYvYmFubmVycy9hYjlkMGE3MC00YjYyLTExZjEtODUzNC02YjY0NzI1OTE4MWItcmltZy13MTIwMC1oNjAwLWRjMjAxYzFkLWdtaXIuanBnP3Y9MTc3ODMwMjI1OA.avif",
     "extra": {},
-    "group_id": 29,
+    "group_id": 30,
     "multi_source": false
   },
   {
@@ -522,9 +522,9 @@
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czYvYmFubmVycy81ZDI1ZGUzMC04MTIyLTExZjEtOTU3Zi1mMWYwNjQ2MjM0MGQtcmltZy13MTIwMC1oNjc1LWRjMDEyZjE3LWdtaXIuanBnP3Y9MTc4NDIxMjAwMQ.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEvYmFubmVycy81YTQyYzYyMC04NDdkLTExZjEtOTU3Zi1mMWYwNjQ2MjM0MGQtcmltZy13MTIwMC1oNjc1LWRjMDEyZjE3LWdtaXIuanBnP3Y9MTc4NDU4MDkzNA.avif",
     "extra": {},
-    "group_id": 30,
+    "group_id": 31,
     "multi_source": false
   },
   {
@@ -538,9 +538,25 @@
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czcvYmFubmVycy9mYTE0NmNkMC04MjE2LTExZjEtOGE4Yy0zZmU1N2Q3MGU1ODktcmltZy13MTIwMC1oNjc1LWRjNjAzNDI3LWdtaXIuanBnP3Y9MTc4NDMxNzA2Mg.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEwL2Jhbm5lcnMvZmEwZDEwZDAtODc1Yi0xMWYxLTlhOWUtMzljYTAxNTFjZDY2LXJpbWctdzEyMDAtaDY3NS1kYzYwMzQyNy1nbWlyLmpwZz92PTE3ODQ4OTY0NTM.avif",
     "extra": {},
-    "group_id": 31,
+    "group_id": 32,
+    "multi_source": false
+  },
+  {
+    "title": "South Masquerade Party Tamil Edition",
+    "city": "Bangalore",
+    "category": "Nightlife",
+    "source": "AllEvents",
+    "url": "https://allevents.in/bangalore/south-masquerade-party-tamil-edition-tickets/80003495919307",
+    "date": "2026-07-26",
+    "venue": "Vibe pub koramangala",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4yLmFsbGV2ZW50cy5pbi90aHVtYnMvdGh1bWI2YTYwODYyNWM2ZGU3LmpwZw.avif",
+    "extra": {},
+    "group_id": 33,
     "multi_source": false
   },
   {
@@ -551,28 +567,60 @@
     "url": "https://allevents.in/bangalore/aashish-solanki-live-in-bengaluru/4100030237465339",
     "date": "2026-08-07",
     "venue": "Phoenix Marketcity",
-    "price_min": 499.0,
-    "price_max": 799.0,
+    "price_min": 699.0,
+    "price_max": 999.0,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czYvYmFubmVycy8wMTRhMzIwMC04MTgxLTExZjEtOGE4Yy0zZmU1N2Q3MGU1ODktcmltZy13MTIwMC1oNjc1LWRjNDcwNTE3LWdtaXIuanBnP3Y9MTc4NDI1MjY1MA.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEvYmFubmVycy9iOTFiODAxMC04NzFiLTExZjEtODg5Ny1kMWM4ODdkMjY2OTctcmltZy13MTIwMC1oNjc1LWRjNDcwNTE3LWdtaXIuanBnP3Y9MTc4NDg2ODg1Ng.avif",
     "extra": {},
-    "group_id": 32,
+    "group_id": 13,
     "multi_source": true
   },
   {
-    "title": "Retro to Metro",
+    "title": "Ticket To Kollywood Tamil Night",
     "city": "Bangalore",
     "category": "Nightlife",
     "source": "AllEvents",
-    "url": "https://allevents.in/bangalore/retro-to-metro/3900030401983920",
+    "url": "https://allevents.in/bangalore/ticket-to-kollywood-tamil-night/3900030423321226",
     "date": "2026-07-25",
-    "venue": "Blah Bla: Bengaluru",
+    "venue": "BudBee Restobar 104: Bengaluru",
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEwL2Jhbm5lcnMvNDllNDExZjAtODM3Mi0xMWYxLThhOGMtM2ZlNTdkNzBlNTg5LXJpbWctdzEyMDAtaDYwMC1kYzA0MDIwNS1nbWlyLmpwZz92PTE3ODQ0NjYyMzE.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czMvYmFubmVycy8yMTM2YjQ4MC04NTA1LTExZjEtYWJkYS1kZmVhMTBiZTk5NWUtcmltZy13MTIwMC1oNjAwLWRjZDc3ODMwLWdtaXIuanBnP3Y9MTc4NDYzOTI1MA.avif",
     "extra": {},
-    "group_id": 33,
+    "group_id": 34,
+    "multi_source": false
+  },
+  {
+    "title": "THT presents Havana Nights",
+    "city": "Bangalore",
+    "category": "Nightlife",
+    "source": "AllEvents",
+    "url": "https://allevents.in/bangalore/tht-presents-havana-nights/4100030415065423",
+    "date": "2026-07-29",
+    "venue": "The Humming Tree Bar and Bistro | Indiranagar, Bangalore",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czkvYmFubmVycy84ZmRhMTJlMC04NWUzLTExZjEtYTQ5MS1jMzM1MWUzNzFjNDEtcmltZy13MTIwMC1oNjc1LWRjZTljODlmLWdtaXIuanBnP3Y9MTc4NDczNDc4NA.avif",
+    "extra": {},
+    "group_id": 35,
+    "multi_source": false
+  },
+  {
+    "title": "SOUTH DJ EVENT THALAPATHY SPECIAL",
+    "city": "Bangalore",
+    "category": "Nightlife",
+    "source": "AllEvents",
+    "url": "https://allevents.in/bangalore/south-dj-event-thalapathy-special-tickets/80009955196385",
+    "date": "2026-07-25",
+    "venue": "JB Arena (Just BLR)",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4yLmFsbGV2ZW50cy5pbi90aHVtYnMvdGh1bWI2YTU4Y2ZlZGJlMmU0LmpwZw.avif",
+    "extra": {},
+    "group_id": 36,
     "multi_source": false
   },
   {
@@ -588,24 +636,8 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czUvYmFubmVycy9mNWNmOTRhMC03YTZhLTExZjEtYWUzNi01ZDU0ZmNkODkwNjktcmltZy13MTIwMC1oNjAwLWRjMDIwMTA2LWdtaXIuanBnP3Y9MTc4MzQ3MzUyMw.avif",
     "extra": {},
-    "group_id": 34,
+    "group_id": 37,
     "multi_source": false
-  },
-  {
-    "title": "Sapan Verma Live - 2026 New Tour",
-    "city": "Bangalore",
-    "category": "Nightlife",
-    "source": "AllEvents",
-    "url": "https://allevents.in/bangalore/sapan-verma-live-2026-new-tour/3900030234386734",
-    "date": "2026-09-06",
-    "venue": "Bangalore International Centre: Bengaluru",
-    "price_min": 499.0,
-    "price_max": 799.0,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czIvYmFubmVycy81ZWJlNjYwMC03YTczLTExZjEtYWUzNi01ZDU0ZmNkODkwNjktcmltZy13MTIwMC1oNjAwLWRjMWEwMjAyLWdtaXIuanBnP3Y9MTc4MzQ3NzEzNQ.avif",
-    "extra": {},
-    "group_id": 35,
-    "multi_source": true
   },
   {
     "title": "AURORA NIGHT SATURDAY'S WITH BOLLYWOOD MUSIC",
@@ -620,7 +652,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czMvYmFubmVycy8wNjkzNWMwMC01YWU0LTExZjEtYWNjNi1iNzQ1YWQ0YzMwNGYtcmltZy13MTIwMC1oNjAwLWRjZmVmZWZlLWdtaXIuanBnP3Y9MTc4MDAwNzA4Mw.avif",
     "extra": {},
-    "group_id": 36,
+    "group_id": 38,
     "multi_source": false
   },
   {
@@ -636,7 +668,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czQvYmFubmVycy9iZmExOTc5MC01YTgzLTExZjEtYjU1Mi04ZDlhMTUyODQ5MjgtcmltZy13MTIwMC1oNjAwLWRjOTIyMDIxLWdtaXIuanBnP3Y9MTc3OTk2NTczMw.avif",
     "extra": {},
-    "group_id": 37,
+    "group_id": 39,
     "multi_source": false
   },
   {
@@ -652,55 +684,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czUvYmFubmVycy9mMmNjY2Y1MC03YjQzLTExZjEtOWM1Zi1iMTViZDU2NTY1MDktcmltZy13MTIwMC1oNjAwLWRjMWMxNjEzLWdtaXIuanBnP3Y9MTc4MzU2NjcxOQ.avif",
     "extra": {},
-    "group_id": 38,
-    "multi_source": false
-  },
-  {
-    "title": "Bangalore Comedy Nights (Live Stand-Up Comedy)",
-    "city": "Bangalore",
-    "category": "Nightlife",
-    "source": "AllEvents",
-    "url": "https://allevents.in/bangalore/bangalore-comedy-nights-live-stand-up-comedy/3900030385478728",
-    "date": "2026-07-20",
-    "venue": "Ministry Of Comedy: Koramangala",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czcvYmFubmVycy9hYzNkMDNiMC04Mzc4LTExZjEtOGE4Yy0zZmU1N2Q3MGU1ODktcmltZy13MTIwMC1oNjAwLWRjMDEwMTAxLWdtaXIuanBnP3Y9MTc4NDQ2ODk3Mw.avif",
-    "extra": {},
-    "group_id": 39,
-    "multi_source": false
-  },
-  {
-    "title": "Ticket To Kollywood Tamil Night",
-    "city": "Bangalore",
-    "category": "Nightlife",
-    "source": "AllEvents",
-    "url": "https://allevents.in/bangalore/ticket-to-kollywood-tamil-night/3900030021023146",
-    "date": "2026-08-01",
-    "venue": "Gilly`s 104: Bengaluru",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czcvYmFubmVycy8wMjU2MDIzMC03MTY2LTExZjEtYmY0Ny0yYjY4ZTczYTljODEtcmltZy13MTIwMC1oNjAwLWRjZDc3ODMwLWdtaXIuanBnP3Y9MTc4MjQ4MTgzNg.avif",
-    "extra": {},
     "group_id": 40,
-    "multi_source": false
-  },
-  {
-    "title": "Silly Papa By Angad Singh Ranyal",
-    "city": "Bangalore",
-    "category": "Nightlife",
-    "source": "AllEvents",
-    "url": "https://allevents.in/bangalore/silly-papa-by-angad-singh-ranyal/3900030024288820",
-    "date": "2026-07-25",
-    "venue": "The Underground Comedy Club: Bengaluru",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czIvYmFubmVycy8wYTc4NTUwMC03YWJhLTExZjEtYjE4ZS1kZmMwZWM1OTZiZjQtcmltZy13MTIwMC1oNjAwLWRjMTkxMzUxLWdtaXIuanBnP3Y9MTc4MzUwNzQ4OA.avif",
-    "extra": {},
-    "group_id": 41,
     "multi_source": false
   },
   {
@@ -716,7 +700,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czkvYmFubmVycy9jNjY1MDhiMC01ZmRjLTExZjEtYjE2Zi0wZjlmNDY5NWIwYzQtcmltZy13MTIwMC1oNjAwLWRjZjY0NDQ0LWdtaXIuanBnP3Y9MTc4MDU1MzcyNQ.avif",
     "extra": {},
-    "group_id": 42,
+    "group_id": 41,
     "multi_source": false
   },
   {
@@ -732,39 +716,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czYvYmFubmVycy9iYmJjZTRiMC02NDg2LTExZjEtYjZlOC0zZGRkNGM4NWZhMzQtcmltZy13MTIwMC1oNjAwLWRjOGUzNjMwLWdtaXIuanBnP3Y9MTc4MTA2NjUyNg.avif",
     "extra": {},
-    "group_id": 43,
-    "multi_source": false
-  },
-  {
-    "title": "Harsh'O'Ullas ft. Harsh Gujral",
-    "city": "Mumbai",
-    "category": "Comedy",
-    "source": "AllEvents",
-    "url": "https://allevents.in/mumbai/harshoullas-ft-harsh-gujral/3900030399164723",
-    "date": "2026-08-16",
-    "venue": "Sophia Bhabha Auditorium: Mumbai",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czgvYmFubmVycy9kMzhiZjQ0MC04MjgyLTExZjEtYTBmMC1iM2ZjMDU5MzBlMTYtcmltZy13MTIwMC1oNjAwLWRjZjJlY2RkLWdtaXIuanBnP3Y9MTc4NDM2MzM4Mw.avif",
-    "extra": {},
-    "group_id": 44,
-    "multi_source": false
-  },
-  {
-    "title": "Aise Kaise by Amit Tandon",
-    "city": "Mumbai",
-    "category": "Comedy",
-    "source": "AllEvents",
-    "url": "https://allevents.in/mumbai/aise-kaise-by-amit-tandon/3900030400906600",
-    "date": "2026-08-01",
-    "venue": "Lata Mangeshkar NatyaGruha Auditorium: Mumbai",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czQvYmFubmVycy82OTgxYTM1MC04MmQzLTExZjEtOGE4Yy0zZmU1N2Q3MGU1ODktcmltZy13MTIwMC1oNjAwLWRjMDYwNTA1LWdtaXIuanBnP3Y9MTc4NDM5Nzk5NA.avif",
-    "extra": {},
-    "group_id": 45,
+    "group_id": 42,
     "multi_source": false
   },
   {
@@ -780,7 +732,23 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czYvYmFubmVycy80MDgyMGE4MC03YjhmLTExZjEtODc4YS03MWExOTgyZTk4MzAtcmltZy13MTIwMC1oNjAwLWRjMTgwNDA1LWdtaXIuanBnP3Y9MTc4MzU5OTA2Mg.avif",
     "extra": {},
-    "group_id": 46,
+    "group_id": 43,
+    "multi_source": false
+  },
+  {
+    "title": "Harsh'O'Ullas ft. Harsh Gujral",
+    "city": "Mumbai",
+    "category": "Comedy",
+    "source": "AllEvents",
+    "url": "https://allevents.in/mumbai/harshoullas-ft-harsh-gujral/3900030321210213",
+    "date": "2026-08-16",
+    "venue": "The Fine Arts Society: Mumbai",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czcvYmFubmVycy8yNjYzY2M0MC03YjBhLTExZjEtOWM1Zi1iMTViZDU2NTY1MDktcmltZy13MTIwMC1oNjAwLWRjZjJlY2RkLWdtaXIuanBnP3Y9MTc4MzU0MTg5NQ.avif",
+    "extra": {},
+    "group_id": 44,
     "multi_source": false
   },
   {
@@ -796,23 +764,23 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czQvYmFubmVycy80ZGViOTBmMC03YWUxLTExZjEtOWM1Zi1iMTViZDU2NTY1MDktcmltZy13MTIwMC1oNjAwLWRjZDRlOGVkLWdtaXIuanBnP3Y9MTc4MzUyNDM1Mg.avif",
     "extra": {},
-    "group_id": 47,
+    "group_id": 45,
     "multi_source": false
   },
   {
-    "title": "New Material Nights by Atul Khatri: KCC",
+    "title": "Aise Kaise by Amit Tandon",
     "city": "Mumbai",
     "category": "Comedy",
     "source": "AllEvents",
-    "url": "https://allevents.in/mumbai/new-material-nights-by-atul-khatri-kcc/3900030406526347",
-    "date": "2026-07-27",
-    "venue": "Khar Comedy Club: Mumbai",
+    "url": "https://allevents.in/mumbai/aise-kaise-by-amit-tandon/3900030400906600",
+    "date": "2026-08-01",
+    "venue": "Lata Mangeshkar NatyaGruha Auditorium: Mumbai",
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czIvYmFubmVycy8zZTA5NzdjMC04MjkyLTExZjEtYTBmMC1iM2ZjMDU5MzBlMTYtcmltZy13MTIwMC1oNjAwLWRjYmQ1MjRhLWdtaXIuanBnP3Y9MTc4NDM3MDAwNA.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEvYmFubmVycy9iZWUwM2Y1MC04NGY0LTExZjEtYWJkYS1kZmVhMTBiZTk5NWUtcmltZy13MTIwMC1oNjAwLWRjMDYwNTA1LWdtaXIuanBnP3Y9MTc4NDYzMjIxMw.avif",
     "extra": {},
-    "group_id": 48,
+    "group_id": 46,
     "multi_source": false
   },
   {
@@ -826,9 +794,9 @@
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czIvYmFubmVycy8yOTdmMjBjMC04MjgzLTExZjEtOTU3Zi1mMWYwNjQ2MjM0MGQtcmltZy13MTIwMC1oNjAwLWRjMDYwNTAzLWdtaXIuanBnP3Y9MTc4NDM2MzUyNw.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czUvYmFubmVycy9lNjU5NDhiMC04NGE0LTExZjEtOTU3Zi1mMWYwNjQ2MjM0MGQtcmltZy13MTIwMC1oNjAwLWRjMDYwNTAzLWdtaXIuanBnP3Y9MTc4NDU5NzkyMA.avif",
     "extra": {},
-    "group_id": 49,
+    "group_id": 47,
     "multi_source": false
   },
   {
@@ -844,7 +812,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czUvYmFubmVycy8wMDYyYTU0MC02NDQyLTExZjEtOTk4ZS03ZDY2NTVhMWI3YTQtcmltZy13MTIwMC1oNjAwLWRjZmZmNTI3LWdtaXIuanBnP3Y9MTc4MTAzNzAwNg.avif",
     "extra": {},
-    "group_id": 50,
+    "group_id": 48,
     "multi_source": false
   },
   {
@@ -860,7 +828,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czIvYmFubmVycy8yZTdiMWQ2MC03YWFjLTExZjEtODY1YS0zM2I1NTkzNmRjMGUtcmltZy13MTIwMC1oNjAwLWRjMjgyZDQ4LWdtaXIuanBnP3Y9MTc4MzUwMTUzNg.avif",
     "extra": {},
-    "group_id": 51,
+    "group_id": 49,
     "multi_source": false
   },
   {
@@ -876,7 +844,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czgvYmFubmVycy84MjFmYTc0MC03YjYyLTExZjEtODc4YS03MWExOTgyZTk4MzAtcmltZy13MTIwMC1oNjAwLWRjNDUxZTEzLWdtaXIuanBnP3Y9MTc4MzU3OTg0NA.avif",
     "extra": {},
-    "group_id": 52,
+    "group_id": 50,
     "multi_source": false
   },
   {
@@ -892,7 +860,23 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czcvYmFubmVycy8zNmIxNDBkOTdmZGYzMDk0YmVmNDBjZDZiMzNlODJhNTA3OWFiNjhlZjhkYjcxNWI1NTllZWUxMTc1Y2RmZGVmLXJpbWctdzEyMDAtaDY3NS1kYzAwMDAwMC1nbWlyP3Y9MTc4Mjg3OTg5Ng.avif",
     "extra": {},
-    "group_id": 53,
+    "group_id": 51,
+    "multi_source": false
+  },
+  {
+    "title": "New Material Nights ft. Atul Khatri: KCC",
+    "city": "Mumbai",
+    "category": "Comedy",
+    "source": "AllEvents",
+    "url": "https://allevents.in/mumbai/new-material-nights-ft-atul-khatri-kcc/4100030332982441",
+    "date": "2026-07-27",
+    "venue": "Khar Comedy Club",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czUvYmFubmVycy9jZjViYjlmMC04NjY1LTExZjEtODg5Ny1kMWM4ODdkMjY2OTctcmltZy13MTIwMC1oNjc1LWRjYmQ1MjRhLWdtaXIuanBnP3Y9MTc4NDc5MDcyNQ.avif",
+    "extra": {},
+    "group_id": 52,
     "multi_source": false
   },
   {
@@ -908,23 +892,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czcvYmFubmVycy9lYzQ2Mzc2MC03YTkwLTExZjEtYjE4ZS1kZmMwZWM1OTZiZjQtcmltZy13MTIwMC1oNjAwLWRjMjkyOTJiLWdtaXIuanBnP3Y9MTc4MzQ4OTgyOA.avif",
     "extra": {},
-    "group_id": 54,
-    "multi_source": false
-  },
-  {
-    "title": "Grin Revolution: Sapan Verma Trial Show",
-    "city": "Mumbai",
-    "category": "Comedy",
-    "source": "AllEvents",
-    "url": "https://allevents.in/mumbai/grin-revolution-sapan-verma-trial-show/3900030402201405",
-    "date": "2026-07-21",
-    "venue": "Fictionary: Mumbai",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czkvYmFubmVycy9mZWY0YTg3MC04MWIwLTExZjEtOTU3Zi1mMWYwNjQ2MjM0MGQtcmltZy13MTIwMC1oNjAwLWRjZjJkMzU0LWdtaXIuanBnP3Y9MTc4NDI3MzI2MQ.avif",
-    "extra": {},
-    "group_id": 55,
+    "group_id": 53,
     "multi_source": false
   },
   {
@@ -940,7 +908,23 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czcvYmFubmVycy81OTY1NzI2MC04MWY0LTExZjEtOTU3Zi1mMWYwNjQ2MjM0MGQtcmltZy13MTIwMC1oNjAwLWRjYzgzNzNjLWdtaXIuanBnP3Y9MTc4NDMwMjE4OQ.avif",
     "extra": {},
-    "group_id": 56,
+    "group_id": 54,
+    "multi_source": false
+  },
+  {
+    "title": "New Material Nights by Atul Khatri: KCC",
+    "city": "Mumbai",
+    "category": "Comedy",
+    "source": "AllEvents",
+    "url": "https://allevents.in/mumbai/new-material-nights-by-atul-khatri-kcc/3900030406526347",
+    "date": "2026-07-27",
+    "venue": "Khar Comedy Club: Mumbai",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEwL2Jhbm5lcnMvNGRhN2IzYjAtODRiMS0xMWYxLThhOGMtM2ZlNTdkNzBlNTg5LXJpbWctdzEyMDAtaDYwMC1kY2JkNTI0YS1nbWlyLmpwZz92PTE3ODQ2MDMyNDc.avif",
+    "extra": {},
+    "group_id": 52,
     "multi_source": false
   },
   {
@@ -956,7 +940,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4yLmFsbGV2ZW50cy5pbi90aHVtYnMvdGh1bWI2YTU0NzE3Mzc0NjgwLmpwZw.avif",
     "extra": {},
-    "group_id": 57,
+    "group_id": 55,
     "multi_source": false
   },
   {
@@ -970,9 +954,9 @@
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czIvYmFubmVycy85ZThhMTY3MC04MzlkLTExZjEtOGE4Yy0zZmU1N2Q3MGU1ODktcmltZy13MTIwMC1oNjc1LWRjZDljYWEzLWdtaXIuanBnP3Y9MTc4NDQ4NDg0Mg.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEwL2Jhbm5lcnMvZmE0Mjk1MzAtODc1YS0xMWYxLTg4OTctZDFjODg3ZDI2Njk3LXJpbWctdzEyMDAtaDY3NS1kY2Q5Y2FhMy1nbWlyLmpwZz92PTE3ODQ4OTYwMjQ.avif",
     "extra": {},
-    "group_id": 58,
+    "group_id": 56,
     "multi_source": false
   },
   {
@@ -986,9 +970,9 @@
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEwL2Jhbm5lcnMvYzgzNjRjMjAtODM1MC0xMWYxLTk1N2YtZjFmMDY0NjIzNDBkLXJpbWctdzEyMDAtaDYwMC1kYzExOGU5MC1nbWlyLmpwZz92PTE3ODQ0NTE4NDA.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czgvYmFubmVycy84YTVkYzhjMC04NTYxLTExZjEtOWJlNS00YmViZjQ0YjQ5ODAtcmltZy13MTIwMC1oNjAwLWRjMTE4ZTkwLWdtaXIuanBnP3Y9MTc4NDY3ODk0MA.avif",
     "extra": {},
-    "group_id": 59,
+    "group_id": 57,
     "multi_source": false
   },
   {
@@ -1004,7 +988,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czkvYmFubmVycy8xOGM0YzFmY2UyZDdkNzZhOGMzODc2NWUzYjkzMjBhZjEwZGYwYjdiZTI4Y2M3NmZhNWIzZGFmNWMwYjUzMDQzLXJpbWctdzEyMDAtaDQxMi1kYzAxNDI3OS1nbWlyP3Y9MTc4NDQxMjM2NQ.avif",
     "extra": {},
-    "group_id": 60,
+    "group_id": 58,
     "multi_source": false
   },
   {
@@ -1020,7 +1004,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czcvYmFubmVycy9lZTBhNThjMC01ZDQ4LTExZjEtOTAwNy04OTE3YmVlNDlkZjEtcmltZy13MTIwMC1oNjAwLWRjNzY2MGFhLWdtaXIuanBnP3Y9MTc4MDI3MDMyNA.avif",
     "extra": {},
-    "group_id": 61,
+    "group_id": 59,
     "multi_source": false
   },
   {
@@ -1034,9 +1018,9 @@
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czIvYmFubmVycy81MDcxNGVmMC04Mzg4LTExZjEtOTU3Zi1mMWYwNjQ2MjM0MGQtcmltZy13MTIwMC1oNjAwLWRjMTkxMzUxLWdtaXIuanBnP3Y9MTc4NDQ3NTY5MQ.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEvYmFubmVycy85ZjQzZDllMC04NWE4LTExZjEtYTA4OS03ZjczOTlmMWMyYjAtcmltZy13MTIwMC1oNjAwLWRjMTkxMzUxLWdtaXIuanBnP3Y9MTc4NDcwOTQ2OQ.avif",
     "extra": {},
-    "group_id": 62,
+    "group_id": 60,
     "multi_source": false
   },
   {
@@ -1052,7 +1036,23 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czkvYmFubmVycy8wYzRkY2IyMC03YjI0LTExZjEtODc4YS03MWExOTgyZTk4MzAtcmltZy13MTIwMC1oNjAwLWRjMTcxMDE3LWdtaXIuanBnP3Y9MTc4MzU1MzAxOA.avif",
     "extra": {},
-    "group_id": 63,
+    "group_id": 61,
+    "multi_source": false
+  },
+  {
+    "title": "Mandar Bhide Live in Mumbai",
+    "city": "Mumbai",
+    "category": "Kids",
+    "source": "AllEvents",
+    "url": "https://allevents.in/mumbai/mandar-bhide-live-in-mumbai/3900030417552441",
+    "date": "2026-08-02",
+    "venue": "24K Kraft Brewzz, R city Mall, Ghatkopar: Mumbai",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czMvYmFubmVycy8wZWU1NDBhMC04NTcxLTExZjEtYTA4OS03ZjczOTlmMWMyYjAtcmltZy13MTIwMC1oNjAwLWRjMDIwMTA0LWdtaXIuanBnP3Y9MTc4NDY4NTYwNQ.avif",
+    "extra": {},
+    "group_id": 62,
     "multi_source": false
   },
   {
@@ -1068,7 +1068,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czgvYmFubmVycy9lMmJlNzVmMC03OWY0LTExZjEtYWUzNi01ZDU0ZmNkODkwNjktcmltZy13MTIwMC1oNjAwLWRjZDdlYWY1LWdtaXIuanBnP3Y9MTc4MzQyMjgxMQ.avif",
     "extra": {},
-    "group_id": 64,
+    "group_id": 63,
     "multi_source": false
   },
   {
@@ -1076,15 +1076,15 @@
     "city": "Mumbai",
     "category": "Kids",
     "source": "AllEvents",
-    "url": "https://allevents.in/mumbai/kids-art-party-mumbai/3900030279423740",
+    "url": "https://allevents.in/mumbai/kids-art-party-mumbai/3900030392709036",
     "date": "2026-07-25",
-    "venue": "Hitchki, Bandra East: Mumbai",
+    "venue": "Hitchki Powai: Mumbai",
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czQvYmFubmVycy8zMzExMDRjMC03YWEyLTExZjEtODY1YS0zM2I1NTkzNmRjMGUtcmltZy13MTIwMC1oNjAwLWRjMmQyZDMxLWdtaXIuanBnP3Y9MTc4MzQ5NzI0OA.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czMvYmFubmVycy8zNTE4ODE3MC04NDRlLTExZjEtOGE4Yy0zZmU1N2Q3MGU1ODktcmltZy13MTIwMC1oNjAwLWRjMmQyZDMxLWdtaXIuanBnP3Y9MTc4NDU2MDY4Ng.avif",
     "extra": {},
-    "group_id": 65,
+    "group_id": 64,
     "multi_source": false
   },
   {
@@ -1093,14 +1093,14 @@
     "category": "Kids",
     "source": "AllEvents",
     "url": "https://allevents.in/mumbai/lil-stitchers-summer-club-2026/3900030033694435",
-    "date": "2026-07-20",
+    "date": "2026-07-27",
     "venue": "The hab by Usha: Mumbai",
     "price_min": null,
     "price_max": null,
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czIvYmFubmVycy84ZmI2ZWMwMC03Yjg2LTExZjEtODc4YS03MWExOTgyZTk4MzAtcmltZy13MTIwMC1oNjAwLWRjYzBiZGMyLWdtaXIuanBnP3Y9MTc4MzU5NTMyOQ.avif",
     "extra": {},
-    "group_id": 66,
+    "group_id": 65,
     "multi_source": false
   },
   {
@@ -1109,14 +1109,46 @@
     "category": "Kids",
     "source": "AllEvents",
     "url": "https://allevents.in/mumbai/emotions-lab/3900030234096241",
-    "date": "2026-07-21",
+    "date": "2026-07-24",
     "venue": "Level 2, Concourse Area, NMACC",
     "price_min": null,
     "price_max": null,
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czgvYmFubmVycy8wMDhhYTk2MC03YTZjLTExZjEtOWM1Zi1iMTViZDU2NTY1MDktcmltZy13MTIwMC1oNjAwLWRjZmVmZWZlLWdtaXIuanBnP3Y9MTc4MzQ3Mzk3MQ.avif",
     "extra": {},
+    "group_id": 66,
+    "multi_source": false
+  },
+  {
+    "title": "Bachha Party Brunch at Mercii",
+    "city": "Mumbai",
+    "category": "Kids",
+    "source": "AllEvents",
+    "url": "https://allevents.in/mumbai/bachha-party-brunch-at-mercii/3900030409185529",
+    "date": "2026-07-25",
+    "venue": "Mercii Restaurant: Mumbai",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czMvYmFubmVycy9lZmM3MTdiMC04NTdiLTExZjEtYTA4OS03ZjczOTlmMWMyYjAtcmltZy13MTIwMC1oNjAwLWRjMTcxMzQ2LWdtaXIuanBnP3Y9MTc4NDY5MDI3Nw.avif",
+    "extra": {},
     "group_id": 67,
+    "multi_source": false
+  },
+  {
+    "title": "DIY Cute Bunn",
+    "city": "Mumbai",
+    "category": "Kids",
+    "source": "AllEvents",
+    "url": "https://allevents.in/mumbai/diy-cute-bunn/3900030423969517",
+    "date": "2026-07-26",
+    "venue": "BKC Dive: Mumbai",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEvYmFubmVycy9mMTNkYWE2MC04NTM0LTExZjEtOWJlNS00YmViZjQ0YjQ5ODAtcmltZy13MTIwMC1oNjAwLWRjOTk5YTNlLWdtaXIuanBnP3Y9MTc4NDY1OTc4NQ.avif",
+    "extra": {},
+    "group_id": 68,
     "multi_source": false
   },
   {
@@ -1132,55 +1164,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czgvYmFubmVycy85NTFiZTFkMC03YjNkLTExZjEtODc4YS03MWExOTgyZTk4MzAtcmltZy13MTIwMC1oNjAwLWRjZGZjZWM2LWdtaXIuanBnP3Y9MTc4MzU2Mzk4NQ.avif",
     "extra": {},
-    "group_id": 68,
-    "multi_source": false
-  },
-  {
-    "title": "DIY Sock Puppet - Mumbai",
-    "city": "Mumbai",
-    "category": "Kids",
-    "source": "AllEvents",
-    "url": "https://allevents.in/mumbai/diy-sock-puppet-mumbai/3900030395517243",
-    "date": "2026-07-25",
-    "venue": "Hitchki Powai: Mumbai",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czYvYmFubmVycy84Nzk3N2YwMC04MmZmLTExZjEtOGE4Yy0zZmU1N2Q3MGU1ODktcmltZy13MTIwMC1oNjAwLWRjZmNmY2ZjLWdtaXIuanBnP3Y9MTc4NDQxNjk0Mw.avif",
-    "extra": {},
     "group_id": 69,
-    "multi_source": false
-  },
-  {
-    "title": "Mandar Bhide Live in Mumbai",
-    "city": "Mumbai",
-    "category": "Kids",
-    "source": "AllEvents",
-    "url": "https://allevents.in/mumbai/mandar-bhide-live-in-mumbai/3900030417552441",
-    "date": "2026-08-02",
-    "venue": "24K Kraft Brewzz, R city Mall, Ghatkopar: Mumbai",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czcvYmFubmVycy8xZjJiOTlkMC04MzY2LTExZjEtOTU3Zi1mMWYwNjQ2MjM0MGQtcmltZy13MTIwMC1oNjAwLWRjMDIwMTA0LWdtaXIuanBnP3Y9MTc4NDQ2MTAwNg.avif",
-    "extra": {},
-    "group_id": 70,
-    "multi_source": false
-  },
-  {
-    "title": "Bachha Party Brunch at Mercii",
-    "city": "Mumbai",
-    "category": "Kids",
-    "source": "AllEvents",
-    "url": "https://allevents.in/mumbai/bachha-party-brunch-at-mercii/3900030409185529",
-    "date": "2026-07-25",
-    "venue": "Mercii Restaurant: Mumbai",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czMvYmFubmVycy8wZjEzYmFhMC04MjAzLTExZjEtOGE4Yy0zZmU1N2Q3MGU1ODktcmltZy13MTIwMC1oNjAwLWRjMTcxMzQ2LWdtaXIuanBnP3Y9MTc4NDMwODUwNw.avif",
-    "extra": {},
-    "group_id": 71,
     "multi_source": false
   },
   {
@@ -1196,7 +1180,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czIvYmFubmVycy82YmNkNmI1MC03YWMwLTExZjEtOWM1Zi1iMTViZDU2NTY1MDktcmltZy13MTIwMC1oNjAwLWRjNzcxZDFmLWdtaXIuanBnP3Y9MTc4MzUxMDIyOA.avif",
     "extra": {},
-    "group_id": 72,
+    "group_id": 70,
     "multi_source": false
   },
   {
@@ -1212,7 +1196,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czMvYmFubmVycy82MzY2YjM2MC01ZmNmLTExZjEtYWY2MC0wNTdmM2ZhYjllMDYtcmltZy13MTIwMC1oNjAwLWRjMDYwNTAzLWdtaXIuanBnP3Y9MTc4MDU0Nzk3NQ.avif",
     "extra": {},
-    "group_id": 73,
+    "group_id": 71,
     "multi_source": false
   },
   {
@@ -1228,7 +1212,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czUvYmFubmVycy9mZDkzODRhMC01ZmVjLTExZjEtYWY2MC0wNTdmM2ZhYjllMDYtcmltZy13MTIwMC1oNjAwLWRjMDcwNjAzLWdtaXIuanBnP3Y9MTc4MDU2MDY4OQ.avif",
     "extra": {},
-    "group_id": 73,
+    "group_id": 71,
     "multi_source": false
   },
   {
@@ -1244,23 +1228,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czgvYmFubmVycy9iNjdlY2Y4MC00YmFmLTExZjEtODUzNC02YjY0NzI1OTE4MWItcmltZy13MTIwMC1oNjAwLWRjOGUzNzJmLWdtaXIuanBnP3Y9MTc3ODMzNTM0OA.avif",
     "extra": {},
-    "group_id": 74,
-    "multi_source": false
-  },
-  {
-    "title": "Gaurav Kapoor LIVE",
-    "city": "Delhi NCR",
-    "category": "Comedy",
-    "source": "AllEvents",
-    "url": "https://allevents.in/new-delhi/gaurav-kapoor-live/3900029560908158",
-    "date": "2026-07-19",
-    "venue": "Kedarnath Sahni Auditorium: Delhi",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czQvYmFubmVycy9mYTliMjliMC00YjQ3LTExZjEtODUzNC02YjY0NzI1OTE4MWItcmltZy13MTIwMC1oNjAwLWRjZjY0NDQ0LWdtaXIuanBnP3Y9MTc3ODI5MDc5NA.avif",
-    "extra": {},
-    "group_id": 75,
+    "group_id": 72,
     "multi_source": false
   },
   {
@@ -1276,7 +1244,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czcvYmFubmVycy8xN2NmNWQxMC03YTg5LTExZjEtODY1YS0zM2I1NTkzNmRjMGUtcmltZy13MTIwMC1oNjAwLWRjYTNhM2EzLWdtaXIuanBnP3Y9MTc4MzQ4NjQ2NQ.avif",
     "extra": {},
-    "group_id": 76,
+    "group_id": 73,
     "multi_source": false
   },
   {
@@ -1292,39 +1260,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEvYmFubmVycy84ZTY0ZjdiMC02ZDdjLTExZjEtOTgwZS0zOWU0NGU5NjkyYTgtcmltZy13MTIwMC1oNjAwLWRjNWU0ZDQ0LWdtaXIuanBnP3Y9MTc4MjA1MTcxNg.avif",
     "extra": {},
-    "group_id": 77,
-    "multi_source": false
-  },
-  {
-    "title": "Silly Papa By Angad Singh Ranyal",
-    "city": "Delhi NCR",
-    "category": "Comedy",
-    "source": "AllEvents",
-    "url": "https://allevents.in/new-delhi/silly-papa-by-angad-singh-ranyal/3900029861665100",
-    "date": "2026-07-19",
-    "venue": "The Laugh Store: DLF Cyberhub, Gurugram",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czUvYmFubmVycy8xOWJkMTA1MC02N2QyLTExZjEtOGRmOC1kZDlmYmJkMjk3YjItcmltZy13MTIwMC1oNjAwLWRjMTkxMzUxLWdtaXIuanBnP3Y9MTc4MTQyODc1MA.avif",
-    "extra": {},
-    "group_id": 78,
-    "multi_source": false
-  },
-  {
-    "title": "Best in Standup ft. Various Artists",
-    "city": "Delhi NCR",
-    "category": "Comedy",
-    "source": "AllEvents",
-    "url": "https://allevents.in/new-delhi/best-in-standup-ft-various-artists/3900030385624211",
-    "date": "2026-07-19",
-    "venue": "The Comedy Theatre - Hauz Khass Village: Delhi",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czIvYmFubmVycy8xMjYwZmZkMC04MzgyLTExZjEtYTBmMC1iM2ZjMDU5MzBlMTYtcmltZy13MTIwMC1oNjAwLWRjZjRmMmYzLWdtaXIuanBnP3Y9MTc4NDQ3MzAxMA.avif",
-    "extra": {},
-    "group_id": 79,
+    "group_id": 74,
     "multi_source": false
   },
   {
@@ -1340,7 +1276,23 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czgvYmFubmVycy9mN2NjOWRmMC02NDQxLTExZjEtOWVhYi1iOTM1NDczMDQyYmEtcmltZy13MTIwMC1oNjAwLWRjZmZmNTI3LWdtaXIuanBnP3Y9MTc4MTAzNjk5Mg.avif",
     "extra": {},
-    "group_id": 80,
+    "group_id": 75,
+    "multi_source": false
+  },
+  {
+    "title": "Gaurav Gupta Live",
+    "city": "Delhi NCR",
+    "category": "Comedy",
+    "source": "AllEvents",
+    "url": "https://allevents.in/new-delhi/gaurav-gupta-live/3900030385489104",
+    "date": "2026-07-28",
+    "venue": "The Laugh Store: DLF Cyberhub, Gurugram",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czgvYmFubmVycy80ZDIyYzFkMC04NTk5LTExZjEtYTA4OS03ZjczOTlmMWMyYjAtcmltZy13MTIwMC1oNjAwLWRjMTkxOTE5LWdtaXIuanBnP3Y9MTc4NDcwMjg4OQ.avif",
+    "extra": {},
+    "group_id": 76,
     "multi_source": false
   },
   {
@@ -1356,7 +1308,23 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czUvYmFubmVycy8xNTQ5NzQ1MC03YTZmLTExZjEtYjA0OC04NTJlMWZkMmQ2N2EtcmltZy13MTIwMC1oNjAwLWRjMmQyZDJjLWdtaXIuanBnP3Y9MTc4MzQ3NTI5NA.avif",
     "extra": {},
-    "group_id": 81,
+    "group_id": 77,
+    "multi_source": false
+  },
+  {
+    "title": "Comedy Open Mic 24 July 4:00 PM",
+    "city": "Delhi NCR",
+    "category": "Comedy",
+    "source": "AllEvents",
+    "url": "https://allevents.in/new-delhi/comedy-open-mic-24-july-4-00-pm-tickets/80001030599694",
+    "date": "2026-07-24",
+    "venue": "Hideout Studio",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4yLmFsbGV2ZW50cy5pbi90aHVtYnMvdGh1bWI2ODZmYTM5ZjJjZjZiLmpwZw.avif",
+    "extra": {},
+    "group_id": 78,
     "multi_source": false
   },
   {
@@ -1372,23 +1340,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czQvYmFubmVycy8yOGI0ZDA4MC03YWFmLTExZjEtYjE4ZS1kZmMwZWM1OTZiZjQtcmltZy13MTIwMC1oNjAwLWRjZmRmZWZlLWdtaXIuanBnP3Y9MTc4MzUwMjgxNA.avif",
     "extra": {},
-    "group_id": 82,
-    "multi_source": false
-  },
-  {
-    "title": "Gaurav Gupta Live",
-    "city": "Delhi NCR",
-    "category": "Comedy",
-    "source": "AllEvents",
-    "url": "https://allevents.in/new-delhi/gaurav-gupta-live/3900030385489104",
-    "date": "2026-07-28",
-    "venue": "The Laugh Store: DLF Cyberhub, Gurugram",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czYvYmFubmVycy9mZmY4ZjQ0MC04MjBjLTExZjEtOTU3Zi1mMWYwNjQ2MjM0MGQtcmltZy13MTIwMC1oNjAwLWRjMTkxOTE5LWdtaXIuanBnP3Y9MTc4NDMxMjc3Nw.avif",
-    "extra": {},
-    "group_id": 83,
+    "group_id": 79,
     "multi_source": false
   },
   {
@@ -1402,9 +1354,9 @@
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czYvYmFubmVycy9hYzI2ZmExMC04MjBjLTExZjEtYTBmMC1iM2ZjMDU5MzBlMTYtcmltZy13MTIwMC1oNjAwLWRjZWVkM2FmLWdtaXIuanBnP3Y9MTc4NDMxMjYzNg.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czMvYmFubmVycy84NTBlNGQzMC04NTllLTExZjEtYWJkYS1kZmVhMTBiZTk5NWUtcmltZy13MTIwMC1oNjAwLWRjZWVkM2FmLWdtaXIuanBnP3Y9MTc4NDcwNTEzMQ.avif",
     "extra": {},
-    "group_id": 84,
+    "group_id": 80,
     "multi_source": false
   },
   {
@@ -1420,7 +1372,39 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czYvYmFubmVycy9kNDE0MWEzMC03YWU2LTExZjEtYjE4ZS1kZmMwZWM1OTZiZjQtcmltZy13MTIwMC1oNjAwLWRjOGYzNzMwLWdtaXIuanBnP3Y9MTc4MzUyNjcyNA.avif",
     "extra": {},
-    "group_id": 74,
+    "group_id": 72,
+    "multi_source": false
+  },
+  {
+    "title": "Sapan Verma Live",
+    "city": "Delhi NCR",
+    "category": "Comedy",
+    "source": "AllEvents",
+    "url": "https://allevents.in/new-delhi/sapan-verma-live/3900030216167204",
+    "date": "2026-08-30",
+    "venue": "The Laugh Store: DLF Cyberhub, Gurugram",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czQvYmFubmVycy81N2QyNmRjMC02NDkxLTExZjEtYjZlOC0zZGRkNGM4NWZhMzQtcmltZy13MTIwMC1oNjAwLWRjZTgyYTJmLWdtaXIuanBnP3Y9MTc4MTA3MTA4Mw.avif",
+    "extra": {},
+    "group_id": 81,
+    "multi_source": false
+  },
+  {
+    "title": "Kal Ki Chinta Nahi Karta ft.Ravi Gupta",
+    "city": "Delhi NCR",
+    "category": "Comedy",
+    "source": "AllEvents",
+    "url": "https://allevents.in/new-delhi/kal-ki-chinta-nahi-karta-ftravi-gupta/3900030385594654",
+    "date": "2026-08-11",
+    "venue": "The Laugh Store: DLF Cyberhub, Gurugram",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czgvYmFubmVycy9lZTI1NGI5MC04NTljLTExZjEtYTA4OS03ZjczOTlmMWMyYjAtcmltZy13MTIwMC1oNjAwLWRjZjRkZWMwLWdtaXIuanBnP3Y9MTc4NDcwNDQ0OA.avif",
+    "extra": {},
+    "group_id": 82,
     "multi_source": false
   },
   {
@@ -1434,9 +1418,9 @@
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czYvYmFubmVycy84NTU1MDY5NWU4ODEwYjIyZWM4MDQ0YTBjZjZiMDFjN2I2ZmNhOWZlNWIyYjdhNTA3MDViZWUwOWI3ZDhiYjA0LXJpbWctdzEwMjQtaDE1MzYtZGNmNmVkZDYtZ21pcj92PTE3ODM4Njg5NjM.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czYvYmFubmVycy84NTU1MDY5NWU4ODEwYjIyZWM4MDQ0YTBjZjZiMDFjN2I2ZmNhOWZlNWIyYjdhNTA3MDViZWUwOWI3ZDhiYjA0LXJpbWctdzEwMjQtaDE1MzYtZGNmNmVkZDYtZ21pcj92PTE3ODQ1NzIzNTk.avif",
     "extra": {},
-    "group_id": 85,
+    "group_id": 83,
     "multi_source": false
   },
   {
@@ -1450,9 +1434,9 @@
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czMvYmFubmVycy9lNGZiYjcwMC04MzUwLTExZjEtOGE4Yy0zZmU1N2Q3MGU1ODktcmltZy13MTIwMC1oNjAwLWRjMTE4ZTkwLWdtaXIuanBnP3Y9MTc4NDQ1MTg4OQ.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czQvYmFubmVycy85N2ZlM2ZhMC04NTYxLTExZjEtYWJkYS1kZmVhMTBiZTk5NWUtcmltZy13MTIwMC1oNjAwLWRjMTE4ZTkwLWdtaXIuanBnP3Y9MTc4NDY3ODk2Mw.avif",
     "extra": {},
-    "group_id": 86,
+    "group_id": 84,
     "multi_source": false
   },
   {
@@ -1468,7 +1452,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czQvYmFubmVycy9lMGE0YmJhMC03YWNlLTExZjEtYjE4ZS1kZmMwZWM1OTZiZjQtcmltZy13MTIwMC1oNjAwLWRjZTFjZmJhLWdtaXIuanBnP3Y9MTc4MzUxNjQzNw.avif",
     "extra": {},
-    "group_id": 87,
+    "group_id": 85,
     "multi_source": false
   },
   {
@@ -1484,7 +1468,23 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czQvYmFubmVycy9jOWU4ZGQ3MC02NGFjLTExZjEtYjZlOC0zZGRkNGM4NWZhMzQtcmltZy13MTIwMC1oNjAwLWRjZmVmMmUwLWdtaXIuanBnP3Y9MTc4MTA4Mjg3MQ.avif",
     "extra": {},
-    "group_id": 88,
+    "group_id": 86,
+    "multi_source": false
+  },
+  {
+    "title": "Kalakkaree 2026",
+    "city": "Delhi NCR",
+    "category": "Kids",
+    "source": "AllEvents",
+    "url": "https://allevents.in/new-delhi/kalakkaree-2026/200030315228809",
+    "date": "2026-08-22",
+    "venue": "Bangiya Samaj, C. R. Park",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czIvYmFubmVycy8wZDdkZmFkNGM1YmEyMDMxMGJhOWExZDdhZjY2Y2U3YTliN2FlZTZiMTUxZTkwMGUxYTVlODMwZTA0NTMxOGI4LXJpbWctdzEyMDAtaDQ3OS1kY2YyZDdjMS1nbWlyP3Y9MTc4NDc3NjE2NA.avif",
+    "extra": {},
+    "group_id": 87,
     "multi_source": false
   },
   {
@@ -1499,6 +1499,22 @@
     "price_max": null,
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czkvYmFubmVycy9iNzVjMGJjMC03OWY0LTExZjEtYjA0OC04NTJlMWZkMmQ2N2EtcmltZy13MTIwMC1oNjAwLWRjMTcxMDE3LWdtaXIuanBnP3Y9MTc4MzQyMjczOA.avif",
+    "extra": {},
+    "group_id": 88,
+    "multi_source": false
+  },
+  {
+    "title": "The Ultimate Kids Carnival at Oh Honey",
+    "city": "Delhi NCR",
+    "category": "Kids",
+    "source": "AllEvents",
+    "url": "https://allevents.in/new-delhi/the-ultimate-kids-carnival-at-oh-honey/3900030407246711",
+    "date": "2026-07-26",
+    "venue": "Oh Honey: Noida",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEvYmFubmVycy83ODY5ZDdiMC04NGRjLTExZjEtYTBmMC1iM2ZjMDU5MzBlMTYtcmltZy13MTIwMC1oNjAwLWRjZjllYmQ2LWdtaXIuanBnP3Y9MTc4NDYyMTc4Nw.avif",
     "extra": {},
     "group_id": 89,
     "multi_source": false
@@ -1516,23 +1532,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czYvYmFubmVycy9iOTk4MDQ1MC02NDQzLTExZjEtOTk4ZS03ZDY2NTVhMWI3YTQtcmltZy13MTIwMC1oNjAwLWRjMmYxOTFhLWdtaXIuanBnP3Y9MTc4MTAzNzc0Ng.avif",
     "extra": {},
-    "group_id": 90,
-    "multi_source": false
-  },
-  {
-    "title": "AR VR Innovation Workshop for Kids",
-    "city": "Delhi NCR",
-    "category": "Kids",
-    "source": "AllEvents",
-    "url": "https://allevents.in/new-delhi/ar-vr-innovation-workshop-for-kids/3900030048485139",
-    "date": "2026-07-26",
-    "venue": "STEAM Varsity Makerspace, Sector 65: Gurugram",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czcvYmFubmVycy9lNzhiODVjMC02NGE4LTExZjEtOTY2ZC02MTUyNmNhN2I0ZDEtcmltZy13MTIwMC1oNjAwLWRjNTIwOThhLWdtaXIuanBnP3Y9MTc4MTA4MTIwMw.avif",
-    "extra": {},
-    "group_id": 91,
+    "group_id": 87,
     "multi_source": false
   },
   {
@@ -1548,7 +1548,23 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czkvYmFubmVycy83N2Q2NzdmMC02NDg4LTExZjEtOTk4ZS03ZDY2NTVhMWI3YTQtcmltZy13MTIwMC1oNjAwLWRjZmZmZmZmLWdtaXIuanBnP3Y9MTc4MTA2NzI3MQ.avif",
     "extra": {},
-    "group_id": 92,
+    "group_id": 90,
+    "multi_source": false
+  },
+  {
+    "title": "Robotics Classes for Kids",
+    "city": "Delhi NCR",
+    "category": "Kids",
+    "source": "AllEvents",
+    "url": "https://allevents.in/new-delhi/robotics-classes-for-kids/3900030427005049",
+    "date": "2026-07-26",
+    "venue": "STEAM Varsity Makerspace, Sector 65: Gurugram",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czMvYmFubmVycy9lZmM2NzQzMC04M2Y2LTExZjEtYTBmMC1iM2ZjMDU5MzBlMTYtcmltZy13MTIwMC1oNjAwLWRjNGMwNjhiLWdtaXIuanBnP3Y9MTc4NDUyMzIwMw.avif",
+    "extra": {},
+    "group_id": 91,
     "multi_source": false
   },
   {
@@ -1564,39 +1580,23 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czYvYmFubmVycy9mNTAwN2ZkMC02NGE4LTExZjEtYjBjZC0zZDUzZWJiMzQ1NGEtcmltZy13MTIwMC1oNjAwLWRjNGMwNjc5LWdtaXIuanBnP3Y9MTc4MTA4MTIyNQ.avif",
     "extra": {},
-    "group_id": 93,
+    "group_id": 91,
     "multi_source": false
   },
   {
-    "title": "Pottery With Kids - Delhi NCR",
+    "title": "Raat Ke Afsane : Safdarjung Tomb",
     "city": "Delhi NCR",
     "category": "Kids",
     "source": "AllEvents",
-    "url": "https://allevents.in/new-delhi/pottery-with-kids-delhi-ncr/3900030305643635",
-    "date": "2026-07-25",
-    "venue": "Tim Hortons: Gurugram",
+    "url": "https://allevents.in/new-delhi/raat-ke-afsane-safdarjung-tomb/4100030414123817",
+    "date": "2026-07-26",
+    "venue": "Safdarjung Tomb, Delhi",
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czkvYmFubmVycy9iOTZiYjBhMC03YTllLTExZjEtYjE4ZS1kZmMwZWM1OTZiZjQtcmltZy13MTIwMC1oNjAwLWRjOGM3YzYxLWdtaXIuanBnP3Y9MTc4MzQ5NTc1Ng.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czQvYmFubmVycy8yZjQ1MzdmMC04NWUwLTExZjEtYTQ5MS1jMzM1MWUzNzFjNDEtcmltZy13MTIwMC1oNjc1LWRjMDgwNzA3LWdtaXIucG5nP3Y9MTc4NDczMzMzMw.avif",
     "extra": {},
-    "group_id": 94,
-    "multi_source": false
-  },
-  {
-    "title": "Kids Art Party - Delhi NCR",
-    "city": "Delhi NCR",
-    "category": "Kids",
-    "source": "AllEvents",
-    "url": "https://allevents.in/new-delhi/kids-art-party-delhi-ncr/3900030257132218",
-    "date": "2026-07-25",
-    "venue": "Barista Diner - Starling Mall: Noida",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czQvYmFubmVycy81NDgxZTM2MC03MzVjLTExZjEtYWU5Ny0xOTNmMWNmZTIyOGItcmltZy13MTIwMC1oNjAwLWRjMmQyZDMxLWdtaXIuanBnP3Y9MTc4MjY5NzU4MQ.avif",
-    "extra": {},
-    "group_id": 95,
+    "group_id": 92,
     "multi_source": false
   },
   {
@@ -1612,55 +1612,39 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czkvYmFubmVycy9jYjc5ZDNkMC04MzRmLTExZjEtOGE4Yy0zZmU1N2Q3MGU1ODktcmltZy13MTIwMC1oNjAwLWRjZjFkNWM0LWdtaXIuanBnP3Y9MTc4NDQ1MTQxNg.avif",
     "extra": {},
-    "group_id": 96,
+    "group_id": 93,
     "multi_source": false
   },
   {
-    "title": "Raat Ke Afsane : Safdarjung Tomb",
+    "title": "Kids Art Party - Delhi NCR",
     "city": "Delhi NCR",
     "category": "Kids",
     "source": "AllEvents",
-    "url": "https://allevents.in/new-delhi/raat-ke-afsane-safdarjung-tomb/4100030414123817",
-    "date": "2026-07-26",
-    "venue": "Safdarjung Tomb, Delhi",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czkvYmFubmVycy9mZGM0MzkzMC04MTc4LTExZjEtOGE4Yy0zZmU1N2Q3MGU1ODktcmltZy13MTIwMC1oNjc1LWRjMDgwNzA3LWdtaXIucG5nP3Y9MTc4NDI0OTIwOA.avif",
-    "extra": {},
-    "group_id": 97,
-    "multi_source": false
-  },
-  {
-    "title": "CAD & 3D Printing Classes for Kids",
-    "city": "Delhi NCR",
-    "category": "Kids",
-    "source": "AllEvents",
-    "url": "https://allevents.in/new-delhi/cad-and-3d-printing-classes-for-kids/3900030235770737",
-    "date": "2026-07-26",
-    "venue": "STEAM Varsity Makerspace, Sector 65: Gurugram",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czQvYmFubmVycy82ZjEzNmE1MC02Y2U1LTExZjEtYmRkMC1hOTc3YzY2ZTlkNjYtcmltZy13MTIwMC1oNjAwLWRjNGQwODhjLWdtaXIuanBnP3Y9MTc4MTk4NjgwOQ.avif",
-    "extra": {},
-    "group_id": 98,
-    "multi_source": false
-  },
-  {
-    "title": "Pipe Cleaner Flower Bouquet Making",
-    "city": "Delhi NCR",
-    "category": "Kids",
-    "source": "AllEvents",
-    "url": "https://allevents.in/new-delhi/pipe-cleaner-flower-bouquet-making/3900030402986857",
+    "url": "https://allevents.in/new-delhi/kids-art-party-delhi-ncr/3900030257132218",
     "date": "2026-07-25",
-    "venue": "Farmus - Community Farms &amp; Cafe: Gurugram",
+    "venue": "Barista Diner - Starling Mall: Noida",
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEwL2Jhbm5lcnMvNTkwOTA4ZjAtODM1MS0xMWYxLWEwZjAtYjNmYzA1OTMwZTE2LXJpbWctdzEyMDAtaDYwMC1kY2Y2ZjFlYy1nbWlyLmpwZz92PTE3ODQ0NTIwODM.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czQvYmFubmVycy81NDgxZTM2MC03MzVjLTExZjEtYWU5Ny0xOTNmMWNmZTIyOGItcmltZy13MTIwMC1oNjAwLWRjMmQyZDMxLWdtaXIuanBnP3Y9MTc4MjY5NzU4MQ.avif",
     "extra": {},
-    "group_id": 99,
+    "group_id": 94,
+    "multi_source": false
+  },
+  {
+    "title": "Pottery With Kids - Delhi NCR",
+    "city": "Delhi NCR",
+    "category": "Kids",
+    "source": "AllEvents",
+    "url": "https://allevents.in/new-delhi/pottery-with-kids-delhi-ncr/3900030429383941",
+    "date": "2026-07-25",
+    "venue": "The Weekend Wine and More, Sector 98: Noida",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czkvYmFubmVycy9mOWYxNjgzMC04NDRhLTExZjEtOTU3Zi1mMWYwNjQ2MjM0MGQtcmltZy13MTIwMC1oNjAwLWRjOGM3YzYxLWdtaXIuanBnP3Y9MTc4NDU1OTI5OA.avif",
+    "extra": {},
+    "group_id": 95,
     "multi_source": false
   },
   {
@@ -1676,7 +1660,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czkvYmFubmVycy8xZThlMDE5MC03MDlmLTExZjEtYjU0MC1jMWFlYjI0NmQ5NDUtcmltZy13MTIwMC1oNjAwLWRjMDYwNzA0LWdtaXIuanBnP3Y9MTc4MjM5NjQxNA.avif",
     "extra": {},
-    "group_id": 100,
+    "group_id": 96,
     "multi_source": false
   },
   {
@@ -1692,7 +1676,23 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czMvYmFubmVycy82OTdlZTk3MC01ZmNmLTExZjEtODE0NC0zNzdjMGM0MzQ1OWYtcmltZy13MTIwMC1oNjAwLWRjMDYwNTAzLWdtaXIuanBnP3Y9MTc4MDU0Nzk4Ng.avif",
     "extra": {},
-    "group_id": 101,
+    "group_id": 97,
+    "multi_source": false
+  },
+  {
+    "title": "Kisi Ko Batana Mat Ft. Anubhav Singh Bassi",
+    "city": "Hyderabad",
+    "category": "Comedy",
+    "source": "AllEvents",
+    "url": "https://allevents.in/hyderabad/kisi-ko-batana-mat-ft-anubhav-singh-bassi/3900030418686725",
+    "date": "2026-09-20",
+    "venue": "Shilpakala Vedika: Hyderabad",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czUvYmFubmVycy9hY2VlMzU3MC04NWEwLTExZjEtYWJkYS1kZmVhMTBiZTk5NWUtcmltZy13MTIwMC1oNjAwLWRjNzcxZDIwLWdtaXIuanBnP3Y9MTc4NDcwNjA1Ng.avif",
+    "extra": {},
+    "group_id": 98,
     "multi_source": false
   },
   {
@@ -1708,7 +1708,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czkvYmFubmVycy8zODc2YTk5MC02NDJlLTExZjEtOTUxYy1jOTQyYjdiMWVjYzUtcmltZy13MTIwMC1oNjAwLWRjMDUzMDJjLWdtaXIuanBnP3Y9MTc4MTAyODUxMA.avif",
     "extra": {},
-    "group_id": 102,
+    "group_id": 99,
     "multi_source": false
   },
   {
@@ -1724,23 +1724,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czMvYmFubmVycy85MTUzMDFjMC03YTczLTExZjEtOWM1Zi1iMTViZDU2NTY1MDktcmltZy13MTIwMC1oNjAwLWRjMWEwMjAyLWdtaXIuanBnP3Y9MTc4MzQ3NzIyMA.avif",
     "extra": {},
-    "group_id": 103,
-    "multi_source": false
-  },
-  {
-    "title": "Best in Standup ft. Various Artists",
-    "city": "Hyderabad",
-    "category": "Comedy",
-    "source": "AllEvents",
-    "url": "https://allevents.in/hyderabad/best-in-standup-ft-various-artists/3900030385624318",
-    "date": "2026-07-19",
-    "venue": "The Comedy Theatre: Hyderabad.",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEwL2Jhbm5lcnMvMDcxNWMzOTAtODM4Mi0xMWYxLWEwZjAtYjNmYzA1OTMwZTE2LXJpbWctdzEyMDAtaDYwMC1kY2Y0ZjJmMy1nbWlyLmpwZz92PTE3ODQ0NzI5OTE.avif",
-    "extra": {},
-    "group_id": 104,
+    "group_id": 100,
     "multi_source": false
   },
   {
@@ -1756,55 +1740,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czIvYmFubmVycy9iNDMxNzUyMC03YWI3LTExZjEtYjE4ZS1kZmMwZWM1OTZiZjQtcmltZy13MTIwMC1oNjAwLWRjOGJkMGYzLWdtaXIuanBnP3Y9MTc4MzUwNjQ4NA.avif",
     "extra": {},
-    "group_id": 105,
-    "multi_source": false
-  },
-  {
-    "title": "Aakash Mehta's Relapse a stand-up comedy show",
-    "city": "Hyderabad",
-    "category": "Comedy",
-    "source": "AllEvents",
-    "url": "https://allevents.in/hyderabad/aakash-mehtas-relapse-a-stand-up-comedy-show/3900030214579009",
-    "date": "2026-07-19",
-    "venue": "District 150: Hyderabad",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czkvYmFubmVycy8wZTU5YWU4MC02NDZjLTExZjEtOWVhYi1iOTM1NDczMDQyYmEtcmltZy13MTIwMC1oNjAwLWRjMDIwNDA1LWdtaXIuanBnP3Y9MTc4MTA1NTA2OA.avif",
-    "extra": {},
-    "group_id": 106,
-    "multi_source": false
-  },
-  {
-    "title": "SEX JOKES NIGHT",
-    "city": "Hyderabad",
-    "category": "Comedy",
-    "source": "AllEvents",
-    "url": "https://allevents.in/hyderabad/sex-jokes-night/3900030395309147",
-    "date": "2026-07-19",
-    "venue": "The Comedy Theatre: Hyderabad.",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czUvYmFubmVycy80YmJjMDQ4MC04MmU5LTExZjEtYTBmMC1iM2ZjMDU5MzBlMTYtcmltZy13MTIwMC1oNjAwLWRjMDQwZDE5LWdtaXIuanBnP3Y9MTc4NDQwNzM5Mw.avif",
-    "extra": {},
-    "group_id": 107,
-    "multi_source": false
-  },
-  {
-    "title": "Mid-night Comedy",
-    "city": "Hyderabad",
-    "category": "Comedy",
-    "source": "AllEvents",
-    "url": "https://allevents.in/hyderabad/mid-night-comedy/3900030385622457",
-    "date": "2026-07-19",
-    "venue": "The Comedy Theatre: Hyderabad.",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czQvYmFubmVycy9iM2NmMTk3MC04MzgxLTExZjEtOGE4Yy0zZmU1N2Q3MGU1ODktcmltZy13MTIwMC1oNjAwLWRjMDQwNTE5LWdtaXIuanBnP3Y9MTc4NDQ3Mjg1MQ.avif",
-    "extra": {},
-    "group_id": 108,
+    "group_id": 101,
     "multi_source": false
   },
   {
@@ -1818,9 +1754,9 @@
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czUvYmFubmVycy8wZTUxMmRlMC03ZGU1LTExZjEtYTBmMC1iM2ZjMDU5MzBlMTYtcmltZy13MTIwMC1oNjc1LWRjMDcwNzJhLWdtaXIucG5nP3Y9MTc4Mzg1NTgxNw.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czUvYmFubmVycy9kOWE1ZjhiMC04NGViLTExZjEtOWJlNS00YmViZjQ0YjQ5ODAtcmltZy13MTIwMC1oNjc1LWRjMDcwNzJhLWdtaXIucG5nP3Y9MTc4NDYyODM5Mw.avif",
     "extra": {},
-    "group_id": 109,
+    "group_id": 102,
     "multi_source": false
   },
   {
@@ -1836,23 +1772,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czUvYmFubmVycy8xNGIyYjFmMC03YWM0LTExZjEtYjE4ZS1kZmMwZWM1OTZiZjQtcmltZy13MTIwMC1oNjAwLWRjZmZkMDA5LWdtaXIuanBnP3Y9MTc4MzUxMTgwMA.avif",
     "extra": {},
-    "group_id": 110,
-    "multi_source": false
-  },
-  {
-    "title": "Cry Daddy by Anirban Dasgupta",
-    "city": "Hyderabad",
-    "category": "Comedy",
-    "source": "AllEvents",
-    "url": "https://allevents.in/hyderabad/cry-daddy-by-anirban-dasgupta/3900030397612509",
-    "date": "2026-09-19",
-    "venue": "KLN Prasad Auditorium - FTCCI: Hyderabad",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czMvYmFubmVycy9mYzVjZWMyMC04MWU4LTExZjEtOTU3Zi1mMWYwNjQ2MjM0MGQtcmltZy13MTIwMC1oNjAwLWRjMDEwMTAxLWdtaXIuanBnP3Y9MTc4NDI5NzMwOQ.avif",
-    "extra": {},
-    "group_id": 111,
+    "group_id": 103,
     "multi_source": false
   },
   {
@@ -1868,7 +1788,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czIvYmFubmVycy9iYmQ3ZGQ5MC03YWJkLTExZjEtYjE4ZS1kZmMwZWM1OTZiZjQtcmltZy13MTIwMC1oNjAwLWRjNzkxZDE2LWdtaXIuanBnP3Y9MTc4MzUwOTA3NA.avif",
     "extra": {},
-    "group_id": 112,
+    "group_id": 104,
     "multi_source": false
   },
   {
@@ -1882,9 +1802,9 @@
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czMvYmFubmVycy80NGUwN2UzMC04Mzg4LTExZjEtOTU3Zi1mMWYwNjQ2MjM0MGQtcmltZy13MTIwMC1oNjAwLWRjMTkxMzUxLWdtaXIuanBnP3Y9MTc4NDQ3NTY3Mg.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czgvYmFubmVycy85NDA2ZjU4MC04NWE4LTExZjEtYWJkYS1kZmVhMTBiZTk5NWUtcmltZy13MTIwMC1oNjAwLWRjMTkxMzUxLWdtaXIuanBnP3Y9MTc4NDcwOTQ1MQ.avif",
     "extra": {},
-    "group_id": 113,
+    "group_id": 105,
     "multi_source": false
   },
   {
@@ -1900,7 +1820,87 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czYvYmFubmVycy8wMWMyNzM3MC02NDJlLTExZjEtOWM4Ni1jM2QzMjcwZDQ5YTctcmltZy13MTIwMC1oNjAwLWRjMDUwODE1LWdtaXIuanBnP3Y9MTc4MTAyODQxOA.avif",
     "extra": {},
-    "group_id": 114,
+    "group_id": 106,
+    "multi_source": false
+  },
+  {
+    "title": "Corporate Majdoor By Anmol Garg",
+    "city": "Hyderabad",
+    "category": "Comedy",
+    "source": "AllEvents",
+    "url": "https://allevents.in/hyderabad/corporate-majdoor-by-anmol-garg/3900030409779736",
+    "date": "2026-09-20",
+    "venue": "The Comedy Theatre: Hyderabad.",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czYvYmFubmVycy85MmY5NTQ5MC04NDgwLTExZjEtOGE4Yy0zZmU1N2Q3MGU1ODktcmltZy13MTIwMC1oNjAwLWRjZjNmMWYwLWdtaXIuanBnP3Y9MTc4NDU4MjMxOA.avif",
+    "extra": {},
+    "group_id": 107,
+    "multi_source": false
+  },
+  {
+    "title": "Pratyush Chaubey Live",
+    "city": "Hyderabad",
+    "category": "Comedy",
+    "source": "AllEvents",
+    "url": "https://allevents.in/hyderabad/pratyush-chaubey-live/3900030386270244",
+    "date": "2026-08-15",
+    "venue": "The Comedy Theatre: Hyderabad.",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czkvYmFubmVycy8wYjYwNTU3MC04NWJhLTExZjEtOWJlNS00YmViZjQ0YjQ5ODAtcmltZy13MTIwMC1oNjAwLWRjZjBlZGVhLWdtaXIuanBnP3Y9MTc4NDcxNjk1Mg.avif",
+    "extra": {},
+    "group_id": 108,
+    "multi_source": false
+  },
+  {
+    "title": "Cry Daddy by Anirban Dasgupta",
+    "city": "Hyderabad",
+    "category": "Comedy",
+    "source": "AllEvents",
+    "url": "https://allevents.in/hyderabad/cry-daddy-by-anirban-dasgupta/3900030397612509",
+    "date": "2026-09-19",
+    "venue": "KLN Prasad Auditorium - FTCCI: Hyderabad",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czkvYmFubmVycy85N2FhNGYxMC04NTY4LTExZjEtYTA4OS03ZjczOTlmMWMyYjAtcmltZy13MTIwMC1oNjAwLWRjMDEwMTAxLWdtaXIuanBnP3Y9MTc4NDY4MTk2OQ.avif",
+    "extra": {},
+    "group_id": 109,
+    "multi_source": false
+  },
+  {
+    "title": "Office chugli stand-up comedy crowd work show",
+    "city": "Hyderabad",
+    "category": "Comedy",
+    "source": "AllEvents",
+    "url": "https://allevents.in/hyderabad/office-chugli-stand-up-comedy-crowd-work-show/3900030423144831",
+    "date": "2026-09-20",
+    "venue": "The Comedy Theatre: Hyderabad.",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEvYmFubmVycy8xMWIzOThjMC04NGY2LTExZjEtODMyYy1kNTllZjY0ZDlhNmEtcmltZy13MTIwMC1oNjAwLWRjMDcyOTM0LWdtaXIuanBnP3Y9MTc4NDYzMjc4Mg.avif",
+    "extra": {},
+    "group_id": 110,
+    "multi_source": false
+  },
+  {
+    "title": "Javed Ali Live in Hyderabad",
+    "city": "Hyderabad",
+    "category": "Nightlife",
+    "source": "AllEvents",
+    "url": "https://allevents.in/hyderabad/javed-ali-live-in-hyderabad/3900030425529111",
+    "date": "2026-08-22",
+    "venue": "Quake Arena: Hyderabad",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czIvYmFubmVycy9lMWE2NmFjMC04NTZmLTExZjEtOWJlNS00YmViZjQ0YjQ5ODAtcmltZy13MTIwMC1oNjAwLWRjNjUzMTE1LWdtaXIuanBnP3Y9MTc4NDY4NTEwMA.avif",
+    "extra": {},
+    "group_id": 111,
     "multi_source": false
   },
   {
@@ -1916,39 +1916,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czMvYmFubmVycy8yYjNjNTMwMC03YWUxLTExZjEtOWM1Zi1iMTViZDU2NTY1MDktcmltZy13MTIwMC1oNjAwLWRjMTgxNTE1LWdtaXIuanBnP3Y9MTc4MzUyNDI5Mw.avif",
     "extra": {},
-    "group_id": 115,
-    "multi_source": false
-  },
-  {
-    "title": "SALT AIR & SWIFTS FLAIR",
-    "city": "Hyderabad",
-    "category": "Nightlife",
-    "source": "AllEvents",
-    "url": "https://allevents.in/hyderabad/salt-air-and-swifts-flair/3900030406113516",
-    "date": "2026-08-30",
-    "venue": "Venue To Be Announced: Hyderabad",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czMvYmFubmVycy8xODQ4YzcwMC04Mjg1LTExZjEtYTBmMC1iM2ZjMDU5MzBlMTYtcmltZy13MTIwMC1oNjAwLWRjYzBjMGMwLWdtaXIuanBnP3Y9MTc4NDM2NDM1Nw.avif",
-    "extra": {},
-    "group_id": 116,
-    "multi_source": false
-  },
-  {
-    "title": "THE WEEKND NIGHT - HYDERABAD",
-    "city": "Hyderabad",
-    "category": "Nightlife",
-    "source": "AllEvents",
-    "url": "https://allevents.in/hyderabad/the-weeknd-night-hyderabad/3900029932677827",
-    "date": "2026-08-22",
-    "venue": "Venue To Be Announced: Hyderabad",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEvYmFubmVycy81MmRiZjU3MC00YmE1LTExZjEtYWQxMC1hZjFjMDAwMGZlODItcmltZy13MTIwMC1oNjAwLWRjMDUwMzA2LWdtaXIuanBnP3Y9MTc3ODMzMDg4Ng.avif",
-    "extra": {},
-    "group_id": 117,
+    "group_id": 112,
     "multi_source": false
   },
   {
@@ -1964,55 +1932,23 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czUvYmFubmVycy9iNGRlMjg2ZDlkZDFiNmRmYTE0NTY0M2Q0ZjY1NTliZTg0NjFmNTQyZGMwOWZiNmUwYzZiMzFjNmVlNzdlMjlmLXJpbWctdzEyMDAtaDYwMC1kYzE4NjYzZi1nbWlyLmpwZz92PTE3ODQwOTA2NTI.avif",
     "extra": {},
-    "group_id": 118,
+    "group_id": 113,
     "multi_source": false
   },
   {
-    "title": "TOLLY BOLLY NIGHT AT THE RABBIT HOLE",
+    "title": "THE WEEKND NIGHT - HYDERABAD",
     "city": "Hyderabad",
     "category": "Nightlife",
     "source": "AllEvents",
-    "url": "https://allevents.in/hyderabad/tolly-bolly-night-at-the-rabbit-hole/3900030398642321",
-    "date": "2026-07-19",
-    "venue": "The Rabbit Hole Lounge, Bar and Kitchen: Hyderabad",
+    "url": "https://allevents.in/hyderabad/the-weeknd-night-hyderabad/3900029932677827",
+    "date": "2026-08-22",
+    "venue": "Venue To Be Announced: Hyderabad",
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czIvYmFubmVycy80NDkxZTY4MC04MjZiLTExZjEtYTBmMC1iM2ZjMDU5MzBlMTYtcmltZy13MTIwMC1oNjAwLWRjM2UwNjMzLWdtaXIuanBnP3Y9MTc4NDM1MzI2NQ.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEvYmFubmVycy81MmRiZjU3MC00YmE1LTExZjEtYWQxMC1hZjFjMDAwMGZlODItcmltZy13MTIwMC1oNjAwLWRjMDUwMzA2LWdtaXIuanBnP3Y9MTc3ODMzMDg4Ng.avif",
     "extra": {},
-    "group_id": 119,
-    "multi_source": false
-  },
-  {
-    "title": "Sunday Tunes Ft. Arpit and Chuba",
-    "city": "Hyderabad",
-    "category": "Nightlife",
-    "source": "AllEvents",
-    "url": "https://allevents.in/hyderabad/sunday-tunes-ft-arpit-and-chuba/3900030395636209",
-    "date": "2026-07-19",
-    "venue": "Hard Rock Cafe: Hyderabad",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czYvYmFubmVycy9lNzU4OWFjMC04MmY4LTExZjEtOGE4Yy0zZmU1N2Q3MGU1ODktcmltZy13MTIwMC1oNjAwLWRjZmVkODE4LWdtaXIuanBnP3Y9MTc4NDQxNDA5Nw.avif",
-    "extra": {},
-    "group_id": 120,
-    "multi_source": false
-  },
-  {
-    "title": "Jam Adda With Safar",
-    "city": "Hyderabad",
-    "category": "Nightlife",
-    "source": "AllEvents",
-    "url": "https://allevents.in/hyderabad/jam-adda-with-safar/4100030396029301",
-    "date": "2026-07-25",
-    "venue": "Amnesia Sky Bar | Inorbit Mall, Hitech City",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czcvYmFubmVycy8wODFlM2VmMC03ZmM5LTExZjEtYTBmMC1iM2ZjMDU5MzBlMTYtcmltZy13MTIwMC1oNjc1LWRjNGM3ZWExLWdtaXIucG5nP3Y9MTc4NDA2MzY4Mg.avif",
-    "extra": {},
-    "group_id": 121,
+    "group_id": 114,
     "multi_source": false
   },
   {
@@ -2026,41 +1962,89 @@
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czgvYmFubmVycy85ZGJiYjBiMC04MmRlLTExZjEtYTBmMC1iM2ZjMDU5MzBlMTYtcmltZy13MTIwMC1oNjAwLWRjZGVkMmRjLWdtaXIuanBnP3Y9MTc4NDQwMjgwNg.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEwL2Jhbm5lcnMvZjFlYzk3OTAtODRmZS0xMWYxLWFiZGEtZGZlYTEwYmU5OTVlLXJpbWctdzEyMDAtaDYwMC1kY2RlZDJkYy1nbWlyLmpwZz92PTE3ODQ2MzY1OTQ.avif",
     "extra": {},
-    "group_id": 122,
+    "group_id": 115,
     "multi_source": false
   },
   {
-    "title": "Friendship day with RAM MIRIYALA at Mayabazar",
+    "title": "Sunday Tunes Ft. Arpit and Chuba",
     "city": "Hyderabad",
     "category": "Nightlife",
     "source": "AllEvents",
-    "url": "https://allevents.in/hyderabad/friendship-day-with-ram-miriyala-at-mayabazar/3900030397827956",
-    "date": "2026-08-02",
-    "venue": "Urban Mayabazar - Family Bar and Kitchen",
+    "url": "https://allevents.in/hyderabad/sunday-tunes-ft-arpit-and-chuba/3900030395636209",
+    "date": "2026-07-26",
+    "venue": "Hard Rock Cafe: Hyderabad",
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEwL2Jhbm5lcnMvYjdlYzJhYTAtODFmMy0xMWYxLWEwZjAtYjNmYzA1OTMwZTE2LXJpbWctdzEyMDAtaDYwMC1kYzkzYmJmMy1nbWlyLmpwZz92PTE3ODQzMDE5MTk.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czMvYmFubmVycy83OTAzNGMzMC04NTE2LTExZjEtODMyYy1kNTllZjY0ZDlhNmEtcmltZy13MTIwMC1oNjAwLWRjZmVkODE4LWdtaXIuanBnP3Y9MTc4NDY0NjY5OQ.avif",
     "extra": {},
-    "group_id": 123,
+    "group_id": 116,
     "multi_source": false
   },
   {
-    "title": "Survivor's Guilt",
+    "title": "SALT AIR & SWIFTS FLAIR",
     "city": "Hyderabad",
     "category": "Nightlife",
     "source": "AllEvents",
-    "url": "https://allevents.in/hyderabad/survivors-guilt/3900030213417615",
-    "date": "2026-07-19",
-    "venue": "The Comedy Theatre: Hyderabad.",
+    "url": "https://allevents.in/hyderabad/salt-air-and-swifts-flair/3900030406113516",
+    "date": "2026-08-30",
+    "venue": "Venue To Be Announced: Hyderabad",
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEwL2Jhbm5lcnMvZjQ1N2U3OTAtNjQ1Ny0xMWYxLTk5OGUtN2Q2NjU1YTFiN2E0LXJpbWctdzEyMDAtaDYwMC1kYzFhMDMwNC1nbWlyLmpwZz92PTE3ODEwNDY0MzU.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czIvYmFubmVycy8zMWVlODM1MC04NDllLTExZjEtYTBmMC1iM2ZjMDU5MzBlMTYtcmltZy13MTIwMC1oNjAwLWRjYzBjMGMwLWdtaXIuanBnP3Y9MTc4NDU5NTA0MA.avif",
     "extra": {},
-    "group_id": 124,
+    "group_id": 117,
+    "multi_source": false
+  },
+  {
+    "title": "Jam Adda With Safar",
+    "city": "Hyderabad",
+    "category": "Nightlife",
+    "source": "AllEvents",
+    "url": "https://allevents.in/hyderabad/jam-adda-with-safar/4100030396029301",
+    "date": "2026-07-25",
+    "venue": "Amnesia Sky Bar | Inorbit Mall, Hitech City",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czcvYmFubmVycy80YTM3ZGU3MC04NWJiLTExZjEtOGY3Mi1lZGU5NjhiNGIxZDAtcmltZy13MTIwMC1oNjc1LWRjNGM3ZWExLWdtaXIucG5nP3Y9MTc4NDcxNzQ4Nw.avif",
+    "extra": {},
+    "group_id": 118,
+    "multi_source": false
+  },
+  {
+    "title": "Sawwadi",
+    "city": "Hyderabad",
+    "category": "Nightlife",
+    "source": "AllEvents",
+    "url": "https://allevents.in/hyderabad/sawwadi/4100030426350614",
+    "date": "2026-07-26",
+    "venue": "SKYHY Live | Gachibowli, Hyderabad",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czkvYmFubmVycy8zNzg2MTVlMC04NzRhLTExZjEtYThhNC02MzFiMTc1ZjNkNzgtcmltZy13MTIwMC1oNjc1LWRjMDIwMjAyLWdtaXIuanBnP3Y9MTc4NDg4ODgyNQ.avif",
+    "extra": {},
+    "group_id": 119,
+    "multi_source": false
+  },
+  {
+    "title": "Urban Luxe Fest - Intergalactic Edition",
+    "city": "Hyderabad",
+    "category": "Nightlife",
+    "source": "AllEvents",
+    "url": "https://allevents.in/hyderabad/urban-luxe-fest-intergalactic-edition/4100030426372121",
+    "date": "2026-08-22",
+    "venue": "Sandhya Convention",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEvYmFubmVycy8yYTNkMmJjMC04NmM0LTExZjEtOWE5ZS0zOWNhMDE1MWNkNjYtcmltZy13MTIwMC1oNjc1LWRjMDMwMjAzLWdtaXIuanBnP3Y9MTc4NDgzMTI1MA.avif",
+    "extra": {},
+    "group_id": 120,
     "multi_source": false
   },
   {
@@ -2076,39 +2060,39 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czIvYmFubmVycy9mMzUzZDc0MC03ZDgwLTExZjEtOGRlNy1hNTVjMDRlMTdmMmUtcmltZy13NjQwLWg2NDAtZGNmZTY1MDItZ21pci5qcGc_dj0xNzgzODEyODIx.avif",
     "extra": {},
-    "group_id": 125,
+    "group_id": 121,
     "multi_source": false
   },
   {
-    "title": "Band Niraval Live at Kompound",
+    "title": "Friendship day with RAM MIRIYALA at Mayabazar",
     "city": "Hyderabad",
     "category": "Nightlife",
     "source": "AllEvents",
-    "url": "https://allevents.in/hyderabad/band-niraval-live-at-kompound/4100030379207539",
-    "date": "2026-07-24",
-    "venue": "Kompound | Nanakramguda, Hyderabad",
+    "url": "https://allevents.in/hyderabad/friendship-day-with-ram-miriyala-at-mayabazar/3900030397827956",
+    "date": "2026-08-02",
+    "venue": "Urban Mayabazar - Family Bar and Kitchen",
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czIvYmFubmVycy8yNzIzYzg1MC03ZjI1LTExZjEtOGRlNy1hNTVjMDRlMTdmMmUtcmltZy13MTIwMC1oNjc1LWRjZWI3MjRkLWdtaXIucG5nP3Y9MTc4Mzk5MzI5Nw.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEvYmFubmVycy9jNjkzNzU2MC04NTcwLTExZjEtOWJlNS00YmViZjQ0YjQ5ODAtcmltZy13MTIwMC1oNjAwLWRjOTNiYmYzLWdtaXIuanBnP3Y9MTc4NDY4NTQ4NA.avif",
     "extra": {},
-    "group_id": 126,
+    "group_id": 122,
     "multi_source": false
   },
   {
-    "title": "Canvas Painting Date - Hyderabad",
+    "title": "SCC Candlelight Cinema - Love Aaj Kal",
     "city": "Hyderabad",
     "category": "Nightlife",
     "source": "AllEvents",
-    "url": "https://allevents.in/hyderabad/canvas-painting-date-hyderabad/3900030148006240",
-    "date": "2026-07-26",
-    "venue": "Red Rhino-Craft Brewery and Kitchen: Hyderabad",
+    "url": "https://allevents.in/hyderabad/scc-candlelight-cinema-love-aaj-kal/4100030426336949",
+    "date": "2026-07-25",
+    "venue": "Caffé Jubilee",
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEwL2Jhbm5lcnMvNWM3MWM2NzAtNWY2Mi0xMWYxLWIxNmYtMGY5ZjQ2OTViMGM0LXJpbWctdzEyMDAtaDYwMC1kYzY0NWM0Yi1nbWlyLmpwZz92PTE3ODA1MDExNDg.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEvYmFubmVycy9mY2NjMjA3MC04NTUwLTExZjEtYWJkYS1kZmVhMTBiZTk5NWUtcmltZy13MTIwMC1oNjc1LWRjMmUxYzExLWdtaXIuanBnP3Y9MTc4NDY3MTgzMQ.avif",
     "extra": {},
-    "group_id": 127,
+    "group_id": 123,
     "multi_source": false
   },
   {
@@ -2122,9 +2106,9 @@
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czQvYmFubmVycy9iMTBiMmYzMC04MzE4LTExZjEtOTU3Zi1mMWYwNjQ2MjM0MGQtcmltZy13MTIwMC1oNjAwLWRjMDQwMjAyLWdtaXIuanBnP3Y9MTc4NDQyNzc1MA.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czQvYmFubmVycy9mYjFhMWZmMC04NTJhLTExZjEtODMyYy1kNTllZjY0ZDlhNmEtcmltZy13MTIwMC1oNjAwLWRjMDQwMjAyLWdtaXIuanBnP3Y9MTc4NDY1NTUwNw.avif",
     "extra": {},
-    "group_id": 128,
+    "group_id": 124,
     "multi_source": false
   },
   {
@@ -2140,7 +2124,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 9,
+    "group_id": 7,
     "multi_source": true
   },
   {
@@ -2156,7 +2140,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 129,
+    "group_id": 125,
     "multi_source": false
   },
   {
@@ -2172,7 +2156,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 130,
+    "group_id": 126,
     "multi_source": false
   },
   {
@@ -2188,7 +2172,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 131,
+    "group_id": 127,
     "multi_source": false
   },
   {
@@ -2204,23 +2188,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 132,
-    "multi_source": false
-  },
-  {
-    "title": "Lamp Painting Workshop",
-    "city": "Bangalore",
-    "category": "Comedy",
-    "source": "Eventz",
-    "url": "https://www.eventz.co.in/comedy-shows-in-bangalore",
-    "date": "2026-07-11T00:00:00",
-    "venue": "Hobby Ghar, Bengaluru",
-    "price_min": 1599.0,
-    "price_max": 1599.0,
-    "currency": "INR",
-    "image": "",
-    "extra": {},
-    "group_id": 133,
+    "group_id": 128,
     "multi_source": false
   },
   {
@@ -2236,199 +2204,39 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 134,
+    "group_id": 129,
     "multi_source": false
   },
   {
-    "title": "Lemons & Peaches by Gursimran Khamba",
+    "title": "Standup Comedy Show | Bangalore",
     "city": "Bangalore",
     "category": "Comedy",
     "source": "Eventz",
     "url": "https://www.eventz.co.in/comedy-shows-in-bangalore",
-    "date": "2026-07-11T00:00:00",
-    "venue": "Basava Samiti, Bengaluru",
-    "price_min": 999.0,
-    "price_max": 999.0,
+    "date": "2026-07-24T00:00:00",
+    "venue": "Bloom Creative Zone - HSR, Bengaluru",
+    "price_min": 149.0,
+    "price_max": 149.0,
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 135,
+    "group_id": 130,
     "multi_source": false
   },
   {
-    "title": "Incognito Mode - ON! (Indiranagar)",
+    "title": "Radhe Radhe - Stand Up Solo by Rahul Robin",
     "city": "Bangalore",
     "category": "Comedy",
     "source": "Eventz",
     "url": "https://www.eventz.co.in/comedy-shows-in-bangalore",
-    "date": "2026-07-17T00:00:00",
-    "venue": "Bloom Creative Zone - Indiranagar, Bengaluru",
-    "price_min": 199.0,
-    "price_max": 199.0,
-    "currency": "INR",
-    "image": "",
-    "extra": {},
-    "group_id": 136,
-    "multi_source": false
-  },
-  {
-    "title": "Mohd Suhel Live - Koramangala",
-    "city": "Bangalore",
-    "category": "Comedy",
-    "source": "Eventz",
-    "url": "https://www.eventz.co.in/comedy-shows-in-bangalore",
-    "date": "2026-07-17T00:00:00",
-    "venue": "Ministry Of Comedy, Bengaluru",
-    "price_min": 499.0,
-    "price_max": 499.0,
-    "currency": "INR",
-    "image": "",
-    "extra": {},
-    "group_id": 137,
-    "multi_source": false
-  },
-  {
-    "title": "Date Night - A Stand Up Comedy Show by Siddharth Sudhakar",
-    "city": "Bangalore",
-    "category": "Comedy",
-    "source": "Eventz",
-    "url": "https://www.eventz.co.in/comedy-shows-in-bangalore",
-    "date": "2026-07-18T00:00:00",
-    "venue": "Ministry Of Comedy, Bengaluru",
-    "price_min": 199.0,
-    "price_max": 199.0,
-    "currency": "INR",
-    "image": "",
-    "extra": {},
-    "group_id": 138,
-    "multi_source": false
-  },
-  {
-    "title": "LESSONS by Daniel Fernandes",
-    "city": "Bangalore",
-    "category": "Comedy",
-    "source": "Eventz",
-    "url": "https://www.eventz.co.in/comedy-shows-in-bangalore",
-    "date": "2026-07-18T00:00:00",
-    "venue": "The Underground Comedy Club, Bengaluru",
-    "price_min": 799.0,
-    "price_max": 799.0,
-    "currency": "INR",
-    "image": "",
-    "extra": {},
-    "group_id": 6,
-    "multi_source": true
-  },
-  {
-    "title": "Getting There by Rohan Joshi",
-    "city": "Bangalore",
-    "category": "Comedy",
-    "source": "Eventz",
-    "url": "https://www.eventz.co.in/comedy-shows-in-bangalore",
-    "date": "2026-07-18T00:00:00",
-    "venue": "Good Shepherd Auditorium, Bengaluru",
-    "price_min": 799.0,
-    "price_max": 799.0,
-    "currency": "INR",
-    "image": "",
-    "extra": {},
-    "group_id": 139,
-    "multi_source": false
-  },
-  {
-    "title": "The Duo Ft. Kaustubh Aggarwal & Vivek Samtani Live",
-    "city": "Bangalore",
-    "category": "Comedy",
-    "source": "Eventz",
-    "url": "https://www.eventz.co.in/comedy-shows-in-bangalore",
-    "date": "2026-07-18T00:00:00",
-    "venue": "Fan Park, Phoenix Mall Of Asia, Bengaluru",
-    "price_min": 499.0,
-    "price_max": 499.0,
-    "currency": "INR",
-    "image": "",
-    "extra": {},
-    "group_id": 140,
-    "multi_source": false
-  },
-  {
-    "title": "Out Of Order ft.Shashi Dhiman",
-    "city": "Bangalore",
-    "category": "Comedy",
-    "source": "Eventz",
-    "url": "https://www.eventz.co.in/comedy-shows-in-bangalore",
-    "date": "2026-07-18T00:00:00",
-    "venue": "The Comedy Theatre - Indiranagar, Bangalore",
-    "price_min": 499.0,
-    "price_max": 499.0,
-    "currency": "INR",
-    "image": "",
-    "extra": {},
-    "group_id": 8,
-    "multi_source": true
-  },
-  {
-    "title": "Talking to Myself by Shrikant Mandlik",
-    "city": "Bangalore",
-    "category": "Comedy",
-    "source": "Eventz",
-    "url": "https://www.eventz.co.in/comedy-shows-in-bangalore",
-    "date": "2026-07-18T00:00:00",
-    "venue": "TAG Comedy Club, Bengaluru",
-    "price_min": 199.0,
-    "price_max": 199.0,
-    "currency": "INR",
-    "image": "",
-    "extra": {},
-    "group_id": 141,
-    "multi_source": false
-  },
-  {
-    "title": "Appurv Gupta Live",
-    "city": "Bangalore",
-    "category": "Comedy",
-    "source": "Eventz",
-    "url": "https://www.eventz.co.in/comedy-shows-in-bangalore",
-    "date": "2026-07-19T00:00:00",
-    "venue": "The Underground Comedy Club, Bengaluru",
-    "price_min": 499.0,
-    "price_max": 499.0,
-    "currency": "INR",
-    "image": "",
-    "extra": {},
-    "group_id": 142,
-    "multi_source": false
-  },
-  {
-    "title": "Red Flag - Green Flag",
-    "city": "Bangalore",
-    "category": "Comedy",
-    "source": "Eventz",
-    "url": "https://www.eventz.co.in/comedy-shows-in-bangalore",
-    "date": "2026-07-19T00:00:00",
-    "venue": "The Comedy Theatre - Indiranagar, Bangalore",
-    "price_min": 399.0,
-    "price_max": 399.0,
-    "currency": "INR",
-    "image": "",
-    "extra": {},
-    "group_id": 143,
-    "multi_source": false
-  },
-  {
-    "title": "Faaltugiri by Manish Chaubey India Tour",
-    "city": "Bangalore",
-    "category": "Comedy",
-    "source": "Eventz",
-    "url": "https://www.eventz.co.in/comedy-shows-in-bangalore",
-    "date": "2026-07-22T00:00:00",
-    "venue": "Ministry Of Comedy, Koramangala, Bengaluru",
+    "date": "2026-07-25T00:00:00",
+    "venue": "The Laugh Junction, Bengaluru",
     "price_min": 299.0,
     "price_max": 299.0,
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 144,
+    "group_id": 131,
     "multi_source": false
   },
   {
@@ -2444,7 +2252,23 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 145,
+    "group_id": 132,
+    "multi_source": false
+  },
+  {
+    "title": "42 Minutes with Comic Savy- A Comedy Show",
+    "city": "Bangalore",
+    "category": "Comedy",
+    "source": "Eventz",
+    "url": "https://www.eventz.co.in/comedy-shows-in-bangalore",
+    "date": "2026-07-25T00:00:00",
+    "venue": "Bloom Creative Zone, Indiranagar, Bengaluru",
+    "price_min": 101.0,
+    "price_max": 101.0,
+    "currency": "INR",
+    "image": "",
+    "extra": {},
+    "group_id": 133,
     "multi_source": false
   },
   {
@@ -2460,7 +2284,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 146,
+    "group_id": 134,
     "multi_source": false
   },
   {
@@ -2492,7 +2316,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 147,
+    "group_id": 135,
     "multi_source": false
   },
   {
@@ -2508,7 +2332,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 148,
+    "group_id": 136,
     "multi_source": false
   },
   {
@@ -2524,7 +2348,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 10,
+    "group_id": 6,
     "multi_source": true
   },
   {
@@ -2540,7 +2364,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 24,
+    "group_id": 23,
     "multi_source": true
   },
   {
@@ -2556,7 +2380,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 149,
+    "group_id": 137,
     "multi_source": false
   },
   {
@@ -2572,7 +2396,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 150,
+    "group_id": 138,
     "multi_source": false
   },
   {
@@ -2588,7 +2412,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 151,
+    "group_id": 139,
     "multi_source": false
   },
   {
@@ -2604,7 +2428,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 152,
+    "group_id": 140,
     "multi_source": false
   },
   {
@@ -2620,7 +2444,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 153,
+    "group_id": 141,
     "multi_source": false
   },
   {
@@ -2636,7 +2460,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 32,
+    "group_id": 13,
     "multi_source": true
   },
   {
@@ -2652,7 +2476,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 13,
+    "group_id": 10,
     "multi_source": true
   },
   {
@@ -2668,7 +2492,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 154,
+    "group_id": 142,
     "multi_source": false
   },
   {
@@ -2700,7 +2524,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 155,
+    "group_id": 143,
     "multi_source": false
   },
   {
@@ -2716,7 +2540,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 156,
+    "group_id": 144,
     "multi_source": false
   },
   {
@@ -2732,7 +2556,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 157,
+    "group_id": 145,
     "multi_source": false
   },
   {
@@ -2748,7 +2572,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 158,
+    "group_id": 146,
     "multi_source": false
   },
   {
@@ -2764,7 +2588,39 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 159,
+    "group_id": 147,
+    "multi_source": false
+  },
+  {
+    "title": "New Jokes, Old Tricks ft. Punit Pania",
+    "city": "Bangalore",
+    "category": "Comedy",
+    "source": "Eventz",
+    "url": "https://www.eventz.co.in/comedy-shows-in-bangalore",
+    "date": "2026-08-14T00:00:00",
+    "venue": "The Underground Comedy Club, Bengaluru",
+    "price_min": 499.0,
+    "price_max": 499.0,
+    "currency": "INR",
+    "image": "",
+    "extra": {},
+    "group_id": 148,
+    "multi_source": false
+  },
+  {
+    "title": "Passive Aggressive | A Stand-up Comedy Show",
+    "city": "Bangalore",
+    "category": "Comedy",
+    "source": "Eventz",
+    "url": "https://www.eventz.co.in/comedy-shows-in-bangalore",
+    "date": "2026-08-15T00:00:00",
+    "venue": "Comedy Square, Bengaluru",
+    "price_min": 200.0,
+    "price_max": 200.0,
+    "currency": "INR",
+    "image": "",
+    "extra": {},
+    "group_id": 149,
     "multi_source": false
   },
   {
@@ -2780,7 +2636,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 160,
+    "group_id": 150,
     "multi_source": false
   },
   {
@@ -2796,7 +2652,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 161,
+    "group_id": 151,
     "multi_source": false
   },
   {
@@ -2812,8 +2668,8 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 11,
-    "multi_source": true
+    "group_id": 152,
+    "multi_source": false
   },
   {
     "title": "Ganesh Live",
@@ -2828,7 +2684,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 162,
+    "group_id": 153,
     "multi_source": false
   },
   {
@@ -2844,7 +2700,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 35,
+    "group_id": 12,
     "multi_source": true
   },
   {
@@ -2860,7 +2716,23 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 163,
+    "group_id": 154,
+    "multi_source": false
+  },
+  {
+    "title": "PHACK YOU AVACADO by Siddhartha Shetty",
+    "city": "Bangalore",
+    "category": "Comedy",
+    "source": "Eventz",
+    "url": "https://www.eventz.co.in/comedy-shows-in-bangalore",
+    "date": "2026-09-19T00:00:00",
+    "venue": "The Underground Comedy Club, Bengaluru",
+    "price_min": 499.0,
+    "price_max": 499.0,
+    "currency": "INR",
+    "image": "",
+    "extra": {},
+    "group_id": 155,
     "multi_source": false
   },
   {
@@ -2876,8 +2748,8 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 4,
-    "multi_source": true
+    "group_id": 156,
+    "multi_source": false
   },
   {
     "title": "Lets Talk About It",
@@ -2892,7 +2764,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 164,
+    "group_id": 157,
     "multi_source": false
   },
   {
@@ -2908,7 +2780,23 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 165,
+    "group_id": 158,
+    "multi_source": false
+  },
+  {
+    "title": "Chirag Panjwani Live",
+    "city": "Bangalore",
+    "category": "Comedy",
+    "source": "Eventz",
+    "url": "https://www.eventz.co.in/comedy-shows-in-bangalore",
+    "date": "2026-10-17T00:00:00",
+    "venue": "Basava Samithi, Bengaluru",
+    "price_min": 499.0,
+    "price_max": 499.0,
+    "currency": "INR",
+    "image": "",
+    "extra": {},
+    "group_id": 159,
     "multi_source": false
   },
   {
@@ -2924,11 +2812,11 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 129,
+    "group_id": 125,
     "multi_source": false
   },
   {
-    "title": "The India Story: Slow Poison in Progress",
+    "title": "The India Story",
     "city": "All India",
     "category": "Movies",
     "source": "Wikipedia",
@@ -2940,7 +2828,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 166,
+    "group_id": 160,
     "multi_source": false
   },
   {
@@ -2956,7 +2844,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 167,
+    "group_id": 161,
     "multi_source": false
   },
   {
@@ -2972,7 +2860,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 168,
+    "group_id": 162,
     "multi_source": false
   },
   {
@@ -2988,7 +2876,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 169,
+    "group_id": 163,
     "multi_source": false
   },
   {
@@ -3004,7 +2892,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 170,
+    "group_id": 164,
     "multi_source": false
   },
   {
@@ -3020,7 +2908,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 171,
+    "group_id": 165,
     "multi_source": false
   },
   {
@@ -3036,7 +2924,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 172,
+    "group_id": 166,
     "multi_source": false
   },
   {
@@ -3052,7 +2940,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 173,
+    "group_id": 167,
     "multi_source": false
   },
   {
@@ -3068,7 +2956,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 174,
+    "group_id": 168,
     "multi_source": false
   },
   {
@@ -3084,23 +2972,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 175,
-    "multi_source": false
-  },
-  {
-    "title": "Prahaar - The Ujjwal Nikam Story",
-    "city": "All India",
-    "category": "Movies",
-    "source": "Wikipedia",
-    "url": "https://en.wikipedia.org/wiki/List_of_Hindi_films_of_2026",
-    "date": "2026-08-07T00:00:00",
-    "venue": "In cinemas",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "",
-    "extra": {},
-    "group_id": 176,
+    "group_id": 169,
     "multi_source": false
   },
   {
@@ -3109,14 +2981,14 @@
     "category": "Movies",
     "source": "Wikipedia",
     "url": "https://en.wikipedia.org/wiki/List_of_Hindi_films_of_2026",
-    "date": "2026-08-07T00:00:00",
+    "date": "2026-08-31T00:00:00",
     "venue": "In cinemas",
     "price_min": null,
     "price_max": null,
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 177,
+    "group_id": 170,
     "multi_source": false
   },
   {
@@ -3132,7 +3004,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 178,
+    "group_id": 171,
     "multi_source": false
   },
   {
@@ -3148,7 +3020,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 179,
+    "group_id": 172,
     "multi_source": false
   },
   {
@@ -3164,23 +3036,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 180,
-    "multi_source": false
-  },
-  {
-    "title": "Eetha",
-    "city": "All India",
-    "category": "Movies",
-    "source": "Wikipedia",
-    "url": "https://en.wikipedia.org/wiki/List_of_Hindi_films_of_2026",
-    "date": "2026-08-28T00:00:00",
-    "venue": "In cinemas",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "",
-    "extra": {},
-    "group_id": 181,
+    "group_id": 173,
     "multi_source": false
   },
   {
@@ -3196,7 +3052,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 182,
+    "group_id": 174,
     "multi_source": false
   },
   {
@@ -3212,7 +3068,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 183,
+    "group_id": 175,
     "multi_source": false
   },
   {
@@ -3228,7 +3084,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 184,
+    "group_id": 176,
     "multi_source": false
   },
   {
@@ -3244,7 +3100,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 185,
+    "group_id": 177,
     "multi_source": false
   },
   {
@@ -3260,7 +3116,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 186,
+    "group_id": 178,
     "multi_source": false
   },
   {
@@ -3276,7 +3132,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 187,
+    "group_id": 179,
     "multi_source": false
   },
   {
@@ -3292,7 +3148,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 188,
+    "group_id": 180,
     "multi_source": false
   },
   {
@@ -3308,7 +3164,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 189,
+    "group_id": 181,
     "multi_source": false
   },
   {
@@ -3324,7 +3180,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 190,
+    "group_id": 182,
     "multi_source": false
   },
   {
@@ -3340,7 +3196,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 191,
+    "group_id": 183,
     "multi_source": false
   },
   {
@@ -3356,7 +3212,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 192,
+    "group_id": 184,
     "multi_source": false
   },
   {
@@ -3372,7 +3228,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 193,
+    "group_id": 185,
     "multi_source": false
   },
   {
@@ -3388,7 +3244,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 194,
+    "group_id": 186,
     "multi_source": false
   },
   {
@@ -3404,7 +3260,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 195,
+    "group_id": 187,
     "multi_source": false
   },
   {
@@ -3420,7 +3276,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 196,
+    "group_id": 188,
     "multi_source": false
   },
   {
@@ -3436,7 +3292,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 197,
+    "group_id": 189,
     "multi_source": false
   },
   {
@@ -3457,7 +3313,7 @@
       "away": "Coventry City",
       "official_url": "https://www.arsenal.com/tickets"
     },
-    "group_id": 198,
+    "group_id": 190,
     "multi_source": false
   },
   {
@@ -3477,7 +3333,7 @@
       "home": "Hull City",
       "away": "Manchester United"
     },
-    "group_id": 199,
+    "group_id": 191,
     "multi_source": false
   },
   {
@@ -3498,7 +3354,7 @@
       "away": "Crystal Palace",
       "official_url": "https://www.evertonfc.com/tickets"
     },
-    "group_id": 200,
+    "group_id": 192,
     "multi_source": false
   },
   {
@@ -3518,7 +3374,7 @@
       "home": "Ipswich Town",
       "away": "Sunderland"
     },
-    "group_id": 201,
+    "group_id": 193,
     "multi_source": false
   },
   {
@@ -3538,7 +3394,7 @@
       "home": "Nottingham Forest",
       "away": "Leeds United"
     },
-    "group_id": 202,
+    "group_id": 194,
     "multi_source": false
   },
   {
@@ -3558,7 +3414,7 @@
       "home": "Brentford",
       "away": "Tottenham Hotspur"
     },
-    "group_id": 203,
+    "group_id": 195,
     "multi_source": false
   },
   {
@@ -3578,7 +3434,7 @@
       "home": "Brighton & Hove Albion",
       "away": "Aston Villa"
     },
-    "group_id": 204,
+    "group_id": 196,
     "multi_source": false
   },
   {
@@ -3599,7 +3455,7 @@
       "away": "AFC Bournemouth",
       "official_url": "https://www.mancity.com/tickets"
     },
-    "group_id": 205,
+    "group_id": 197,
     "multi_source": false
   },
   {
@@ -3620,7 +3476,7 @@
       "away": "Liverpool",
       "official_url": "https://www.newcastleunited.com/en/tickets"
     },
-    "group_id": 206,
+    "group_id": 198,
     "multi_source": false
   },
   {
@@ -3640,7 +3496,7 @@
       "home": "Fulham",
       "away": "Chelsea"
     },
-    "group_id": 207,
+    "group_id": 199,
     "multi_source": false
   },
   {
@@ -3660,7 +3516,7 @@
       "home": "Crystal Palace",
       "away": "Manchester City"
     },
-    "group_id": 208,
+    "group_id": 200,
     "multi_source": false
   },
   {
@@ -3681,7 +3537,7 @@
       "away": "Nottingham Forest",
       "official_url": "https://www.liverpoolfc.com/tickets"
     },
-    "group_id": 209,
+    "group_id": 201,
     "multi_source": false
   },
   {
@@ -3701,7 +3557,7 @@
       "home": "AFC Bournemouth",
       "away": "Everton"
     },
-    "group_id": 210,
+    "group_id": 202,
     "multi_source": false
   },
   {
@@ -3721,7 +3577,7 @@
       "home": "Coventry City",
       "away": "Hull City"
     },
-    "group_id": 211,
+    "group_id": 203,
     "multi_source": false
   },
   {
@@ -3742,7 +3598,7 @@
       "away": "Newcastle United",
       "official_url": "https://www.tottenhamhotspur.com/tickets/"
     },
-    "group_id": 212,
+    "group_id": 204,
     "multi_source": false
   },
   {
@@ -3763,7 +3619,7 @@
       "away": "Brighton & Hove Albion",
       "official_url": "https://www.chelseafc.com/en/tickets"
     },
-    "group_id": 213,
+    "group_id": 205,
     "multi_source": false
   },
   {
@@ -3783,7 +3639,7 @@
       "home": "Leeds United",
       "away": "Brentford"
     },
-    "group_id": 214,
+    "group_id": 206,
     "multi_source": false
   },
   {
@@ -3803,7 +3659,7 @@
       "home": "Sunderland",
       "away": "Fulham"
     },
-    "group_id": 215,
+    "group_id": 207,
     "multi_source": false
   },
   {
@@ -3824,7 +3680,7 @@
       "away": "Ipswich Town",
       "official_url": "https://www.manutd.com/en/tickets-and-hospitality"
     },
-    "group_id": 216,
+    "group_id": 208,
     "multi_source": false
   },
   {
@@ -3845,7 +3701,7 @@
       "away": "Arsenal",
       "official_url": "https://www.avfc.co.uk/tickets/"
     },
-    "group_id": 217,
+    "group_id": 209,
     "multi_source": false
   },
   {
@@ -3865,7 +3721,7 @@
       "home": "Ipswich Town",
       "away": "Liverpool"
     },
-    "group_id": 218,
+    "group_id": 210,
     "multi_source": false
   },
   {
@@ -3886,7 +3742,7 @@
       "away": "AFC Bournemouth",
       "official_url": "https://www.newcastleunited.com/en/tickets"
     },
-    "group_id": 219,
+    "group_id": 211,
     "multi_source": false
   },
   {
@@ -3906,7 +3762,7 @@
       "home": "Brentford",
       "away": "Sunderland"
     },
-    "group_id": 220,
+    "group_id": 212,
     "multi_source": false
   },
   {
@@ -3926,7 +3782,7 @@
       "home": "Brighton & Hove Albion",
       "away": "Leeds United"
     },
-    "group_id": 221,
+    "group_id": 213,
     "multi_source": false
   },
   {
@@ -3946,7 +3802,7 @@
       "home": "Fulham",
       "away": "Crystal Palace"
     },
-    "group_id": 222,
+    "group_id": 214,
     "multi_source": false
   },
   {
@@ -3967,7 +3823,7 @@
       "away": "Coventry City",
       "official_url": "https://www.mancity.com/tickets"
     },
-    "group_id": 223,
+    "group_id": 215,
     "multi_source": false
   },
   {
@@ -3987,7 +3843,7 @@
       "home": "Nottingham Forest",
       "away": "Tottenham Hotspur"
     },
-    "group_id": 224,
+    "group_id": 216,
     "multi_source": false
   },
   {
@@ -4007,7 +3863,7 @@
       "home": "Hull City",
       "away": "Aston Villa"
     },
-    "group_id": 225,
+    "group_id": 217,
     "multi_source": false
   },
   {
@@ -4028,7 +3884,7 @@
       "away": "Manchester United",
       "official_url": "https://www.evertonfc.com/tickets"
     },
-    "group_id": 226,
+    "group_id": 218,
     "multi_source": false
   },
   {
@@ -4049,7 +3905,7 @@
       "away": "Chelsea",
       "official_url": "https://www.arsenal.com/tickets"
     },
-    "group_id": 227,
+    "group_id": 219,
     "multi_source": false
   },
   {
@@ -4069,7 +3925,7 @@
       "home": "AFC Bournemouth",
       "away": "Brentford"
     },
-    "group_id": 228,
+    "group_id": 220,
     "multi_source": false
   },
   {
@@ -4090,7 +3946,7 @@
       "away": "Nottingham Forest",
       "official_url": "https://www.avfc.co.uk/tickets/"
     },
-    "group_id": 229,
+    "group_id": 221,
     "multi_source": false
   },
   {
@@ -4111,7 +3967,7 @@
       "away": "Hull City",
       "official_url": "https://www.chelseafc.com/en/tickets"
     },
-    "group_id": 230,
+    "group_id": 222,
     "multi_source": false
   },
   {
@@ -4131,7 +3987,7 @@
       "home": "Crystal Palace",
       "away": "Ipswich Town"
     },
-    "group_id": 231,
+    "group_id": 223,
     "multi_source": false
   },
   {
@@ -4152,7 +4008,7 @@
       "away": "Fulham",
       "official_url": "https://www.liverpoolfc.com/tickets"
     },
-    "group_id": 232,
+    "group_id": 224,
     "multi_source": false
   },
   {
@@ -4173,7 +4029,7 @@
       "away": "Everton",
       "official_url": "https://www.tottenhamhotspur.com/tickets/"
     },
-    "group_id": 233,
+    "group_id": 225,
     "multi_source": false
   },
   {
@@ -4193,7 +4049,7 @@
       "home": "Sunderland",
       "away": "Arsenal"
     },
-    "group_id": 234,
+    "group_id": 226,
     "multi_source": false
   },
   {
@@ -4213,7 +4069,7 @@
       "home": "Coventry City",
       "away": "Brighton & Hove Albion"
     },
-    "group_id": 235,
+    "group_id": 227,
     "multi_source": false
   },
   {
@@ -4234,7 +4090,7 @@
       "away": "Manchester City",
       "official_url": "https://www.manutd.com/en/tickets-and-hospitality"
     },
-    "group_id": 199,
+    "group_id": 191,
     "multi_source": false
   },
   {
@@ -4254,7 +4110,7 @@
       "home": "Leeds United",
       "away": "Newcastle United"
     },
-    "group_id": 236,
+    "group_id": 228,
     "multi_source": false
   },
   {
@@ -4274,7 +4130,191 @@
       "home": "Brentford",
       "away": "Chelsea"
     },
-    "group_id": 237,
+    "group_id": 229,
+    "multi_source": false
+  },
+  {
+    "title": "Tottenham Hotspur vs Aston Villa",
+    "city": "EPL",
+    "category": "Football",
+    "source": "ESPN",
+    "url": "https://www.espn.com/soccer/match/_/gameId/401879269/aston-villa-tottenham-hotspur",
+    "date": "2026-09-19T11:30+00:00",
+    "venue": "Tottenham Hotspur Stadium, London",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "",
+    "extra": {
+      "league": "EPL",
+      "home": "Tottenham Hotspur",
+      "away": "Aston Villa",
+      "official_url": "https://www.tottenhamhotspur.com/tickets/"
+    },
+    "group_id": 225,
+    "multi_source": false
+  },
+  {
+    "title": "Brighton & Hove Albion vs Arsenal",
+    "city": "EPL",
+    "category": "Football",
+    "source": "ESPN",
+    "url": "https://www.espn.com/soccer/match/_/gameId/401879274/arsenal-brighton-hove-albion",
+    "date": "2026-09-19T14:00+00:00",
+    "venue": "American Express Stadium, Falmer",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "",
+    "extra": {
+      "league": "EPL",
+      "home": "Brighton & Hove Albion",
+      "away": "Arsenal"
+    },
+    "group_id": 196,
+    "multi_source": false
+  },
+  {
+    "title": "Everton vs Ipswich Town",
+    "city": "EPL",
+    "category": "Football",
+    "source": "ESPN",
+    "url": "https://www.espn.com/soccer/match/_/gameId/401878778/ipswich-town-everton",
+    "date": "2026-09-19T14:00+00:00",
+    "venue": "Hill Dickinson Stadium, Liverpool",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "",
+    "extra": {
+      "league": "EPL",
+      "home": "Everton",
+      "away": "Ipswich Town",
+      "official_url": "https://www.evertonfc.com/tickets"
+    },
+    "group_id": 230,
+    "multi_source": false
+  },
+  {
+    "title": "Leeds United vs Crystal Palace",
+    "city": "EPL",
+    "category": "Football",
+    "source": "ESPN",
+    "url": "https://www.espn.com/soccer/match/_/gameId/401879273/crystal-palace-leeds-united",
+    "date": "2026-09-19T14:00+00:00",
+    "venue": "Elland Road, Leeds",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "",
+    "extra": {
+      "league": "EPL",
+      "home": "Leeds United",
+      "away": "Crystal Palace"
+    },
+    "group_id": 231,
+    "multi_source": false
+  },
+  {
+    "title": "Manchester City vs Sunderland",
+    "city": "EPL",
+    "category": "Football",
+    "source": "ESPN",
+    "url": "https://www.espn.com/soccer/match/_/gameId/401879272/sunderland-manchester-city",
+    "date": "2026-09-19T14:00+00:00",
+    "venue": "Etihad Stadium, Manchester",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "",
+    "extra": {
+      "league": "EPL",
+      "home": "Manchester City",
+      "away": "Sunderland",
+      "official_url": "https://www.mancity.com/tickets"
+    },
+    "group_id": 232,
+    "multi_source": false
+  },
+  {
+    "title": "Newcastle United vs Hull City",
+    "city": "EPL",
+    "category": "Football",
+    "source": "ESPN",
+    "url": "https://www.espn.com/soccer/match/_/gameId/401879271/hull-city-newcastle-united",
+    "date": "2026-09-19T14:00+00:00",
+    "venue": "St. James' Park, Newcastle-upon-Tyne",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "",
+    "extra": {
+      "league": "EPL",
+      "home": "Newcastle United",
+      "away": "Hull City",
+      "official_url": "https://www.newcastleunited.com/en/tickets"
+    },
+    "group_id": 233,
+    "multi_source": false
+  },
+  {
+    "title": "Nottingham Forest vs Coventry City",
+    "city": "EPL",
+    "category": "Football",
+    "source": "ESPN",
+    "url": "https://www.espn.com/soccer/match/_/gameId/401879270/coventry-city-nottingham-forest",
+    "date": "2026-09-19T16:30+00:00",
+    "venue": "The City Ground, Nottingham",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "",
+    "extra": {
+      "league": "EPL",
+      "home": "Nottingham Forest",
+      "away": "Coventry City"
+    },
+    "group_id": 234,
+    "multi_source": false
+  },
+  {
+    "title": "AFC Bournemouth vs Liverpool",
+    "city": "EPL",
+    "category": "Football",
+    "source": "ESPN",
+    "url": "https://www.espn.com/soccer/match/_/gameId/401879276/liverpool-afc-bournemouth",
+    "date": "2026-09-20T13:00+00:00",
+    "venue": "Vitality Stadium, Bournemouth",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "",
+    "extra": {
+      "league": "EPL",
+      "home": "AFC Bournemouth",
+      "away": "Liverpool"
+    },
+    "group_id": 202,
+    "multi_source": false
+  },
+  {
+    "title": "Fulham vs Manchester United",
+    "city": "EPL",
+    "category": "Football",
+    "source": "ESPN",
+    "url": "https://www.espn.com/soccer/match/_/gameId/401878777/manchester-united-fulham",
+    "date": "2026-09-20T15:30+00:00",
+    "venue": "Craven Cottage, London",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "",
+    "extra": {
+      "league": "EPL",
+      "home": "Fulham",
+      "away": "Manchester United"
+    },
+    "group_id": 191,
     "multi_source": false
   },
   {
@@ -4295,7 +4335,7 @@
       "away": "VfB Stuttgart",
       "official_url": "https://fcbayern.com/en/tickets"
     },
-    "group_id": 238,
+    "group_id": 235,
     "multi_source": false
   },
   {
@@ -4315,7 +4355,7 @@
       "home": "1. FC Union Berlin",
       "away": "Eintracht Frankfurt"
     },
-    "group_id": 239,
+    "group_id": 236,
     "multi_source": false
   },
   {
@@ -4335,7 +4375,7 @@
       "home": "FC Cologne",
       "away": "TSG Hoffenheim"
     },
-    "group_id": 240,
+    "group_id": 237,
     "multi_source": false
   },
   {
@@ -4355,7 +4395,7 @@
       "home": "Mainz",
       "away": "SC Paderborn 07"
     },
-    "group_id": 241,
+    "group_id": 238,
     "multi_source": false
   },
   {
@@ -4376,7 +4416,7 @@
       "away": "Borussia Mönchengladbach",
       "official_url": "https://www.rbleipzig.com/en/tickets"
     },
-    "group_id": 242,
+    "group_id": 239,
     "multi_source": false
   },
   {
@@ -4396,7 +4436,7 @@
       "home": "SV Elversberg",
       "away": "Bayer Leverkusen"
     },
-    "group_id": 243,
+    "group_id": 240,
     "multi_source": false
   },
   {
@@ -4417,7 +4457,7 @@
       "away": "Hamburg SV",
       "official_url": "https://www.bvb.de/eng/Tickets"
     },
-    "group_id": 244,
+    "group_id": 241,
     "multi_source": false
   },
   {
@@ -4437,7 +4477,7 @@
       "home": "SC Freiburg",
       "away": "Werder Bremen"
     },
-    "group_id": 245,
+    "group_id": 242,
     "multi_source": false
   },
   {
@@ -4457,7 +4497,7 @@
       "home": "FC Augsburg",
       "away": "Schalke 04"
     },
-    "group_id": 246,
+    "group_id": 243,
     "multi_source": false
   },
   {
@@ -4477,7 +4517,7 @@
       "home": "VfB Stuttgart",
       "away": "FC Cologne"
     },
-    "group_id": 247,
+    "group_id": 244,
     "multi_source": false
   },
   {
@@ -4498,7 +4538,7 @@
       "away": "1. FC Union Berlin",
       "official_url": "https://www.bayer04.de/en-us/page/tickets"
     },
-    "group_id": 248,
+    "group_id": 245,
     "multi_source": false
   },
   {
@@ -4518,7 +4558,7 @@
       "home": "Borussia Mönchengladbach",
       "away": "SV Elversberg"
     },
-    "group_id": 249,
+    "group_id": 246,
     "multi_source": false
   },
   {
@@ -4538,7 +4578,7 @@
       "home": "SC Paderborn 07",
       "away": "SC Freiburg"
     },
-    "group_id": 250,
+    "group_id": 247,
     "multi_source": false
   },
   {
@@ -4558,7 +4598,7 @@
       "home": "TSG Hoffenheim",
       "away": "Borussia Dortmund"
     },
-    "group_id": 251,
+    "group_id": 248,
     "multi_source": false
   },
   {
@@ -4578,7 +4618,7 @@
       "home": "Werder Bremen",
       "away": "RB Leipzig"
     },
-    "group_id": 252,
+    "group_id": 249,
     "multi_source": false
   },
   {
@@ -4598,7 +4638,7 @@
       "home": "Schalke 04",
       "away": "Bayern Munich"
     },
-    "group_id": 253,
+    "group_id": 250,
     "multi_source": false
   },
   {
@@ -4618,7 +4658,7 @@
       "home": "Hamburg SV",
       "away": "Mainz"
     },
-    "group_id": 254,
+    "group_id": 251,
     "multi_source": false
   },
   {
@@ -4639,7 +4679,7 @@
       "away": "FC Augsburg",
       "official_url": "https://tickets.eintracht.de"
     },
-    "group_id": 255,
+    "group_id": 252,
     "multi_source": false
   },
   {
@@ -4659,7 +4699,7 @@
       "home": "1. FC Union Berlin",
       "away": "Schalke 04"
     },
-    "group_id": 256,
+    "group_id": 253,
     "multi_source": false
   },
   {
@@ -4680,7 +4720,7 @@
       "away": "SC Paderborn 07",
       "official_url": "https://www.bvb.de/eng/Tickets"
     },
-    "group_id": 257,
+    "group_id": 254,
     "multi_source": false
   },
   {
@@ -4700,7 +4740,7 @@
       "home": "FC Augsburg",
       "away": "Bayer Leverkusen"
     },
-    "group_id": 243,
+    "group_id": 240,
     "multi_source": false
   },
   {
@@ -4720,7 +4760,7 @@
       "home": "Mainz",
       "away": "Eintracht Frankfurt"
     },
-    "group_id": 258,
+    "group_id": 255,
     "multi_source": false
   },
   {
@@ -4740,7 +4780,7 @@
       "home": "SC Freiburg",
       "away": "Borussia Mönchengladbach"
     },
-    "group_id": 242,
+    "group_id": 239,
     "multi_source": false
   },
   {
@@ -4760,7 +4800,7 @@
       "home": "TSG Hoffenheim",
       "away": "VfB Stuttgart"
     },
-    "group_id": 259,
+    "group_id": 256,
     "multi_source": false
   },
   {
@@ -4780,7 +4820,7 @@
       "home": "FC Cologne",
       "away": "Werder Bremen"
     },
-    "group_id": 260,
+    "group_id": 257,
     "multi_source": false
   },
   {
@@ -4801,7 +4841,7 @@
       "away": "Hamburg SV",
       "official_url": "https://www.rbleipzig.com/en/tickets"
     },
-    "group_id": 261,
+    "group_id": 258,
     "multi_source": false
   },
   {
@@ -4821,7 +4861,7 @@
       "home": "SV Elversberg",
       "away": "Bayern Munich"
     },
-    "group_id": 243,
+    "group_id": 240,
     "multi_source": false
   },
   {
@@ -4842,7 +4882,169 @@
       "away": "1. FC Union Berlin",
       "official_url": "https://fcbayern.com/en/tickets"
     },
-    "group_id": 248,
+    "group_id": 245,
+    "multi_source": false
+  },
+  {
+    "title": "Borussia Mönchengladbach vs Mainz",
+    "city": "Bundesliga",
+    "category": "Football",
+    "source": "ESPN",
+    "url": "https://www.espn.com/soccer/match/_/gameId/401884786/mainz-borussia-monchengladbach",
+    "date": "2026-09-19T13:30+00:00",
+    "venue": "BORUSSIA-PARK, Mönchengladbach",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "",
+    "extra": {
+      "league": "Bundesliga",
+      "home": "Borussia Mönchengladbach",
+      "away": "Mainz"
+    },
+    "group_id": 259,
+    "multi_source": false
+  },
+  {
+    "title": "Eintracht Frankfurt vs SC Freiburg",
+    "city": "Bundesliga",
+    "category": "Football",
+    "source": "ESPN",
+    "url": "https://www.espn.com/soccer/match/_/gameId/401884787/sc-freiburg-eintracht-frankfurt",
+    "date": "2026-09-19T13:30+00:00",
+    "venue": "Deutsche Bank Park, Frankfurt",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "",
+    "extra": {
+      "league": "Bundesliga",
+      "home": "Eintracht Frankfurt",
+      "away": "SC Freiburg",
+      "official_url": "https://tickets.eintracht.de"
+    },
+    "group_id": 252,
+    "multi_source": false
+  },
+  {
+    "title": "Hamburg SV vs FC Cologne",
+    "city": "Bundesliga",
+    "category": "Football",
+    "source": "ESPN",
+    "url": "https://www.espn.com/soccer/match/_/gameId/401884785/fc-cologne-hamburg-sv",
+    "date": "2026-09-19T13:30+00:00",
+    "venue": "Volksparkstadion, Hamburg Norderstedt",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "",
+    "extra": {
+      "league": "Bundesliga",
+      "home": "Hamburg SV",
+      "away": "FC Cologne"
+    },
+    "group_id": 260,
+    "multi_source": false
+  },
+  {
+    "title": "Werder Bremen vs FC Augsburg",
+    "city": "Bundesliga",
+    "category": "Football",
+    "source": "ESPN",
+    "url": "https://www.espn.com/soccer/match/_/gameId/401884784/fc-augsburg-werder-bremen",
+    "date": "2026-09-19T13:30+00:00",
+    "venue": "Weserstadion, Bremen",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "",
+    "extra": {
+      "league": "Bundesliga",
+      "home": "Werder Bremen",
+      "away": "FC Augsburg"
+    },
+    "group_id": 261,
+    "multi_source": false
+  },
+  {
+    "title": "VfB Stuttgart vs Borussia Dortmund",
+    "city": "Bundesliga",
+    "category": "Football",
+    "source": "ESPN",
+    "url": "https://www.espn.com/soccer/match/_/gameId/401884789/borussia-dortmund-vfb-stuttgart",
+    "date": "2026-09-19T16:30+00:00",
+    "venue": "MHPArena, Stuttgart",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "",
+    "extra": {
+      "league": "Bundesliga",
+      "home": "VfB Stuttgart",
+      "away": "Borussia Dortmund"
+    },
+    "group_id": 262,
+    "multi_source": false
+  },
+  {
+    "title": "Bayer Leverkusen vs RB Leipzig",
+    "city": "Bundesliga",
+    "category": "Football",
+    "source": "ESPN",
+    "url": "https://www.espn.com/soccer/match/_/gameId/401884788/rb-leipzig-bayer-leverkusen",
+    "date": "2026-09-20T13:30+00:00",
+    "venue": "BayArena, Leverkusen",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "",
+    "extra": {
+      "league": "Bundesliga",
+      "home": "Bayer Leverkusen",
+      "away": "RB Leipzig",
+      "official_url": "https://www.bayer04.de/en-us/page/tickets"
+    },
+    "group_id": 263,
+    "multi_source": false
+  },
+  {
+    "title": "Schalke 04 vs SV Elversberg",
+    "city": "Bundesliga",
+    "category": "Football",
+    "source": "ESPN",
+    "url": "https://www.espn.com/soccer/match/_/gameId/401884783/sv-elversberg-schalke-04",
+    "date": "2026-09-20T15:30+00:00",
+    "venue": "Veltins Arena, Gelsenkirchen",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "",
+    "extra": {
+      "league": "Bundesliga",
+      "home": "Schalke 04",
+      "away": "SV Elversberg"
+    },
+    "group_id": 264,
+    "multi_source": false
+  },
+  {
+    "title": "SC Paderborn 07 vs TSG Hoffenheim",
+    "city": "Bundesliga",
+    "category": "Football",
+    "source": "ESPN",
+    "url": "https://www.espn.com/soccer/match/_/gameId/401884782/tsg-hoffenheim-sc-paderborn-07",
+    "date": "2026-09-20T17:30+00:00",
+    "venue": "Home Deluxe Arena, Paderborn",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "",
+    "extra": {
+      "league": "Bundesliga",
+      "home": "SC Paderborn 07",
+      "away": "TSG Hoffenheim"
+    },
+    "group_id": 265,
     "multi_source": false
   },
   {
@@ -4862,7 +5064,7 @@
       "home": "Alavés",
       "away": "Getafe"
     },
-    "group_id": 262,
+    "group_id": 266,
     "multi_source": false
   },
   {
@@ -4883,7 +5085,7 @@
       "away": "Rayo Vallecano",
       "official_url": "https://www.sevillafc.es/en/tickets"
     },
-    "group_id": 263,
+    "group_id": 267,
     "multi_source": false
   },
   {
@@ -4903,7 +5105,7 @@
       "home": "Racing Santander",
       "away": "Villarreal"
     },
-    "group_id": 264,
+    "group_id": 268,
     "multi_source": false
   },
   {
@@ -4923,7 +5125,7 @@
       "home": "Espanyol",
       "away": "Levante"
     },
-    "group_id": 265,
+    "group_id": 269,
     "multi_source": false
   },
   {
@@ -4943,7 +5145,7 @@
       "home": "Celta Vigo",
       "away": "Osasuna"
     },
-    "group_id": 266,
+    "group_id": 270,
     "multi_source": false
   },
   {
@@ -4963,7 +5165,7 @@
       "home": "Deportivo La Coruña",
       "away": "Elche"
     },
-    "group_id": 267,
+    "group_id": 271,
     "multi_source": false
   },
   {
@@ -4984,7 +5186,7 @@
       "away": "Málaga",
       "official_url": "https://www.atleticodemadrid.com/en/tickets"
     },
-    "group_id": 268,
+    "group_id": 272,
     "multi_source": false
   },
   {
@@ -5004,7 +5206,7 @@
       "home": "Rayo Vallecano",
       "away": "Alavés"
     },
-    "group_id": 269,
+    "group_id": 273,
     "multi_source": false
   },
   {
@@ -5024,7 +5226,7 @@
       "home": "Real Betis",
       "away": "Real Sociedad"
     },
-    "group_id": 270,
+    "group_id": 274,
     "multi_source": false
   },
   {
@@ -5045,7 +5247,7 @@
       "away": "Sevilla",
       "official_url": "https://www.athletic-club.eus/en/tickets"
     },
-    "group_id": 271,
+    "group_id": 275,
     "multi_source": false
   },
   {
@@ -5065,7 +5267,7 @@
       "home": "Valencia",
       "away": "Celta Vigo"
     },
-    "group_id": 272,
+    "group_id": 276,
     "multi_source": false
   },
   {
@@ -5085,7 +5287,7 @@
       "home": "Espanyol",
       "away": "Real Madrid"
     },
-    "group_id": 273,
+    "group_id": 277,
     "multi_source": false
   },
   {
@@ -5106,7 +5308,7 @@
       "away": "Villarreal",
       "official_url": "https://www.atleticodemadrid.com/en/tickets"
     },
-    "group_id": 268,
+    "group_id": 272,
     "multi_source": false
   },
   {
@@ -5126,7 +5328,7 @@
       "home": "Getafe",
       "away": "Racing Santander"
     },
-    "group_id": 274,
+    "group_id": 278,
     "multi_source": false
   },
   {
@@ -5146,7 +5348,7 @@
       "home": "Elche",
       "away": "Barcelona"
     },
-    "group_id": 275,
+    "group_id": 279,
     "multi_source": false
   },
   {
@@ -5166,7 +5368,7 @@
       "home": "Osasuna",
       "away": "Levante"
     },
-    "group_id": 276,
+    "group_id": 280,
     "multi_source": false
   },
   {
@@ -5186,7 +5388,7 @@
       "home": "Málaga",
       "away": "Deportivo La Coruña"
     },
-    "group_id": 277,
+    "group_id": 281,
     "multi_source": false
   },
   {
@@ -5206,7 +5408,7 @@
       "home": "Valencia",
       "away": "Real Betis"
     },
-    "group_id": 278,
+    "group_id": 282,
     "multi_source": false
   },
   {
@@ -5227,7 +5429,7 @@
       "away": "Real Sociedad",
       "official_url": "https://www.realmadrid.com/en/tickets"
     },
-    "group_id": 270,
+    "group_id": 274,
     "multi_source": false
   },
   {
@@ -5248,7 +5450,7 @@
       "away": "Athletic Club",
       "official_url": "https://www.fcbarcelona.com/en/tickets"
     },
-    "group_id": 279,
+    "group_id": 283,
     "multi_source": false
   },
   {
@@ -5268,7 +5470,7 @@
       "home": "Racing Santander",
       "away": "Elche"
     },
-    "group_id": 264,
+    "group_id": 268,
     "multi_source": false
   },
   {
@@ -5288,7 +5490,7 @@
       "home": "Alavés",
       "away": "Villarreal"
     },
-    "group_id": 280,
+    "group_id": 284,
     "multi_source": false
   },
   {
@@ -5308,7 +5510,7 @@
       "home": "Levante",
       "away": "Real Betis"
     },
-    "group_id": 278,
+    "group_id": 282,
     "multi_source": false
   },
   {
@@ -5328,7 +5530,7 @@
       "home": "Real Sociedad",
       "away": "Espanyol"
     },
-    "group_id": 281,
+    "group_id": 285,
     "multi_source": false
   },
   {
@@ -5349,7 +5551,7 @@
       "away": "Atlético Madrid",
       "official_url": "https://www.sevillafc.es/en/tickets"
     },
-    "group_id": 282,
+    "group_id": 286,
     "multi_source": false
   },
   {
@@ -5370,7 +5572,7 @@
       "away": "Málaga",
       "official_url": "https://www.realmadrid.com/en/tickets"
     },
-    "group_id": 268,
+    "group_id": 272,
     "multi_source": false
   },
   {
@@ -5390,7 +5592,7 @@
       "home": "Deportivo La Coruña",
       "away": "Valencia"
     },
-    "group_id": 267,
+    "group_id": 271,
     "multi_source": false
   },
   {
@@ -5410,7 +5612,7 @@
       "home": "Celta Vigo",
       "away": "Athletic Club"
     },
-    "group_id": 279,
+    "group_id": 283,
     "multi_source": false
   },
   {
@@ -5430,7 +5632,7 @@
       "home": "Osasuna",
       "away": "Getafe"
     },
-    "group_id": 276,
+    "group_id": 280,
     "multi_source": false
   },
   {
@@ -5451,7 +5653,7 @@
       "away": "Rayo Vallecano",
       "official_url": "https://www.fcbarcelona.com/en/tickets"
     },
-    "group_id": 263,
+    "group_id": 267,
     "multi_source": false
   },
   {
@@ -5471,7 +5673,7 @@
       "home": "Alavés",
       "away": "Osasuna"
     },
-    "group_id": 283,
+    "group_id": 287,
     "multi_source": false
   },
   {
@@ -5492,7 +5694,7 @@
       "away": "Atlético Madrid",
       "official_url": "https://www.athletic-club.eus/en/tickets"
     },
-    "group_id": 284,
+    "group_id": 288,
     "multi_source": false
   },
   {
@@ -5512,7 +5714,7 @@
       "home": "Elche",
       "away": "Real Sociedad"
     },
-    "group_id": 270,
+    "group_id": 274,
     "multi_source": false
   },
   {
@@ -5532,7 +5734,7 @@
       "home": "Espanyol",
       "away": "Sevilla"
     },
-    "group_id": 265,
+    "group_id": 269,
     "multi_source": false
   },
   {
@@ -5552,7 +5754,7 @@
       "home": "Getafe",
       "away": "Celta Vigo"
     },
-    "group_id": 285,
+    "group_id": 289,
     "multi_source": false
   },
   {
@@ -5572,7 +5774,7 @@
       "home": "Málaga",
       "away": "Levante"
     },
-    "group_id": 286,
+    "group_id": 290,
     "multi_source": false
   },
   {
@@ -5592,7 +5794,7 @@
       "home": "Rayo Vallecano",
       "away": "Racing Santander"
     },
-    "group_id": 287,
+    "group_id": 291,
     "multi_source": false
   },
   {
@@ -5612,7 +5814,7 @@
       "home": "Real Betis",
       "away": "Real Madrid"
     },
-    "group_id": 270,
+    "group_id": 274,
     "multi_source": false
   },
   {
@@ -5632,7 +5834,7 @@
       "home": "Valencia",
       "away": "Barcelona"
     },
-    "group_id": 288,
+    "group_id": 292,
     "multi_source": false
   },
   {
@@ -5652,7 +5854,7 @@
       "home": "Villarreal",
       "away": "Deportivo La Coruña"
     },
-    "group_id": 277,
+    "group_id": 281,
     "multi_source": false
   },
   {
@@ -5673,7 +5875,7 @@
       "away": "Elche",
       "official_url": "https://www.athletic-club.eus/en/tickets"
     },
-    "group_id": 271,
+    "group_id": 275,
     "multi_source": false
   },
   {
@@ -5693,7 +5895,7 @@
       "home": "Celta Vigo",
       "away": "Málaga"
     },
-    "group_id": 266,
+    "group_id": 270,
     "multi_source": false
   },
   {
@@ -5713,7 +5915,7 @@
       "home": "Getafe",
       "away": "Deportivo La Coruña"
     },
-    "group_id": 277,
+    "group_id": 281,
     "multi_source": false
   },
   {
@@ -5733,7 +5935,7 @@
       "home": "Levante",
       "away": "Barcelona"
     },
-    "group_id": 275,
+    "group_id": 279,
     "multi_source": false
   },
   {
@@ -5753,7 +5955,7 @@
       "home": "Osasuna",
       "away": "Espanyol"
     },
-    "group_id": 289,
+    "group_id": 293,
     "multi_source": false
   },
   {
@@ -5773,7 +5975,7 @@
       "home": "Racing Santander",
       "away": "Alavés"
     },
-    "group_id": 264,
+    "group_id": 268,
     "multi_source": false
   },
   {
@@ -5794,7 +5996,7 @@
       "away": "Rayo Vallecano",
       "official_url": "https://www.realmadrid.com/en/tickets"
     },
-    "group_id": 290,
+    "group_id": 294,
     "multi_source": false
   },
   {
@@ -5814,7 +6016,7 @@
       "home": "Real Sociedad",
       "away": "Atlético Madrid"
     },
-    "group_id": 291,
+    "group_id": 295,
     "multi_source": false
   },
   {
@@ -5835,7 +6037,7 @@
       "away": "Valencia",
       "official_url": "https://www.sevillafc.es/en/tickets"
     },
-    "group_id": 292,
+    "group_id": 296,
     "multi_source": false
   },
   {
@@ -5855,7 +6057,7 @@
       "home": "Villarreal",
       "away": "Real Betis"
     },
-    "group_id": 293,
+    "group_id": 297,
     "multi_source": false
   },
   {
@@ -5875,7 +6077,7 @@
       "home": "Alavés",
       "away": "Valencia"
     },
-    "group_id": 294,
+    "group_id": 298,
     "multi_source": false
   },
   {
@@ -5896,7 +6098,7 @@
       "away": "Osasuna",
       "official_url": "https://www.atleticodemadrid.com/en/tickets"
     },
-    "group_id": 268,
+    "group_id": 272,
     "multi_source": false
   },
   {
@@ -5917,7 +6119,7 @@
       "away": "Racing Santander",
       "official_url": "https://www.fcbarcelona.com/en/tickets"
     },
-    "group_id": 274,
+    "group_id": 278,
     "multi_source": false
   },
   {
@@ -5937,7 +6139,7 @@
       "home": "Deportivo La Coruña",
       "away": "Sevilla"
     },
-    "group_id": 267,
+    "group_id": 271,
     "multi_source": false
   },
   {
@@ -5957,7 +6159,7 @@
       "home": "Elche",
       "away": "Real Madrid"
     },
-    "group_id": 273,
+    "group_id": 277,
     "multi_source": false
   },
   {
@@ -5977,7 +6179,7 @@
       "home": "Levante",
       "away": "Athletic Club"
     },
-    "group_id": 295,
+    "group_id": 299,
     "multi_source": false
   },
   {
@@ -5997,7 +6199,7 @@
       "home": "Málaga",
       "away": "Villarreal"
     },
-    "group_id": 280,
+    "group_id": 284,
     "multi_source": false
   },
   {
@@ -6017,7 +6219,7 @@
       "home": "Rayo Vallecano",
       "away": "Espanyol"
     },
-    "group_id": 269,
+    "group_id": 273,
     "multi_source": false
   },
   {
@@ -6037,7 +6239,7 @@
       "home": "Real Betis",
       "away": "Getafe"
     },
-    "group_id": 296,
+    "group_id": 300,
     "multi_source": false
   },
   {
@@ -6057,7 +6259,210 @@
       "home": "Real Sociedad",
       "away": "Celta Vigo"
     },
-    "group_id": 297,
+    "group_id": 301,
+    "multi_source": false
+  },
+  {
+    "title": "Athletic Club vs Alavés",
+    "city": "La Liga",
+    "category": "Football",
+    "source": "ESPN",
+    "url": "https://www.espn.com/soccer/match/_/gameId/401882866/alaves-athletic-club",
+    "date": "2026-09-20T18:00+00:00",
+    "venue": "San Mamés, Bilbao",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "",
+    "extra": {
+      "league": "La Liga",
+      "home": "Athletic Club",
+      "away": "Alavés",
+      "official_url": "https://www.athletic-club.eus/en/tickets"
+    },
+    "group_id": 275,
+    "multi_source": false
+  },
+  {
+    "title": "Atlético Madrid vs Real Madrid",
+    "city": "La Liga",
+    "category": "Football",
+    "source": "ESPN",
+    "url": "https://www.espn.com/soccer/match/_/gameId/401882865/real-madrid-atletico-madrid",
+    "date": "2026-09-20T18:00+00:00",
+    "venue": "Riyadh Air Metropolitano, Madrid",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "",
+    "extra": {
+      "league": "La Liga",
+      "home": "Atlético Madrid",
+      "away": "Real Madrid",
+      "official_url": "https://www.atleticodemadrid.com/en/tickets"
+    },
+    "group_id": 295,
+    "multi_source": false
+  },
+  {
+    "title": "Celta Vigo vs Racing Santander",
+    "city": "La Liga",
+    "category": "Football",
+    "source": "ESPN",
+    "url": "https://www.espn.com/soccer/match/_/gameId/401882864/racing-santander-celta-vigo",
+    "date": "2026-09-20T18:00+00:00",
+    "venue": "Balaidos, Vigo",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "",
+    "extra": {
+      "league": "La Liga",
+      "home": "Celta Vigo",
+      "away": "Racing Santander"
+    },
+    "group_id": 278,
+    "multi_source": false
+  },
+  {
+    "title": "Deportivo La Coruña vs Real Betis",
+    "city": "La Liga",
+    "category": "Football",
+    "source": "ESPN",
+    "url": "https://www.espn.com/soccer/match/_/gameId/401882863/real-betis-deportivo-la-coruna",
+    "date": "2026-09-20T18:00+00:00",
+    "venue": "Riazor, La Coruña",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "",
+    "extra": {
+      "league": "La Liga",
+      "home": "Deportivo La Coruña",
+      "away": "Real Betis"
+    },
+    "group_id": 271,
+    "multi_source": false
+  },
+  {
+    "title": "Espanyol vs Elche",
+    "city": "La Liga",
+    "category": "Football",
+    "source": "ESPN",
+    "url": "https://www.espn.com/soccer/match/_/gameId/401882862/elche-espanyol",
+    "date": "2026-09-20T18:00+00:00",
+    "venue": "RCDE Stadium, Barcelona",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "",
+    "extra": {
+      "league": "La Liga",
+      "home": "Espanyol",
+      "away": "Elche"
+    },
+    "group_id": 302,
+    "multi_source": false
+  },
+  {
+    "title": "Getafe vs Málaga",
+    "city": "La Liga",
+    "category": "Football",
+    "source": "ESPN",
+    "url": "https://www.espn.com/soccer/match/_/gameId/401882861/malaga-getafe",
+    "date": "2026-09-20T18:00+00:00",
+    "venue": "Estadio Coliseum, Getafe",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "",
+    "extra": {
+      "league": "La Liga",
+      "home": "Getafe",
+      "away": "Málaga"
+    },
+    "group_id": 303,
+    "multi_source": false
+  },
+  {
+    "title": "Osasuna vs Rayo Vallecano",
+    "city": "La Liga",
+    "category": "Football",
+    "source": "ESPN",
+    "url": "https://www.espn.com/soccer/match/_/gameId/401882860/rayo-vallecano-osasuna",
+    "date": "2026-09-20T18:00+00:00",
+    "venue": "El Sadar, Pamplona",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "",
+    "extra": {
+      "league": "La Liga",
+      "home": "Osasuna",
+      "away": "Rayo Vallecano"
+    },
+    "group_id": 267,
+    "multi_source": false
+  },
+  {
+    "title": "Sevilla vs Barcelona",
+    "city": "La Liga",
+    "category": "Football",
+    "source": "ESPN",
+    "url": "https://www.espn.com/soccer/match/_/gameId/401882859/barcelona-sevilla",
+    "date": "2026-09-20T18:00+00:00",
+    "venue": "Ramón Sánchez Pizjuán Stadium, Sevilla",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "",
+    "extra": {
+      "league": "La Liga",
+      "home": "Sevilla",
+      "away": "Barcelona",
+      "official_url": "https://www.sevillafc.es/en/tickets"
+    },
+    "group_id": 279,
+    "multi_source": false
+  },
+  {
+    "title": "Valencia vs Real Sociedad",
+    "city": "La Liga",
+    "category": "Football",
+    "source": "ESPN",
+    "url": "https://www.espn.com/soccer/match/_/gameId/401882858/real-sociedad-valencia",
+    "date": "2026-09-20T18:00+00:00",
+    "venue": "Mestalla Stadium, Manises",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "",
+    "extra": {
+      "league": "La Liga",
+      "home": "Valencia",
+      "away": "Real Sociedad"
+    },
+    "group_id": 274,
+    "multi_source": false
+  },
+  {
+    "title": "Villarreal vs Levante",
+    "city": "La Liga",
+    "category": "Football",
+    "source": "ESPN",
+    "url": "https://www.espn.com/soccer/match/_/gameId/401882857/levante-villarreal",
+    "date": "2026-09-20T18:00+00:00",
+    "venue": "Estadio de la Cerámica, Villarreal",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "",
+    "extra": {
+      "league": "La Liga",
+      "home": "Villarreal",
+      "away": "Levante"
+    },
+    "group_id": 304,
     "multi_source": false
   },
   {
@@ -6078,7 +6483,7 @@
       "away": "Strasbourg",
       "official_url": "https://billetterie.om.fr"
     },
-    "group_id": 298,
+    "group_id": 305,
     "multi_source": false
   },
   {
@@ -6098,7 +6503,7 @@
       "home": "Lens",
       "away": "AJ Auxerre"
     },
-    "group_id": 299,
+    "group_id": 306,
     "multi_source": false
   },
   {
@@ -6118,7 +6523,7 @@
       "home": "Le Mans",
       "away": "Brest"
     },
-    "group_id": 300,
+    "group_id": 307,
     "multi_source": false
   },
   {
@@ -6138,7 +6543,7 @@
       "home": "Nice",
       "away": "Lorient"
     },
-    "group_id": 301,
+    "group_id": 308,
     "multi_source": false
   },
   {
@@ -6158,7 +6563,7 @@
       "home": "Toulouse",
       "away": "Lyon"
     },
-    "group_id": 302,
+    "group_id": 309,
     "multi_source": false
   },
   {
@@ -6178,7 +6583,7 @@
       "home": "Troyes",
       "away": "Paris FC"
     },
-    "group_id": 303,
+    "group_id": 310,
     "multi_source": false
   },
   {
@@ -6198,7 +6603,7 @@
       "home": "Angers",
       "away": "Lille"
     },
-    "group_id": 304,
+    "group_id": 311,
     "multi_source": false
   },
   {
@@ -6218,7 +6623,7 @@
       "home": "Le Havre AC",
       "away": "AS Monaco"
     },
-    "group_id": 305,
+    "group_id": 312,
     "multi_source": false
   },
   {
@@ -6239,7 +6644,7 @@
       "away": "Stade Rennais",
       "official_url": "https://tickets.psg.fr"
     },
-    "group_id": 306,
+    "group_id": 313,
     "multi_source": false
   },
   {
@@ -6260,7 +6665,7 @@
       "away": "Paris Saint-Germain",
       "official_url": "https://billetterie.losc.fr"
     },
-    "group_id": 307,
+    "group_id": 314,
     "multi_source": false
   },
   {
@@ -6280,7 +6685,7 @@
       "home": "Strasbourg",
       "away": "Lens"
     },
-    "group_id": 308,
+    "group_id": 315,
     "multi_source": false
   },
   {
@@ -6300,7 +6705,7 @@
       "home": "AJ Auxerre",
       "away": "Angers"
     },
-    "group_id": 309,
+    "group_id": 316,
     "multi_source": false
   },
   {
@@ -6320,7 +6725,7 @@
       "home": "Brest",
       "away": "Toulouse"
     },
-    "group_id": 310,
+    "group_id": 317,
     "multi_source": false
   },
   {
@@ -6340,7 +6745,7 @@
       "home": "Lorient",
       "away": "Troyes"
     },
-    "group_id": 311,
+    "group_id": 318,
     "multi_source": false
   },
   {
@@ -6361,7 +6766,7 @@
       "away": "Le Havre AC",
       "official_url": "https://billetterie.ol.fr"
     },
-    "group_id": 312,
+    "group_id": 319,
     "multi_source": false
   },
   {
@@ -6381,7 +6786,7 @@
       "home": "Paris FC",
       "away": "Nice"
     },
-    "group_id": 313,
+    "group_id": 320,
     "multi_source": false
   },
   {
@@ -6401,7 +6806,7 @@
       "home": "Stade Rennais",
       "away": "Le Mans"
     },
-    "group_id": 314,
+    "group_id": 321,
     "multi_source": false
   },
   {
@@ -6421,7 +6826,7 @@
       "home": "AS Monaco",
       "away": "Marseille"
     },
-    "group_id": 315,
+    "group_id": 322,
     "multi_source": false
   },
   {
@@ -6441,7 +6846,7 @@
       "home": "Angers",
       "away": "Stade Rennais"
     },
-    "group_id": 316,
+    "group_id": 323,
     "multi_source": false
   },
   {
@@ -6461,7 +6866,7 @@
       "home": "Le Havre AC",
       "away": "Brest"
     },
-    "group_id": 317,
+    "group_id": 324,
     "multi_source": false
   },
   {
@@ -6481,7 +6886,7 @@
       "home": "Lens",
       "away": "Lorient"
     },
-    "group_id": 301,
+    "group_id": 308,
     "multi_source": false
   },
   {
@@ -6502,7 +6907,7 @@
       "away": "AJ Auxerre",
       "official_url": "https://billetterie.ol.fr"
     },
-    "group_id": 299,
+    "group_id": 306,
     "multi_source": false
   },
   {
@@ -6523,7 +6928,7 @@
       "away": "Paris FC",
       "official_url": "https://billetterie.om.fr"
     },
-    "group_id": 318,
+    "group_id": 325,
     "multi_source": false
   },
   {
@@ -6543,7 +6948,7 @@
       "home": "Nice",
       "away": "Le Mans"
     },
-    "group_id": 319,
+    "group_id": 326,
     "multi_source": false
   },
   {
@@ -6564,7 +6969,7 @@
       "away": "AS Monaco",
       "official_url": "https://tickets.psg.fr"
     },
-    "group_id": 306,
+    "group_id": 313,
     "multi_source": false
   },
   {
@@ -6584,7 +6989,7 @@
       "home": "Toulouse",
       "away": "Lille"
     },
-    "group_id": 302,
+    "group_id": 309,
     "multi_source": false
   },
   {
@@ -6604,7 +7009,7 @@
       "home": "Troyes",
       "away": "Strasbourg"
     },
-    "group_id": 320,
+    "group_id": 327,
     "multi_source": false
   },
   {
@@ -6624,7 +7029,7 @@
       "home": "AJ Auxerre",
       "away": "Nice"
     },
-    "group_id": 309,
+    "group_id": 316,
     "multi_source": false
   },
   {
@@ -6644,7 +7049,7 @@
       "home": "Brest",
       "away": "Paris Saint-Germain"
     },
-    "group_id": 307,
+    "group_id": 314,
     "multi_source": false
   },
   {
@@ -6664,7 +7069,7 @@
       "home": "Le Havre AC",
       "away": "Angers"
     },
-    "group_id": 317,
+    "group_id": 324,
     "multi_source": false
   },
   {
@@ -6684,7 +7089,7 @@
       "home": "Le Mans",
       "away": "Lens"
     },
-    "group_id": 300,
+    "group_id": 307,
     "multi_source": false
   },
   {
@@ -6705,7 +7110,7 @@
       "away": "Troyes",
       "official_url": "https://billetterie.losc.fr"
     },
-    "group_id": 311,
+    "group_id": 318,
     "multi_source": false
   },
   {
@@ -6725,7 +7130,7 @@
       "home": "Lorient",
       "away": "Toulouse"
     },
-    "group_id": 310,
+    "group_id": 317,
     "multi_source": false
   },
   {
@@ -6745,7 +7150,7 @@
       "home": "Paris FC",
       "away": "Lyon"
     },
-    "group_id": 313,
+    "group_id": 320,
     "multi_source": false
   },
   {
@@ -6765,7 +7170,7 @@
       "home": "Stade Rennais",
       "away": "Marseille"
     },
-    "group_id": 321,
+    "group_id": 328,
     "multi_source": false
   },
   {
@@ -6785,7 +7190,189 @@
       "home": "Strasbourg",
       "away": "AS Monaco"
     },
-    "group_id": 322,
+    "group_id": 329,
+    "multi_source": false
+  },
+  {
+    "title": "AJ Auxerre vs Brest",
+    "city": "Ligue 1",
+    "category": "Football",
+    "source": "ESPN",
+    "url": "https://www.espn.com/soccer/match/_/gameId/401876456/brest-aj-auxerre",
+    "date": "2026-09-19T18:00+00:00",
+    "venue": "Stade de l'Abbé-Deschamps, Auxerre",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "",
+    "extra": {
+      "league": "Ligue 1",
+      "home": "AJ Auxerre",
+      "away": "Brest"
+    },
+    "group_id": 316,
+    "multi_source": false
+  },
+  {
+    "title": "Angers vs Troyes",
+    "city": "Ligue 1",
+    "category": "Football",
+    "source": "ESPN",
+    "url": "https://www.espn.com/soccer/match/_/gameId/401876457/troyes-angers",
+    "date": "2026-09-19T18:00+00:00",
+    "venue": "Stade Raymond Kopa, Angers",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "",
+    "extra": {
+      "league": "Ligue 1",
+      "home": "Angers",
+      "away": "Troyes"
+    },
+    "group_id": 330,
+    "multi_source": false
+  },
+  {
+    "title": "AS Monaco vs Lens",
+    "city": "Ligue 1",
+    "category": "Football",
+    "source": "ESPN",
+    "url": "https://www.espn.com/soccer/match/_/gameId/401876453/lens-as-monaco",
+    "date": "2026-09-19T18:00+00:00",
+    "venue": "Stade Louis II, Monaco",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "",
+    "extra": {
+      "league": "Ligue 1",
+      "home": "AS Monaco",
+      "away": "Lens"
+    },
+    "group_id": 331,
+    "multi_source": false
+  },
+  {
+    "title": "Le Mans vs Lorient",
+    "city": "Ligue 1",
+    "category": "Football",
+    "source": "ESPN",
+    "url": "https://www.espn.com/soccer/match/_/gameId/401876455/lorient-le-mans",
+    "date": "2026-09-19T18:00+00:00",
+    "venue": "Stade Marie-Marvingt, Le Mans",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "",
+    "extra": {
+      "league": "Ligue 1",
+      "home": "Le Mans",
+      "away": "Lorient"
+    },
+    "group_id": 307,
+    "multi_source": false
+  },
+  {
+    "title": "Lyon vs Stade Rennais",
+    "city": "Ligue 1",
+    "category": "Football",
+    "source": "ESPN",
+    "url": "https://www.espn.com/soccer/match/_/gameId/401876454/stade-rennais-lyon",
+    "date": "2026-09-19T18:00+00:00",
+    "venue": "Groupama Stadium, Lyon",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "",
+    "extra": {
+      "league": "Ligue 1",
+      "home": "Lyon",
+      "away": "Stade Rennais",
+      "official_url": "https://billetterie.ol.fr"
+    },
+    "group_id": 323,
+    "multi_source": false
+  },
+  {
+    "title": "Nice vs Lille",
+    "city": "Ligue 1",
+    "category": "Football",
+    "source": "ESPN",
+    "url": "https://www.espn.com/soccer/match/_/gameId/401876452/lille-nice",
+    "date": "2026-09-19T18:00+00:00",
+    "venue": "Allianz Riviera, Nice",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "",
+    "extra": {
+      "league": "Ligue 1",
+      "home": "Nice",
+      "away": "Lille"
+    },
+    "group_id": 308,
+    "multi_source": false
+  },
+  {
+    "title": "Paris FC vs Strasbourg",
+    "city": "Ligue 1",
+    "category": "Football",
+    "source": "ESPN",
+    "url": "https://www.espn.com/soccer/match/_/gameId/401876451/strasbourg-paris-fc",
+    "date": "2026-09-19T18:00+00:00",
+    "venue": "Stade Jean Bouin, Paris",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "",
+    "extra": {
+      "league": "Ligue 1",
+      "home": "Paris FC",
+      "away": "Strasbourg"
+    },
+    "group_id": 332,
+    "multi_source": false
+  },
+  {
+    "title": "Toulouse vs Le Havre AC",
+    "city": "Ligue 1",
+    "category": "Football",
+    "source": "ESPN",
+    "url": "https://www.espn.com/soccer/match/_/gameId/401876450/le-havre-ac-toulouse",
+    "date": "2026-09-19T18:00+00:00",
+    "venue": "Stadium Municipal de Toulouse, Toulouse",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "",
+    "extra": {
+      "league": "Ligue 1",
+      "home": "Toulouse",
+      "away": "Le Havre AC"
+    },
+    "group_id": 319,
+    "multi_source": false
+  },
+  {
+    "title": "Marseille vs Paris Saint-Germain",
+    "city": "Ligue 1",
+    "category": "Football",
+    "source": "ESPN",
+    "url": "https://www.espn.com/soccer/match/_/gameId/401876449/paris-saint-germain-marseille",
+    "date": "2026-09-20T18:45+00:00",
+    "venue": "Stade Vélodrome, Marseille",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "",
+    "extra": {
+      "league": "Ligue 1",
+      "home": "Marseille",
+      "away": "Paris Saint-Germain",
+      "official_url": "https://billetterie.om.fr"
+    },
+    "group_id": 314,
     "multi_source": false
   }
 ]
