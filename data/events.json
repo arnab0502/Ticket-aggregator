@@ -112,22 +112,6 @@
     "multi_source": true
   },
   {
-    "title": "Kahanibaaz By Ashish Vidyarthi - Bengaluru",
-    "city": "Bangalore",
-    "category": "Comedy",
-    "source": "AllEvents",
-    "url": "https://allevents.in/bangalore/kahanibaaz-by-ashish-vidyarthi-bengaluru/4100030429210327",
-    "date": "2026-08-02",
-    "venue": "Mother Tekhla Auditorium",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czkvYmFubmVycy9lMmQ1NmM5MC04NzJhLTExZjEtODg5Ny1kMWM4ODdkMjY2OTctcmltZy13MTIwMC1oNjc1LWRjMDQwMTAxLWdtaXIuanBnP3Y9MTc4NDg3NTM2OQ.avif",
-    "extra": {},
-    "group_id": 7,
-    "multi_source": false
-  },
-  {
     "title": "Spoiler Alert, a standup comedy solo by Anshu Mor",
     "city": "Bangalore",
     "category": "Comedy",
@@ -140,7 +124,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czYvYmFubmVycy9iMDk3ZjNiMC04NGM4LTExZjEtYTBmMC1iM2ZjMDU5MzBlMTYtcmltZy13MTIwMC1oNjAwLWRjMjA2OGE2LWdtaXIuanBnP3Y9MTc4NDYxMzI5MQ.avif",
     "extra": {},
-    "group_id": 8,
+    "group_id": 7,
     "multi_source": false
   },
   {
@@ -156,7 +140,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czMvYmFubmVycy9kMTBjYTJkMC03YTczLTExZjEtYjA0OC04NTJlMWZkMmQ2N2EtcmltZy13MTIwMC1oNjAwLWRjMTYwNzA1LWdtaXIuanBnP3Y9MTc4MzQ3NzMyNw.avif",
     "extra": {},
-    "group_id": 9,
+    "group_id": 8,
     "multi_source": true
   },
   {
@@ -172,7 +156,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czIvYmFubmVycy8yZDhhMjU1MC01ZmRmLTExZjEtODE0NC0zNzdjMGM0MzQ1OWYtcmltZy13MTIwMC1oNjAwLWRjOGRmZmU5LWdtaXIuanBnP3Y9MTc4MDU1NDc1Nw.avif",
     "extra": {},
-    "group_id": 10,
+    "group_id": 9,
     "multi_source": false
   },
   {
@@ -188,7 +172,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czIvYmFubmVycy81ZWJlNjYwMC03YTczLTExZjEtYWUzNi01ZDU0ZmNkODkwNjktcmltZy13MTIwMC1oNjAwLWRjMWEwMjAyLWdtaXIuanBnP3Y9MTc4MzQ3NzEzNQ.avif",
     "extra": {},
-    "group_id": 11,
+    "group_id": 10,
     "multi_source": true
   },
   {
@@ -204,7 +188,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEwL2Jhbm5lcnMvYWNmZmU4MzAtNWZjZS0xMWYxLWFmNjAtMDU3ZjNmYWI5ZTA2LXJpbWctdzEyMDAtaDYwMC1kYzQ3MDYxOC1nbWlyLmpwZz92PTE3ODA1NDc2Njk.avif",
     "extra": {},
-    "group_id": 12,
+    "group_id": 11,
     "multi_source": true
   },
   {
@@ -220,7 +204,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czIvYmFubmVycy8wYTc4NTUwMC03YWJhLTExZjEtYjE4ZS1kZmMwZWM1OTZiZjQtcmltZy13MTIwMC1oNjAwLWRjMTkxMzUxLWdtaXIuanBnP3Y9MTc4MzUwNzQ4OA.avif",
     "extra": {},
-    "group_id": 13,
+    "group_id": 12,
     "multi_source": false
   },
   {
@@ -236,8 +220,24 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czQvYmFubmVycy8xZTI0ZDViMC04NGJhLTExZjEtOGE4Yy0zZmU1N2Q3MGU1ODktcmltZy13MTIwMC1oNjAwLWRjMzg1YzUwLWdtaXIuanBnP3Y9MTc4NDYwNzAzMw.avif",
     "extra": {},
-    "group_id": 14,
+    "group_id": 13,
     "multi_source": true
+  },
+  {
+    "title": "Shashi Dhiman Live",
+    "city": "Bangalore",
+    "category": "Comedy",
+    "source": "AllEvents",
+    "url": "https://allevents.in/bangalore/shashi-dhiman-live/3900030209970501",
+    "date": "2026-10-11",
+    "venue": "Samarthanam Auditorium-TheatreNama: Bengaluru",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEwL2Jhbm5lcnMvMDMzMTQ1YjAtNjQyZS0xMWYxLTk1MWMtYzk0MmI3YjFlY2M1LXJpbWctdzEyMDAtaDYwMC1kYzA1MDgxNS1nbWlyLmpwZz92PTE3ODEwMjg0MjE.avif",
+    "extra": {},
+    "group_id": 14,
+    "multi_source": false
   },
   {
     "title": "Gorillaz The Mountain Tour 2027",
@@ -572,7 +572,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEvYmFubmVycy9iOTFiODAxMC04NzFiLTExZjEtODg5Ny1kMWM4ODdkMjY2OTctcmltZy13MTIwMC1oNjc1LWRjNDcwNTE3LWdtaXIuanBnP3Y9MTc4NDg2ODg1Ng.avif",
     "extra": {},
-    "group_id": 12,
+    "group_id": 11,
     "multi_source": true
   },
   {
@@ -2460,7 +2460,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 12,
+    "group_id": 11,
     "multi_source": true
   },
   {
@@ -2476,7 +2476,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 9,
+    "group_id": 8,
     "multi_source": true
   },
   {
@@ -2668,7 +2668,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 14,
+    "group_id": 13,
     "multi_source": true
   },
   {
@@ -2700,7 +2700,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 11,
+    "group_id": 10,
     "multi_source": true
   },
   {
