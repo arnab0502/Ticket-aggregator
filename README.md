@@ -1,15 +1,81 @@
-# 🎟️ India Events Aggregator
+# 🎟️ Global Events Aggregator
 
-Aggregates shows and events (comedy, kids, nightlife, football and more) from
-Indian and international listing sites into one filterable dashboard, and
-flags events listed on multiple platforms so you can compare prices.
+Aggregates shows and events (comedy, kids, nightlife, markets, movies,
+football and more) from Indian, US and international listing sites into
+one filterable dashboard, and flags events listed on multiple platforms
+so you can compare prices.
 
-**Sources:** AllEvents, Eventz, Wikipedia (movie release calendars), ESPN
-(football fixtures), BookMyShow (best-effort) — plus ticket marketplace
-links (Official club sites, Ticketmaster, StubHub, viagogo, SeatGeek) for
-football matches.
 **Output:** a single self-contained `dashboard.html` you can open in any
-browser or host on GitHub Pages.
+browser or host on GitHub Pages / Netlify.
+
+## Coverage — what's actually scraped, and what isn't
+
+Being upfront about this matters: an aggregator is only useful if you know
+where its blind spots are. Here's every source, exactly what it covers, and
+why it's scoped the way it is.
+
+| Source | Region | Categories | Notes |
+|---|---|---|---|
+| AllEvents | Bangalore, Mumbai, Delhi NCR, Hyderabad | Comedy, Kids, Nightlife | Indexed directly (schema.org JSON-LD) |
+| Eventz | Bangalore, Mumbai, Delhi NCR, Hyderabad | Comedy, Kids | Indexed directly |
+| Eventbrite | Sacramento, San Francisco, NYC, Chicago | Comedy, Kids, Nightlife, Markets | Indexed directly (same JSON-LD technique as AllEvents) |
+| Movies (Wikipedia) | India | Movies (Hindi releases) | Release calendar, not a booking source — see below |
+| USMovies (Wikipedia) | US | Movies (all wide theatrical releases, incl. major non-English/int'l titles distributed in the US) | Same idea, US release calendar |
+| Football (ESPN API) | Global | EPL, Bundesliga, La Liga, Ligue 1, ISL | Not city-scoped — fixtures show regardless of which city/region filter is selected, since a match isn't tied to one city the way a comedy show is |
+| BookMyShow | Bangalore, Mumbai, Delhi NCR, Hyderabad | Best-effort | Blocked by bot detection most runs; still gets a movie booking chip regardless |
+
+**Cities are a scope choice, not a technical ceiling.** Both the India and
+US city lists are short by design — same 4-city pattern on both sides —
+not because the underlying sites only have events in those cities. Widening
+either list is a config change in `scrapers/allevents.py` /
+`scrapers/eventz.py` / `scrapers/bookmyshow.py` (India) or
+`scrapers/eventbrite.py` (US); say the word and I'll add cities.
+
+**Movies are release-calendar based, not per-cinema.** `movies.py` and
+`usmovies.py` don't scrape "what's showing at cinema X today" — they scrape
+Wikipedia's release-schedule tables (Hindi films for India, all American
+films for the US) and keep anything released in the last 30 days or opening
+in the next 120. That window matters: a movie that already released stays
+visible for a month (so it doesn't vanish from the dashboard while it's
+still actually in theaters), and pulling from the *American* films list
+means big global tentpoles (Marvel, Nolan, Pixar, etc.) show up even though
+they're not "Hindi films" — those get **both** India and US booking chips
+(BookMyShow/District + Fandango/AMC), since day-and-date global releases are
+genuinely bookable on either, unlike a purely regional release.
+
+**Football has its own tab**, not just a category filter — the dashboard
+now has two top-level tabs, "🎫 Events" and "⚽ Football". Football used to
+be a category pill mixed into the same city-filtered grid as everything
+else, and its city field doubled as the league name (EPL/Bundesliga/etc.),
+which meant filtering by a specific city hid every match — a real bug.
+Now Football is fully separate: its own tab, with its own location filter
+built from each match's actual stadium city (parsed from the venue string),
+completely independent of the Events tab's city/region filter.
+
+**Every card's chips should deep-link to the actual listing, not a
+homepage.** This was a real bug for Eventz specifically: its scraper parsed
+visible page text for title/venue/date/price but never captured each card's
+underlying link, so every Eventz-sourced card pointed at the shared city
+listing page instead of its own event page. Fixed — Eventz cards now link
+to their real `eventz.co.in/events-list/<slug>` page. Similarly, the
+movie booking chips (BookMyShow/District/Fandango/AMC) used to be static
+homepage links; District and Fandango now deep-link to a real, verified
+title search (`/search?q=<title>`, confirmed against the live sites to
+return actual results, not an empty state) — BookMyShow and AMC don't have
+a working plain-URL search (both return 404/403 respectively on every
+pattern tried), so those two stay as honest browse-page links rather than
+a search URL that would silently break.
+
+**Known real limitation: only the first page per city/category is
+scraped**, for both AllEvents and Eventbrite — both sites paginate
+(confirmed: Eventbrite's `?page=2` returns a completely different set of
+20 events, zero overlap with page 1), so there's more content on these
+sites than currently shown. Not fixed yet — flag it if you want pagination
+added; it's a moderate scope increase (more requests per run, longer
+scrape time) but technically straightforward for both sources.
+
+If something big is still missing after reading this table, that's a gap
+worth closing, not an inherent limit of the approach — flag it.
 
 ## Quick start
 
@@ -46,10 +112,12 @@ run.py                    one-off entry point: scrape → dedupe → dashboard
 serve.py                  live server: instant cached load, background re-scrape, auto-reload
 ├── scrapers/
 │   ├── base.py           Event model, polite rate-limited fetch, price parsing
-│   ├── allevents.py      parses schema.org JSON-LD from allevents.in
-│   ├── eventz.py         defensive HTML parsing of eventz.co.in
+│   ├── allevents.py      parses schema.org JSON-LD from allevents.in (India)
+│   ├── eventz.py         defensive HTML parsing of eventz.co.in (India)
+│   ├── eventbrite.py     parses schema.org JSON-LD from eventbrite.com (US)
 │   ├── movies.py         upcoming Hindi film releases from Wikipedia
-│   ├── football.py       EPL/Bundesliga/LaLiga/Ligue1/ISL fixtures via ESPN API
+│   ├── usmovies.py       upcoming US wide releases from Wikipedia
+│   ├── football.py       EPL/Bundesliga/LaLiga/Ligue1/ISL fixtures via ESPN API (global, not city-scoped)
 │   ├── bookmyshow.py     best-effort (BMS blocks most scraping)
 │   └── __init__.py       SCRAPERS registry
 ├── aggregator/
@@ -149,6 +217,12 @@ shared and already flagged by Cloudflare/Akamai far more than a home IP).
   scrapers** (Cloudflare / Akamai bot detection). Football and movie cards
   work around this with pre-built search links and (optionally) official
   free APIs (SeatGeek, Ticketmaster) rather than scraping.
+- **Eventbrite listing pages don't expose ticket prices** in their JSON-LD
+  (unlike AllEvents, which sometimes does) — US event cards from Eventbrite
+  show "See listing" rather than a price until you open the chip. No
+  enrichment step exists for this yet (AllEvents has one; Eventbrite doesn't).
+- **City/region coverage is intentionally narrow (4 cities per side)**, not
+  a hard limit of the scraping approach — see the coverage table above.
 - Prices and availability change daily; every card links to the live
   booking page, which is the source of truth.
 - Be respectful: the scraper rate-limits itself (1 request / 1.5 s). Check

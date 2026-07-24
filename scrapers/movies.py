@@ -25,6 +25,7 @@ MONTHS = {m: i + 1 for i, m in enumerate(
 )}
 
 WINDOW_DAYS = 120  # how far ahead to show releases
+LOOKBACK_DAYS = 30  # keep recent releases visible while still likely in theaters
 
 
 def _parse_year_page(html: str, year: int) -> list[Event]:
@@ -85,10 +86,11 @@ def _parse_year_page(html: str, year: int) -> list[Event]:
 
 def scrape() -> list[Event]:
     today = date.today()
+    start = today - timedelta(days=LOOKBACK_DAYS)
     horizon = today + timedelta(days=WINDOW_DAYS)
     events: list[Event] = []
 
-    years = {today.year, horizon.year}
+    years = {start.year, today.year, horizon.year}
     for year in sorted(years):
         url = f"https://en.wikipedia.org/wiki/List_of_Hindi_films_of_{year}"
         print(f"  Movies: {url}")
@@ -96,11 +98,11 @@ def scrape() -> list[Event]:
         if html:
             events += _parse_year_page(html, year)
 
-    # keep only releases from today up to the horizon
+    # keep releases from the lookback window up to the horizon (still likely in theaters)
     def within(e: Event) -> bool:
         try:
             d = date.fromisoformat(e.date[:10])
-            return today <= d <= horizon
+            return start <= d <= horizon
         except ValueError:
             return False
 

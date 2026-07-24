@@ -2,7 +2,8 @@
 
 Design ported from the original "India Events Dashboard" snapshot: dark
 theme, city/category pill filters, per-category badges, colored source
-chips, and a price-comparison box on cards found on 2+ platforms.
+chips, and a price-comparison box on cards found on 2+ platforms. Now
+spans India and the US, so the city filter is really a "region" filter.
 
 Events sharing a group_id (see aggregator.dedupe) are merged into ONE
 card listing every platform, with an auto-generated comparison line.
@@ -12,6 +13,7 @@ from __future__ import annotations
 
 import json
 from datetime import datetime, timezone
+from urllib.parse import quote
 
 # Normalize scraper categories to display labels
 CATEGORY_LABELS = {
@@ -21,12 +23,30 @@ CATEGORY_LABELS = {
     "Markets": "Markets & Expos",
 }
 
-# Extra booking chips for movies: these platforms block scraping but are
-# where people actually book, so cards link straight to them.
-MOVIE_BOOKING_LINKS = [
-    {"p": "BookMyShow", "u": "https://in.bookmyshow.com/explore/movies"},
-    {"p": "District", "u": "https://www.district.in/movies/"},
-]
+
+def _movie_booking_links(title: str, include_us: bool) -> list[dict]:
+    """Booking chips for movies: these platforms block scraping but are
+    where people actually book, so cards link straight to them.
+
+    Deep-links to a title search where the platform actually supports one
+    (verified against the live site): District and Fandango both have a
+    working `/search?q=` that returns real results. BookMyShow's search is
+    JS/API-driven with no plain crawlable URL (both guessed patterns
+    404'd), and AMC blocks automated requests on its search page exactly
+    as hard as its plain movies page (403 either way) — both fall back to
+    a browse-page link rather than a link that's silently broken.
+    """
+    q = quote(title)
+    links = [
+        {"p": "BookMyShow", "u": "https://in.bookmyshow.com/explore/movies"},
+        {"p": "District", "u": f"https://www.district.in/search?q={q}"},
+    ]
+    if include_us:
+        links += [
+            {"p": "Fandango", "u": f"https://www.fandango.com/search?q={q}"},
+            {"p": "AMC Theatres", "u": "https://www.amctheatres.com/movies"},
+        ]
+    return links
 
 # Ticketmaster localizes per country; pick the right storefront per league.
 TICKETMASTER_BY_LEAGUE = {
@@ -76,8 +96,8 @@ def _football_srcs(card_title: str, league: str, extra: dict) -> tuple[list[dict
     if league == "ISL":
         srcs += [
             {"p": "BookMyShow", "u": "https://in.bookmyshow.com/explore/sports", "pmin": None},
-            {"p": "District", "u": "https://www.district.in/sports/", "pmin": None},
-            {"p": "Paytm Insider", "u": "https://insider.in/all-events-in-india/sports", "pmin": None},
+            {"p": "District", "u": f"https://www.district.in/search?q={q}", "pmin": None},
+            {"p": "Paytm Insider", "u": "https://insider.in/", "pmin": None},
         ]
         guide_tail = "Book direct on BookMyShow / District / Paytm Insider — resale markets rarely list ISL."
     else:
@@ -85,7 +105,7 @@ def _football_srcs(card_title: str, league: str, extra: dict) -> tuple[list[dict
         srcs += [
             chip("Ticketmaster", tm_search + q),
             chip("SeatGeek", f"https://seatgeek.com/search?search={q}"),
-            {"p": "StubHub", "u": f"https://www.stubhub.com/find/s/?q={q}", "pmin": None},
+            {"p": "StubHub", "u": f"https://www.stubhub.com/search?q={q}", "pmin": None},
             {"p": "viagogo", "u": f"https://www.viagogo.com/search?q={q}", "pmin": None},
         ]
         guide_tail = ("Official/Ticketmaster = face value; StubHub / viagogo / SeatGeek = resale, "
@@ -121,8 +141,9 @@ def _football_srcs(card_title: str, league: str, extra: dict) -> tuple[list[dict
     return srcs, guide
 
 
-def _fmt_price(lo, hi) -> str:
-    f = lambda n: f"₹{int(n):,}" if n == int(n) else f"₹{n:,}"
+def _fmt_price(lo, hi, currency: str = "INR") -> str:
+    sym = CUR_SYMBOL.get(currency, "₹")
+    f = lambda n: f"{sym}{int(n):,}" if n == int(n) else f"{sym}{n:,}"
     if lo is None:
         return "See listing"
     if hi is None or hi == lo:
@@ -178,7 +199,8 @@ def _build_cards(events: list[dict]) -> list[dict]:
         members.sort(key=lambda e: len(e["title"]))
         lead = members[0]
         category = CATEGORY_LABELS.get(lead["category"], lead["category"])
-        city = "All cities" if lead["city"] in ("All India", "All cities") else lead["city"]
+        city = "All cities" if lead["city"] in ("All India", "All USA", "All cities") else lead["city"]
+        currency = next((m["currency"] for m in members if m.get("currency")), "INR")
 
         srcs, seen_src = [], set()
         for m in members:
@@ -186,7 +208,11 @@ def _build_cards(events: list[dict]) -> list[dict]:
                 srcs.append({"p": m["source"], "u": m["url"], "pmin": m["price_min"]})
                 seen_src.add(m["source"])
         if category == "Movies":
-            for link in MOVIE_BOOKING_LINKS:
+            # Hollywood wide releases typically open day-and-date in India too
+            # (BookMyShow/District sell tickets for them), so give US-sourced
+            # movie cards both regions' booking chips rather than just US ones.
+            links = _movie_booking_links(lead["title"], include_us=lead["city"] == "All USA")
+            for link in links:
                 if link["p"] not in seen_src:
                     srcs.append({**link, "pmin": None})
 
@@ -218,7 +244,7 @@ def _build_cards(events: list[dict]) -> list[dict]:
             "v": venue or ("Cinemas nationwide" if category == "Movies" else city),
             "pmin": min(prices) if prices else None,
             "ptxt": ptxt_override or _fmt_price(min(prices) if prices else None,
-                                                max(highs) if highs else None),
+                                                max(highs) if highs else None, currency),
             "srcs": srcs,
             "cmp": cmp_line,
             "cmpt": cmp_title,
@@ -232,7 +258,7 @@ TEMPLATE = """<!DOCTYPE html>
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>India Events Dashboard — All Listings, One Place</title>
+<title>Global Events Dashboard — All Listings, One Place</title>
 <style>
   :root{
     --bg:#0f1117; --card:#181b25; --card2:#1f2333; --text:#e8eaf2; --muted:#9aa0b4;
@@ -254,6 +280,8 @@ TEMPLATE = """<!DOCTYPE html>
   .pill:hover{border-color:var(--accent);color:var(--text)}
   .pill.active{background:var(--accent);color:#111;border-color:var(--accent);font-weight:600}
   .pill.cat.active{background:var(--blue);border-color:var(--blue);color:#fff}
+  .pill.tab{font-weight:600}
+  .pill.tab.active{background:var(--green);border-color:var(--green);color:#111}
   .stats{color:var(--muted);font-size:13px;margin:8px 0 18px}
   .stats b{color:var(--text)}
   .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(340px,1fr));gap:14px}
@@ -281,6 +309,8 @@ TEMPLATE = """<!DOCTYPE html>
   .s-vg{background:#123d33;border-color:#1e6b59} .s-sg{background:#3d2312;border-color:#6b3e1e}
   .s-official{background:#1a3d1a;border-color:#2e6b2e} .s-insider{background:#2d1240;border-color:#502070}
   .s-espn{background:#3d1216;border-color:#6b1e26}
+  .s-eventbrite{background:#3d1f08;border-color:#6b3a12} .s-fandango{background:#1f2e3d;border-color:#355a78}
+  .s-amc{background:#2a1f0a;border-color:#4a3712}
   .compare{background:var(--card2);border:1px dashed #4c357c;border-radius:10px;padding:10px 12px;font-size:12.5px;line-height:1.6}
   .compare .t{color:var(--purple);font-weight:700;font-size:11px;letter-spacing:.5px;text-transform:uppercase;margin-bottom:3px}
   .compare .win{color:var(--green);font-weight:700}
@@ -297,8 +327,10 @@ TEMPLATE = """<!DOCTYPE html>
 </head>
 <body>
 <div class="wrap">
-  <h1>🎟️ India Events <span>Dashboard</span></h1>
+  <h1>🎟️ Global Events <span>Dashboard</span></h1>
   <div class="sub">Snapshot: __GENERATED__ · Sources: __SOURCES__ · __COUNT__ listings</div>
+
+  <div class="pills" id="viewTabs"></div>
 
   <div class="controls">
     <input class="search" id="q" placeholder="Search shows, artists, venues…">
@@ -315,24 +347,36 @@ TEMPLATE = """<!DOCTYPE html>
 
   <div class="pills" id="cities"></div>
   <div class="pills" id="cats"></div>
+  <div class="pills" id="floc"></div>
   <div class="stats" id="stats"></div>
   <div class="grid" id="grid"></div>
 
   <div class="note">
     <b>How to read this:</b> Each card shows the event with every platform it was found on — click a source chip to open that listing and book. Cards with a
     <span class="dupbanner">⇄ PRICE COMPARE</span> banner were found on 2+ platforms — the comparison box shows which is cheaper.<br><br>
-    <b>Caveats:</b> Prices, dates and availability change fast — always confirm on the booking page. BookMyShow &amp; District block full automated scraping, so their chips are booking links rather than scraped prices; AllEvents and Eventz are indexed directly, movies come from release calendars, football fixtures from ESPN's public API. Movie ticket prices vary by cinema/format (typically ₹150–600). <b>Football:</b> buy from the club's Official ticket office or Ticketmaster first (face value); StubHub / viagogo / SeatGeek are resale markets — legitimate, but prices float above face value and some clubs restrict resale, so check the club's resale policy. ISL tickets: BookMyShow / District / Paytm Insider. Re-run <b>python run.py</b> anytime for a fresh snapshot.
+    <b>Caveats:</b> Prices, dates and availability change fast — always confirm on the booking page. BookMyShow &amp; District block full automated scraping, so their chips are booking links rather than scraped prices; AllEvents, Eventz and Eventbrite are indexed directly, movies come from release calendars (Wikipedia, India and US), football fixtures from ESPN's public API. Movie ticket prices vary by cinema/format (typically ₹150–600 in India; Fandango/AMC pricing varies by market in the US). <b>Football:</b> buy from the club's Official ticket office or Ticketmaster first (face value); StubHub / viagogo / SeatGeek are resale markets — legitimate, but prices float above face value and some clubs restrict resale, so check the club's resale policy. ISL tickets: BookMyShow / District / Paytm Insider. Football lives in its own <b>⚽ Football</b> tab with a location filter based on each match's actual stadium city, separate from the Events city/region filter. Re-run <b>python run.py</b> anytime for a fresh snapshot.
   </div>
 </div>
 
 <script>
 const EVENTS=__DATA__;
 
-const CITIES=["All",...new Set(EVENTS.map(e=>e.city).filter(c=>c!=="All cities"))].concat(EVENTS.some(e=>e.city==="All cities")?[]:[]);
-const CATS=["All",...new Set(EVENTS.map(e=>e.cat))];
+const CITIES=["All",...new Set(EVENTS.filter(e=>e.cat!=="Football").map(e=>e.city).filter(c=>c!=="All cities"))];
+const CATS=["All",...new Set(EVENTS.filter(e=>e.cat!=="Football").map(e=>e.cat))];
 const catClass={"Comedy":"b-comedy","Movies":"b-movies","Kids & Family":"b-kids","Beer & Nightlife":"b-beer","Magic":"b-magic","Music & Culture":"b-music","Markets & Expos":"b-market","Football":"b-foot"};
-const srcClass={"AllEvents":"s-allevents","District":"s-district","Eventz":"s-eventz","BookMyShow":"s-bms","CherishX":"s-cherishx","Wikipedia":"s-wiki","StubHub":"s-stubhub","Ticketmaster":"s-tm","viagogo":"s-vg","SeatGeek":"s-sg","Official":"s-official","Paytm Insider":"s-insider","ESPN":"s-espn"};
-let state={city:"All",cat:"All",q:"",src:"",sort:"date",dupOnly:false};
+const srcClass={"AllEvents":"s-allevents","District":"s-district","Eventz":"s-eventz","BookMyShow":"s-bms","CherishX":"s-cherishx","Wikipedia":"s-wiki","StubHub":"s-stubhub","Ticketmaster":"s-tm","viagogo":"s-vg","SeatGeek":"s-sg","Official":"s-official","Paytm Insider":"s-insider","ESPN":"s-espn","Eventbrite":"s-eventbrite","Fandango":"s-fandango","AMC Theatres":"s-amc"};
+
+// Football's venue string is "<Stadium>, <City>" (see scrapers/football.py) —
+// use the part after the last comma as its location, independent of the
+// Events tab's city/region filter entirely.
+function footballLoc(e){
+  const v=e.v||"";
+  const i=v.lastIndexOf(",");
+  return i>-1?v.slice(i+1).trim():(v||"Unknown");
+}
+const FOOT_LOCS=["All",...[...new Set(EVENTS.filter(e=>e.cat==="Football").map(footballLoc))].sort()];
+
+let state={view:"events",city:"All",cat:"All",floc:"All",q:"",src:"",sort:"date",dupOnly:false};
 
 const srcSel=document.getElementById("src");
 [...new Set(EVENTS.flatMap(e=>e.srcs.map(s=>s.p)))].sort().forEach(p=>{
@@ -344,21 +388,48 @@ function pillbar(id,items,key){
   el.innerHTML=items.map(i=>`<div class="pill ${id==='cats'?'cat':''} ${state[key]===i?'active':''}" data-v="${i}">${i}</div>`).join("");
   el.querySelectorAll(".pill").forEach(p=>p.onclick=()=>{state[key]=p.dataset.v;render();});
 }
+function viewTabs(){
+  const tabs=[["events","🎫 Events"],["football","⚽ Football"]];
+  document.getElementById("viewTabs").innerHTML=tabs.map(([v,label])=>
+    `<div class="pill tab ${state.view===v?'active':''}" data-v="${v}">${label}</div>`).join("");
+  document.querySelectorAll("#viewTabs .pill").forEach((p,i)=>p.onclick=()=>{state.view=tabs[i][0];render();});
+}
 function render(){
-  pillbar("cities",CITIES,"city");pillbar("cats",CATS,"cat");
-  let list=EVENTS.filter(e=>
-    (state.city==="All"||e.city===state.city||e.city==="All cities")&&
-    (state.cat==="All"||e.cat===state.cat)&&
-    (!state.src||e.srcs.some(s=>s.p===state.src))&&
-    (!state.dupOnly||e.cmp)&&
-    (!state.q||(e.n+e.v+e.city+e.cat).toLowerCase().includes(state.q))
-  );
+  viewTabs();
+  const isFoot=state.view==="football";
+  document.getElementById("cities").style.display=isFoot?"none":"flex";
+  document.getElementById("cats").style.display=isFoot?"none":"flex";
+  document.getElementById("floc").style.display=isFoot?"flex":"none";
+
+  let list;
+  if(isFoot){
+    pillbar("floc",FOOT_LOCS,"floc");
+    list=EVENTS.filter(e=>
+      e.cat==="Football"&&
+      (state.floc==="All"||footballLoc(e)===state.floc)&&
+      (!state.src||e.srcs.some(s=>s.p===state.src))&&
+      (!state.dupOnly||e.cmp)&&
+      (!state.q||(e.n+e.v+e.city).toLowerCase().includes(state.q))
+    );
+  } else {
+    pillbar("cities",CITIES,"city");pillbar("cats",CATS,"cat");
+    list=EVENTS.filter(e=>
+      e.cat!=="Football"&&
+      (state.city==="All"||e.city===state.city||e.city==="All cities")&&
+      (state.cat==="All"||e.cat===state.cat)&&
+      (!state.src||e.srcs.some(s=>s.p===state.src))&&
+      (!state.dupOnly||e.cmp)&&
+      (!state.q||(e.n+e.v+e.city+e.cat).toLowerCase().includes(state.q))
+    );
+  }
   if(state.sort==="date")list.sort((a,b)=>a.date.localeCompare(b.date));
   if(state.sort==="priceAsc")list.sort((a,b)=>(a.pmin??1e9)-(b.pmin??1e9));
   if(state.sort==="priceDesc")list.sort((a,b)=>(b.pmin??-1)-(a.pmin??-1));
-  const dupCount=EVENTS.filter(e=>e.cmp).length;
-  const srcCount=new Set(EVENTS.flatMap(e=>e.srcs.map(s=>s.p))).size;
-  document.getElementById("stats").innerHTML=`Showing <b>${list.length}</b> of <b>${EVENTS.length}</b> listings · <b>${dupCount}</b> cross-platform price comparisons · ${srcCount} source platforms`;
+  const universe=EVENTS.filter(e=>isFoot?e.cat==="Football":e.cat!=="Football");
+  const dupCount=universe.filter(e=>e.cmp).length;
+  const srcCount=new Set(universe.flatMap(e=>e.srcs.map(s=>s.p))).size;
+  const noun=isFoot?"fixtures":"listings";
+  document.getElementById("stats").innerHTML=`Showing <b>${list.length}</b> of <b>${universe.length}</b> ${noun} · <b>${dupCount}</b> cross-platform price comparisons · ${srcCount} source platforms`;
   document.getElementById("grid").innerHTML=list.length?list.map(e=>`
     <div class="card">
       <div class="row">

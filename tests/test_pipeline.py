@@ -67,20 +67,26 @@ def test_dedupe_and_dashboard():
         generate(events, out)
         html = open(out, encoding="utf-8").read()
         assert "Shashi Dhiman Live" in html
-        assert "India Events" in html
+        assert "Global Events" in html
         assert "PRICE COMPARE" in html  # merged card with comparison box
     print("ok: dedupe + dashboard generation")
 
 
 EVENTZ_FIXTURE = """
-<html><body><div>
+<html><body>
+<div class="card">
+<a href="https://www.eventz.co.in/events-list/out-of-order-ft-shashi-dhiman"><img src="a.jpg"></a>
 <span>₹499</span><span>Out Of Order ft.Shashi Dhiman</span>
 <span>The Comedy Theatre - Indiranagar, Bangalore</span>
 <span>Saturday, 18 July 2026</span><span>Comedy Shows</span>
+</div>
+<div class="card">
+<a href="https://www.eventz.co.in/events-list/talking-to-myself"><img src="b.jpg"></a>
 <span>₹199</span><span>Talking to Myself by Shrikant Mandlik</span>
 <span>TAG Comedy Club, Bengaluru</span>
 <span>Saturday, 18 July 2026</span><span>Comedy Shows</span>
-</div></body></html>
+</div>
+</body></html>
 """
 
 MOVIES_FIXTURE = """
@@ -100,6 +106,9 @@ def test_eventz_parsing():
     assert evs[0].title == "Out Of Order ft.Shashi Dhiman"
     assert evs[0].price_min == 499.0
     assert evs[0].date.startswith("2026-07-18")
+    # each event must link to its own detail page, not the shared listing page
+    assert evs[0].url == "https://www.eventz.co.in/events-list/out-of-order-ft-shashi-dhiman"
+    assert evs[1].url == "https://www.eventz.co.in/events-list/talking-to-myself"
     assert evs[1].venue == "TAG Comedy Club, Bengaluru"
     print("ok: eventz parsing")
 

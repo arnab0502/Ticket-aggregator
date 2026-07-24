@@ -41,22 +41,44 @@ def _parse_date(text: str) -> str:
 
 
 def _parse_listing(html: str, page_url: str, city: str, category: str) -> list[Event]:
+    """Each card's title/venue/date/price render as plain text (see module
+    docstring), but the card also wraps an <a href="…/events-list/<slug>">
+    around its thumbnail image — that's the event's real detail page. So
+    for each such link we walk up to the smallest ancestor whose text
+    contains both a price marker and a date (i.e. the card container),
+    then parse that container's text exactly as before.
+    """
     soup = BeautifulSoup(html, "lxml")
-    strings = [clean(s) for s in soup.stripped_strings if clean(s)]
-
     events: list[Event] = []
-    i = 0
-    while i < len(strings):
-        if not PRICE_ONLY_RE.match(strings[i]):
-            i += 1
+    seen_urls: set[str] = set()
+
+    for a in soup.find_all("a", href=True):
+        href = a["href"]
+        if "/events-list/" not in href or href in seen_urls:
             continue
 
-        prices = parse_prices(strings[i])
-        # Collect the next few strings until the date marker
+        container, strings = a, []
+        for _ in range(6):
+            container = container.parent
+            if container is None:
+                break
+            strings = [clean(s) for s in container.stripped_strings if clean(s)]
+            if any(PRICE_ONLY_RE.match(s) for s in strings) and any(DATE_RE.match(s) for s in strings):
+                break
+        else:
+            continue
+        if not strings:
+            continue
+
+        price_idx = next((i for i, s in enumerate(strings) if PRICE_ONLY_RE.match(s)), None)
+        if price_idx is None:
+            continue
+        prices = parse_prices(strings[price_idx])
+
         title, venue, date = "", "", ""
-        j = i + 1
         chunk: list[str] = []
-        while j < len(strings) and j < i + 8:
+        j = price_idx + 1
+        while j < len(strings) and j < price_idx + 8:
             if DATE_RE.match(strings[j]):
                 date = _parse_date(strings[j])
                 break
@@ -74,20 +96,20 @@ def _parse_listing(html: str, page_url: str, city: str, category: str) -> list[E
             and not title.lower().startswith("image by")
             and len(title) > 3
         ):
+            seen_urls.add(href)
             events.append(
                 Event(
                     title=title,
                     city=city,
                     category=category,
                     source="Eventz",
-                    url=page_url,
+                    url=href,
                     date=date,
                     venue=venue,
                     price_min=min(prices) if prices else None,
                     price_max=max(prices) if prices else None,
                 )
             )
-        i = j + 1
     return events
 
 
