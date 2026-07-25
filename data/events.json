@@ -880,22 +880,6 @@
     "multi_source": false
   },
   {
-    "title": "New Material Nights by Atul Khatri: KCC",
-    "city": "Mumbai",
-    "category": "Comedy",
-    "source": "AllEvents",
-    "url": "https://allevents.in/mumbai/new-material-nights-by-atul-khatri-kcc/3900030406526347",
-    "date": "2026-07-27",
-    "venue": "Khar Comedy Club: Mumbai",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEwL2Jhbm5lcnMvNGRhN2IzYjAtODRiMS0xMWYxLThhOGMtM2ZlNTdkNzBlNTg5LXJpbWctdzEyMDAtaDYwMC1kY2JkNTI0YS1nbWlyLmpwZz92PTE3ODQ2MDMyNDc.avif",
-    "extra": {},
-    "group_id": 52,
-    "multi_source": false
-  },
-  {
     "title": "Cry Daddy by Anirban Dasgupta",
     "city": "Mumbai",
     "category": "Comedy",
@@ -912,17 +896,33 @@
     "multi_source": false
   },
   {
-    "title": "Duos ft. Shashwat Maheswari & Varun Grover: KCC",
+    "title": "New Material Nights by Atul Khatri: KCC",
     "city": "Mumbai",
     "category": "Comedy",
     "source": "AllEvents",
-    "url": "https://allevents.in/mumbai/duos-ft-shashwat-maheswari-and-varun-grover-kcc/3900030417986655",
-    "date": "2026-08-10",
+    "url": "https://allevents.in/mumbai/new-material-nights-by-atul-khatri-kcc/3900030406526347",
+    "date": "2026-07-27",
     "venue": "Khar Comedy Club: Mumbai",
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czkvYmFubmVycy85NjMwODEzMC04MjAzLTExZjEtYTBmMC1iM2ZjMDU5MzBlMTYtcmltZy13MTIwMC1oNjAwLWRjZmZmZWNmLWdtaXIuanBnP3Y9MTc4NDMwODczNA.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEwL2Jhbm5lcnMvNGRhN2IzYjAtODRiMS0xMWYxLThhOGMtM2ZlNTdkNzBlNTg5LXJpbWctdzEyMDAtaDYwMC1kY2JkNTI0YS1nbWlyLmpwZz92PTE3ODQ2MDMyNDc.avif",
+    "extra": {},
+    "group_id": 52,
+    "multi_source": false
+  },
+  {
+    "title": "Shashi Dhiman Live",
+    "city": "Mumbai",
+    "category": "Comedy",
+    "source": "AllEvents",
+    "url": "https://allevents.in/mumbai/shashi-dhiman-live/3900030183871934",
+    "date": "2026-08-08",
+    "venue": "The Habitat: Mumbai",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czIvYmFubmVycy9lZmM5OWVmMC02NDJkLTExZjEtOWM4Ni1jM2QzMjcwZDQ5YTctcmltZy13MTIwMC1oNjAwLWRjMDUwODE1LWdtaXIuanBnP3Y9MTc4MTAyODM4OA.avif",
     "extra": {},
     "group_id": 55,
     "multi_source": false
@@ -8144,6 +8144,22 @@
     "multi_source": false
   },
   {
+    "title": "Hadestown: The Musical",
+    "city": "All USA",
+    "category": "Movies",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Hadestown:_The_Musical",
+    "date": "2026-07-24T00:00:00",
+    "venue": "In cinemas",
+    "price_min": null,
+    "price_max": null,
+    "currency": "USD",
+    "image": "",
+    "extra": {},
+    "group_id": 383,
+    "multi_source": false
+  },
+  {
     "title": "The Dink",
     "city": "All USA",
     "category": "Movies",
@@ -8156,7 +8172,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 383,
+    "group_id": 384,
     "multi_source": false
   },
   {
@@ -8172,7 +8188,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 384,
+    "group_id": 385,
     "multi_source": false
   },
   {
@@ -8188,7 +8204,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 385,
+    "group_id": 386,
     "multi_source": false
   },
   {
@@ -8204,7 +8220,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 386,
+    "group_id": 387,
     "multi_source": false
   },
   {
@@ -8220,7 +8236,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 387,
+    "group_id": 388,
     "multi_source": false
   },
   {
@@ -8236,7 +8252,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 388,
+    "group_id": 389,
     "multi_source": false
   },
   {
@@ -8252,7 +8268,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 389,
+    "group_id": 390,
     "multi_source": false
   },
   {
@@ -8268,7 +8284,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 390,
+    "group_id": 391,
     "multi_source": false
   },
   {
@@ -8284,7 +8300,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 391,
+    "group_id": 392,
     "multi_source": false
   },
   {
@@ -8300,7 +8316,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 392,
+    "group_id": 393,
     "multi_source": false
   },
   {
@@ -8316,7 +8332,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 393,
+    "group_id": 394,
     "multi_source": false
   },
   {
@@ -8332,7 +8348,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 394,
+    "group_id": 395,
     "multi_source": false
   },
   {
@@ -8348,7 +8364,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 395,
+    "group_id": 396,
     "multi_source": false
   },
   {
@@ -8364,7 +8380,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 396,
+    "group_id": 397,
     "multi_source": false
   },
   {
@@ -8373,22 +8389,6 @@
     "category": "Movies",
     "source": "Wikipedia",
     "url": "https://en.wikipedia.org/wiki/Super_Troopers_3",
-    "date": "2026-08-07T00:00:00",
-    "venue": "In cinemas",
-    "price_min": null,
-    "price_max": null,
-    "currency": "USD",
-    "image": "",
-    "extra": {},
-    "group_id": 397,
-    "multi_source": false
-  },
-  {
-    "title": "Tony",
-    "city": "All USA",
-    "category": "Movies",
-    "source": "Wikipedia",
-    "url": "https://en.wikipedia.org/wiki/Tony_(2026_film)",
     "date": "2026-08-07T00:00:00",
     "venue": "In cinemas",
     "price_min": null,
@@ -8416,6 +8416,22 @@
     "multi_source": false
   },
   {
+    "title": "Tony",
+    "city": "All USA",
+    "category": "Movies",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Tony_(2026_film)",
+    "date": "2026-08-07T00:00:00",
+    "venue": "In cinemas",
+    "price_min": null,
+    "price_max": null,
+    "currency": "USD",
+    "image": "",
+    "extra": {},
+    "group_id": 400,
+    "multi_source": false
+  },
+  {
     "title": "Teenage Sex and Death at Camp Miasma",
     "city": "All USA",
     "category": "Movies",
@@ -8428,7 +8444,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 400,
+    "group_id": 401,
     "multi_source": false
   },
   {
@@ -8444,7 +8460,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 401,
+    "group_id": 402,
     "multi_source": false
   },
   {
@@ -8460,7 +8476,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 402,
+    "group_id": 403,
     "multi_source": false
   },
   {
@@ -8476,7 +8492,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 403,
+    "group_id": 404,
     "multi_source": false
   },
   {
@@ -8492,7 +8508,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 404,
+    "group_id": 405,
     "multi_source": false
   },
   {
@@ -8508,7 +8524,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 405,
+    "group_id": 406,
     "multi_source": false
   },
   {
@@ -8524,7 +8540,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 406,
+    "group_id": 407,
     "multi_source": false
   },
   {
@@ -8540,7 +8556,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 407,
+    "group_id": 408,
     "multi_source": false
   },
   {
@@ -8556,7 +8572,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 408,
+    "group_id": 409,
     "multi_source": false
   },
   {
@@ -8572,7 +8588,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 409,
+    "group_id": 410,
     "multi_source": false
   },
   {
@@ -8588,7 +8604,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 410,
+    "group_id": 411,
     "multi_source": false
   },
   {
@@ -8604,7 +8620,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 411,
+    "group_id": 412,
     "multi_source": false
   },
   {
@@ -8620,7 +8636,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 412,
+    "group_id": 413,
     "multi_source": false
   },
   {
@@ -8636,7 +8652,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 413,
+    "group_id": 414,
     "multi_source": false
   },
   {
@@ -8652,7 +8668,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 414,
+    "group_id": 415,
     "multi_source": false
   },
   {
@@ -8668,7 +8684,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 415,
+    "group_id": 416,
     "multi_source": false
   },
   {
@@ -8684,7 +8700,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 416,
+    "group_id": 417,
     "multi_source": false
   },
   {
@@ -8700,7 +8716,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 417,
+    "group_id": 418,
     "multi_source": false
   },
   {
@@ -8716,7 +8732,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 418,
+    "group_id": 419,
     "multi_source": false
   },
   {
@@ -8732,7 +8748,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 419,
+    "group_id": 420,
     "multi_source": false
   },
   {
@@ -8741,22 +8757,6 @@
     "category": "Movies",
     "source": "Wikipedia",
     "url": "https://en.wikipedia.org/wiki/Coyote_vs._Acme",
-    "date": "2026-08-28T00:00:00",
-    "venue": "In cinemas",
-    "price_min": null,
-    "price_max": null,
-    "currency": "USD",
-    "image": "",
-    "extra": {},
-    "group_id": 420,
-    "multi_source": false
-  },
-  {
-    "title": "The Whisper Man",
-    "city": "All USA",
-    "category": "Movies",
-    "source": "Wikipedia",
-    "url": "https://en.wikipedia.org/wiki/The_Whisper_Man",
     "date": "2026-08-28T00:00:00",
     "venue": "In cinemas",
     "price_min": null,
@@ -8784,22 +8784,6 @@
     "multi_source": false
   },
   {
-    "title": "The Sun Never Sets",
-    "city": "All USA",
-    "category": "Movies",
-    "source": "Wikipedia",
-    "url": "https://en.wikipedia.org/wiki/The_Sun_Never_Sets_(2026_film)",
-    "date": "2026-08-28T00:00:00",
-    "venue": "In cinemas",
-    "price_min": null,
-    "price_max": null,
-    "currency": "USD",
-    "image": "",
-    "extra": {},
-    "group_id": 423,
-    "multi_source": false
-  },
-  {
     "title": "Buddy",
     "city": "All USA",
     "category": "Movies",
@@ -8812,7 +8796,39 @@
     "currency": "USD",
     "image": "",
     "extra": {},
+    "group_id": 423,
+    "multi_source": false
+  },
+  {
+    "title": "The Whisper Man",
+    "city": "All USA",
+    "category": "Movies",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/The_Whisper_Man",
+    "date": "2026-08-28T00:00:00",
+    "venue": "In cinemas",
+    "price_min": null,
+    "price_max": null,
+    "currency": "USD",
+    "image": "",
+    "extra": {},
     "group_id": 424,
+    "multi_source": false
+  },
+  {
+    "title": "The Sun Never Sets",
+    "city": "All USA",
+    "category": "Movies",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/The_Sun_Never_Sets_(2026_film)",
+    "date": "2026-08-28T00:00:00",
+    "venue": "In cinemas",
+    "price_min": null,
+    "price_max": null,
+    "currency": "USD",
+    "image": "",
+    "extra": {},
+    "group_id": 425,
     "multi_source": false
   },
   {
@@ -8828,7 +8844,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 425,
+    "group_id": 426,
     "multi_source": false
   },
   {
@@ -8844,7 +8860,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 426,
+    "group_id": 427,
     "multi_source": false
   },
   {
@@ -8853,22 +8869,6 @@
     "category": "Movies",
     "source": "Wikipedia",
     "url": "https://en.wikipedia.org/wiki/By_Any_Means_(2026_film)",
-    "date": "2026-09-04T00:00:00",
-    "venue": "In cinemas",
-    "price_min": null,
-    "price_max": null,
-    "currency": "USD",
-    "image": "",
-    "extra": {},
-    "group_id": 427,
-    "multi_source": false
-  },
-  {
-    "title": "Mayday",
-    "city": "All USA",
-    "category": "Movies",
-    "source": "Wikipedia",
-    "url": "https://en.wikipedia.org/wiki/Mayday_(2026_film)",
     "date": "2026-09-04T00:00:00",
     "venue": "In cinemas",
     "price_min": null,
@@ -8896,6 +8896,22 @@
     "multi_source": false
   },
   {
+    "title": "Mayday",
+    "city": "All USA",
+    "category": "Movies",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Mayday_(2026_film)",
+    "date": "2026-09-04T00:00:00",
+    "venue": "In cinemas",
+    "price_min": null,
+    "price_max": null,
+    "currency": "USD",
+    "image": "",
+    "extra": {},
+    "group_id": 430,
+    "multi_source": false
+  },
+  {
     "title": "The Girl in the River",
     "city": "All USA",
     "category": "Movies",
@@ -8908,7 +8924,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 430,
+    "group_id": 431,
     "multi_source": false
   },
   {
@@ -8924,7 +8940,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 431,
+    "group_id": 432,
     "multi_source": false
   },
   {
@@ -8940,7 +8956,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 432,
+    "group_id": 433,
     "multi_source": false
   },
   {
@@ -8956,7 +8972,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 433,
+    "group_id": 434,
     "multi_source": false
   },
   {
@@ -8972,7 +8988,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 434,
+    "group_id": 435,
     "multi_source": false
   },
   {
@@ -8988,7 +9004,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 435,
+    "group_id": 436,
     "multi_source": false
   },
   {
@@ -9004,7 +9020,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 436,
+    "group_id": 437,
     "multi_source": false
   },
   {
@@ -9020,7 +9036,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 437,
+    "group_id": 438,
     "multi_source": false
   },
   {
@@ -9036,7 +9052,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 438,
+    "group_id": 439,
     "multi_source": false
   },
   {
@@ -9052,7 +9068,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 439,
+    "group_id": 440,
     "multi_source": false
   },
   {
@@ -9068,7 +9084,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 440,
+    "group_id": 441,
     "multi_source": false
   },
   {
@@ -9077,22 +9093,6 @@
     "category": "Movies",
     "source": "Wikipedia",
     "url": "https://en.wikipedia.org/wiki/The_Weight_(2026_film)",
-    "date": "2026-09-18T00:00:00",
-    "venue": "In cinemas",
-    "price_min": null,
-    "price_max": null,
-    "currency": "USD",
-    "image": "",
-    "extra": {},
-    "group_id": 441,
-    "multi_source": false
-  },
-  {
-    "title": "Without Blood",
-    "city": "All USA",
-    "category": "Movies",
-    "source": "Wikipedia",
-    "url": "https://en.wikipedia.org/wiki/Without_Blood",
     "date": "2026-09-18T00:00:00",
     "venue": "In cinemas",
     "price_min": null,
@@ -9120,6 +9120,22 @@
     "multi_source": false
   },
   {
+    "title": "Without Blood",
+    "city": "All USA",
+    "category": "Movies",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Without_Blood",
+    "date": "2026-09-18T00:00:00",
+    "venue": "In cinemas",
+    "price_min": null,
+    "price_max": null,
+    "currency": "USD",
+    "image": "",
+    "extra": {},
+    "group_id": 444,
+    "multi_source": false
+  },
+  {
     "title": "The Musical",
     "city": "All USA",
     "category": "Movies",
@@ -9132,7 +9148,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 444,
+    "group_id": 445,
     "multi_source": false
   },
   {
@@ -9148,7 +9164,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 445,
+    "group_id": 446,
     "multi_source": false
   },
   {
@@ -9164,7 +9180,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 446,
+    "group_id": 447,
     "multi_source": false
   },
   {
@@ -9180,7 +9196,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 447,
+    "group_id": 448,
     "multi_source": false
   },
   {
@@ -9196,7 +9212,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 448,
+    "group_id": 449,
     "multi_source": false
   },
   {
@@ -9212,7 +9228,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 449,
+    "group_id": 450,
     "multi_source": false
   },
   {
@@ -9221,22 +9237,6 @@
     "category": "Movies",
     "source": "Wikipedia",
     "url": "https://en.wikipedia.org/wiki/Charlie_Harper_(film)",
-    "date": "2026-09-25T00:00:00",
-    "venue": "In cinemas",
-    "price_min": null,
-    "price_max": null,
-    "currency": "USD",
-    "image": "",
-    "extra": {},
-    "group_id": 450,
-    "multi_source": false
-  },
-  {
-    "title": "April X",
-    "city": "All USA",
-    "category": "Movies",
-    "source": "Wikipedia",
-    "url": "https://en.wikipedia.org/wiki/List_of_American_films_of_2026",
     "date": "2026-09-25T00:00:00",
     "venue": "In cinemas",
     "price_min": null,
@@ -9264,6 +9264,22 @@
     "multi_source": false
   },
   {
+    "title": "April X",
+    "city": "All USA",
+    "category": "Movies",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/List_of_American_films_of_2026",
+    "date": "2026-09-25T00:00:00",
+    "venue": "In cinemas",
+    "price_min": null,
+    "price_max": null,
+    "currency": "USD",
+    "image": "",
+    "extra": {},
+    "group_id": 453,
+    "multi_source": false
+  },
+  {
     "title": "The Scout",
     "city": "All USA",
     "category": "Movies",
@@ -9276,7 +9292,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 453,
+    "group_id": 454,
     "multi_source": false
   },
   {
@@ -9292,7 +9308,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 454,
+    "group_id": 455,
     "multi_source": false
   },
   {
@@ -9308,7 +9324,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 455,
+    "group_id": 456,
     "multi_source": false
   },
   {
@@ -9324,7 +9340,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 456,
+    "group_id": 457,
     "multi_source": false
   },
   {
@@ -9340,7 +9356,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 457,
+    "group_id": 458,
     "multi_source": false
   },
   {
@@ -9356,7 +9372,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 458,
+    "group_id": 459,
     "multi_source": false
   },
   {
@@ -9372,7 +9388,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 459,
+    "group_id": 460,
     "multi_source": false
   },
   {
@@ -9388,7 +9404,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 460,
+    "group_id": 461,
     "multi_source": false
   },
   {
@@ -9404,7 +9420,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 461,
+    "group_id": 462,
     "multi_source": false
   },
   {
@@ -9420,7 +9436,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 462,
+    "group_id": 463,
     "multi_source": false
   },
   {
@@ -9436,7 +9452,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 463,
+    "group_id": 464,
     "multi_source": false
   },
   {
@@ -9452,7 +9468,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 464,
+    "group_id": 465,
     "multi_source": false
   },
   {
@@ -9468,7 +9484,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 465,
+    "group_id": 466,
     "multi_source": false
   },
   {
@@ -9484,7 +9500,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 466,
+    "group_id": 467,
     "multi_source": false
   },
   {
@@ -9500,7 +9516,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 467,
+    "group_id": 468,
     "multi_source": false
   },
   {
@@ -9516,7 +9532,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 468,
+    "group_id": 469,
     "multi_source": false
   },
   {
@@ -9532,7 +9548,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 469,
+    "group_id": 470,
     "multi_source": false
   },
   {
@@ -9548,7 +9564,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 470,
+    "group_id": 471,
     "multi_source": false
   },
   {
@@ -9564,7 +9580,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 471,
+    "group_id": 472,
     "multi_source": false
   },
   {
@@ -9574,22 +9590,6 @@
     "source": "Wikipedia",
     "url": "https://en.wikipedia.org/wiki/Wicker_(film)",
     "date": "2026-10-23T00:00:00",
-    "venue": "In cinemas",
-    "price_min": null,
-    "price_max": null,
-    "currency": "USD",
-    "image": "",
-    "extra": {},
-    "group_id": 472,
-    "multi_source": false
-  },
-  {
-    "title": "The Mongoose",
-    "city": "All USA",
-    "category": "Movies",
-    "source": "Wikipedia",
-    "url": "https://en.wikipedia.org/wiki/The_Mongoose_(film)",
-    "date": "2026-10-30T00:00:00",
     "venue": "In cinemas",
     "price_min": null,
     "price_max": null,
@@ -9616,6 +9616,22 @@
     "multi_source": false
   },
   {
+    "title": "The Mongoose",
+    "city": "All USA",
+    "category": "Movies",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/The_Mongoose_(film)",
+    "date": "2026-10-30T00:00:00",
+    "venue": "In cinemas",
+    "price_min": null,
+    "price_max": null,
+    "currency": "USD",
+    "image": "",
+    "extra": {},
+    "group_id": 475,
+    "multi_source": false
+  },
+  {
     "title": "Stiletto",
     "city": "All USA",
     "category": "Movies",
@@ -9628,7 +9644,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 475,
+    "group_id": 476,
     "multi_source": false
   },
   {
@@ -9644,7 +9660,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 476,
+    "group_id": 477,
     "multi_source": false
   },
   {
@@ -9660,7 +9676,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 477,
+    "group_id": 478,
     "multi_source": false
   },
   {
@@ -9676,7 +9692,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 478,
+    "group_id": 479,
     "multi_source": false
   },
   {
@@ -9692,7 +9708,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 479,
+    "group_id": 480,
     "multi_source": false
   },
   {
@@ -9708,7 +9724,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 480,
+    "group_id": 481,
     "multi_source": false
   },
   {
@@ -9724,7 +9740,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 481,
+    "group_id": 482,
     "multi_source": false
   },
   {
@@ -9740,7 +9756,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 482,
+    "group_id": 483,
     "multi_source": false
   },
   {
@@ -9756,7 +9772,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 483,
+    "group_id": 484,
     "multi_source": false
   },
   {
@@ -9772,7 +9788,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 484,
+    "group_id": 485,
     "multi_source": false
   },
   {
@@ -9788,7 +9804,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 485,
+    "group_id": 486,
     "multi_source": false
   },
   {
@@ -9804,7 +9820,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 486,
+    "group_id": 487,
     "multi_source": false
   },
   {
@@ -9820,7 +9836,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 487,
+    "group_id": 488,
     "multi_source": false
   },
   {
@@ -9836,7 +9852,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 488,
+    "group_id": 489,
     "multi_source": false
   },
   {
@@ -9852,7 +9868,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 489,
+    "group_id": 490,
     "multi_source": false
   }
 ]
