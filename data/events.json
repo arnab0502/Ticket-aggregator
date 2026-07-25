@@ -250,7 +250,7 @@
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czkvYmFubmVycy8zOWM3MWM0MC04N2ZhLTExZjEtODFmMS04ZGJjMjExYjVlZmMtcmltZy13MTIwMC1oNjc1LWRjZDljYWEzLWdtaXIuanBnP3Y9MTc4NDk2NDQyMA.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czgvYmFubmVycy83OWM5NWQxMC04ODEwLTExZjEtODFmMS04ZGJjMjExYjVlZmMtcmltZy13MTIwMC1oNjc1LWRjZDljYWEzLWdtaXIuanBnP3Y9MTc4NDk3Mzk3Nw.avif",
     "extra": {},
     "group_id": 15,
     "multi_source": false
@@ -522,7 +522,7 @@
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czYvYmFubmVycy9iM2M3NGM4MC04N2ZiLTExZjEtYjZjOC1lZjQxMzdkOGRjYjAtcmltZy13MTIwMC1oNjc1LWRjNjAzNDI3LWdtaXIuanBnP3Y9MTc4NDk2NTA1NQ.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czgvYmFubmVycy9mMjE2ODBjMC04N2ZlLTExZjEtYjZjOC1lZjQxMzdkOGRjYjAtcmltZy13MTIwMC1oNjc1LWRjNjAzNDI3LWdtaXIuanBnP3Y9MTc4NDk2NjQ0OA.avif",
     "extra": {},
     "group_id": 32,
     "multi_source": false
@@ -666,7 +666,7 @@
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czkvYmFubmVycy84ZmRhMTJlMC04NWUzLTExZjEtYTQ5MS1jMzM1MWUzNzFjNDEtcmltZy13MTIwMC1oNjc1LWRjZTljODlmLWdtaXIuanBnP3Y9MTc4NDczNDc4NA.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEvYmFubmVycy9jZWZhOWY1MC04N2YzLTExZjEtYjZjOC1lZjQxMzdkOGRjYjAtcmltZy13MTIwMC1oNjc1LWRjZTljODlmLWdtaXIuanBnP3Y9MTc4NDk2MTY2NA.avif",
     "extra": {},
     "group_id": 40,
     "multi_source": false
@@ -928,6 +928,22 @@
     "multi_source": false
   },
   {
+    "title": "Toast & Tunes at Late Checkout | 26th July | 9:30am",
+    "city": "Mumbai",
+    "category": "Kids",
+    "source": "AllEvents",
+    "url": "https://allevents.in/mumbai/toast-and-tunes-at-late-checkout-26th-july-9-30am-tickets/80002171222320",
+    "date": "2026-07-26",
+    "venue": "Late Checkout",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4yLmFsbGV2ZW50cy5pbi90aHVtYnMvdGh1bWI2YTU0NzE3Mzc0NjgwLmpwZw.avif",
+    "extra": {},
+    "group_id": 56,
+    "multi_source": false
+  },
+  {
     "title": "Gorillaz The Mountain Tour 2027",
     "city": "Mumbai",
     "category": "Kids",
@@ -938,9 +954,9 @@
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czYvYmFubmVycy9jYmI4NDgwMC04NzYzLTExZjEtODg5Ny1kMWM4ODdkMjY2OTctcmltZy13MTIwMC1oNjc1LWRjZDljYWEzLWdtaXIuanBnP3Y9MTc4NDg5OTgxMQ.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czYvYmFubmVycy8zMDhjMjA2MC04ODEwLTExZjEtYjZjOC1lZjQxMzdkOGRjYjAtcmltZy13MTIwMC1oNjc1LWRjZDljYWEzLWdtaXIuanBnP3Y9MTc4NDk3Mzg1NA.avif",
     "extra": {},
-    "group_id": 56,
+    "group_id": 57,
     "multi_source": false
   },
   {
@@ -955,22 +971,6 @@
     "price_max": null,
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czgvYmFubmVycy84YTVkYzhjMC04NTYxLTExZjEtOWJlNS00YmViZjQ0YjQ5ODAtcmltZy13MTIwMC1oNjAwLWRjMTE4ZTkwLWdtaXIuanBnP3Y9MTc4NDY3ODk0MA.avif",
-    "extra": {},
-    "group_id": 57,
-    "multi_source": false
-  },
-  {
-    "title": "Toast & Tunes at Late Checkout | 26th July | 9:30am",
-    "city": "Mumbai",
-    "category": "Kids",
-    "source": "AllEvents",
-    "url": "https://allevents.in/mumbai/toast-and-tunes-at-late-checkout-26th-july-9-30am-tickets/80002171222320",
-    "date": "2026-07-26",
-    "venue": "Late Checkout",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4yLmFsbGV2ZW50cy5pbi90aHVtYnMvdGh1bWI2YTU0NzE3Mzc0NjgwLmpwZw.avif",
     "extra": {},
     "group_id": 58,
     "multi_source": false
@@ -1936,6 +1936,22 @@
     "multi_source": false
   },
   {
+    "title": "Sawwadi",
+    "city": "Hyderabad",
+    "category": "Nightlife",
+    "source": "AllEvents",
+    "url": "https://allevents.in/hyderabad/sawwadi/4100030426350614",
+    "date": "2026-07-26",
+    "venue": "SKYHY Live | Gachibowli, Hyderabad",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEvYmFubmVycy81MjJkNWRhMC04N2Y4LTExZjEtYThhNC02MzFiMTc1ZjNkNzgtcmltZy13MTIwMC1oNjc1LWRjMDIwMjAyLWdtaXIuanBnP3Y9MTc4NDk2MzYwMg.avif",
+    "extra": {},
+    "group_id": 115,
+    "multi_source": false
+  },
+  {
     "title": "THE WEEKND NIGHT - HYDERABAD",
     "city": "Hyderabad",
     "category": "Nightlife",
@@ -1947,22 +1963,6 @@
     "price_max": null,
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEvYmFubmVycy81MmRiZjU3MC00YmE1LTExZjEtYWQxMC1hZjFjMDAwMGZlODItcmltZy13MTIwMC1oNjAwLWRjMDUwMzA2LWdtaXIuanBnP3Y9MTc3ODMzMDg4Ng.avif",
-    "extra": {},
-    "group_id": 115,
-    "multi_source": false
-  },
-  {
-    "title": "Sawwadi",
-    "city": "Hyderabad",
-    "category": "Nightlife",
-    "source": "AllEvents",
-    "url": "https://allevents.in/hyderabad/sawwadi/4100030426350614",
-    "date": "2026-07-26",
-    "venue": "SKYHY Live | Gachibowli, Hyderabad",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czYvYmFubmVycy83Y2NkYzhlMC04NzVmLTExZjEtODg5Ny1kMWM4ODdkMjY2OTctcmltZy13MTIwMC1oNjc1LWRjMDIwMjAyLWdtaXIuanBnP3Y9MTc4NDg5Nzk2MQ.avif",
     "extra": {},
     "group_id": 116,
     "multi_source": false
@@ -2032,6 +2032,22 @@
     "multi_source": false
   },
   {
+    "title": "Ananda Music Club's \"Paatala Pravaaham 16.0\"",
+    "city": "Hyderabad",
+    "category": "Nightlife",
+    "source": "AllEvents",
+    "url": "https://allevents.in/hyderabad/ananda-music-clubs-paatala-pravaaham-160/4100030433601258",
+    "date": "2026-07-26",
+    "venue": "Amnesia Sky Bar",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czcvYmFubmVycy83Nzk5ZmJkMC04NzExLTExZjEtYThhNC02MzFiMTc1ZjNkNzgtcmltZy13MTIwMC1oNjc1LWRjMDYwNTAzLWdtaXIuanBnP3Y9MTc4NDg2NDQ1MQ.avif",
+    "extra": {},
+    "group_id": 121,
+    "multi_source": false
+  },
+  {
     "title": "Urban Luxe Fest - Intergalactic Edition",
     "city": "Hyderabad",
     "category": "Nightlife",
@@ -2043,22 +2059,6 @@
     "price_max": null,
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEvYmFubmVycy8yYTNkMmJjMC04NmM0LTExZjEtOWE5ZS0zOWNhMDE1MWNkNjYtcmltZy13MTIwMC1oNjc1LWRjMDMwMjAzLWdtaXIuanBnP3Y9MTc4NDgzMTI1MA.avif",
-    "extra": {},
-    "group_id": 121,
-    "multi_source": false
-  },
-  {
-    "title": "Koti in Hyderabad",
-    "city": "Hyderabad",
-    "category": "Nightlife",
-    "source": "AllEvents",
-    "url": "https://allevents.in/hyderabad/koti-in-hyderabad/3300030393694442",
-    "date": "2026-08-22",
-    "venue": "Heart Cup Coffee: Gachibowli",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czIvYmFubmVycy9mMzUzZDc0MC03ZDgwLTExZjEtOGRlNy1hNTVjMDRlMTdmMmUtcmltZy13NjQwLWg2NDAtZGNmZTY1MDItZ21pci5qcGc_dj0xNzgzODEyODIx.avif",
     "extra": {},
     "group_id": 122,
     "multi_source": false
@@ -2080,6 +2080,22 @@
     "multi_source": false
   },
   {
+    "title": "Koti in Hyderabad",
+    "city": "Hyderabad",
+    "category": "Nightlife",
+    "source": "AllEvents",
+    "url": "https://allevents.in/hyderabad/koti-in-hyderabad/3300030393694442",
+    "date": "2026-08-22",
+    "venue": "Heart Cup Coffee: Gachibowli",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czIvYmFubmVycy9mMzUzZDc0MC03ZDgwLTExZjEtOGRlNy1hNTVjMDRlMTdmMmUtcmltZy13NjQwLWg2NDAtZGNmZTY1MDItZ21pci5qcGc_dj0xNzgzODEyODIx.avif",
+    "extra": {},
+    "group_id": 124,
+    "multi_source": false
+  },
+  {
     "title": "SCC Candlelight Cinema - Love Aaj Kal",
     "city": "Hyderabad",
     "category": "Nightlife",
@@ -2091,22 +2107,6 @@
     "price_max": null,
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEvYmFubmVycy9mY2NjMjA3MC04NTUwLTExZjEtYWJkYS1kZmVhMTBiZTk5NWUtcmltZy13MTIwMC1oNjc1LWRjMmUxYzExLWdtaXIuanBnP3Y9MTc4NDY3MTgzMQ.avif",
-    "extra": {},
-    "group_id": 124,
-    "multi_source": false
-  },
-  {
-    "title": "Canvas Painting Date - Hyderabad",
-    "city": "Hyderabad",
-    "category": "Nightlife",
-    "source": "AllEvents",
-    "url": "https://allevents.in/hyderabad/canvas-painting-date-hyderabad/3900030148006240",
-    "date": "2026-07-26",
-    "venue": "Red Rhino-Craft Brewery and Kitchen: Hyderabad",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEwL2Jhbm5lcnMvNWM3MWM2NzAtNWY2Mi0xMWYxLWIxNmYtMGY5ZjQ2OTViMGM0LXJpbWctdzEyMDAtaDYwMC1kYzY0NWM0Yi1nbWlyLmpwZz92PTE3ODA1MDExNDg.avif",
     "extra": {},
     "group_id": 125,
     "multi_source": false
