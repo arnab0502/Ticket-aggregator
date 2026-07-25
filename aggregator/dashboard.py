@@ -49,11 +49,16 @@ def _movie_booking_links(title: str, include_us: bool) -> list[dict]:
     return links
 
 # Ticketmaster localizes per country; pick the right storefront per league.
+# No "Ligue 1" entry: ticketmaster.fr rejects every request with a 401 (even
+# its own bare homepage does, verified with a real rendered browser, not
+# just a raw HTTP check) — genuinely broken/blocked, not a wrong URL to
+# guess around. The global ticketmaster.com has no Ligue 1 listings either
+# ("0 Results", checked live), so Ligue 1 just skips the Ticketmaster chip
+# rather than link somewhere that reliably leads nowhere.
 TICKETMASTER_BY_LEAGUE = {
     "EPL": "https://www.ticketmaster.co.uk/search?q=",
     "Bundesliga": "https://www.ticketmaster.de/search?keyword=",
     "La Liga": "https://www.ticketmaster.es/search?keyword=",
-    "Ligue 1": "https://www.ticketmaster.fr/fr/recherche?keyword=",
 }
 
 
@@ -103,10 +108,15 @@ def _football_srcs(card_title: str, league: str, extra: dict) -> tuple[list[dict
         ]
         guide_tail = "Book direct on BookMyShow / District — resale markets rarely list ISL."
     else:
-        tm_search = TICKETMASTER_BY_LEAGUE.get(league, "")
+        tm_base = TICKETMASTER_BY_LEAGUE.get(league)
+        if tm_base:
+            srcs.append(chip("Ticketmaster", tm_base + q))
         srcs += [
-            chip("Ticketmaster", tm_search + q),
-            chip("SeatGeek", f"https://seatgeek.com/search?search={q}"),
+            # SeatGeek's own official API (see scrapers/football.py) uses
+            # `q=` as the query param — matching that here, since the site
+            # sits behind DataDome bot-protection that blocks every kind of
+            # automated check, so the web UI param can't be verified directly.
+            chip("SeatGeek", f"https://seatgeek.com/search?q={q}"),
             {"p": "StubHub", "u": f"https://www.stubhub.com/search?q={q}", "pmin": None},
             {"p": "viagogo", "u": f"https://www.viagogo.com/search?q={q}", "pmin": None},
         ]

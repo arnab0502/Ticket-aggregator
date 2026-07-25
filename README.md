@@ -88,11 +88,30 @@ showing two chips for the same site. Four ticket subdomains (Bayern
 Munich, Eintracht Frankfurt, PSG, Monaco) timed out/connection-errored
 from this environment rather than returning a clear pass/fail — left
 unchanged since that's inconclusive, not confirmed broken; worth a manual
-click-check if you rely on those specifically. SeatGeek and AMC Theatres
-block automated requests entirely (403 on literally every URL, including
-their own homepages), so their links are unverifiable by this method but
-likely fine for a real browser — bot-detection systems usually distinguish
-scripted requests from real browser sessions.
+click-check if you rely on those specifically.
+
+**Two more confirmed with a real rendered browser (Playwright), not just
+raw HTTP** — raw `requests` checks turned out to give misleading signals
+here, so these needed an actual browser to nail down:
+- **Ticketmaster France (Ligue 1) is genuinely blocked**: `ticketmaster.fr`
+  returns 401 even on its own bare homepage, verified with full page
+  rendering, not a URL-pattern issue. The global `ticketmaster.com` has no
+  Ligue 1 listings either ("0 Results", checked live). So Ligue 1 matches
+  no longer show a Ticketmaster chip at all — better than a chip that
+  reliably leads nowhere (likely also the real explanation for "Ticketmaster
+  redirects to a Spanish site": a blocked `.fr` request bouncing to some
+  other Ticketmaster storefront as a fallback).
+- **SeatGeek sits behind DataDome** (a CAPTCHA/bot-protection service —
+  confirmed via its `robots.txt` response, which serves a DataDome
+  challenge page instead of the actual file), blocking every kind of
+  automated check including a full headless browser, so it can't be
+  directly verified. However, the project's own SeatGeek **API**
+  integration (`scrapers/football.py`) already uses `q` as its official
+  query parameter, while the web search chip was using `search` instead —
+  clearly inconsistent. Fixed to `q` for consistency with SeatGeek's own
+  documented convention. AMC Theatres remains unverifiable the same way
+  (403 on every URL, including its homepage) with no equivalent internal
+  clue to cross-check against.
 
 If something big is still missing after reading this table, that's a gap
 worth closing, not an inherent limit of the approach — flag it.
