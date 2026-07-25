@@ -250,7 +250,7 @@
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEvYmFubmVycy9lOWRhZjhmMC04NzYzLTExZjEtODg5Ny1kMWM4ODdkMjY2OTctcmltZy13MTIwMC1oNjc1LWRjZDljYWEzLWdtaXIuanBnP3Y9MTc4NDg5OTg2Mg.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czkvYmFubmVycy8zOWM3MWM0MC04N2ZhLTExZjEtODFmMS04ZGJjMjExYjVlZmMtcmltZy13MTIwMC1oNjc1LWRjZDljYWEzLWdtaXIuanBnP3Y9MTc4NDk2NDQyMA.avif",
     "extra": {},
     "group_id": 15,
     "multi_source": false
@@ -464,17 +464,17 @@
     "multi_source": false
   },
   {
-    "title": "Kids Baking Workshop",
+    "title": "DIY Sock Puppet - Bangalore",
     "city": "Bangalore",
     "category": "Kids",
     "source": "AllEvents",
-    "url": "https://allevents.in/bangalore/kids-baking-workshop/4100030413421952",
-    "date": "2026-07-25",
-    "venue": "Mushroom Studio - Learn, Connect &amp; Grow",
+    "url": "https://allevents.in/bangalore/diy-sock-puppet-bangalore/3900030380174854",
+    "date": "2026-07-26",
+    "venue": "Indiranagar Social: Bengaluru",
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czkvYmFubmVycy9mZGJjZmU4MC04MTdlLTExZjEtOGE4Yy0zZmU1N2Q3MGU1ODktcmltZy13MTIwMC1oNjc1LWRjZjFkYmMyLWdtaXIucG5nP3Y9MTc4NDI1MTc4NQ.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czgvYmFubmVycy9hMTJkODc0MC03YjdkLTExZjEtOWM1Zi1iMTViZDU2NTY1MDktcmltZy13MTIwMC1oNjAwLWRjZmNmY2ZjLWdtaXIuanBnP3Y9MTc4MzU5MTQ5Mw.avif",
     "extra": {},
     "group_id": 29,
     "multi_source": false
@@ -522,7 +522,7 @@
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czkvYmFubmVycy9mYTE3YjdkMC04NzVlLTExZjEtOWE5ZS0zOWNhMDE1MWNkNjYtcmltZy13MTIwMC1oNjc1LWRjNjAzNDI3LWdtaXIuanBnP3Y9MTc4NDg5Nzc0MQ.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czYvYmFubmVycy9iM2M3NGM4MC04N2ZiLTExZjEtYjZjOC1lZjQxMzdkOGRjYjAtcmltZy13MTIwMC1oNjc1LWRjNjAzNDI3LWdtaXIuanBnP3Y9MTc4NDk2NTA1NQ.avif",
     "extra": {},
     "group_id": 32,
     "multi_source": false
