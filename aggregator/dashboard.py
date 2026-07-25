@@ -48,18 +48,12 @@ def _movie_booking_links(title: str, include_us: bool) -> list[dict]:
         ]
     return links
 
-# Ticketmaster localizes per country; pick the right storefront per league.
-# No "Ligue 1" entry: ticketmaster.fr rejects every request with a 401 (even
-# its own bare homepage does, verified with a real rendered browser, not
-# just a raw HTTP check) — genuinely broken/blocked, not a wrong URL to
-# guess around. The global ticketmaster.com has no Ligue 1 listings either
-# ("0 Results", checked live), so Ligue 1 just skips the Ticketmaster chip
-# rather than link somewhere that reliably leads nowhere.
-TICKETMASTER_BY_LEAGUE = {
-    "EPL": "https://www.ticketmaster.co.uk/search?q=",
-    "Bundesliga": "https://www.ticketmaster.de/search?keyword=",
-    "La Liga": "https://www.ticketmaster.es/search?keyword=",
-}
+# The localized storefronts (ticketmaster.co.uk / .de / .es / .fr) were
+# unreliable — .fr 401s on every request, and .es/.de kept bouncing users
+# to the wrong-language site. The global ticketmaster.com works for every
+# league (verified live) and stays on the US/global site regardless of
+# the match, so all leagues share one search URL now.
+TICKETMASTER_SEARCH_URL = "https://www.ticketmaster.com/search?q="
 
 
 # Typical matchday face-value ranges (2026), shown so the comparison box
@@ -108,9 +102,7 @@ def _football_srcs(card_title: str, league: str, extra: dict) -> tuple[list[dict
         ]
         guide_tail = "Book direct on BookMyShow / District — resale markets rarely list ISL."
     else:
-        tm_base = TICKETMASTER_BY_LEAGUE.get(league)
-        if tm_base:
-            srcs.append(chip("Ticketmaster", tm_base + q))
+        srcs.append(chip("Ticketmaster", TICKETMASTER_SEARCH_URL + q))
         srcs += [
             # SeatGeek's own official API (see scrapers/football.py) uses
             # `q=` as the query param — matching that here, since the site
