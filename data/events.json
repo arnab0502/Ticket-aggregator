@@ -96,22 +96,6 @@
     "multi_source": false
   },
   {
-    "title": "I AM WORTH IT ft. Rajat Sood",
-    "city": "Bangalore",
-    "category": "Comedy",
-    "source": "AllEvents",
-    "url": "https://allevents.in/bangalore/i-am-worth-it-ft-rajat-sood/3900030184562947",
-    "date": "2026-07-31",
-    "venue": "The Comedy Theatre, Indiranagar: Bengaluru",
-    "price_min": 499.0,
-    "price_max": 899.0,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czYvYmFubmVycy8zNmZjM2U5MC02NDJlLTExZjEtOWM4Ni1jM2QzMjcwZDQ5YTctcmltZy13MTIwMC1oNjAwLWRjMDUzMDJjLWdtaXIuanBnP3Y9MTc4MTAyODUwOA.avif",
-    "extra": {},
-    "group_id": 6,
-    "multi_source": true
-  },
-  {
     "title": "Best in Standup ft. Various Artists",
     "city": "Bangalore",
     "category": "Comedy",
@@ -124,8 +108,24 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czYvYmFubmVycy8zM2M2NGQxMC04ODZlLTExZjEtYThhNC02MzFiMTc1ZjNkNzgtcmltZy13MTIwMC1oNjAwLWRjZjRmMmYzLWdtaXIuanBnP3Y9MTc4NTAxNDIzMg.avif",
     "extra": {},
-    "group_id": 7,
+    "group_id": 6,
     "multi_source": false
+  },
+  {
+    "title": "I AM WORTH IT ft. Rajat Sood",
+    "city": "Bangalore",
+    "category": "Comedy",
+    "source": "AllEvents",
+    "url": "https://allevents.in/bangalore/i-am-worth-it-ft-rajat-sood/3900030184562947",
+    "date": "2026-07-31",
+    "venue": "The Comedy Theatre, Indiranagar: Bengaluru",
+    "price_min": 499.0,
+    "price_max": 899.0,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czYvYmFubmVycy8zNmZjM2U5MC02NDJlLTExZjEtOWM4Ni1jM2QzMjcwZDQ5YTctcmltZy13MTIwMC1oNjAwLWRjMDUzMDJjLWdtaXIuanBnP3Y9MTc4MTAyODUwOA.avif",
+    "extra": {},
+    "group_id": 7,
+    "multi_source": true
   },
   {
     "title": "Out Of ORDER ft. Shashi Dhiman",
@@ -784,22 +784,6 @@
     "multi_source": false
   },
   {
-    "title": "Aise Kaise by Amit Tandon",
-    "city": "Mumbai",
-    "category": "Comedy",
-    "source": "AllEvents",
-    "url": "https://allevents.in/mumbai/aise-kaise-by-amit-tandon/3900030400906600",
-    "date": "2026-08-01",
-    "venue": "Lata Mangeshkar NatyaGruha Auditorium: Mumbai",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEvYmFubmVycy9iZWUwM2Y1MC04NGY0LTExZjEtYWJkYS1kZmVhMTBiZTk5NWUtcmltZy13MTIwMC1oNjAwLWRjMDYwNTA1LWdtaXIuanBnP3Y9MTc4NDYzMjIxMw.avif",
-    "extra": {},
-    "group_id": 47,
-    "multi_source": false
-  },
-  {
     "title": "Allow Me!: A Standup Comedy Show by Rahul Dua",
     "city": "Mumbai",
     "category": "Comedy",
@@ -811,6 +795,22 @@
     "price_max": null,
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czUvYmFubmVycy9lNjU5NDhiMC04NGE0LTExZjEtOTU3Zi1mMWYwNjQ2MjM0MGQtcmltZy13MTIwMC1oNjAwLWRjMDYwNTAzLWdtaXIuanBnP3Y9MTc4NDU5NzkyMA.avif",
+    "extra": {},
+    "group_id": 47,
+    "multi_source": false
+  },
+  {
+    "title": "Aise Kaise by Amit Tandon",
+    "city": "Mumbai",
+    "category": "Comedy",
+    "source": "AllEvents",
+    "url": "https://allevents.in/mumbai/aise-kaise-by-amit-tandon/3900030400906600",
+    "date": "2026-08-01",
+    "venue": "Lata Mangeshkar NatyaGruha Auditorium: Mumbai",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEvYmFubmVycy9iZWUwM2Y1MC04NGY0LTExZjEtYWJkYS1kZmVhMTBiZTk5NWUtcmltZy13MTIwMC1oNjAwLWRjMDYwNTA1LWdtaXIuanBnP3Y9MTc4NDYzMjIxMw.avif",
     "extra": {},
     "group_id": 48,
     "multi_source": false
@@ -938,7 +938,7 @@
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czkvYmFubmVycy9mNWQwZGI1MC04ODliLTExZjEtYThhNC02MzFiMTc1ZjNkNzgtcmltZy13MTIwMC1oNjc1LWRjZDljYWEzLWdtaXIuanBnP3Y9MTc4NTAzMzg4NQ.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czYvYmFubmVycy8yZjQ3NGNhMC04OGM2LTExZjEtODFmMS04ZGJjMjExYjVlZmMtcmltZy13MTIwMC1oNjc1LWRjZDljYWEzLWdtaXIuanBnP3Y9MTc4NTA1MjAyMA.avif",
     "extra": {},
     "group_id": 55,
     "multi_source": false
@@ -1248,6 +1248,22 @@
     "multi_source": false
   },
   {
+    "title": "Best in Standup ft. Various Artists",
+    "city": "Delhi NCR",
+    "category": "Comedy",
+    "source": "AllEvents",
+    "url": "https://allevents.in/new-delhi/best-in-standup-ft-various-artists/3900030438196050",
+    "date": "2026-07-26",
+    "venue": "The Comedy Theatre: Gurgaon",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czkvYmFubmVycy8yZmQ5MzQ2MC04ODZlLTExZjEtODFmMS04ZGJjMjExYjVlZmMtcmltZy13MTIwMC1oNjAwLWRjZjRmMmYzLWdtaXIuanBnP3Y9MTc4NTAxNDIyNQ.avif",
+    "extra": {},
+    "group_id": 74,
+    "multi_source": false
+  },
+  {
     "title": "Brocode The Big Line Up 2026",
     "city": "Delhi NCR",
     "category": "Comedy",
@@ -1260,7 +1276,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czUvYmFubmVycy8xNTQ5NzQ1MC03YTZmLTExZjEtYjA0OC04NTJlMWZkMmQ2N2EtcmltZy13MTIwMC1oNjAwLWRjMmQyZDJjLWdtaXIuanBnP3Y9MTc4MzQ3NTI5NA.avif",
     "extra": {},
-    "group_id": 74,
+    "group_id": 75,
     "multi_source": false
   },
   {
@@ -1276,7 +1292,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEvYmFubmVycy9mMDBmZmZjMC04ODY5LTExZjEtYjZjOC1lZjQxMzdkOGRjYjAtcmltZy13MTIwMC1oNjAwLWRjMTkxOTE5LWdtaXIuanBnP3Y9MTc4NTAxMjQwMA.avif",
     "extra": {},
-    "group_id": 75,
+    "group_id": 76,
     "multi_source": false
   },
   {
@@ -1292,7 +1308,23 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czMvYmFubmVycy9hYmNlNjU5MC04ODY5LTExZjEtYjZjOC1lZjQxMzdkOGRjYjAtcmltZy13MTIwMC1oNjAwLWRjZWVkM2FmLWdtaXIuanBnP3Y9MTc4NTAxMjI4Ng.avif",
     "extra": {},
-    "group_id": 76,
+    "group_id": 77,
+    "multi_source": false
+  },
+  {
+    "title": "Kal Ki Chinta Nahi Karta ft.Ravi Gupta",
+    "city": "Delhi NCR",
+    "category": "Comedy",
+    "source": "AllEvents",
+    "url": "https://allevents.in/new-delhi/kal-ki-chinta-nahi-karta-ftravi-gupta/3900030385594654",
+    "date": "2026-08-11",
+    "venue": "The Laugh Store: DLF Cyberhub, Gurugram",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czkvYmFubmVycy9hOWUxYzVlMC04ODZiLTExZjEtYjZjOC1lZjQxMzdkOGRjYjAtcmltZy13MTIwMC1oNjAwLWRjZjRkZWMwLWdtaXIuanBnP3Y9MTc4NTAxMzE0Mg.avif",
+    "extra": {},
+    "group_id": 78,
     "multi_source": false
   },
   {
@@ -1324,23 +1356,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czQvYmFubmVycy81N2QyNmRjMC02NDkxLTExZjEtYjZlOC0zZGRkNGM4NWZhMzQtcmltZy13MTIwMC1oNjAwLWRjZTgyYTJmLWdtaXIuanBnP3Y9MTc4MTA3MTA4Mw.avif",
     "extra": {},
-    "group_id": 77,
-    "multi_source": false
-  },
-  {
-    "title": "Kal Ki Chinta Nahi Karta ft.Ravi Gupta",
-    "city": "Delhi NCR",
-    "category": "Comedy",
-    "source": "AllEvents",
-    "url": "https://allevents.in/new-delhi/kal-ki-chinta-nahi-karta-ftravi-gupta/3900030385594654",
-    "date": "2026-08-11",
-    "venue": "The Laugh Store: DLF Cyberhub, Gurugram",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czkvYmFubmVycy9hOWUxYzVlMC04ODZiLTExZjEtYjZjOC1lZjQxMzdkOGRjYjAtcmltZy13MTIwMC1oNjAwLWRjZjRkZWMwLWdtaXIuanBnP3Y9MTc4NTAxMzE0Mg.avif",
-    "extra": {},
-    "group_id": 78,
+    "group_id": 79,
     "multi_source": false
   },
   {
@@ -1356,7 +1372,23 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEvYmFubmVycy9hN2MyZDg5MC04NTZkLTExZjEtYWJkYS1kZmVhMTBiZTk5NWUtcmltZy13MTIwMC1oNjAwLWRjMDMwMTAxLWdtaXIuanBnP3Y9MTc4NDY4NDE0Mw.avif",
     "extra": {},
-    "group_id": 79,
+    "group_id": 80,
+    "multi_source": false
+  },
+  {
+    "title": "Naanum Foodie Dhaan by Praveen Kumar",
+    "city": "Delhi NCR",
+    "category": "Comedy",
+    "source": "AllEvents",
+    "url": "https://allevents.in/new-delhi/naanum-foodie-dhaan-by-praveen-kumar/3900030437503845",
+    "date": "2026-09-06",
+    "venue": "The Comedy Theatre: Gurgaon",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czMvYmFubmVycy9lMDczOTE0MC04NTg5LTExZjEtOWJlNS00YmViZjQ0YjQ5ODAtcmltZy13MTIwMC1oNjAwLWRjYmYzMTMwLWdtaXIuanBnP3Y9MTc4NDY5NjI2NA.avif",
+    "extra": {},
+    "group_id": 81,
     "multi_source": false
   },
   {
@@ -1364,47 +1396,15 @@
     "city": "Delhi NCR",
     "category": "Comedy",
     "source": "AllEvents",
-    "url": "https://allevents.in/new-delhi/appurv-gupta-live/3900030385913915",
+    "url": "https://allevents.in/new-delhi/appurv-gupta-live/3900030375657727",
     "date": "2026-08-08",
-    "venue": "The Laugh Store: DLF Cyberhub, Gurugram",
+    "venue": "Comedy County: Noida.",
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEvYmFubmVycy84N2E3MTAyMC04ODc1LTExZjEtYThhNC02MzFiMTc1ZjNkNzgtcmltZy13MTIwMC1oNjAwLWRjMDMwMTAxLWdtaXIuanBnP3Y9MTc4NTAxNzM3OQ.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czkvYmFubmVycy84Yzk3NTYzMC03YWJhLTExZjEtYjE4ZS1kZmMwZWM1OTZiZjQtcmltZy13MTIwMC1oNjAwLWRjMDMwMTAxLWdtaXIuanBnP3Y9MTc4MzUwNzcwNg.avif",
     "extra": {},
-    "group_id": 75,
-    "multi_source": false
-  },
-  {
-    "title": "Vipul Goyal-Unleashed",
-    "city": "Delhi NCR",
-    "category": "Comedy",
-    "source": "AllEvents",
-    "url": "https://allevents.in/new-delhi/vipul-goyal-unleashed/3900030375316719",
-    "date": "2026-08-22",
-    "venue": "Indira Gandhi Kala Kendra Auditorium: Noida",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czIvYmFubmVycy82ZDIxNDNlMC03YWIyLTExZjEtYjE4ZS1kZmMwZWM1OTZiZjQtcmltZy13MTIwMC1oNjAwLWRjMDcwNzA3LWdtaXIuanBnP3Y9MTc4MzUwNDIxOA.avif",
-    "extra": {},
-    "group_id": 80,
-    "multi_source": false
-  },
-  {
-    "title": "Spoiler Alert - A Standup Comedy Solo by Anshu Mor",
-    "city": "Delhi NCR",
-    "category": "Comedy",
-    "source": "AllEvents",
-    "url": "https://allevents.in/new-delhi/spoiler-alert-a-standup-comedy-solo-by-anshu-mor/3900030386599407",
-    "date": "2026-08-29",
-    "venue": "The Laugh Store: DLF Cyberhub, Gurugram",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEwL2Jhbm5lcnMvNjExNmQ5ODAtODQ3YS0xMWYxLTk1N2YtZjFmMDY0NjIzNDBkLXJpbWctdzEyMDAtaDYwMC1kYzIxNjhhNi1nbWlyLmpwZz92PTE3ODQ1Nzk2NTc.avif",
-    "extra": {},
-    "group_id": 81,
+    "group_id": 76,
     "multi_source": false
   },
   {
@@ -1578,7 +1578,7 @@
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czMvYmFubmVycy9lZmM2NzQzMC04M2Y2LTExZjEtYTBmMC1iM2ZjMDU5MzBlMTYtcmltZy13MTIwMC1oNjAwLWRjNGMwNjhiLWdtaXIuanBnP3Y9MTc4NDUyMzIwMw.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czYvYmFubmVycy9kYTgwYjFiMC04OGEzLTExZjEtODFmMS04ZGJjMjExYjVlZmMtcmltZy13MTIwMC1oNjAwLWRjNGMwNjhiLWdtaXIuanBnP3Y9MTc4NTAzNzI3NQ.avif",
     "extra": {},
     "group_id": 91,
     "multi_source": false
@@ -1712,6 +1712,22 @@
     "multi_source": false
   },
   {
+    "title": "Naanum Foodie Dhaan by Praveen Kumar",
+    "city": "Hyderabad",
+    "category": "Comedy",
+    "source": "AllEvents",
+    "url": "https://allevents.in/hyderabad/naanum-foodie-dhaan-by-praveen-kumar/3900030437501414",
+    "date": "2026-08-23",
+    "venue": "The Comedy Theatre: Hyderabad.",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czYvYmFubmVycy9jZGE2Y2FmMC04NTg5LTExZjEtOWJlNS00YmViZjQ0YjQ5ODAtcmltZy13MTIwMC1oNjAwLWRjYmYzMTMwLWdtaXIuanBnP3Y9MTc4NDY5NjIzMw.avif",
+    "extra": {},
+    "group_id": 99,
+    "multi_source": false
+  },
+  {
     "title": "Sapan Verma Live - 2026 New Tour",
     "city": "Hyderabad",
     "category": "Comedy",
@@ -1724,7 +1740,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czMvYmFubmVycy85MTUzMDFjMC03YTczLTExZjEtOWM1Zi1iMTViZDU2NTY1MDktcmltZy13MTIwMC1oNjAwLWRjMWEwMjAyLWdtaXIuanBnP3Y9MTc4MzQ3NzIyMA.avif",
     "extra": {},
-    "group_id": 99,
+    "group_id": 100,
     "multi_source": false
   },
   {
@@ -1740,7 +1756,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czIvYmFubmVycy9iNDMxNzUyMC03YWI3LTExZjEtYjE4ZS1kZmMwZWM1OTZiZjQtcmltZy13MTIwMC1oNjAwLWRjOGJkMGYzLWdtaXIuanBnP3Y9MTc4MzUwNjQ4NA.avif",
     "extra": {},
-    "group_id": 100,
+    "group_id": 101,
     "multi_source": false
   },
   {
@@ -1756,7 +1772,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czMvYmFubmVycy80MjBkZTRjMC04ODNmLTExZjEtYjZjOC1lZjQxMzdkOGRjYjAtcmltZy13MTIwMC1oNjc1LWRjMDYwNjFkLWdtaXIuanBnP3Y9MTc4NDk5NDA2OQ.avif",
     "extra": {},
-    "group_id": 101,
+    "group_id": 102,
     "multi_source": false
   },
   {
@@ -1772,7 +1788,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czIvYmFubmVycy9iYmQ3ZGQ5MC03YWJkLTExZjEtYjE4ZS1kZmMwZWM1OTZiZjQtcmltZy13MTIwMC1oNjAwLWRjNzkxZDE2LWdtaXIuanBnP3Y9MTc4MzUwOTA3NA.avif",
     "extra": {},
-    "group_id": 102,
+    "group_id": 103,
     "multi_source": false
   },
   {
@@ -1788,7 +1804,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czkvYmFubmVycy8yN2NjZmNlMC04ODc2LTExZjEtYThhNC02MzFiMTc1ZjNkNzgtcmltZy13MTIwMC1oNjAwLWRjMTkxMzUxLWdtaXIuanBnP3Y9MTc4NTAxNzY0OA.avif",
     "extra": {},
-    "group_id": 103,
+    "group_id": 104,
     "multi_source": false
   },
   {
@@ -1804,7 +1820,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czYvYmFubmVycy8wMWMyNzM3MC02NDJlLTExZjEtOWM4Ni1jM2QzMjcwZDQ5YTctcmltZy13MTIwMC1oNjAwLWRjMDUwODE1LWdtaXIuanBnP3Y9MTc4MTAyODQxOA.avif",
     "extra": {},
-    "group_id": 104,
+    "group_id": 105,
     "multi_source": false
   },
   {
@@ -1818,9 +1834,9 @@
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czkvYmFubmVycy9mMDJlYmU0MC04ODVjLTExZjEtYjZjOC1lZjQxMzdkOGRjYjAtcmltZy13MTIwMC1oNjAwLWRjZjNmMWYwLWdtaXIuanBnP3Y9MTc4NTAwNjgxNw.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEvYmFubmVycy8wOGMyMWZmMC04OGE0LTExZjEtYjZjOC1lZjQxMzdkOGRjYjAtcmltZy13MTIwMC1oNjAwLWRjZjNmMWYwLWdtaXIuanBnP3Y9MTc4NTAzNzM1Mw.avif",
     "extra": {},
-    "group_id": 105,
+    "group_id": 106,
     "multi_source": false
   },
   {
@@ -1836,7 +1852,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEvYmFubmVycy8xMTkwZWE1MC04ODdmLTExZjEtYjZjOC1lZjQxMzdkOGRjYjAtcmltZy13MTIwMC1oNjAwLWRjZjBlZGVhLWdtaXIuanBnP3Y9MTc4NTAyMTQ3Ng.avif",
     "extra": {},
-    "group_id": 106,
+    "group_id": 107,
     "multi_source": false
   },
   {
@@ -1852,7 +1868,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czkvYmFubmVycy85N2FhNGYxMC04NTY4LTExZjEtYTA4OS03ZjczOTlmMWMyYjAtcmltZy13MTIwMC1oNjAwLWRjMDEwMTAxLWdtaXIuanBnP3Y9MTc4NDY4MTk2OQ.avif",
     "extra": {},
-    "group_id": 107,
+    "group_id": 108,
     "multi_source": false
   },
   {
@@ -1867,22 +1883,6 @@
     "price_max": null,
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEvYmFubmVycy8xMWIzOThjMC04NGY2LTExZjEtODMyYy1kNTllZjY0ZDlhNmEtcmltZy13MTIwMC1oNjAwLWRjMDcyOTM0LWdtaXIuanBnP3Y9MTc4NDYzMjc4Mg.avif",
-    "extra": {},
-    "group_id": 108,
-    "multi_source": false
-  },
-  {
-    "title": "Rupali Tyagi Live",
-    "city": "Hyderabad",
-    "category": "Comedy",
-    "source": "AllEvents",
-    "url": "https://allevents.in/hyderabad/rupali-tyagi-live/3900030019946347",
-    "date": "2026-08-22",
-    "venue": "The Comedy Theatre: Hyderabad.",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czQvYmFubmVycy9mZWIyMzY0MC03YjIzLTExZjEtOWM1Zi1iMTViZDU2NTY1MDktcmltZy13MTIwMC1oNjAwLWRjMTcxMDE3LWdtaXIuanBnP3Y9MTc4MzU1Mjk5NQ.avif",
     "extra": {},
     "group_id": 109,
     "multi_source": false
@@ -1914,7 +1914,7 @@
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czkvYmFubmVycy84OGYwODQ3MC04ODkzLTExZjEtYjZjOC1lZjQxMzdkOGRjYjAtcmltZy13MTIwMC1oNjc1LWRjMDIwMjAyLWdtaXIuanBnP3Y9MTc4NTAzMDI2Ng.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czIvYmFubmVycy80Yjc0YmExMC04OGMyLTExZjEtYThhNC02MzFiMTc1ZjNkNzgtcmltZy13MTIwMC1oNjc1LWRjMDIwMjAyLWdtaXIuanBnP3Y9MTc4NTA1MDM0OQ.avif",
     "extra": {},
     "group_id": 111,
     "multi_source": false
@@ -2096,22 +2096,6 @@
     "multi_source": false
   },
   {
-    "title": "Baap Ki Adalat - Panel Show",
-    "city": "Hyderabad",
-    "category": "Nightlife",
-    "source": "AllEvents",
-    "url": "https://allevents.in/hyderabad/baap-ki-adalat-panel-show/3900030394466822",
-    "date": "2026-08-01",
-    "venue": "The Street Comedy Club: Hyderabad",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czQvYmFubmVycy84OGJiOTU3MC04NGU4LTExZjEtOTU3Zi1mMWYwNjQ2MjM0MGQtcmltZy13MTIwMC1oNjAwLWRjNDkyZDE0LWdtaXIuanBnP3Y9MTc4NDYyNjk2OA.avif",
-    "extra": {},
-    "group_id": 123,
-    "multi_source": false
-  },
-  {
     "title": "Corporate Majdoor by Anmol Garg",
     "city": "Bangalore",
     "category": "Comedy",
@@ -2124,7 +2108,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 124,
+    "group_id": 123,
     "multi_source": false
   },
   {
@@ -2140,7 +2124,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 125,
+    "group_id": 124,
     "multi_source": false
   },
   {
@@ -2156,7 +2140,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 126,
+    "group_id": 125,
     "multi_source": false
   },
   {
@@ -2172,7 +2156,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 127,
+    "group_id": 126,
     "multi_source": false
   },
   {
@@ -2188,7 +2172,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 128,
+    "group_id": 127,
     "multi_source": false
   },
   {
@@ -2201,6 +2185,22 @@
     "venue": "MLR Convention Centre, Whitefield, Bengaluru",
     "price_min": 799.0,
     "price_max": 799.0,
+    "currency": "INR",
+    "image": "",
+    "extra": {},
+    "group_id": 128,
+    "multi_source": false
+  },
+  {
+    "title": "Standup Comedy Show | Bangalore",
+    "city": "Bangalore",
+    "category": "Comedy",
+    "source": "Eventz",
+    "url": "https://www.eventz.co.in/events-list/standup-comedy-show-%7C-bangalore",
+    "date": "2026-07-24T00:00:00",
+    "venue": "Bloom Creative Zone - HSR, Bengaluru",
+    "price_min": 149.0,
+    "price_max": 149.0,
     "currency": "INR",
     "image": "",
     "extra": {},
@@ -2332,7 +2332,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 6,
+    "group_id": 7,
     "multi_source": true
   },
   {
