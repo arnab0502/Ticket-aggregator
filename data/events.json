@@ -250,7 +250,7 @@
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czgvYmFubmVycy83N2ZkNjM2MC04YTQ0LTExZjEtYjkyZS00MWI1ODRmZGIzYzktcmltZy13MTIwMC1oNjc1LWRjZDljYWEzLWdtaXIuanBnP3Y9MTc4NTIxNjIxMA.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEvYmFubmVycy85YTlhODhkMC04YTU4LTExZjEtODg3Zi1jZjNhMWVjMjBjNzAtcmltZy13MTIwMC1oNjc1LWRjZDljYWEzLWdtaXIuanBnP3Y9MTc4NTIyNDg1OA.avif",
     "extra": {},
     "group_id": 15,
     "multi_source": false
@@ -288,22 +288,6 @@
     "multi_source": false
   },
   {
-    "title": "THE ROOM OF MEMORIES MLR 24th 4PM",
-    "city": "Bangalore",
-    "category": "Kids",
-    "source": "AllEvents",
-    "url": "https://allevents.in/bangalore/the-room-of-memories-mlr-24th-4pm-tickets/80003400916253",
-    "date": "2026-10-24",
-    "venue": "MLR Cultural Centre",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4yLmFsbGV2ZW50cy5pbi90aHVtYnMvdGh1bWI2YTRkMTFiODgwZDg5LmpwZw.avif",
-    "extra": {},
-    "group_id": 18,
-    "multi_source": false
-  },
-  {
     "title": "Tiranga Rally Hike - Independence Day at Makalidurga",
     "city": "Bangalore",
     "category": "Kids",
@@ -316,7 +300,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czkvYmFubmVycy8zNGY2ZWUzN2MwMzc5MWE3Y2Y3MzliMTQ2YzcyNzViMWY4YTZkNTk3ZDFjYzExMjQyODY4MmJjYTI2NWI3Yjg4LXJpbWctdzEyMDAtaDYwMC1kYzAxMDMwNS1nbWlyLmpwZz92PTE3ODE2Mzc1NjQ.avif",
     "extra": {},
-    "group_id": 19,
+    "group_id": 18,
     "multi_source": false
   },
   {
@@ -332,7 +316,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEvYmFubmVycy8wNmYyMDE1MC01ZDU2LTExZjEtOGFiYy04NWUwMmJjM2UwZWQtcmltZy13MTIwMC1oNjAwLWRjZWU0NDc5LWdtaXIuanBnP3Y9MTc4MDI3NTk0OQ.avif",
     "extra": {},
-    "group_id": 20,
+    "group_id": 19,
     "multi_source": false
   },
   {
@@ -348,7 +332,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czMvYmFubmVycy9lZWFhODM2MC03YjIzLTExZjEtYjE4ZS1kZmMwZWM1OTZiZjQtcmltZy13MTIwMC1oNjAwLWRjMTcxMDE3LWdtaXIuanBnP3Y9MTc4MzU1Mjk2OA.avif",
     "extra": {},
-    "group_id": 21,
+    "group_id": 20,
     "multi_source": true
   },
   {
@@ -364,7 +348,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czkvYmFubmVycy9jYzg5YmVkMC04NTYwLTExZjEtYTA4OS03ZjczOTlmMWMyYjAtcmltZy13MTIwMC1oNjAwLWRjMTE4ZTkwLWdtaXIuanBnP3Y9MTc4NDY3ODYyMg.avif",
     "extra": {},
-    "group_id": 22,
+    "group_id": 21,
     "multi_source": false
   },
   {
@@ -380,7 +364,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czcvYmFubmVycy85ZDE5YTg5MC03YWMwLTExZjEtYWY3Mi1iZmI1MGI3NzYyNTUtcmltZy13MTIwMC1oNjAwLWRjNWFiY2U2LWdtaXIuanBnP3Y9MTc4MzUxMDMxMQ.avif",
     "extra": {},
-    "group_id": 23,
+    "group_id": 22,
     "multi_source": false
   },
   {
@@ -396,7 +380,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEwL2Jhbm5lcnMvNjNlZDVlYzAtODU0ZS0xMWYxLTliZTUtNGJlYmY0NGI0OTgwLXJpbWctdzEyMDAtaDYwMC1kY2ZlZmVmZS1nbWlyLmpwZz92PTE3ODQ2NzA3MTU.avif",
     "extra": {},
-    "group_id": 24,
+    "group_id": 23,
     "multi_source": false
   },
   {
@@ -412,7 +396,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czYvYmFubmVycy8zODM5ZTQyMC04OGNjLTExZjEtYThhNC02MzFiMTc1ZjNkNzgtcmltZy13MTIwMC1oNjAwLWRjZDFkNGQyLWdtaXIuanBnP3Y9MTc4NTA1NDYxMg.avif",
     "extra": {},
-    "group_id": 25,
+    "group_id": 24,
     "multi_source": false
   },
   {
@@ -428,7 +412,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czcvYmFubmVycy80OWZmZmU1MC03YTcyLTExZjEtYWUzNi01ZDU0ZmNkODkwNjktcmltZy13MTIwMC1oNjAwLWRjYzJhOThlLWdtaXIuanBnP3Y9MTc4MzQ3NjY3MQ.avif",
     "extra": {},
-    "group_id": 26,
+    "group_id": 25,
     "multi_source": false
   },
   {
@@ -443,6 +427,22 @@
     "price_max": null,
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEwL2Jhbm5lcnMvYTlkMTE1MzAtN2I1My0xMWYxLTljNWYtYjE1YmQ1NjU2NTA5LXJpbWctdzEyMDAtaDYwMC1kYzJjMmMyZi1nbWlyLmpwZz92PTE3ODM1NzM0Njg.avif",
+    "extra": {},
+    "group_id": 26,
+    "multi_source": false
+  },
+  {
+    "title": "THE ROOM OF MEMORIES MLR 24th 4PM",
+    "city": "Bangalore",
+    "category": "Kids",
+    "source": "AllEvents",
+    "url": "https://allevents.in/bangalore/the-room-of-memories-mlr-24th-4pm-tickets/80003400916253",
+    "date": "2026-10-24",
+    "venue": "MLR Cultural Centre",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4yLmFsbGV2ZW50cy5pbi90aHVtYnMvdGh1bWI2YTRkMTFiODgwZDg5LmpwZw.avif",
     "extra": {},
     "group_id": 27,
     "multi_source": false
@@ -460,7 +460,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4yLmFsbGV2ZW50cy5pbi90aHVtYnMvdGh1bWI2YTRkMTFiODgwZDg5LmpwZw.avif",
     "extra": {},
-    "group_id": 18,
+    "group_id": 27,
     "multi_source": false
   },
   {
@@ -476,7 +476,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4yLmFsbGV2ZW50cy5pbi90aHVtYnMvdGh1bWI2YTRkMTFiODgwZDg5LmpwZw.avif",
     "extra": {},
-    "group_id": 18,
+    "group_id": 27,
     "multi_source": false
   },
   {
@@ -938,7 +938,7 @@
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czgvYmFubmVycy84ZTI4YmUwMC04YTQ0LTExZjEtODg3Zi1jZjNhMWVjMjBjNzAtcmltZy13MTIwMC1oNjc1LWRjZDljYWEzLWdtaXIuanBnP3Y9MTc4NTIxNjI0Nw.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czQvYmFubmVycy84NjFlMmJkMC04YTVhLTExZjEtYjkyZS00MWI1ODRmZGIzYzktcmltZy13MTIwMC1oNjc1LWRjZDljYWEzLWdtaXIuanBnP3Y9MTc4NTIyNTY4Mg.avif",
     "extra": {},
     "group_id": 55,
     "multi_source": false
@@ -1232,6 +1232,22 @@
     "multi_source": false
   },
   {
+    "title": "Comedy Open Mic 28-30July 5:00 PM",
+    "city": "Delhi NCR",
+    "category": "Comedy",
+    "source": "AllEvents",
+    "url": "https://allevents.in/new-delhi/comedy-open-mic-28-30july-5-00-pm-tickets/80001502955910",
+    "date": "2026-07-28",
+    "venue": "Hideout Studio",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4yLmFsbGV2ZW50cy5pbi90aHVtYnMvdGh1bWI2ODZmYTM5ZjJjZjZiLmpwZw.avif",
+    "extra": {},
+    "group_id": 73,
+    "multi_source": false
+  },
+  {
     "title": "Harsh 'O' Ullas - A Standup Solo By Harsh Gujral",
     "city": "Delhi NCR",
     "category": "Comedy",
@@ -1244,7 +1260,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czMvYmFubmVycy9hYmNlNjU5MC04ODY5LTExZjEtYjZjOC1lZjQxMzdkOGRjYjAtcmltZy13MTIwMC1oNjAwLWRjZWVkM2FmLWdtaXIuanBnP3Y9MTc4NTAxMjI4Ng.avif",
     "extra": {},
-    "group_id": 73,
+    "group_id": 74,
     "multi_source": false
   },
   {
@@ -1260,7 +1276,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czkvYmFubmVycy9hOWUxYzVlMC04ODZiLTExZjEtYjZjOC1lZjQxMzdkOGRjYjAtcmltZy13MTIwMC1oNjAwLWRjZjRkZWMwLWdtaXIuanBnP3Y9MTc4NTAxMzE0Mg.avif",
     "extra": {},
-    "group_id": 74,
+    "group_id": 75,
     "multi_source": false
   },
   {
@@ -1292,7 +1308,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEvYmFubmVycy9hN2MyZDg5MC04NTZkLTExZjEtYWJkYS1kZmVhMTBiZTk5NWUtcmltZy13MTIwMC1oNjAwLWRjMDMwMTAxLWdtaXIuanBnP3Y9MTc4NDY4NDE0Mw.avif",
     "extra": {},
-    "group_id": 75,
+    "group_id": 76,
     "multi_source": false
   },
   {
@@ -1308,7 +1324,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czMvYmFubmVycy9lMDczOTE0MC04NTg5LTExZjEtOWJlNS00YmViZjQ0YjQ5ODAtcmltZy13MTIwMC1oNjAwLWRjYmYzMTMwLWdtaXIuanBnP3Y9MTc4NDY5NjI2NA.avif",
     "extra": {},
-    "group_id": 76,
+    "group_id": 77,
     "multi_source": false
   },
   {
@@ -1340,7 +1356,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czIvYmFubmVycy82ZDIxNDNlMC03YWIyLTExZjEtYjE4ZS1kZmMwZWM1OTZiZjQtcmltZy13MTIwMC1oNjAwLWRjMDcwNzA3LWdtaXIuanBnP3Y9MTc4MzUwNDIxOA.avif",
     "extra": {},
-    "group_id": 77,
+    "group_id": 78,
     "multi_source": false
   },
   {
@@ -1355,22 +1371,6 @@
     "price_max": null,
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czQvYmFubmVycy81N2QyNmRjMC02NDkxLTExZjEtYjZlOC0zZGRkNGM4NWZhMzQtcmltZy13MTIwMC1oNjAwLWRjZTgyYTJmLWdtaXIuanBnP3Y9MTc4MTA3MTA4Mw.avif",
-    "extra": {},
-    "group_id": 78,
-    "multi_source": false
-  },
-  {
-    "title": "Spoiler Alert - A Standup Comedy Solo by Anshu Mor",
-    "city": "Delhi NCR",
-    "category": "Comedy",
-    "source": "AllEvents",
-    "url": "https://allevents.in/new-delhi/spoiler-alert-a-standup-comedy-solo-by-anshu-mor/3900030386599407",
-    "date": "2026-08-29",
-    "venue": "The Laugh Store: DLF Cyberhub, Gurugram",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czcvYmFubmVycy80Yzg4Y2Q4MC04ODkzLTExZjEtODFmMS04ZGJjMjExYjVlZmMtcmltZy13MTIwMC1oNjAwLWRjMjE2OGE2LWdtaXIuanBnP3Y9MTc4NTAzMDE2NQ.avif",
     "extra": {},
     "group_id": 79,
     "multi_source": false
@@ -1728,6 +1728,22 @@
     "multi_source": false
   },
   {
+    "title": "Corporate Majdoor By Anmol Garg",
+    "city": "Hyderabad",
+    "category": "Comedy",
+    "source": "AllEvents",
+    "url": "https://allevents.in/hyderabad/corporate-majdoor-by-anmol-garg/3900030409779736",
+    "date": "2026-09-20",
+    "venue": "The Comedy Theatre: Hyderabad.",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEvYmFubmVycy8wOGMyMWZmMC04OGE0LTExZjEtYjZjOC1lZjQxMzdkOGRjYjAtcmltZy13MTIwMC1oNjAwLWRjZjNmMWYwLWdtaXIuanBnP3Y9MTc4NTAzNzM1Mw.avif",
+    "extra": {},
+    "group_id": 101,
+    "multi_source": false
+  },
+  {
     "title": "Silly Papa By Angad Singh Ranyal",
     "city": "Hyderabad",
     "category": "Comedy",
@@ -1740,7 +1756,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czkvYmFubmVycy8yN2NjZmNlMC04ODc2LTExZjEtYThhNC02MzFiMTc1ZjNkNzgtcmltZy13MTIwMC1oNjAwLWRjMTkxMzUxLWdtaXIuanBnP3Y9MTc4NTAxNzY0OA.avif",
     "extra": {},
-    "group_id": 101,
+    "group_id": 102,
     "multi_source": false
   },
   {
@@ -1756,7 +1772,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czIvYmFubmVycy9iYmQ3ZGQ5MC03YWJkLTExZjEtYjE4ZS1kZmMwZWM1OTZiZjQtcmltZy13MTIwMC1oNjAwLWRjNzkxZDE2LWdtaXIuanBnP3Y9MTc4MzUwOTA3NA.avif",
     "extra": {},
-    "group_id": 102,
+    "group_id": 103,
     "multi_source": false
   },
   {
@@ -1771,22 +1787,6 @@
     "price_max": null,
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czYvYmFubmVycy8wMWMyNzM3MC02NDJlLTExZjEtOWM4Ni1jM2QzMjcwZDQ5YTctcmltZy13MTIwMC1oNjAwLWRjMDUwODE1LWdtaXIuanBnP3Y9MTc4MTAyODQxOA.avif",
-    "extra": {},
-    "group_id": 103,
-    "multi_source": false
-  },
-  {
-    "title": "Corporate Majdoor By Anmol Garg",
-    "city": "Hyderabad",
-    "category": "Comedy",
-    "source": "AllEvents",
-    "url": "https://allevents.in/hyderabad/corporate-majdoor-by-anmol-garg/3900030409779736",
-    "date": "2026-09-20",
-    "venue": "The Comedy Theatre: Hyderabad.",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEvYmFubmVycy8wOGMyMWZmMC04OGE0LTExZjEtYjZjOC1lZjQxMzdkOGRjYjAtcmltZy13MTIwMC1oNjAwLWRjZjNmMWYwLWdtaXIuanBnP3Y9MTc4NTAzNzM1Mw.avif",
     "extra": {},
     "group_id": 104,
     "multi_source": false
@@ -2284,7 +2284,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 21,
+    "group_id": 20,
     "multi_source": true
   },
   {
@@ -6887,46 +6887,6 @@
     "multi_source": false
   },
   {
-    "title": "Angers vs Stade Rennais",
-    "city": "Ligue 1",
-    "category": "Football",
-    "source": "ESPN",
-    "url": "https://www.espn.com/soccer/match/_/gameId/401876475/stade-rennais-angers",
-    "date": "2026-09-05T18:00+00:00",
-    "venue": "Stade Raymond Kopa, Angers",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "",
-    "extra": {
-      "league": "Ligue 1",
-      "home": "Angers",
-      "away": "Stade Rennais"
-    },
-    "group_id": 326,
-    "multi_source": false
-  },
-  {
-    "title": "Le Havre AC vs Brest",
-    "city": "Ligue 1",
-    "category": "Football",
-    "source": "ESPN",
-    "url": "https://www.espn.com/soccer/match/_/gameId/401876474/brest-le-havre-ac",
-    "date": "2026-09-05T18:00+00:00",
-    "venue": "Stade Océane, Le Havre",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "",
-    "extra": {
-      "league": "Ligue 1",
-      "home": "Le Havre AC",
-      "away": "Brest"
-    },
-    "group_id": 327,
-    "multi_source": false
-  },
-  {
     "title": "Lens vs Lorient",
     "city": "Ligue 1",
     "category": "Football",
@@ -6968,12 +6928,92 @@
     "multi_source": false
   },
   {
+    "title": "Le Havre AC vs Brest",
+    "city": "Ligue 1",
+    "category": "Football",
+    "source": "ESPN",
+    "url": "https://www.espn.com/soccer/match/_/gameId/401876474/brest-le-havre-ac",
+    "date": "2026-09-05T18:45+00:00",
+    "venue": "Stade Océane, Le Havre",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "",
+    "extra": {
+      "league": "Ligue 1",
+      "home": "Le Havre AC",
+      "away": "Brest"
+    },
+    "group_id": 326,
+    "multi_source": false
+  },
+  {
+    "title": "Nice vs Le Mans",
+    "city": "Ligue 1",
+    "category": "Football",
+    "source": "ESPN",
+    "url": "https://www.espn.com/soccer/match/_/gameId/401876470/le-mans-nice",
+    "date": "2026-09-05T18:45+00:00",
+    "venue": "Allianz Riviera, Nice",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "",
+    "extra": {
+      "league": "Ligue 1",
+      "home": "Nice",
+      "away": "Le Mans"
+    },
+    "group_id": 327,
+    "multi_source": false
+  },
+  {
+    "title": "Troyes vs Strasbourg",
+    "city": "Ligue 1",
+    "category": "Football",
+    "source": "ESPN",
+    "url": "https://www.espn.com/soccer/match/_/gameId/401876467/strasbourg-troyes",
+    "date": "2026-09-06T13:00+00:00",
+    "venue": "Stade de l'Aube, Paris",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "",
+    "extra": {
+      "league": "Ligue 1",
+      "home": "Troyes",
+      "away": "Strasbourg"
+    },
+    "group_id": 328,
+    "multi_source": false
+  },
+  {
+    "title": "Angers vs Stade Rennais",
+    "city": "Ligue 1",
+    "category": "Football",
+    "source": "ESPN",
+    "url": "https://www.espn.com/soccer/match/_/gameId/401876475/stade-rennais-angers",
+    "date": "2026-09-06T15:15+00:00",
+    "venue": "Stade Raymond Kopa, Angers",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "",
+    "extra": {
+      "league": "Ligue 1",
+      "home": "Angers",
+      "away": "Stade Rennais"
+    },
+    "group_id": 329,
+    "multi_source": false
+  },
+  {
     "title": "Marseille vs Paris FC",
     "city": "Ligue 1",
     "category": "Football",
     "source": "ESPN",
     "url": "https://www.espn.com/soccer/match/_/gameId/401876471/paris-fc-marseille",
-    "date": "2026-09-05T18:00+00:00",
+    "date": "2026-09-06T18:45+00:00",
     "venue": "Stade Vélodrome, Marseille",
     "price_min": null,
     "price_max": null,
@@ -6985,188 +7025,7 @@
       "away": "Paris FC",
       "official_url": "https://billetterie.om.fr"
     },
-    "group_id": 328,
-    "multi_source": false
-  },
-  {
-    "title": "Nice vs Le Mans",
-    "city": "Ligue 1",
-    "category": "Football",
-    "source": "ESPN",
-    "url": "https://www.espn.com/soccer/match/_/gameId/401876470/le-mans-nice",
-    "date": "2026-09-05T18:00+00:00",
-    "venue": "Allianz Riviera, Nice",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "",
-    "extra": {
-      "league": "Ligue 1",
-      "home": "Nice",
-      "away": "Le Mans"
-    },
-    "group_id": 329,
-    "multi_source": false
-  },
-  {
-    "title": "Troyes vs Strasbourg",
-    "city": "Ligue 1",
-    "category": "Football",
-    "source": "ESPN",
-    "url": "https://www.espn.com/soccer/match/_/gameId/401876467/strasbourg-troyes",
-    "date": "2026-09-05T18:00+00:00",
-    "venue": "Stade de l'Aube, Paris",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "",
-    "extra": {
-      "league": "Ligue 1",
-      "home": "Troyes",
-      "away": "Strasbourg"
-    },
     "group_id": 330,
-    "multi_source": false
-  },
-  {
-    "title": "AJ Auxerre vs Nice",
-    "city": "Ligue 1",
-    "category": "Football",
-    "source": "ESPN",
-    "url": "https://www.espn.com/soccer/match/_/gameId/401876466/nice-aj-auxerre",
-    "date": "2026-09-12T18:00+00:00",
-    "venue": "Stade de l'Abbé-Deschamps, Auxerre",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "",
-    "extra": {
-      "league": "Ligue 1",
-      "home": "AJ Auxerre",
-      "away": "Nice"
-    },
-    "group_id": 319,
-    "multi_source": false
-  },
-  {
-    "title": "Brest vs Paris Saint-Germain",
-    "city": "Ligue 1",
-    "category": "Football",
-    "source": "ESPN",
-    "url": "https://www.espn.com/soccer/match/_/gameId/401876465/paris-saint-germain-brest",
-    "date": "2026-09-12T18:00+00:00",
-    "venue": "Stade Francis-Le Blé, Brest",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "",
-    "extra": {
-      "league": "Ligue 1",
-      "home": "Brest",
-      "away": "Paris Saint-Germain"
-    },
-    "group_id": 317,
-    "multi_source": false
-  },
-  {
-    "title": "Le Havre AC vs Angers",
-    "city": "Ligue 1",
-    "category": "Football",
-    "source": "ESPN",
-    "url": "https://www.espn.com/soccer/match/_/gameId/401876464/angers-le-havre-ac",
-    "date": "2026-09-12T18:00+00:00",
-    "venue": "Stade Océane, Le Havre",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "",
-    "extra": {
-      "league": "Ligue 1",
-      "home": "Le Havre AC",
-      "away": "Angers"
-    },
-    "group_id": 327,
-    "multi_source": false
-  },
-  {
-    "title": "Le Mans vs Lens",
-    "city": "Ligue 1",
-    "category": "Football",
-    "source": "ESPN",
-    "url": "https://www.espn.com/soccer/match/_/gameId/401876463/lens-le-mans",
-    "date": "2026-09-12T18:00+00:00",
-    "venue": "Stade Marie-Marvingt, Le Mans",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "",
-    "extra": {
-      "league": "Ligue 1",
-      "home": "Le Mans",
-      "away": "Lens"
-    },
-    "group_id": 310,
-    "multi_source": false
-  },
-  {
-    "title": "Lille vs Troyes",
-    "city": "Ligue 1",
-    "category": "Football",
-    "source": "ESPN",
-    "url": "https://www.espn.com/soccer/match/_/gameId/401876462/troyes-lille",
-    "date": "2026-09-12T18:00+00:00",
-    "venue": "Decathlon Arena - Stade Pierre-Mauroy, Lille",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "",
-    "extra": {
-      "league": "Ligue 1",
-      "home": "Lille",
-      "away": "Troyes",
-      "official_url": "https://billetterie.losc.fr"
-    },
-    "group_id": 321,
-    "multi_source": false
-  },
-  {
-    "title": "Lorient vs Toulouse",
-    "city": "Ligue 1",
-    "category": "Football",
-    "source": "ESPN",
-    "url": "https://www.espn.com/soccer/match/_/gameId/401876461/toulouse-lorient",
-    "date": "2026-09-12T18:00+00:00",
-    "venue": "Stade du Moustoir - Yves Allainmat, Lorient",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "",
-    "extra": {
-      "league": "Ligue 1",
-      "home": "Lorient",
-      "away": "Toulouse"
-    },
-    "group_id": 320,
-    "multi_source": false
-  },
-  {
-    "title": "Paris FC vs Lyon",
-    "city": "Ligue 1",
-    "category": "Football",
-    "source": "ESPN",
-    "url": "https://www.espn.com/soccer/match/_/gameId/401876460/lyon-paris-fc",
-    "date": "2026-09-12T18:00+00:00",
-    "venue": "Stade Jean Bouin, Paris",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "",
-    "extra": {
-      "league": "Ligue 1",
-      "home": "Paris FC",
-      "away": "Lyon"
-    },
-    "group_id": 323,
     "multi_source": false
   },
   {
@@ -7175,7 +7034,7 @@
     "category": "Football",
     "source": "ESPN",
     "url": "https://www.espn.com/soccer/match/_/gameId/401876459/marseille-stade-rennais",
-    "date": "2026-09-12T18:00+00:00",
+    "date": "2026-09-11T18:45+00:00",
     "venue": "Roazhon Park, Rennes",
     "price_min": null,
     "price_max": null,
@@ -7195,7 +7054,7 @@
     "category": "Football",
     "source": "ESPN",
     "url": "https://www.espn.com/soccer/match/_/gameId/401876458/as-monaco-strasbourg",
-    "date": "2026-09-12T18:00+00:00",
+    "date": "2026-09-12T15:15+00:00",
     "venue": "Stade de la Meinau, Strasbourg",
     "price_min": null,
     "price_max": null,
@@ -7207,6 +7066,147 @@
       "away": "AS Monaco"
     },
     "group_id": 332,
+    "multi_source": false
+  },
+  {
+    "title": "AJ Auxerre vs Nice",
+    "city": "Ligue 1",
+    "category": "Football",
+    "source": "ESPN",
+    "url": "https://www.espn.com/soccer/match/_/gameId/401876466/nice-aj-auxerre",
+    "date": "2026-09-12T18:45+00:00",
+    "venue": "Stade de l'Abbé-Deschamps, Auxerre",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "",
+    "extra": {
+      "league": "Ligue 1",
+      "home": "AJ Auxerre",
+      "away": "Nice"
+    },
+    "group_id": 319,
+    "multi_source": false
+  },
+  {
+    "title": "Le Havre AC vs Angers",
+    "city": "Ligue 1",
+    "category": "Football",
+    "source": "ESPN",
+    "url": "https://www.espn.com/soccer/match/_/gameId/401876464/angers-le-havre-ac",
+    "date": "2026-09-12T18:45+00:00",
+    "venue": "Stade Océane, Le Havre",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "",
+    "extra": {
+      "league": "Ligue 1",
+      "home": "Le Havre AC",
+      "away": "Angers"
+    },
+    "group_id": 326,
+    "multi_source": false
+  },
+  {
+    "title": "Lorient vs Toulouse",
+    "city": "Ligue 1",
+    "category": "Football",
+    "source": "ESPN",
+    "url": "https://www.espn.com/soccer/match/_/gameId/401876461/toulouse-lorient",
+    "date": "2026-09-12T18:45+00:00",
+    "venue": "Stade du Moustoir - Yves Allainmat, Lorient",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "",
+    "extra": {
+      "league": "Ligue 1",
+      "home": "Lorient",
+      "away": "Toulouse"
+    },
+    "group_id": 320,
+    "multi_source": false
+  },
+  {
+    "title": "Paris FC vs Lyon",
+    "city": "Ligue 1",
+    "category": "Football",
+    "source": "ESPN",
+    "url": "https://www.espn.com/soccer/match/_/gameId/401876460/lyon-paris-fc",
+    "date": "2026-09-12T18:45+00:00",
+    "venue": "Stade Jean Bouin, Paris",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "",
+    "extra": {
+      "league": "Ligue 1",
+      "home": "Paris FC",
+      "away": "Lyon"
+    },
+    "group_id": 323,
+    "multi_source": false
+  },
+  {
+    "title": "Lille vs Troyes",
+    "city": "Ligue 1",
+    "category": "Football",
+    "source": "ESPN",
+    "url": "https://www.espn.com/soccer/match/_/gameId/401876462/troyes-lille",
+    "date": "2026-09-13T13:00+00:00",
+    "venue": "Decathlon Arena - Stade Pierre-Mauroy, Lille",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "",
+    "extra": {
+      "league": "Ligue 1",
+      "home": "Lille",
+      "away": "Troyes",
+      "official_url": "https://billetterie.losc.fr"
+    },
+    "group_id": 321,
+    "multi_source": false
+  },
+  {
+    "title": "Le Mans vs Lens",
+    "city": "Ligue 1",
+    "category": "Football",
+    "source": "ESPN",
+    "url": "https://www.espn.com/soccer/match/_/gameId/401876463/lens-le-mans",
+    "date": "2026-09-13T15:15+00:00",
+    "venue": "Stade Marie-Marvingt, Le Mans",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "",
+    "extra": {
+      "league": "Ligue 1",
+      "home": "Le Mans",
+      "away": "Lens"
+    },
+    "group_id": 310,
+    "multi_source": false
+  },
+  {
+    "title": "Brest vs Paris Saint-Germain",
+    "city": "Ligue 1",
+    "category": "Football",
+    "source": "ESPN",
+    "url": "https://www.espn.com/soccer/match/_/gameId/401876465/paris-saint-germain-brest",
+    "date": "2026-09-13T18:45+00:00",
+    "venue": "Stade Francis-Le Blé, Brest",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "",
+    "extra": {
+      "league": "Ligue 1",
+      "home": "Brest",
+      "away": "Paris Saint-Germain"
+    },
+    "group_id": 317,
     "multi_source": false
   },
   {
@@ -7307,7 +7307,7 @@
       "away": "Stade Rennais",
       "official_url": "https://billetterie.ol.fr"
     },
-    "group_id": 326,
+    "group_id": 329,
     "multi_source": false
   },
   {
