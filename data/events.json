@@ -250,7 +250,7 @@
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czcvYmFubmVycy9iZGYwN2Y1MC04Y2NmLTExZjEtOTc2MC1kM2FjZWM5M2MzZGItcmltZy13MTIwMC1oNjc1LWRjZDhjOGE4LWdtaXIuanBnP3Y9MTc4NTQ5NTkyOQ.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czgvYmFubmVycy8xYTVjMjg1MC04Y2U2LTExZjEtYTMzYS1mNzE1MDY2MmE1YWEtcmltZy13MTIwMC1oNjc1LWRjZDhjOGE4LWdtaXIuanBnP3Y9MTc4NTUwNTUzMw.avif",
     "extra": {},
     "group_id": 14,
     "multi_source": false
@@ -320,22 +320,6 @@
     "multi_source": false
   },
   {
-    "title": "AI Innovation Lab for Kids | 8-Week Hands-on Program Whitefield",
-    "city": "Bangalore",
-    "category": "Kids",
-    "source": "AllEvents",
-    "url": "https://allevents.in/bangalore/ai-innovation-lab-for-kids-8-week-hands-on-program-whitefield-tickets/80002271863898",
-    "date": "2026-08-01",
-    "venue": "SPOT Whitefield",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4yLmFsbGV2ZW50cy5pbi90aHVtYnMvdGh1bWI2YTYzNGQxYjZkYTMzLmpwZw.avif",
-    "extra": {},
-    "group_id": 19,
-    "multi_source": false
-  },
-  {
     "title": "Rupali Tyagi Live",
     "city": "Bangalore",
     "category": "Kids",
@@ -348,24 +332,8 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czMvYmFubmVycy9lZWFhODM2MC03YjIzLTExZjEtYjE4ZS1kZmMwZWM1OTZiZjQtcmltZy13MTIwMC1oNjAwLWRjMTcxMDE3LWdtaXIuanBnP3Y9MTc4MzU1Mjk2OA.avif",
     "extra": {},
-    "group_id": 20,
+    "group_id": 19,
     "multi_source": true
-  },
-  {
-    "title": "Bongo Bazar Exhibition Edition 1.0",
-    "city": "Bangalore",
-    "category": "Kids",
-    "source": "AllEvents",
-    "url": "https://allevents.in/bangalore/bongo-bazar-exhibition-edition-10-tickets/80002136461263",
-    "date": "2026-08-21",
-    "venue": "Manpho Convention Centre",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4yLmFsbGV2ZW50cy5pbi90aHVtYnMvdGh1bWI2YTY4NmI0M2RjOGEyLmpwZw.avif",
-    "extra": {},
-    "group_id": 21,
-    "multi_source": false
   },
   {
     "title": "Lenny's Kids Concert Tour - Bengaluru",
@@ -380,7 +348,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czMvYmFubmVycy84YTRjMWEwMC04YjRhLTExZjEtOTFiYi05NWZkOTgzYjY3MjEtcmltZy13MTIwMC1oNjAwLWRjMTE4ZTkwLWdtaXIuanBnP3Y9MTc4NTMyODc2OQ.avif",
     "extra": {},
-    "group_id": 22,
+    "group_id": 20,
     "multi_source": false
   },
   {
@@ -396,7 +364,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czcvYmFubmVycy85ZDE5YTg5MC03YWMwLTExZjEtYWY3Mi1iZmI1MGI3NzYyNTUtcmltZy13MTIwMC1oNjAwLWRjNWFiY2U2LWdtaXIuanBnP3Y9MTc4MzUxMDMxMQ.avif",
     "extra": {},
-    "group_id": 23,
+    "group_id": 21,
     "multi_source": false
   },
   {
@@ -412,7 +380,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czgvYmFubmVycy8zMDVlZDgyMC04YjJjLTExZjEtODg3Zi1jZjNhMWVjMjBjNzAtcmltZy13MTIwMC1oNjAwLWRjZmVmZWZlLWdtaXIuanBnP3Y9MTc4NTMxNTczMw.avif",
     "extra": {},
-    "group_id": 24,
+    "group_id": 22,
     "multi_source": false
   },
   {
@@ -428,7 +396,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czYvYmFubmVycy8zODM5ZTQyMC04OGNjLTExZjEtYThhNC02MzFiMTc1ZjNkNzgtcmltZy13MTIwMC1oNjAwLWRjZDFkNGQyLWdtaXIuanBnP3Y9MTc4NTA1NDYxMg.avif",
     "extra": {},
-    "group_id": 25,
+    "group_id": 23,
     "multi_source": false
   },
   {
@@ -444,7 +412,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czcvYmFubmVycy9lYjIzY2U0OWQ5NGI3MGEzOTNjOGY2MmNkOTFiMzQwMzIyMjgzNTFjYjMyMjE1YWM1M2QwZWZkYmNmYjEwNGZlLXJpbWctdzEyMDAtaDYwMC1kY2Q5ZGNkZC1nbWlyLmpwZz92PTE3ODUxMzQ0MzA.avif",
     "extra": {},
-    "group_id": 26,
+    "group_id": 24,
     "multi_source": false
   },
   {
@@ -460,7 +428,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czgvYmFubmVycy8wNGUxODk3ZmFkYjI4NTRlNjZjOGMzNTg3NzRlNDk0MGRlMGQxMWFlZjFjZmM5ZjIxMWEwMjQ0YWQwMGNiNjFkLXJpbWctdzEyMDAtaDYwMC1kY2Q5ZGNkZC1nbWlyLmpwZz92PTE3ODUxMzQ4NzI.avif",
     "extra": {},
-    "group_id": 26,
+    "group_id": 24,
     "multi_source": false
   },
   {
@@ -475,6 +443,38 @@
     "price_max": null,
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czYvYmFubmVycy8yNWFlZjk0OTBhY2I5YjU5MDE4YTE3ZWFkNGY4ZWVjN2Q3ZjY2N2EyYWQyY2ZhZGViMDI0ZWE1OTAzOWY3Mjc0LXJpbWctdzEyMDAtaDYwMC1kY2Q5ZGNkZC1nbWlyLmpwZz92PTE3ODQ5OTc5NzA.avif",
+    "extra": {},
+    "group_id": 24,
+    "multi_source": false
+  },
+  {
+    "title": "Paint Your Own Aesthetic Tote Bag",
+    "city": "Bangalore",
+    "category": "Kids",
+    "source": "AllEvents",
+    "url": "https://allevents.in/bangalore/paint-your-own-aesthetic-tote-bag/3900030236528317",
+    "date": "2026-08-01",
+    "venue": "Gupchi - DIY Art Studio: Bengaluru",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czcvYmFubmVycy80OWZmZmU1MC03YTcyLTExZjEtYWUzNi01ZDU0ZmNkODkwNjktcmltZy13MTIwMC1oNjAwLWRjYzJhOThlLWdtaXIuanBnP3Y9MTc4MzQ3NjY3MQ.avif",
+    "extra": {},
+    "group_id": 25,
+    "multi_source": false
+  },
+  {
+    "title": "Hello MOMs",
+    "city": "Bangalore",
+    "category": "Kids",
+    "source": "AllEvents",
+    "url": "https://allevents.in/bangalore/hello-moms/3900030311299215",
+    "date": "2026-08-03",
+    "venue": "Fabrizo - Creative Activity Hub: BTM Layout",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEwL2Jhbm5lcnMvYTlkMTE1MzAtN2I1My0xMWYxLTljNWYtYjE1YmQ1NjU2NTA5LXJpbWctdzEyMDAtaDYwMC1kYzJjMmMyZi1nbWlyLmpwZz92PTE3ODM1NzM0Njg.avif",
     "extra": {},
     "group_id": 26,
     "multi_source": false
@@ -938,7 +938,7 @@
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czgvYmFubmVycy81MzVhNjY5MC04Y2M3LTExZjEtYTMzYS1mNzE1MDY2MmE1YWEtcmltZy13MTIwMC1oNjc1LWRjZDhjOGE4LWdtaXIuanBnP3Y9MTc4NTQ5MjMxNQ.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czIvYmFubmVycy84M2Y3ZjFhMC04Y2U1LTExZjEtODhkYy1lMzg1NmViMjU2OGYtcmltZy13MTIwMC1oNjc1LWRjZDhjOGE4LWdtaXIuanBnP3Y9MTc4NTUwNTU2MA.avif",
     "extra": {},
     "group_id": 54,
     "multi_source": false
@@ -1060,13 +1060,13 @@
     "city": "Mumbai",
     "category": "Kids",
     "source": "AllEvents",
-    "url": "https://allevents.in/mumbai/chembur-kids-carnival/3900029794343939",
+    "url": "https://allevents.in/mumbai/chembur-kids-carnival/3900030046702643",
     "date": "2026-10-31",
     "venue": "St. Anthony`s Homes Co-Operative Society: Mumbai",
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czgvYmFubmVycy9lMmJlNzVmMC03OWY0LTExZjEtYWUzNi01ZDU0ZmNkODkwNjktcmltZy13MTIwMC1oNjAwLWRjZDdlYWY1LWdtaXIuanBnP3Y9MTc4MzQyMjgxMQ.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEvYmFubmVycy8wOGQ0NmMwMC01ZmJlLTExZjEtYjE2Zi0wZjlmNDY5NWIwYzQtcmltZy13MTIwMC1oNjAwLWRjZDdlYWY1LWdtaXIuanBnP3Y9MTc4MDU0MDUyMg.avif",
     "extra": {},
     "group_id": 62,
     "multi_source": false
@@ -1498,7 +1498,7 @@
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czYvYmFubmVycy84MjI2ZjEyMC04OTgyLTExZjEtOWM1Yi05NzRiMTkyMmY1NDctcmltZy13MTIwMC1oNjAwLWRjZjllYmQ2LWdtaXIuanBnP3Y9MTc4NTEzMjkwNA.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czUvYmFubmVycy8yOTdiMjI4MC04Y2RlLTExZjEtOTc2MC1kM2FjZWM5M2MzZGItcmltZy13MTIwMC1oNjAwLWRjZjhlOGQ4LWdtaXIuanBnP3Y9MTc4NTUwMjEyMw.avif",
     "extra": {},
     "group_id": 85,
     "multi_source": false
@@ -1744,22 +1744,6 @@
     "multi_source": false
   },
   {
-    "title": "Tab Tum Kahan",
-    "city": "Hyderabad",
-    "category": "Comedy",
-    "source": "AllEvents",
-    "url": "https://allevents.in/hyderabad/tab-tum-kahan/3900030375812715",
-    "date": "2026-08-02",
-    "venue": "The Comedy Theatre: Hyderabad.",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czIvYmFubmVycy9iYmQ3ZGQ5MC03YWJkLTExZjEtYjE4ZS1kZmMwZWM1OTZiZjQtcmltZy13MTIwMC1oNjAwLWRjNzkxZDE2LWdtaXIuanBnP3Y9MTc4MzUwOTA3NA.avif",
-    "extra": {},
-    "group_id": 101,
-    "multi_source": false
-  },
-  {
     "title": "Silly Papa By Angad Singh Ranyal",
     "city": "Hyderabad",
     "category": "Comedy",
@@ -1771,6 +1755,22 @@
     "price_max": null,
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czkvYmFubmVycy8yN2NjZmNlMC04ODc2LTExZjEtYThhNC02MzFiMTc1ZjNkNzgtcmltZy13MTIwMC1oNjAwLWRjMTkxMzUxLWdtaXIuanBnP3Y9MTc4NTAxNzY0OA.avif",
+    "extra": {},
+    "group_id": 101,
+    "multi_source": false
+  },
+  {
+    "title": "Tab Tum Kahan",
+    "city": "Hyderabad",
+    "category": "Comedy",
+    "source": "AllEvents",
+    "url": "https://allevents.in/hyderabad/tab-tum-kahan/3900030375812715",
+    "date": "2026-08-02",
+    "venue": "The Comedy Theatre: Hyderabad.",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czIvYmFubmVycy9iYmQ3ZGQ5MC03YWJkLTExZjEtYjE4ZS1kZmMwZWM1OTZiZjQtcmltZy13MTIwMC1oNjAwLWRjNzkxZDE2LWdtaXIuanBnP3Y9MTc4MzUwOTA3NA.avif",
     "extra": {},
     "group_id": 102,
     "multi_source": false
@@ -2156,7 +2156,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 20,
+    "group_id": 19,
     "multi_source": true
   },
   {
