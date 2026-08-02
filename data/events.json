@@ -250,7 +250,7 @@
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEwL2Jhbm5lcnMvMDQ1OThiMTAtOGU0OS0xMWYxLTg4ZGMtZTM4NTZlYjI1NjhmLXJpbWctdzEyMDAtaDY3NS1kY2Q4YzhhOC1nbWlyLmpwZz92PTE3ODU2NTc5Njg.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEvYmFubmVycy8wZDQwNGRkMC04ZTcyLTExZjEtYWY1YS0xN2NlNGVhNTQzNDEtcmltZy13MTIwMC1oNjc1LWRjZDhjOGE4LWdtaXIuanBnP3Y9MTc4NTY3NTk2Nw.avif",
     "extra": {},
     "group_id": 15,
     "multi_source": false
@@ -480,6 +480,22 @@
     "multi_source": false
   },
   {
+    "title": "BFF 3.0 - SACHET PARAMPARA!",
+    "city": "Bangalore",
+    "category": "Nightlife",
+    "source": "AllEvents",
+    "url": "https://allevents.in/bangalore/bff-30-sachet-parampara-tickets/80003759233513",
+    "date": "2026-08-02",
+    "venue": "J K GRAND ARENA",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4yLmFsbGV2ZW50cy5pbi90aHVtYnMvdGh1bWI2YTYzNGJhMjg0MjI0LmpwZw.avif",
+    "extra": {},
+    "group_id": 28,
+    "multi_source": false
+  },
+  {
     "title": "The Great Indian Spirit Festival (GISF)",
     "city": "Bangalore",
     "category": "Nightlife",
@@ -492,7 +508,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEwL2Jhbm5lcnMvOThjMGQ0YzAtODk3MS0xMWYxLTkzM2QtOGI0NTI5MmIxMWM4LXJpbWctdzEyMDAtaDY3NS1kYzAxMmYxNy1nbWlyLmpwZz92PTE3ODUxMjU2NDE.avif",
     "extra": {},
-    "group_id": 28,
+    "group_id": 29,
     "multi_source": false
   },
   {
@@ -508,7 +524,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czYvYmFubmVycy9hYjlkMGE3MC00YjYyLTExZjEtODUzNC02YjY0NzI1OTE4MWItcmltZy13MTIwMC1oNjAwLWRjMjAxYzFkLWdtaXIuanBnP3Y9MTc3ODMwMjI1OA.avif",
     "extra": {},
-    "group_id": 29,
+    "group_id": 30,
     "multi_source": false
   },
   {
@@ -524,7 +540,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czYvYmFubmVycy8xZTNkMDNmMC04YjkxLTExZjEtOTFiYi05NWZkOTgzYjY3MjEtcmltZy13MTIwMC1oNjAwLWRjMWIwNDA4LWdtaXIuanBnP3Y9MTc4NTM1OTA4Mg.avif",
     "extra": {},
-    "group_id": 30,
+    "group_id": 31,
     "multi_source": false
   },
   {
@@ -544,6 +560,22 @@
     "multi_source": true
   },
   {
+    "title": "BOLLYWOOD CONCERT DJ NIGHT",
+    "city": "Bangalore",
+    "category": "Nightlife",
+    "source": "AllEvents",
+    "url": "https://allevents.in/bangalore/bollywood-concert-dj-night-tickets/80002544309542",
+    "date": "2026-08-02",
+    "venue": "Babylonia - Global Food and Cocktails",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4yLmFsbGV2ZW50cy5pbi9haS1iYW5uZXJzL2FpX2Jhbm5lcl82YTY4YmZjM2MyMDYxLmpwZw.avif",
+    "extra": {},
+    "group_id": 32,
+    "multi_source": false
+  },
+  {
     "title": "KK Forever One Night One Tribute Bangalores Jaming",
     "city": "Bangalore",
     "category": "Nightlife",
@@ -556,23 +588,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czUvYmFubmVycy9mNWNmOTRhMC03YTZhLTExZjEtYWUzNi01ZDU0ZmNkODkwNjktcmltZy13MTIwMC1oNjAwLWRjMDIwMTA2LWdtaXIuanBnP3Y9MTc4MzQ3MzUyMw.avif",
     "extra": {},
-    "group_id": 31,
-    "multi_source": false
-  },
-  {
-    "title": "Ticket To Boiler Room",
-    "city": "Bangalore",
-    "category": "Nightlife",
-    "source": "AllEvents",
-    "url": "https://allevents.in/bangalore/ticket-to-boiler-room/3900030260487441",
-    "date": "2026-08-08",
-    "venue": "BudBee Restobar 104: Bengaluru",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czcvYmFubmVycy9kYjcxNzY3MC03M2JmLTExZjEtYjQ1Mi0wZjJlMGU1MTNmY2UtcmltZy13MTIwMC1oNjAwLWRjMDQwMTAyLWdtaXIuanBnP3Y9MTc4Mjc0MDMyOA.avif",
-    "extra": {},
-    "group_id": 32,
+    "group_id": 33,
     "multi_source": false
   },
   {
@@ -588,7 +604,23 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czQvYmFubmVycy9iZmExOTc5MC01YTgzLTExZjEtYjU1Mi04ZDlhMTUyODQ5MjgtcmltZy13MTIwMC1oNjAwLWRjOTIyMDIxLWdtaXIuanBnP3Y9MTc3OTk2NTczMw.avif",
     "extra": {},
-    "group_id": 33,
+    "group_id": 34,
+    "multi_source": false
+  },
+  {
+    "title": "Ticket To Boiler Room",
+    "city": "Bangalore",
+    "category": "Nightlife",
+    "source": "AllEvents",
+    "url": "https://allevents.in/bangalore/ticket-to-boiler-room/3900030260487441",
+    "date": "2026-08-08",
+    "venue": "BudBee Restobar 104: Bengaluru",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czcvYmFubmVycy9kYjcxNzY3MC03M2JmLTExZjEtYjQ1Mi0wZjJlMGU1MTNmY2UtcmltZy13MTIwMC1oNjAwLWRjMDQwMTAyLWdtaXIuanBnP3Y9MTc4Mjc0MDMyOA.avif",
+    "extra": {},
+    "group_id": 35,
     "multi_source": false
   },
   {
@@ -604,7 +636,23 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEvYmFubmVycy9jYzYxMzBhMC04OTcwLTExZjEtOWM1Yi05NzRiMTkyMmY1NDctcmltZy13MTIwMC1oNjc1LWRjMzAxNjA0LWdtaXIuanBnP3Y9MTc4NTEyNTI5OA.avif",
     "extra": {},
-    "group_id": 34,
+    "group_id": 36,
+    "multi_source": false
+  },
+  {
+    "title": "Friendship Day Fiesta",
+    "city": "Bangalore",
+    "category": "Nightlife",
+    "source": "AllEvents",
+    "url": "https://allevents.in/bangalore/friendship-day-fiesta-tickets/80002318595179",
+    "date": "2026-08-02",
+    "venue": "Skylime - Happy Minds",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4yLmFsbGV2ZW50cy5pbi90aHVtYnMvdGh1bWI2YTY0ODkzMzNkY2RjLmpwZw.avif",
+    "extra": {},
+    "group_id": 37,
     "multi_source": false
   },
   {
@@ -620,7 +668,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czUvYmFubmVycy9mMmNjY2Y1MC03YjQzLTExZjEtOWM1Zi1iMTViZDU2NTY1MDktcmltZy13MTIwMC1oNjAwLWRjMWMxNjEzLWdtaXIuanBnP3Y9MTc4MzU2NjcxOQ.avif",
     "extra": {},
-    "group_id": 35,
+    "group_id": 38,
     "multi_source": false
   },
   {
@@ -635,54 +683,6 @@
     "price_max": null,
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czcvYmFubmVycy8wMjU2MDIzMC03MTY2LTExZjEtYmY0Ny0yYjY4ZTczYTljODEtcmltZy13MTIwMC1oNjAwLWRjZDc3ODMwLWdtaXIuanBnP3Y9MTc4MjQ4MTgzNg.avif",
-    "extra": {},
-    "group_id": 36,
-    "multi_source": false
-  },
-  {
-    "title": "Ticket To Fashion Fridays Models Night",
-    "city": "Bangalore",
-    "category": "Nightlife",
-    "source": "AllEvents",
-    "url": "https://allevents.in/bangalore/ticket-to-fashion-fridays-models-night/3900029947579104",
-    "date": "2026-08-14",
-    "venue": "The Terrace at Gillys Redefined: Bengaluru",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czIvYmFubmVycy84ZDMwNTk2MC02M2U2LTExZjEtOWM4Ni1jM2QzMjcwZDQ5YTctcmltZy13MTIwMC1oNjAwLWRjNzgwNTA0LWdtaXIuanBnP3Y9MTc4MDk5NzcyOQ.avif",
-    "extra": {},
-    "group_id": 37,
-    "multi_source": false
-  },
-  {
-    "title": "Best Kept Secret - Independence Day Special",
-    "city": "Bangalore",
-    "category": "Nightlife",
-    "source": "AllEvents",
-    "url": "https://allevents.in/bangalore/best-kept-secret-independence-day-special/4100030429177800",
-    "date": "2026-08-15",
-    "venue": "Hard Rock Cafe | St. Marks Road, Bangalore",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czgvYmFubmVycy8xZjhhNzU3MC04OTc2LTExZjEtOTMzZC04YjQ1MjkyYjExYzgtcmltZy13MTIwMC1oNjc1LWRjMWIxNDExLWdtaXIuanBnP3Y9MTc4NTEyNzU4NQ.avif",
-    "extra": {},
-    "group_id": 38,
-    "multi_source": false
-  },
-  {
-    "title": "Biggest Tamil Night Kollywood Party",
-    "city": "Bangalore",
-    "category": "Nightlife",
-    "source": "AllEvents",
-    "url": "https://allevents.in/bangalore/biggest-tamil-night-kollywood-party/3900030220877230",
-    "date": "2026-08-08",
-    "venue": "BudBee Restobar 104: Bengaluru",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEwL2Jhbm5lcnMvZjY4MDU2YjAtN2IxZC0xMWYxLTg3OGEtNzFhMTk4MmU5ODMwLXJpbWctdzEyMDAtaDYwMC1kYzE3MTQxNy1nbWlyLmpwZz92PTE3ODM1NTA0MDQ.avif",
     "extra": {},
     "group_id": 39,
     "multi_source": false
@@ -752,22 +752,6 @@
     "multi_source": false
   },
   {
-    "title": "Allow Me!: A Standup Comedy Show by Rahul Dua",
-    "city": "Mumbai",
-    "category": "Comedy",
-    "source": "AllEvents",
-    "url": "https://allevents.in/mumbai/allow-me-a-standup-comedy-show-by-rahul-dua/3900030387701608",
-    "date": "2026-10-04",
-    "venue": "Bal Gandharva Rang Mandir: Mumbai",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czcvYmFubmVycy8wOTM4NGQyMC04YzkwLTExZjEtODhkYy1lMzg1NmViMjU2OGYtcmltZy13MTIwMC1oNjAwLWRjMDgwODA4LWdtaXIuanBnP3Y9MTc4NTQ2ODYwMg.avif",
-    "extra": {},
-    "group_id": 44,
-    "multi_source": false
-  },
-  {
     "title": "Harsh'O'Ullas ft. Harsh Gujral",
     "city": "Mumbai",
     "category": "Comedy",
@@ -779,6 +763,22 @@
     "price_max": null,
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czcvYmFubmVycy8yNjYzY2M0MC03YjBhLTExZjEtOWM1Zi1iMTViZDU2NTY1MDktcmltZy13MTIwMC1oNjAwLWRjZjJlY2RkLWdtaXIuanBnP3Y9MTc4MzU0MTg5NQ.avif",
+    "extra": {},
+    "group_id": 44,
+    "multi_source": false
+  },
+  {
+    "title": "Allow Me!: A Standup Comedy Show by Rahul Dua",
+    "city": "Mumbai",
+    "category": "Comedy",
+    "source": "AllEvents",
+    "url": "https://allevents.in/mumbai/allow-me-a-standup-comedy-show-by-rahul-dua/3900030387701101",
+    "date": "2026-10-04",
+    "venue": "Y.B. Chavan Auditorium: Mumbai",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czgvYmFubmVycy9iNzQxMTU2MC04ZTViLTExZjEtYWY1YS0xN2NlNGVhNTQzNDEtcmltZy13MTIwMC1oNjAwLWRjMDgwODA4LWdtaXIuanBnP3Y9MTc4NTY2NjAzMw.avif",
     "extra": {},
     "group_id": 45,
     "multi_source": false
@@ -938,7 +938,7 @@
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czgvYmFubmVycy9kZDZiNjlmMC04ZTUzLTExZjEtODhkYy1lMzg1NmViMjU2OGYtcmltZy13MTIwMC1oNjc1LWRjZDhjOGE4LWdtaXIuanBnP3Y9MTc4NTY2MjYyNw.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czcvYmFubmVycy9jMWNjMDI1MC04ZTcwLTExZjEtYWY1YS0xN2NlNGVhNTQzNDEtcmltZy13MTIwMC1oNjc1LWRjZDhjOGE4LWdtaXIuanBnP3Y9MTc4NTY3NTQ0MA.avif",
     "extra": {},
     "group_id": 55,
     "multi_source": false
@@ -1632,6 +1632,22 @@
     "multi_source": false
   },
   {
+    "title": "Aise Kaise by Amit Tandon",
+    "city": "Hyderabad",
+    "category": "Comedy",
+    "source": "AllEvents",
+    "url": "https://allevents.in/hyderabad/aise-kaise-by-amit-tandon/3900029945845813",
+    "date": "2026-08-02",
+    "venue": "Shilpakala Vedika: Hyderabad",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czkvYmFubmVycy8xZThlMDE5MC03MDlmLTExZjEtYjU0MC1jMWFlYjI0NmQ5NDUtcmltZy13MTIwMC1oNjAwLWRjMDYwNzA0LWdtaXIuanBnP3Y9MTc4MjM5NjQxNA.avif",
+    "extra": {},
+    "group_id": 95,
+    "multi_source": false
+  },
+  {
     "title": "Kisi Ko Batana Mat Ft. Anubhav Singh Bassi",
     "city": "Hyderabad",
     "category": "Comedy",
@@ -1643,22 +1659,6 @@
     "price_max": null,
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czQvYmFubmVycy9iOWEwNGU0MC04ZGFmLTExZjEtYTMzYS1mNzE1MDY2MmE1YWEtcmltZy13MTIwMC1oNjAwLWRjNjgxODE4LWdtaXIuanBnP3Y9MTc4NTU5MjEyOQ.avif",
-    "extra": {},
-    "group_id": 95,
-    "multi_source": false
-  },
-  {
-    "title": "Aise Kaise by Amit Tandon",
-    "city": "Hyderabad",
-    "category": "Comedy",
-    "source": "AllEvents",
-    "url": "https://allevents.in/hyderabad/aise-kaise-by-amit-tandon/3900030046941221",
-    "date": "2026-08-02",
-    "venue": "Shilpakala Vedika: Hyderabad",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEwL2Jhbm5lcnMvYzBiZGEyOTAtNWZlYy0xMWYxLWIxNmYtMGY5ZjQ2OTViMGM0LXJpbWctdzEyMDAtaDYwMC1kYzA2MDcwNC1nbWlyLmpwZz92PTE3ODA1NjA1ODc.avif",
     "extra": {},
     "group_id": 96,
     "multi_source": false
@@ -2048,17 +2048,17 @@
     "multi_source": false
   },
   {
-    "title": "Roobaru",
+    "title": "Band Jammers Live at Kompound",
     "city": "Hyderabad",
     "category": "Nightlife",
     "source": "AllEvents",
-    "url": "https://allevents.in/hyderabad/roobaru/3900029205271757",
-    "date": "2026-08-22",
-    "venue": "Trailing Ivy Cafe: Hyderabad",
+    "url": "https://allevents.in/hyderabad/band-jammers-live-at-kompound/4100030368309822",
+    "date": "2026-08-28",
+    "venue": "Kompound | Nanakramguda, Hyderabad",
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czkvYmFubmVycy9mY2MwODRjMC03YWU5LTExZjEtYjE4ZS1kZmMwZWM1OTZiZjQtcmltZy13MTIwMC1oNjAwLWRjOTg1MTM5LWdtaXIuanBnP3Y9MTc4MzUyODA4MQ.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEwL2Jhbm5lcnMvMjM0ZWYxYjAtODlkZC0xMWYxLWI5MmUtNDFiNTg0ZmRiM2M5LXJpbWctdzEyMDAtaDY3NS1kY2ZmZWFkMC1nbWlyLmpwZz92PTE3ODUxNzE4MzA.avif",
     "extra": {},
     "group_id": 121,
     "multi_source": false
