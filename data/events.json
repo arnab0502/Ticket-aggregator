@@ -106,7 +106,7 @@
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czUvYmFubmVycy9iMjc1ZTlmMC04ZjI1LTExZjEtYWY1YS0xN2NlNGVhNTQzNDEtcmltZy13MTIwMC1oNjAwLWRjMDgwODA4LWdtaXIuanBnP3Y9MTc4NTc1Mjc0OQ.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czIvYmFubmVycy81MGQ3YzJkMC04ZmM2LTExZjEtYTMzYS1mNzE1MDY2MmE1YWEtcmltZy13MTIwMC1oNjAwLWRjMDgwODA4LWdtaXIuanBnP3Y9MTc4NTgyMTczNA.avif",
     "extra": {},
     "group_id": 6,
     "multi_source": false
@@ -224,20 +224,20 @@
     "multi_source": false
   },
   {
-    "title": "Spoiler Alert, a standup comedy solo by Anshu Mor",
+    "title": "Abhishek Walia LIVE",
     "city": "Bangalore",
     "category": "Comedy",
     "source": "AllEvents",
-    "url": "https://allevents.in/bangalore/spoiler-alert-a-standup-comedy-solo-by-anshu-mor/3900030388819441",
-    "date": "2026-08-29",
-    "venue": "The Comedy Theatre, Indiranagar: Bengaluru",
+    "url": "https://allevents.in/bangalore/abhishek-walia-live/3900030486689623",
+    "date": "2026-08-15",
+    "venue": "The Underground Comedy Club: Bengaluru",
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEvYmFubmVycy81NzE0ZDQzMC04OTVlLTExZjEtYThhNC02MzFiMTc1ZjNkNzgtcmltZy13MTIwMC1oNjAwLWRjMjA2OGE2LWdtaXIuanBnP3Y9MTc4NTExNzM3MA.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEwL2Jhbm5lcnMvZWVkZTc3NTAtOGNjYy0xMWYxLWEzM2EtZjcxNTA2NjJhNWFhLXJpbWctdzEyMDAtaDYwMC1kYzE4MTgxOC1nbWlyLmpwZz92PTE3ODU0OTQ3MjM.avif",
     "extra": {},
     "group_id": 14,
-    "multi_source": false
+    "multi_source": true
   },
   {
     "title": "Gorillaz The Mountain Tour 2027",
@@ -250,7 +250,7 @@
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czcvYmFubmVycy80YTM5OWI0MC04ZmMzLTExZjEtYWY1YS0xN2NlNGVhNTQzNDEtcmltZy13MTIwMC1oNjc1LWRjZDhjOGE4LWdtaXIuanBnP3Y9MTc4NTgyMDg1NQ.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czcvYmFubmVycy8xZWJmNzM0MC04ZmQ3LTExZjEtYmFlMy1mZjdiODc2ZTNhOGQtcmltZy13MTIwMC1oNjc1LWRjZDhjOGE4LWdtaXIuanBnP3Y9MTc4NTgyOTQ3OA.avif",
     "extra": {},
     "group_id": 15,
     "multi_source": false
@@ -938,7 +938,7 @@
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czkvYmFubmVycy84NGE5ZWYwMC04ZmMzLTExZjEtODhkYy1lMzg1NmViMjU2OGYtcmltZy13MTIwMC1oNjc1LWRjZDhjOGE4LWdtaXIuanBnP3Y9MTc4NTgyMTA5NA.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czQvYmFubmVycy85ZWU3MWJkMC04ZmQ4LTExZjEtYmFlMy1mZjdiODc2ZTNhOGQtcmltZy13MTIwMC1oNjc1LWRjZDhjOGE4LWdtaXIuanBnP3Y9MTc4NTgyOTU5Ng.avif",
     "extra": {},
     "group_id": 56,
     "multi_source": false
@@ -1888,6 +1888,22 @@
     "multi_source": false
   },
   {
+    "title": "COFFEE RAVE",
+    "city": "Hyderabad",
+    "category": "Nightlife",
+    "source": "AllEvents",
+    "url": "https://allevents.in/hyderabad/coffee-rave-tickets/80001010110551",
+    "date": "2026-08-08",
+    "venue": "Kisscoff Cafe",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4yLmFsbGV2ZW50cy5pbi90aHVtYnMvdGh1bWI2YTZhNTI0Yjk5N2NlLmpwZw.avif",
+    "extra": {},
+    "group_id": 113,
+    "multi_source": false
+  },
+  {
     "title": "Fake Wedding",
     "city": "Hyderabad",
     "category": "Nightlife",
@@ -1900,7 +1916,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEwL2Jhbm5lcnMvMWY5ZWViODAtOGQxZS0xMWYxLWEzM2EtZjcxNTA2NjJhNWFhLXJpbWctdzEyMDAtaDYwMC1kY2U4ZDhlOC1nbWlyLmpwZz92PTE3ODU1Mjk1OTQ.avif",
     "extra": {},
-    "group_id": 113,
+    "group_id": 114,
     "multi_source": false
   },
   {
@@ -1916,7 +1932,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czIvYmFubmVycy8xYzIzNTMxMC04OTFkLTExZjEtYjZjOC1lZjQxMzdkOGRjYjAtcmltZy13MTIwMC1oNjAwLWRjYzBjMGMwLWdtaXIuanBnP3Y9MTc4NTA4OTM1NA.avif",
     "extra": {},
-    "group_id": 114,
+    "group_id": 115,
     "multi_source": false
   },
   {
@@ -1932,7 +1948,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEvYmFubmVycy8yYTNkMmJjMC04NmM0LTExZjEtOWE5ZS0zOWNhMDE1MWNkNjYtcmltZy13MTIwMC1oNjc1LWRjMDMwMjAzLWdtaXIuanBnP3Y9MTc4NDgzMTI1MA.avif",
     "extra": {},
-    "group_id": 115,
+    "group_id": 116,
     "multi_source": false
   },
   {
@@ -1948,7 +1964,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czIvYmFubmVycy9mMzUzZDc0MC03ZDgwLTExZjEtOGRlNy1hNTVjMDRlMTdmMmUtcmltZy13NjQwLWg2NDAtZGNmZTY1MDItZ21pci5qcGc_dj0xNzgzODEyODIx.avif",
     "extra": {},
-    "group_id": 116,
+    "group_id": 117,
     "multi_source": false
   },
   {
@@ -1964,7 +1980,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEwL2Jhbm5lcnMvZDBiMzA4NzAtOGNmYi0xMWYxLTk3NjAtZDNhY2VjOTNjM2RiLXJpbWctdzEyMDAtaDYwMC1kYzE4MDgwOC1nbWlyLmpwZz92PTE3ODU1MTQ4NTk.avif",
     "extra": {},
-    "group_id": 117,
+    "group_id": 118,
     "multi_source": false
   },
   {
@@ -1980,7 +1996,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czUvYmFubmVycy8yN2UzMzAzMC04ZTU5LTExZjEtYTMzYS1mNzE1MDY2MmE1YWEtcmltZy13MTIwMC1oNjAwLWRjMDgwODA4LWdtaXIuanBnP3Y9MTc4NTY2NDg5OQ.avif",
     "extra": {},
-    "group_id": 118,
+    "group_id": 119,
     "multi_source": false
   },
   {
@@ -1996,7 +2012,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEwL2Jhbm5lcnMvYjNjNTQyMzAtOGM0NC0xMWYxLWFiNWEtODUzMDM5ZTk0Y2VlLXJpbWctdzEyMDAtaDY3NS1kY2Y4ZDhhOC1nbWlyLmpwZz92PTE3ODU0MzYyMTI.avif",
     "extra": {},
-    "group_id": 119,
+    "group_id": 120,
     "multi_source": false
   },
   {
@@ -2012,39 +2028,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEwL2Jhbm5lcnMvMjM0ZWYxYjAtODlkZC0xMWYxLWI5MmUtNDFiNTg0ZmRiM2M5LXJpbWctdzEyMDAtaDY3NS1kY2ZmZWFkMC1nbWlyLmpwZz92PTE3ODUxNzE4MzA.avif",
     "extra": {},
-    "group_id": 120,
-    "multi_source": false
-  },
-  {
-    "title": "COFFEE RAVE",
-    "city": "Hyderabad",
-    "category": "Nightlife",
-    "source": "AllEvents",
-    "url": "https://allevents.in/hyderabad/coffee-rave-tickets/80001010110551",
-    "date": "2026-08-08",
-    "venue": "Kisscoff Cafe",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4yLmFsbGV2ZW50cy5pbi90aHVtYnMvdGh1bWI2YTZhNTI0Yjk5N2NlLmpwZw.avif",
-    "extra": {},
     "group_id": 121,
-    "multi_source": false
-  },
-  {
-    "title": "Ganesh Live",
-    "city": "Hyderabad",
-    "category": "Nightlife",
-    "source": "AllEvents",
-    "url": "https://allevents.in/hyderabad/ganesh-live/3900030489327124",
-    "date": "2026-08-30",
-    "venue": "The Street Comedy Club: Hyderabad",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czkvYmFubmVycy9mYzM4ZjkzMC04ZDQ4LTExZjEtYTMzYS1mNzE1MDY2MmE1YWEtcmltZy13MTIwMC1oNjAwLWRjMDgwODE4LWdtaXIuanBnP3Y9MTc4NTU0ODAwMw.avif",
-    "extra": {},
-    "group_id": 122,
     "multi_source": false
   },
   {
@@ -2059,6 +2043,22 @@
     "price_max": null,
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4yLmFsbGV2ZW50cy5pbi90aHVtYnMvdGh1bWI2YTE5MzdmYzJjYTIzLmpwZw.avif",
+    "extra": {},
+    "group_id": 122,
+    "multi_source": false
+  },
+  {
+    "title": "Ganesh Live",
+    "city": "Hyderabad",
+    "category": "Nightlife",
+    "source": "AllEvents",
+    "url": "https://allevents.in/hyderabad/ganesh-live/3900030489327124",
+    "date": "2026-08-30",
+    "venue": "The Street Comedy Club: Hyderabad",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czkvYmFubmVycy9mYzM4ZjkzMC04ZDQ4LTExZjEtYTMzYS1mNzE1MDY2MmE1YWEtcmltZy13MTIwMC1oNjAwLWRjMDgwODE4LWdtaXIuanBnP3Y9MTc4NTU0ODAwMw.avif",
     "extra": {},
     "group_id": 123,
     "multi_source": false
@@ -2540,8 +2540,8 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 148,
-    "multi_source": false
+    "group_id": 14,
+    "multi_source": true
   },
   {
     "title": "Blue Material- An All Dalit Lineup Standup Comedy.",
@@ -2556,7 +2556,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 149,
+    "group_id": 148,
     "multi_source": false
   },
   {
@@ -2604,7 +2604,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 150,
+    "group_id": 149,
     "multi_source": false
   },
   {
@@ -2620,7 +2620,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 151,
+    "group_id": 150,
     "multi_source": false
   },
   {
@@ -2636,7 +2636,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 152,
+    "group_id": 151,
     "multi_source": false
   },
   {
@@ -2652,7 +2652,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 153,
+    "group_id": 152,
     "multi_source": false
   },
   {
@@ -2668,7 +2668,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 154,
+    "group_id": 153,
     "multi_source": false
   },
   {
@@ -2684,7 +2684,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 155,
+    "group_id": 154,
     "multi_source": false
   },
   {
@@ -2716,7 +2716,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 156,
+    "group_id": 155,
     "multi_source": false
   },
   {
@@ -2732,7 +2732,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 157,
+    "group_id": 156,
     "multi_source": false
   },
   {
@@ -2764,7 +2764,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 158,
+    "group_id": 157,
     "multi_source": false
   },
   {
@@ -2780,7 +2780,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 159,
+    "group_id": 158,
     "multi_source": false
   },
   {
@@ -2796,7 +2796,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 160,
+    "group_id": 159,
     "multi_source": false
   },
   {
@@ -2812,7 +2812,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 161,
+    "group_id": 160,
     "multi_source": false
   },
   {
@@ -2828,7 +2828,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 162,
+    "group_id": 161,
     "multi_source": false
   },
   {
@@ -2844,7 +2844,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 163,
+    "group_id": 162,
     "multi_source": false
   },
   {
@@ -2860,7 +2860,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 164,
+    "group_id": 163,
     "multi_source": false
   },
   {
@@ -2876,7 +2876,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 165,
+    "group_id": 164,
     "multi_source": false
   },
   {
@@ -2892,7 +2892,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 166,
+    "group_id": 165,
     "multi_source": false
   },
   {
@@ -2908,7 +2908,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 167,
+    "group_id": 166,
     "multi_source": false
   },
   {
@@ -2924,7 +2924,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 168,
+    "group_id": 167,
     "multi_source": false
   },
   {
@@ -2940,7 +2940,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 169,
+    "group_id": 168,
     "multi_source": false
   },
   {
@@ -2956,7 +2956,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 170,
+    "group_id": 169,
     "multi_source": false
   },
   {
@@ -2972,7 +2972,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 171,
+    "group_id": 170,
     "multi_source": false
   },
   {
@@ -2988,7 +2988,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 172,
+    "group_id": 171,
     "multi_source": false
   },
   {
@@ -2997,7 +2997,23 @@
     "category": "Movies",
     "source": "Wikipedia",
     "url": "https://en.wikipedia.org/wiki/List_of_Hindi_films_of_2026",
-    "date": "2026-07-24T00:00:00",
+    "date": "2026-07-30T00:00:00",
+    "venue": "In cinemas",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "",
+    "extra": {},
+    "group_id": 172,
+    "multi_source": false
+  },
+  {
+    "title": "The Bose Files: Sach Ya Sazish",
+    "city": "All India",
+    "category": "Movies",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/List_of_Hindi_films_of_2026",
+    "date": "2026-07-30T00:00:00",
     "venue": "In cinemas",
     "price_min": null,
     "price_max": null,
@@ -3013,7 +3029,7 @@
     "category": "Movies",
     "source": "Wikipedia",
     "url": "https://en.wikipedia.org/wiki/List_of_Hindi_films_of_2026",
-    "date": "2026-07-24T00:00:00",
+    "date": "2026-07-30T00:00:00",
     "venue": "In cinemas",
     "price_min": null,
     "price_max": null,
