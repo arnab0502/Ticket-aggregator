@@ -250,7 +250,7 @@
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czMvYmFubmVycy8wYTM2MmVhMC05MmYyLTExZjEtOGYxYy1jZjhjZTk2YWMyNTgtcmltZy13MTIwMC1oNjc1LWRjZDhjOGE4LWdtaXIuanBnP3Y9MTc4NjE3MDM2Nw.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEwL2Jhbm5lcnMvMGU5ZDE4ZjAtOTJmNy0xMWYxLThmMWMtY2Y4Y2U5NmFjMjU4LXJpbWctdzEyMDAtaDY3NS1kY2Q4YzhhOC1nbWlyLmpwZz92PTE3ODYxNzI1MjI.avif",
     "extra": {},
     "group_id": 15,
     "multi_source": false
@@ -848,6 +848,22 @@
     "multi_source": false
   },
   {
+    "title": "Abish Mathew & His Many Talents Part 2",
+    "city": "Mumbai",
+    "category": "Comedy",
+    "source": "AllEvents",
+    "url": "https://allevents.in/mumbai/abish-mathew-and-his-many-talents-part-2/3900030509185007",
+    "date": "2026-08-29",
+    "venue": "The Habitat: Mumbai",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEvYmFubmVycy85YTM4ZTE2MC05MjFhLTExZjEtODhkYy1lMzg1NmViMjU2OGYtcmltZy13MTIwMC1oNjAwLWRjYThjOGE4LWdtaXIuanBnP3Y9MTc4NjA3NzgzNw.avif",
+    "extra": {},
+    "group_id": 51,
+    "multi_source": false
+  },
+  {
     "title": "Duos ft. Shashwat Maheswari & Varun Grover: KCC",
     "city": "Mumbai",
     "category": "Comedy",
@@ -860,7 +876,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEwL2Jhbm5lcnMvNTFiNDU3YzAtOTBlNS0xMWYxLWJhZTMtZmY3Yjg3NmUzYThkLXJpbWctdzEyMDAtaDYwMC1kY2Y4ZjhjOC1nbWlyLmpwZz92PTE3ODU5NDUwMDE.avif",
     "extra": {},
-    "group_id": 51,
+    "group_id": 52,
     "multi_source": false
   },
   {
@@ -875,22 +891,6 @@
     "price_max": null,
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czYvYmFubmVycy82ODI2Mjk4MC05MDllLTExZjEtYmFlMy1mZjdiODc2ZTNhOGQtcmltZy13MTIwMC1oNjAwLWRjYzg1ODA4LWdtaXIuanBnP3Y9MTc4NTkxNDU0NQ.avif",
-    "extra": {},
-    "group_id": 52,
-    "multi_source": false
-  },
-  {
-    "title": "Shashi Dhiman Live",
-    "city": "Mumbai",
-    "category": "Comedy",
-    "source": "AllEvents",
-    "url": "https://allevents.in/mumbai/shashi-dhiman-live/3900030183871934",
-    "date": "2026-08-08",
-    "venue": "The Habitat: Mumbai",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czIvYmFubmVycy9lZmM5OWVmMC02NDJkLTExZjEtOWM4Ni1jM2QzMjcwZDQ5YTctcmltZy13MTIwMC1oNjAwLWRjMDUwODE1LWdtaXIuanBnP3Y9MTc4MTAyODM4OA.avif",
     "extra": {},
     "group_id": 53,
     "multi_source": false
@@ -1402,7 +1402,7 @@
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czkvYmFubmVycy9iODJlZWY3MC05MGRhLTExZjEtODhkYy1lMzg1NmViMjU2OGYtcmltZy13MTIwMC1oNjAwLWRjMDg4ODg4LWdtaXIuanBnP3Y9MTc4NTk0MDQ0OQ.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czIvYmFubmVycy8wYjQ2MWQzMC05MmUwLTExZjEtOGYxYy1jZjhjZTk2YWMyNTgtcmltZy13MTIwMC1oNjAwLWRjMDg4ODg4LWdtaXIuanBnP3Y9MTc4NjE2MjYzOA.avif",
     "extra": {},
     "group_id": 82,
     "multi_source": false
@@ -1440,6 +1440,22 @@
     "multi_source": false
   },
   {
+    "title": "SparkFest 2026",
+    "city": "Delhi NCR",
+    "category": "Kids",
+    "source": "AllEvents",
+    "url": "https://allevents.in/new-delhi/sparkfest-2026/3900030502355650",
+    "date": "2026-11-14",
+    "venue": "Ikigai Farm: Noida",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czUvYmFubmVycy83M2Y1NmVlMC04ZjU2LTExZjEtYTMzYS1mNzE1MDY2MmE1YWEtcmltZy13MTIwMC1oNjAwLWRjMTgwODM4LWdtaXIuanBnP3Y9MTc4NTc3MzY5MA.avif",
+    "extra": {},
+    "group_id": 85,
+    "multi_source": false
+  },
+  {
     "title": "Kalakkaree 2026",
     "city": "Delhi NCR",
     "category": "Kids",
@@ -1452,7 +1468,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czIvYmFubmVycy8wZDdkZmFkNGM1YmEyMDMxMGJhOWExZDdhZjY2Y2U3YTliN2FlZTZiMTUxZTkwMGUxYTVlODMwZTA0NTMxOGI4LXJpbWctdzEyMDAtaDQ3OS1kYzA4MDgwOC1nbWlyP3Y9MTc4NjE0MjY1Ng.avif",
     "extra": {},
-    "group_id": 85,
+    "group_id": 86,
     "multi_source": false
   },
   {
@@ -1468,7 +1484,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czkvYmFubmVycy9iNzVjMGJjMC03OWY0LTExZjEtYjA0OC04NTJlMWZkMmQ2N2EtcmltZy13MTIwMC1oNjAwLWRjMTcxMDE3LWdtaXIuanBnP3Y9MTc4MzQyMjczOA.avif",
     "extra": {},
-    "group_id": 86,
+    "group_id": 87,
     "multi_source": false
   },
   {
@@ -1484,7 +1500,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czYvYmFubmVycy9iOTk4MDQ1MC02NDQzLTExZjEtOTk4ZS03ZDY2NTVhMWI3YTQtcmltZy13MTIwMC1oNjAwLWRjMmYxOTFhLWdtaXIuanBnP3Y9MTc4MTAzNzc0Ng.avif",
     "extra": {},
-    "group_id": 85,
+    "group_id": 86,
     "multi_source": false
   },
   {
@@ -1500,7 +1516,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czkvYmFubmVycy83N2Q2NzdmMC02NDg4LTExZjEtOTk4ZS03ZDY2NTVhMWI3YTQtcmltZy13MTIwMC1oNjAwLWRjZmZmZmZmLWdtaXIuanBnP3Y9MTc4MTA2NzI3MQ.avif",
     "extra": {},
-    "group_id": 87,
+    "group_id": 88,
     "multi_source": false
   },
   {
@@ -1516,7 +1532,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czkvYmFubmVycy9iOTZiYjBhMC03YTllLTExZjEtYjE4ZS1kZmMwZWM1OTZiZjQtcmltZy13MTIwMC1oNjAwLWRjOGM3YzYxLWdtaXIuanBnP3Y9MTc4MzQ5NTc1Ng.avif",
     "extra": {},
-    "group_id": 88,
+    "group_id": 89,
     "multi_source": false
   },
   {
@@ -1532,7 +1548,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czcvYmFubmVycy9lNTBmMzhjYjczNzllODFmMzQwNzBhM2NlYjVmODg1ZjM3NDMzMTUwNDIwMjg2Y2Y1ODEwMmVhMWZhY2ZhMDA4LXJpbWctdzEyMDAtaDgwMC1kY2Y4ZjhmOC1nbWlyP3Y9MTc4NjA3NTk3Ng.avif",
     "extra": {},
-    "group_id": 89,
+    "group_id": 90,
     "multi_source": false
   },
   {
@@ -1548,7 +1564,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4yLmFsbGV2ZW50cy5pbi90aHVtYnMvdGh1bWI2YTRkMTFiODgwZDg5LmpwZw.avif",
     "extra": {},
-    "group_id": 90,
+    "group_id": 91,
     "multi_source": false
   },
   {
@@ -1564,7 +1580,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEwL2Jhbm5lcnMvN2E4NjIzNGFiNmM5ZjFlMTFkZmNkNjEwMjc1M2Q5ZmFhOWM1NGEwNzI2NTIzZmYxZTFmMDZlYjVmZmIyYzRiNi1yaW1nLXcxMDU0LWgxNjAwLWRjZjhlOGU4LWdtaXI_dj0xNzg1ODk0MDE3.avif",
     "extra": {},
-    "group_id": 91,
+    "group_id": 92,
     "multi_source": false
   },
   {
@@ -1580,7 +1596,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czYvYmFubmVycy8xM2VkZmUwMC03YWE2LTExZjEtOWM1Zi1iMTViZDU2NTY1MDktcmltZy13MTIwMC1oNjAwLWRjZmNmY2ZjLWdtaXIuanBnP3Y9MTc4MzQ5ODkxNA.avif",
     "extra": {},
-    "group_id": 92,
+    "group_id": 93,
     "multi_source": false
   },
   {
@@ -1595,22 +1611,6 @@
     "price_max": null,
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czMvYmFubmVycy8xYmQzOTVmMC05MmEwLTExZjEtOGYxYy1jZjhjZTk2YWMyNTgtcmltZy13MTIwMC1oNjAwLWRjYjhkOGU4LWdtaXIuanBnP3Y9MTc4NjEzNTE5MA.avif",
-    "extra": {},
-    "group_id": 93,
-    "multi_source": false
-  },
-  {
-    "title": "79th Azadi Pakistan Independence",
-    "city": "Delhi NCR",
-    "category": "Kids",
-    "source": "AllEvents",
-    "url": "https://allevents.in/new-delhi/79th-azadi-pakistan-independence/200030490443236",
-    "date": "2026-08-14",
-    "venue": "D-17 Block B North Nazimabad KDA Chowrangi, Near Life Line Hospital  Karachi, Karachi, Pakistan-74600",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czkvYmFubmVycy9lNjBmYWVlMTQzOTQzNmY4ZWZlNTc3OTc1OWU0M2M5ZTc3NWFjNjc1NTJlMDU1NjFhN2FlMTg0OGU0ZDBmMmU5LXJpbWctdzEwODAtaDEwODAtZGNmOGY4ZjgtZ21pcj92PTE3ODU1NjQ2OTM.avif",
     "extra": {},
     "group_id": 94,
     "multi_source": false
