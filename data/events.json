@@ -154,7 +154,7 @@
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czMvYmFubmVycy85MDQ0NTQ5MC05MWEzLTExZjEtODhkYy1lMzg1NmViMjU2OGYtcmltZy13MTIwMC1oNjAwLWRjMDgwODA4LWdtaXIuanBnP3Y9MTc4NjAyNjcxMQ.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czkvYmFubmVycy8wMWU5ZWI0MC05MmQ2LTExZjEtOGYxYy1jZjhjZTk2YWMyNTgtcmltZy13MTIwMC1oNjAwLWRjMDgwODA4LWdtaXIuanBnP3Y9MTc4NjE1ODMyNw.avif",
     "extra": {},
     "group_id": 9,
     "multi_source": false
@@ -250,7 +250,7 @@
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czUvYmFubmVycy9lZWU0YmY5MC05MmM0LTExZjEtOGYxYy1jZjhjZTk2YWMyNTgtcmltZy13MTIwMC1oNjc1LWRjZDhjOGE4LWdtaXIuanBnP3Y9MTc4NjE1MTIxMQ.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czcvYmFubmVycy82NzEwYmM1MC05MmQ3LTExZjEtOGYxYy1jZjhjZTk2YWMyNTgtcmltZy13MTIwMC1oNjc1LWRjZDhjOGE4LWdtaXIuanBnP3Y9MTc4NjE1OTI2Nw.avif",
     "extra": {},
     "group_id": 15,
     "multi_source": false
@@ -906,7 +906,7 @@
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEvYmFubmVycy9jMjliYjBkMC05MmMyLTExZjEtOGYxYy1jZjhjZTk2YWMyNTgtcmltZy13MTIwMC1oNjc1LWRjZDhjOGE4LWdtaXIuanBnP3Y9MTc4NjE1MDA2MQ.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czkvYmFubmVycy9jODgxOTRkMC05MmQ5LTExZjEtOGYxYy1jZjhjZTk2YWMyNTgtcmltZy13MTIwMC1oNjc1LWRjZDhjOGE4LWdtaXIuanBnP3Y9MTc4NjE2MDI1Mg.avif",
     "extra": {},
     "group_id": 54,
     "multi_source": false
@@ -1072,22 +1072,6 @@
     "multi_source": false
   },
   {
-    "title": "WEEKEND CHESS CAFE CHALLENGE IS HERE!",
-    "city": "Mumbai",
-    "category": "Kids",
-    "source": "AllEvents",
-    "url": "https://allevents.in/mumbai/weekend-chess-cafe-challenge-is-here/200030512865225",
-    "date": "2026-08-09",
-    "venue": "Global Kids Kingdom School",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czMvYmFubmVycy9lNTNkOGUxNjAzNzk2ZTlhZjcwMjc4NTE1NTlhZTIyYWU4ZmEyN2JlNmI5NmY2NjAzZmIzMTBkZjM3ODI1Mzg2LXJpbWctdzEwODAtaDEzNTAtZGMyODA4NDgtZ21pcj92PTE3ODU5NzY4MjQ.avif",
-    "extra": {},
-    "group_id": 65,
-    "multi_source": false
-  },
-  {
     "title": "Pottery with Kids",
     "city": "Mumbai",
     "category": "Kids",
@@ -1100,7 +1084,39 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czcvYmFubmVycy9lOWQ3ZWI3MC05MWM2LTExZjEtODhkYy1lMzg1NmViMjU2OGYtcmltZy13MTIwMC1oNjAwLWRjYzhjOGM4LWdtaXIuanBnP3Y9MTc4NjA0MTg5Mw.avif",
     "extra": {},
+    "group_id": 65,
+    "multi_source": false
+  },
+  {
+    "title": "DIY Sock Puppet",
+    "city": "Mumbai",
+    "category": "Kids",
+    "source": "AllEvents",
+    "url": "https://allevents.in/mumbai/diy-sock-puppet/3900030523680849",
+    "date": "2026-08-11",
+    "venue": "The Corrner Room: Mumbai",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czQvYmFubmVycy8xODk4NTEzMC05MmQ5LTExZjEtOGYxYy1jZjhjZTk2YWMyNTgtcmltZy13MTIwMC1oNjAwLWRjOThmOGY4LWdtaXIuanBnP3Y9MTc4NjE1OTY2OA.avif",
+    "extra": {},
     "group_id": 66,
+    "multi_source": false
+  },
+  {
+    "title": "WEEKEND CHESS CAFE CHALLENGE IS HERE!",
+    "city": "Mumbai",
+    "category": "Kids",
+    "source": "AllEvents",
+    "url": "https://allevents.in/mumbai/weekend-chess-cafe-challenge-is-here/200030512865225",
+    "date": "2026-08-09",
+    "venue": "Global Kids Kingdom School",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czMvYmFubmVycy9lNTNkOGUxNjAzNzk2ZTlhZjcwMjc4NTE1NTlhZTIyYWU4ZmEyN2JlNmI5NmY2NjAzZmIzMTBkZjM3ODI1Mzg2LXJpbWctdzEwODAtaDEzNTAtZGMyODA4NDgtZ21pcj92PTE3ODU5NzY4MjQ.avif",
+    "extra": {},
+    "group_id": 67,
     "multi_source": false
   },
   {
@@ -1115,22 +1131,6 @@
     "price_max": null,
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czYvYmFubmVycy83NTNlZDQwMC01Y2FmLTExZjEtOWQ5ZS1lM2FiM2JiMWE0ZmMtcmltZy13MTIwMC1oNjAwLWRjMTQzMDQ5LWdtaXIuanBnP3Y9MTc4MDIwNDQwOA.avif",
-    "extra": {},
-    "group_id": 67,
-    "multi_source": false
-  },
-  {
-    "title": "Sportives Smiley Obstacle Run",
-    "city": "Mumbai",
-    "category": "Kids",
-    "source": "AllEvents",
-    "url": "https://allevents.in/mumbai/sportives-smiley-obstacle-run/80002219698224",
-    "date": "2027-01-10",
-    "venue": "Inorbit Mall Malad, New Link Road, Malad, Malad West, Mumbai, Maharashtra, India",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4yLmFsbGV2ZW50cy5pbi90aHVtYnMvdGh1bWI2OWQ5MDkwODlhYTU0LmpwZw.avif",
     "extra": {},
     "group_id": 68,
     "multi_source": false
