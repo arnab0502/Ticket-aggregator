@@ -234,7 +234,7 @@
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czQvYmFubmVycy82ZTdkMGU3MC05MTFiLTExZjEtODhkYy1lMzg1NmViMjU2OGYtcmltZy13MTIwMC1oNjAwLWRjMTgxODU4LWdtaXIuanBnP3Y9MTc4NTk2ODI1OQ.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czQvYmFubmVycy9lOWRjMTNlMC05NDY4LTExZjEtYjlmMS04Mzg0NzM2ODk3MjgtcmltZy13MTIwMC1oNjAwLWRjMTgxODU4LWdtaXIuanBnP3Y9MTc4NjMzMTM4MA.avif",
     "extra": {},
     "group_id": 14,
     "multi_source": false
@@ -330,7 +330,7 @@
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czQvYmFubmVycy8zMzM5YzNkMC05MGRhLTExZjEtYmFlMy1mZjdiODc2ZTNhOGQtcmltZy13MTIwMC1oNjAwLWRjMDg4ODg4LWdtaXIuanBnP3Y9MTc4NTk0MDIyNg.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEvYmFubmVycy81Nzk5MTM1MC05NDZhLTExZjEtYjlmMS04Mzg0NzM2ODk3MjgtcmltZy13MTIwMC1oNjAwLWRjMDg4ODg4LWdtaXIuanBnP3Y9MTc4NjMzMTk4OA.avif",
     "extra": {},
     "group_id": 20,
     "multi_source": false
@@ -512,22 +512,6 @@
     "multi_source": false
   },
   {
-    "title": "INDEPENDENCE DAY FT. DJ HARSH BHUTANI & DJ HARSH",
-    "city": "Bangalore",
-    "category": "Nightlife",
-    "source": "AllEvents",
-    "url": "https://allevents.in/bangalore/independence-day-ft-dj-harsh-bhutani-and-dj-harsh/3900030525325613",
-    "date": "2026-08-15",
-    "venue": "Nolimmits Lounge and Club: Bengaluru",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czgvYmFubmVycy81OTY0MjcyMC05MzNkLTExZjEtOGYxYy1jZjhjZTk2YWMyNTgtcmltZy13MTIwMC1oNjAwLWRjZjhmOGU4LWdtaXIuanBnP3Y9MTc4NjIwMjcxMg.avif",
-    "extra": {},
-    "group_id": 30,
-    "multi_source": false
-  },
-  {
     "title": "Anime Multiverse : Cosplay Edition Season 2",
     "city": "Bangalore",
     "category": "Nightlife",
@@ -539,6 +523,22 @@
     "price_max": null,
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czQvYmFubmVycy9iZmExOTc5MC01YTgzLTExZjEtYjU1Mi04ZDlhMTUyODQ5MjgtcmltZy13MTIwMC1oNjAwLWRjOTIyMDIxLWdtaXIuanBnP3Y9MTc3OTk2NTczMw.avif",
+    "extra": {},
+    "group_id": 30,
+    "multi_source": false
+  },
+  {
+    "title": "INDEPENDENCE DAY FT. DJ HARSH BHUTANI & DJ HARSH",
+    "city": "Bangalore",
+    "category": "Nightlife",
+    "source": "AllEvents",
+    "url": "https://allevents.in/bangalore/independence-day-ft-dj-harsh-bhutani-and-dj-harsh/3900030525325613",
+    "date": "2026-08-15",
+    "venue": "Nolimmits Lounge and Club: Bengaluru",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czgvYmFubmVycy81OTY0MjcyMC05MzNkLTExZjEtOGYxYy1jZjhjZTk2YWMyNTgtcmltZy13MTIwMC1oNjAwLWRjZjhmOGU4LWdtaXIuanBnP3Y9MTc4NjIwMjcxMg.avif",
     "extra": {},
     "group_id": 31,
     "multi_source": false
@@ -778,7 +778,7 @@
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEvYmFubmVycy8yNDgyNzZkMC05MzJjLTExZjEtOGYxYy1jZjhjZTk2YWMyNTgtcmltZy13MTIwMC1oNjAwLWRjMDgwODA4LWdtaXIuanBnP3Y9MTc4NjE5NTMyNw.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czcvYmFubmVycy9mNjE4MTU5MC05NDY0LTExZjEtYjlmMS04Mzg0NzM2ODk3MjgtcmltZy13MTIwMC1oNjAwLWRjMDgwODA4LWdtaXIuanBnP3Y9MTc4NjMyOTY4Mg.avif",
     "extra": {},
     "group_id": 46,
     "multi_source": false
@@ -842,7 +842,7 @@
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEvYmFubmVycy8zZjc4MjJhMC05MjliLTExZjEtOGYxYy1jZjhjZTk2YWMyNTgtcmltZy13MTIwMC1oNjAwLWRjOThjOGM4LWdtaXIuanBnP3Y9MTc4NjEzMzA5MA.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEvYmFubmVycy9jMzQ2ZmMyMC05NDViLTExZjEtYjlmMS04Mzg0NzM2ODk3MjgtcmltZy13MTIwMC1oNjAwLWRjOThjOGM4LWdtaXIuanBnP3Y9MTc4NjMyNTcyNg.avif",
     "extra": {},
     "group_id": 50,
     "multi_source": false
@@ -906,7 +906,7 @@
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czkvYmFubmVycy8wYjZkMzIzMC05MmE5LTExZjEtOGYxYy1jZjhjZTk2YWMyNTgtcmltZy13MTIwMC1oNjAwLWRjMTgxODA4LWdtaXIuanBnP3Y9MTc4NjEzOTAxNg.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czgvYmFubmVycy82NmYwMTNkMC05NDZhLTExZjEtYjlmMS04Mzg0NzM2ODk3MjgtcmltZy13MTIwMC1oNjAwLWRjMTgxODA4LWdtaXIuanBnP3Y9MTc4NjMzMjAxNA.avif",
     "extra": {},
     "group_id": 54,
     "multi_source": false
@@ -986,7 +986,7 @@
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEwL2Jhbm5lcnMvODYwMzE3MTAtOTExYi0xMWYxLWJhZTMtZmY3Yjg3NmUzYThkLXJpbWctdzEyMDAtaDYwMC1kYzE4MTg1OC1nbWlyLmpwZz92PTE3ODU5NjgyODI.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czQvYmFubmVycy9lOWRjMTNlMC05NDY4LTExZjEtYjlmMS04Mzg0NzM2ODk3MjgtcmltZy13MTIwMC1oNjAwLWRjMTgxODU4LWdtaXIuanBnP3Y9MTc4NjMzMTM5MA.avif",
     "extra": {},
     "group_id": 59,
     "multi_source": false
@@ -1386,7 +1386,7 @@
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEwL2Jhbm5lcnMvNzQwNzVjNjAtOTExYi0xMWYxLWEzM2EtZjcxNTA2NjJhNWFhLXJpbWctdzEyMDAtaDYwMC1kYzE4MTg1OC1nbWlyLmpwZz92PTE3ODU5NjgyNTI.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czQvYmFubmVycy9lOWRjMTNlMC05NDY4LTExZjEtYjlmMS04Mzg0NzM2ODk3MjgtcmltZy13MTIwMC1oNjAwLWRjMTgxODU4LWdtaXIuanBnP3Y9MTc4NjMzMTM3NA.avif",
     "extra": {},
     "group_id": 82,
     "multi_source": false
@@ -1402,7 +1402,7 @@
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czIvYmFubmVycy8wYjQ2MWQzMC05MmUwLTExZjEtOGYxYy1jZjhjZTk2YWMyNTgtcmltZy13MTIwMC1oNjAwLWRjMDg4ODg4LWdtaXIuanBnP3Y9MTc4NjE2MjYzOA.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEwL2Jhbm5lcnMvYTZhZDk4NjAtOTQ1ZC0xMWYxLWI5ZjEtODM4NDczNjg5NzI4LXJpbWctdzEyMDAtaDYwMC1kYzA4ODg4OC1nbWlyLmpwZz92PTE3ODYzMjY1Mzc.avif",
     "extra": {},
     "group_id": 83,
     "multi_source": false
@@ -1984,6 +1984,22 @@
     "multi_source": false
   },
   {
+    "title": "Fake Wedding",
+    "city": "Hyderabad",
+    "category": "Nightlife",
+    "source": "AllEvents",
+    "url": "https://allevents.in/hyderabad/fake-wedding/3900030395227439",
+    "date": "2026-09-26",
+    "venue": "Grand Lawn, Jalavihar: Hyderabad",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czMvYmFubmVycy82YzdkNTdiMC05NDU5LTExZjEtYjlmMS04Mzg0NzM2ODk3MjgtcmltZy13MTIwMC1oNjAwLWRjZThkOGU4LWdtaXIuanBnP3Y9MTc4NjMyNDcyMQ.avif",
+    "extra": {},
+    "group_id": 119,
+    "multi_source": false
+  },
+  {
     "title": "SALT AIR & SWIFTS FLAIR",
     "city": "Hyderabad",
     "category": "Nightlife",
@@ -1995,22 +2011,6 @@
     "price_max": null,
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czIvYmFubmVycy8xYzIzNTMxMC04OTFkLTExZjEtYjZjOC1lZjQxMzdkOGRjYjAtcmltZy13MTIwMC1oNjAwLWRjYzBjMGMwLWdtaXIuanBnP3Y9MTc4NTA4OTM1NA.avif",
-    "extra": {},
-    "group_id": 119,
-    "multi_source": false
-  },
-  {
-    "title": "Fake Wedding",
-    "city": "Hyderabad",
-    "category": "Nightlife",
-    "source": "AllEvents",
-    "url": "https://allevents.in/hyderabad/fake-wedding/3900030395227439",
-    "date": "2026-09-26",
-    "venue": "Grand Lawn, Jalavihar: Hyderabad",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czgvYmFubmVycy9mNjhiOGE4MC05MjM4LTExZjEtODhkYy1lMzg1NmViMjU2OGYtcmltZy13MTIwMC1oNjAwLWRjZThkOGU4LWdtaXIuanBnP3Y9MTc4NjA5MDg3Nw.avif",
     "extra": {},
     "group_id": 120,
     "multi_source": false
