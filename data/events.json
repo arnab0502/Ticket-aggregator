@@ -682,7 +682,7 @@
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czcvYmFubmVycy9jMDM3MDE0MC05MzkwLTExZjEtOGYxYy1jZjhjZTk2YWMyNTgtcmltZy13MTIwMC1oNjAwLWRjMDgxODQ4LWdtaXIuanBnP3Y9MTc4NjIzODUzMw.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czIvYmFubmVycy85NWY0MmQ2MC05NTNjLTExZjEtODAyNC00MzAxOGM4YWM0YWYtcmltZy13MTIwMC1oNjAwLWRjMDgxODQ4LWdtaXIuanBnP3Y9MTc4NjQyMjI4Nw.avif",
     "extra": {},
     "group_id": 40,
     "multi_source": false
@@ -720,22 +720,6 @@
     "multi_source": false
   },
   {
-    "title": "Allow Me!: A Standup Comedy Show by Rahul Dua",
-    "city": "Mumbai",
-    "category": "Comedy",
-    "source": "AllEvents",
-    "url": "https://allevents.in/mumbai/allow-me-a-standup-comedy-show-by-rahul-dua/3900030387701608",
-    "date": "2026-10-04",
-    "venue": "Bal Gandharva Rang Mandir: Mumbai",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czQvYmFubmVycy82NDc3ODk0MC05M2U3LTExZjEtYjlmMS04Mzg0NzM2ODk3MjgtcmltZy13MTIwMC1oNjAwLWRjMDgwODA4LWdtaXIuanBnP3Y9MTc4NjI3NTc5MQ.avif",
-    "extra": {},
-    "group_id": 43,
-    "multi_source": false
-  },
-  {
     "title": "Shreeja Chaturvedi Live: KCC",
     "city": "Mumbai",
     "category": "Comedy",
@@ -748,7 +732,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czQvYmFubmVycy81YTE2MGFjMC05NDI5LTExZjEtYjlmMS04Mzg0NzM2ODk3MjgtcmltZy13MTIwMC1oNjAwLWRjYjg1ODQ4LWdtaXIuanBnP3Y9MTc4NjMwNDA3NQ.avif",
     "extra": {},
-    "group_id": 44,
+    "group_id": 43,
     "multi_source": false
   },
   {
@@ -764,21 +748,37 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czcvYmFubmVycy8yNjYzY2M0MC03YjBhLTExZjEtOWM1Zi1iMTViZDU2NTY1MDktcmltZy13MTIwMC1oNjAwLWRjZjJlY2RkLWdtaXIuanBnP3Y9MTc4MzU0MTg5NQ.avif",
     "extra": {},
+    "group_id": 44,
+    "multi_source": false
+  },
+  {
+    "title": "Blue Material - An All Dalit Line Up Standup Comedy Show",
+    "city": "Mumbai",
+    "category": "Comedy",
+    "source": "AllEvents",
+    "url": "https://allevents.in/mumbai/blue-material-an-all-dalit-line-up-standup-comedy-show-tickets/80005085397014",
+    "date": "2026-08-16",
+    "venue": "IFBE",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4yLmFsbGV2ZW50cy5pbi90aHVtYnMvdGh1bWI2YTdhMmFkZDZjY2VhLmpwZw.avif",
+    "extra": {},
     "group_id": 45,
     "multi_source": false
   },
   {
-    "title": "Beti Testing",
+    "title": "Allow Me!: A Standup Comedy Show by Rahul Dua",
     "city": "Mumbai",
     "category": "Comedy",
     "source": "AllEvents",
-    "url": "https://allevents.in/mumbai/beti-testing/3900030519130751",
-    "date": "2026-08-22",
-    "venue": "Ink-A-Laugh Comedy Club: Vile Parle (W), Mumbai",
+    "url": "https://allevents.in/mumbai/allow-me-a-standup-comedy-show-by-rahul-dua/3900030387701101",
+    "date": "2026-10-04",
+    "venue": "Y.B. Chavan Auditorium: Mumbai",
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czMvYmFubmVycy8xNDk0ZWY0MC05NDc3LTExZjEtYjlmMS04Mzg0NzM2ODk3MjgtcmltZy13MTIwMC1oNjAwLWRjZThlOGQ4LWdtaXIuanBnP3Y9MTc4NjMzNzQ2OA.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czQvYmFubmVycy82NDc3ODk0MC05M2U3LTExZjEtYjlmMS04Mzg0NzM2ODk3MjgtcmltZy13MTIwMC1oNjAwLWRjMDgwODA4LWdtaXIuanBnP3Y9MTc4NjI3NTc4NQ.avif",
     "extra": {},
     "group_id": 46,
     "multi_source": false
@@ -816,6 +816,22 @@
     "multi_source": false
   },
   {
+    "title": "Beti Testing",
+    "city": "Mumbai",
+    "category": "Comedy",
+    "source": "AllEvents",
+    "url": "https://allevents.in/mumbai/beti-testing/3900030519130751",
+    "date": "2026-08-22",
+    "venue": "Ink-A-Laugh Comedy Club: Vile Parle (W), Mumbai",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czMvYmFubmVycy8xNDk0ZWY0MC05NDc3LTExZjEtYjlmMS04Mzg0NzM2ODk3MjgtcmltZy13MTIwMC1oNjAwLWRjZThlOGQ4LWdtaXIuanBnP3Y9MTc4NjMzNzQ2OA.avif",
+    "extra": {},
+    "group_id": 49,
+    "multi_source": false
+  },
+  {
     "title": "Telling Lies -A Standup Solo by Aashish Solanki",
     "city": "Mumbai",
     "category": "Comedy",
@@ -828,7 +844,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czUvYmFubmVycy8wMDYyYTU0MC02NDQyLTExZjEtOTk4ZS03ZDY2NTVhMWI3YTQtcmltZy13MTIwMC1oNjAwLWRjZmZmNTI3LWdtaXIuanBnP3Y9MTc4MTAzNzAwNg.avif",
     "extra": {},
-    "group_id": 49,
+    "group_id": 50,
     "multi_source": false
   },
   {
@@ -843,22 +859,6 @@
     "price_max": null,
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czIvYmFubmVycy8yZTdiMWQ2MC03YWFjLTExZjEtODY1YS0zM2I1NTkzNmRjMGUtcmltZy13MTIwMC1oNjAwLWRjMjgyZDQ4LWdtaXIuanBnP3Y9MTc4MzUwMTUzNg.avif",
-    "extra": {},
-    "group_id": 50,
-    "multi_source": false
-  },
-  {
-    "title": "Behrupiye - A Sketch Comedy Show",
-    "city": "Mumbai",
-    "category": "Comedy",
-    "source": "AllEvents",
-    "url": "https://allevents.in/mumbai/behrupiye-a-sketch-comedy-show/3900030519167148",
-    "date": "2026-08-16",
-    "venue": "Khar Comedy Club: Mumbai",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEvYmFubmVycy9jMzQ2ZmMyMC05NDViLTExZjEtYjlmMS04Mzg0NzM2ODk3MjgtcmltZy13MTIwMC1oNjAwLWRjOThjOGM4LWdtaXIuanBnP3Y9MTc4NjMyNTcyNg.avif",
     "extra": {},
     "group_id": 51,
     "multi_source": false
@@ -1690,7 +1690,7 @@
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czYvYmFubmVycy85NmQ3ZWZjMC05MmExLTExZjEtOGYxYy1jZjhjZTk2YWMyNTgtcmltZy13MTIwMC1oNjAwLWRjOTgwODA4LWdtaXIuanBnP3Y9MTc4NjEzNTgxNA.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czUvYmFubmVycy9iZjRlNjY1MC05NTRlLTExZjEtODAyNC00MzAxOGM4YWM0YWYtcmltZy13MTIwMC1oNjAwLWRjOTgwODA4LWdtaXIuanBnP3Y9MTc4NjQzMDA4Nw.avif",
     "extra": {},
     "group_id": 99,
     "multi_source": false
