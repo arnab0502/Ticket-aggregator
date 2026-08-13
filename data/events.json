@@ -576,22 +576,6 @@
     "multi_source": false
   },
   {
-    "title": "A INDEPENDENCE DAY SPECIAL WITH DJ KAJOL CHOUDH",
-    "city": "Bangalore",
-    "category": "Nightlife",
-    "source": "AllEvents",
-    "url": "https://allevents.in/bangalore/a-independence-day-special-with-dj-kajol-choudh/3900030482442209",
-    "date": "2026-08-16",
-    "venue": "Drava: Bengaluru",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czYvYmFubmVycy9mNDgzNzliMC04ZGZmLTExZjEtYTMzYS1mNzE1MDY2MmE1YWEtcmltZy13MTIwMC1oNjAwLWRjMDgwODA4LWdtaXIuanBnP3Y9MTc4NTYyNjU4OA.avif",
-    "extra": {},
-    "group_id": 33,
-    "multi_source": false
-  },
-  {
     "title": "Ticket To Fashion Fridays Models Night",
     "city": "Bangalore",
     "category": "Nightlife",
@@ -604,7 +588,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czIvYmFubmVycy84ZDMwNTk2MC02M2U2LTExZjEtOWM4Ni1jM2QzMjcwZDQ5YTctcmltZy13MTIwMC1oNjAwLWRjNzgwNTA0LWdtaXIuanBnP3Y9MTc4MDk5NzcyOQ.avif",
     "extra": {},
-    "group_id": 34,
+    "group_id": 33,
     "multi_source": false
   },
   {
@@ -619,6 +603,22 @@
     "price_max": null,
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czcvYmFubmVycy8wMjU2MDIzMC03MTY2LTExZjEtYmY0Ny0yYjY4ZTczYTljODEtcmltZy13MTIwMC1oNjAwLWRjZDc3ODMwLWdtaXIuanBnP3Y9MTc4MjQ4MTgzNg.avif",
+    "extra": {},
+    "group_id": 34,
+    "multi_source": false
+  },
+  {
+    "title": "A INDEPENDENCE DAY SPECIAL WITH DJ KAJOL CHOUDH",
+    "city": "Bangalore",
+    "category": "Nightlife",
+    "source": "AllEvents",
+    "url": "https://allevents.in/bangalore/a-independence-day-special-with-dj-kajol-choudh/3900030482442209",
+    "date": "2026-08-16",
+    "venue": "Drava: Bengaluru",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czYvYmFubmVycy9mNDgzNzliMC04ZGZmLTExZjEtYTMzYS1mNzE1MDY2MmE1YWEtcmltZy13MTIwMC1oNjAwLWRjMDgwODA4LWdtaXIuanBnP3Y9MTc4NTYyNjU4OA.avif",
     "extra": {},
     "group_id": 35,
     "multi_source": false
@@ -810,7 +810,7 @@
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czYvYmFubmVycy9kNTA2OGYwMC05NzBhLTExZjEtODk3Zi1lZmY4YzhiMDBhNGYtcmltZy13MTIwMC1oNjAwLWRjZThlOGQ4LWdtaXIuanBnP3Y9MTc4NjYyMDgyOQ.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czgvYmFubmVycy8wNzY2YTFkMC05NThkLTExZjEtODAyNC00MzAxOGM4YWM0YWYtcmltZy13MTIwMC1oNjAwLWRjZThlOGQ4LWdtaXIuanBnP3Y9MTc4NjQ1Njg0Ng.avif",
     "extra": {},
     "group_id": 47,
     "multi_source": false
@@ -1018,7 +1018,7 @@
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czQvYmFubmVycy8yZWU2NWMwMC05NzJjLTExZjEtYWViOS04NWFiZTQ4ODhiZTgtcmltZy13MTIwMC1oNjc1LWRjZDhjOGE4LWdtaXIuanBnP3Y9MTc4NjYzNTY1OQ.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czIvYmFubmVycy9iMzU1MTAzMC05NzQ1LTExZjEtYWViOS04NWFiZTQ4ODhiZTgtcmltZy13MTIwMC1oNjc1LWRjZDhjOGE4LWdtaXIuanBnP3Y9MTc4NjY0NjU3MQ.avif",
     "extra": {},
     "group_id": 60,
     "multi_source": false
@@ -1312,22 +1312,6 @@
     "multi_source": false
   },
   {
-    "title": "Spoiler Alert - A Standup Comedy Solo by Anshu Mor",
-    "city": "Delhi NCR",
-    "category": "Comedy",
-    "source": "AllEvents",
-    "url": "https://allevents.in/new-delhi/spoiler-alert-a-standup-comedy-solo-by-anshu-mor/3900030386599407",
-    "date": "2026-08-29",
-    "venue": "The Laugh Store: DLF Cyberhub, Gurugram",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czMvYmFubmVycy8zZWU2MTYxMC05NzIwLTExZjEtYWViOS04NWFiZTQ4ODhiZTgtcmltZy13MTIwMC1oNjAwLWRjMjg2OGE4LWdtaXIuanBnP3Y9MTc4NjYzMDAxNw.avif",
-    "extra": {},
-    "group_id": 77,
-    "multi_source": false
-  },
-  {
     "title": "Silly Papa By Angad Singh Ranyal",
     "city": "Delhi NCR",
     "category": "Comedy",
@@ -1339,6 +1323,22 @@
     "price_max": null,
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czMvYmFubmVycy81OWFkZGQyMC05NTY4LTExZjEtODAyNC00MzAxOGM4YWM0YWYtcmltZy13MTIwMC1oNjAwLWRjMTgxODU4LWdtaXIuanBnP3Y9MTc4NjQ0MTA4Mw.avif",
+    "extra": {},
+    "group_id": 77,
+    "multi_source": false
+  },
+  {
+    "title": "Gaurav Gupta Trial Show Live",
+    "city": "Delhi NCR",
+    "category": "Comedy",
+    "source": "AllEvents",
+    "url": "https://allevents.in/new-delhi/gaurav-gupta-trial-show-live/3900030540553248",
+    "date": "2026-08-13",
+    "venue": "The Comedy Theatre - Hauz Khass Village: Delhi",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czMvYmFubmVycy9hYTIwMzRmMC05NTkxLTExZjEtODAyNC00MzAxOGM4YWM0YWYtcmltZy13MTIwMC1oNjAwLWRjYjgyODE4LWdtaXIuanBnP3Y9MTc4NjQ1ODgyOA.avif",
     "extra": {},
     "group_id": 78,
     "multi_source": false
@@ -1818,7 +1818,7 @@
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czQvYmFubmVycy8zZTY5MmQ3MC05NmVhLTExZjEtODk3Zi1lZmY4YzhiMDBhNGYtcmltZy13MTIwMC1oNjAwLWRjMjgyODE4LWdtaXIuanBnP3Y9MTc4NjYwNjg4OA.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czIvYmFubmVycy81ZGE1MGQ2MC05NzI4LTExZjEtYWViOS04NWFiZTQ4ODhiZTgtcmltZy13MTIwMC1oNjAwLWRjMjgyODE4LWdtaXIuanBnP3Y9MTc4NjYzMzU2Nw.avif",
     "extra": {},
     "group_id": 106,
     "multi_source": false
