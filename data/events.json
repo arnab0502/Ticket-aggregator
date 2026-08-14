@@ -330,7 +330,7 @@
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEwL2Jhbm5lcnMvMTU2ZjRjOTAtOTVkZS0xMWYxLWI5NDAtNTUzNDVkZmFkNTBhLXJpbWctdzEyMDAtaDYwMC1kYzA4ODg4OC1nbWlyLmpwZz92PTE3ODY0OTE2NTE.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czQvYmFubmVycy84NjBhNTU5MC05ODE3LTExZjEtOWE0MC03YjkwZGU3MjAxMjUtcmltZy13MTIwMC1oNjAwLWRjMDg4ODg4LWdtaXIuanBnP3Y9MTc4NjczNjIyMg.avif",
     "extra": {},
     "group_id": 19,
     "multi_source": false
@@ -362,7 +362,7 @@
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czkvYmFubmVycy83NTI3NTBmMC05NTcxLTExZjEtODAyNC00MzAxOGM4YWM0YWYtcmltZy13MTIwMC1oNjc1LWRjZjhkODk4LWdtaXIucG5nP3Y9MTc4NjQ0NDk5NQ.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czMvYmFubmVycy80NzkxOTdmMC05ODIyLTExZjEtOWE0MC03YjkwZGU3MjAxMjUtcmltZy13MTIwMC1oNjc1LWRjZjhlOGI4LWdtaXIucG5nP3Y9MTc4Njc0MDkxOQ.avif",
     "extra": {},
     "group_id": 21,
     "multi_source": false
@@ -448,33 +448,33 @@
     "multi_source": false
   },
   {
-    "title": "Japanese Bento Making",
+    "title": "Table Mat Painting Workshop",
     "city": "Bangalore",
     "category": "Kids",
     "source": "AllEvents",
-    "url": "https://allevents.in/bangalore/japanese-bento-making/3900030550415858",
-    "date": "2026-08-14",
-    "venue": "Brik Oven, Whitefield: Bengaluru.",
+    "url": "https://allevents.in/bangalore/table-mat-painting-workshop/3900030536022953",
+    "date": "2026-08-15",
+    "venue": "The Circular Square: Bengaluru",
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czMvYmFubmVycy85NDBmN2MzMC05NzFiLTExZjEtYWViOS04NWFiZTQ4ODhiZTgtcmltZy13MTIwMC1oNjAwLWRjZDhlOGU4LWdtaXIuanBnP3Y9MTc4NjYyODAzNw.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEwL2Jhbm5lcnMvZmYzNmRiMTAtOTZiOC0xMWYxLTg5N2YtZWZmOGM4YjAwYTRmLXJpbWctdzEyMDAtaDYwMC1kY2Y4ZThkOC1nbWlyLmpwZz92PTE3ODY1ODU2NzI.avif",
     "extra": {},
     "group_id": 27,
     "multi_source": false
   },
   {
-    "title": "Lego Build & Learn",
+    "title": "THE ROOM OF MEMORIES MLR 24th 4PM",
     "city": "Bangalore",
     "category": "Kids",
     "source": "AllEvents",
-    "url": "https://allevents.in/bangalore/lego-build-and-learn/3900030554709839",
-    "date": "2026-08-14",
-    "venue": "Brik Oven, Bellandur: Bengaluru",
+    "url": "https://allevents.in/bangalore/the-room-of-memories-mlr-24th-4pm-tickets/80003400916253",
+    "date": "2026-10-24",
+    "venue": "MLR Cultural Centre",
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czIvYmFubmVycy9jNDk4YzJiMC05NzhiLTExZjEtYWViOS04NWFiZTQ4ODhiZTgtcmltZy13MTIwMC1oNjAwLWRjZjhjODM4LWdtaXIuanBnP3Y9MTc4NjY3NjE5OA.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4yLmFsbGV2ZW50cy5pbi90aHVtYnMvdGh1bWI2YTRkMTFiODgwZDg5LmpwZw.avif",
     "extra": {},
     "group_id": 28,
     "multi_source": false
@@ -794,7 +794,7 @@
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czUvYmFubmVycy80OTA3MTNjMC05NjFiLTExZjEtYjk0MC01NTM0NWRmYWQ1MGEtcmltZy13MTIwMC1oNjAwLWRjYThjOGE4LWdtaXIuanBnP3Y9MTc4NjUxNzkzNg.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czMvYmFubmVycy80MmZhMzY4MC05ODE3LTExZjEtOWE0MC03YjkwZGU3MjAxMjUtcmltZy13MTIwMC1oNjAwLWRjYThjOGE4LWdtaXIuanBnP3Y9MTc4NjczNjExMA.avif",
     "extra": {},
     "group_id": 48,
     "multi_source": false
@@ -842,7 +842,7 @@
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czkvYmFubmVycy9mZmFhMWI3MC05NjU5LTExZjEtYjk0MC01NTM0NWRmYWQ1MGEtcmltZy13MTIwMC1oNjAwLWRjZDhkOGQ4LWdtaXIuanBnP3Y9MTc4NjU0NDg3MQ.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEwL2Jhbm5lcnMvOWQzOWE0ZjAtOTgxMi0xMWYxLTlhNDAtN2I5MGRlNzIwMTI1LXJpbWctdzEyMDAtaDYwMC1kY2Q4ZDhkOC1nbWlyLmpwZz92PTE3ODY3MzQxMTQ.avif",
     "extra": {},
     "group_id": 51,
     "multi_source": false
@@ -858,7 +858,7 @@
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czUvYmFubmVycy9mODliNGYxMC05N2M3LTExZjEtOWE0MC03YjkwZGU3MjAxMjUtcmltZy13MTIwMC1oNjAwLWRjOThjOGM4LWdtaXIuanBnP3Y9MTc4NjcwMjA1NQ.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEvYmFubmVycy9jMzQ2ZmMyMC05NDViLTExZjEtYjlmMS04Mzg0NzM2ODk3MjgtcmltZy13MTIwMC1oNjAwLWRjOThjOGM4LWdtaXIuanBnP3Y9MTc4NjMyNTcyNg.avif",
     "extra": {},
     "group_id": 52,
     "multi_source": false
@@ -906,7 +906,7 @@
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czIvYmFubmVycy81YzJjYTY1MC05N2I5LTExZjEtOWE0MC03YjkwZGU3MjAxMjUtcmltZy13MTIwMC1oNjAwLWRjMDg4ODg4LWdtaXIuanBnP3Y9MTc4NjY5NTc3OQ.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czUvYmFubmVycy9iZmU1M2ZjMC05NWE5LTExZjEtODAyNC00MzAxOGM4YWM0YWYtcmltZy13MTIwMC1oNjAwLWRjMDg4ODg4LWdtaXIuanBnP3Y9MTc4NjQ2OTE3Mg.avif",
     "extra": {},
     "group_id": 55,
     "multi_source": false
@@ -1034,7 +1034,7 @@
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czIvYmFubmVycy8xZWQ1MDJjMC05ODA5LTExZjEtOWE0MC03YjkwZGU3MjAxMjUtcmltZy13MTIwMC1oNjc1LWRjZDhhODY4LWdtaXIuanBnP3Y9MTc4NjczMDA4Nw.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEwL2Jhbm5lcnMvMDgyMTBhYTAtOTgxZS0xMWYxLTlhNDAtN2I5MGRlNzIwMTI1LXJpbWctdzEyMDAtaDY3NS1kY2Q4YTg2OC1nbWlyLmpwZz92PTE3ODY3MzkxODE.avif",
     "extra": {},
     "group_id": 63,
     "multi_source": false
@@ -1386,7 +1386,7 @@
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEwL2Jhbm5lcnMvODQyNTE3MDAtOTVmNy0xMWYxLWI5NDAtNTUzNDVkZmFkNTBhLXJpbWctdzEyMDAtaDYwMC1kYzA4ODg4OC1nbWlyLmpwZz92PTE3ODY1MDI1NzM.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEvYmFubmVycy82NTczNzliMC05N2ZlLTExZjEtOWE0MC03YjkwZGU3MjAxMjUtcmltZy13MTIwMC1oNjAwLWRjMDg4ODg4LWdtaXIuanBnP3Y9MTc4NjcyNTQzMA.avif",
     "extra": {},
     "group_id": 82,
     "multi_source": false
@@ -1584,6 +1584,22 @@
     "multi_source": false
   },
   {
+    "title": "Small World Kids Art Party",
+    "city": "Delhi NCR",
+    "category": "Kids",
+    "source": "AllEvents",
+    "url": "https://allevents.in/new-delhi/small-world-kids-art-party/3900030557729001",
+    "date": "2026-08-15",
+    "venue": "Chaayos Cafe - Connaught Place: Delhi",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czUvYmFubmVycy83Y2FkMzJlMC05ODA1LTExZjEtOWE0MC03YjkwZGU3MjAxMjUtcmltZy13MTIwMC1oNjAwLWRjOThjOGU4LWdtaXIuanBnP3Y9MTc4NjcyODQ4MA.avif",
+    "extra": {},
+    "group_id": 94,
+    "multi_source": false
+  },
+  {
     "title": "THE ROOM OF MEMORIES",
     "city": "Delhi NCR",
     "category": "Kids",
@@ -1595,22 +1611,6 @@
     "price_max": null,
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4yLmFsbGV2ZW50cy5pbi90aHVtYnMvdGh1bWI2YTRkMTFiODgwZDg5LmpwZw.avif",
-    "extra": {},
-    "group_id": 94,
-    "multi_source": false
-  },
-  {
-    "title": "Kids Summer Camp",
-    "city": "Delhi NCR",
-    "category": "Kids",
-    "source": "AllEvents",
-    "url": "https://allevents.in/new-delhi/kids-summer-camp/3900030543397117",
-    "date": "2026-08-15",
-    "venue": "Cafe StayWoke: Gurugram",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czkvYmFubmVycy85NGJjZDcyMC05N2IzLTExZjEtOWE0MC03YjkwZGU3MjAxMjUtcmltZy13MTIwMC1oNjAwLWRjZjhmOGY4LWdtaXIuanBnP3Y9MTc4NjY5MzI5Nw.avif",
     "extra": {},
     "group_id": 95,
     "multi_source": false
@@ -2192,22 +2192,6 @@
     "multi_source": false
   },
   {
-    "title": "Deepak Taale Andhera - A special by Deepak Sharma",
-    "city": "Bangalore",
-    "category": "Comedy",
-    "source": "Eventz",
-    "url": "https://www.eventz.co.in/events-list/deepak-taale-andhera---a-special-by-deepak-sharma",
-    "date": "2026-08-13T00:00:00",
-    "venue": "The Underground Comedy Club, Bengaluru",
-    "price_min": 499.0,
-    "price_max": 499.0,
-    "currency": "INR",
-    "image": "",
-    "extra": {},
-    "group_id": 132,
-    "multi_source": false
-  },
-  {
     "title": "New Jokes, Old Tricks ft. Punit Pania",
     "city": "Bangalore",
     "category": "Comedy",
@@ -2220,7 +2204,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 133,
+    "group_id": 132,
     "multi_source": false
   },
   {
@@ -2236,7 +2220,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 134,
+    "group_id": 133,
     "multi_source": false
   },
   {
@@ -2252,7 +2236,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 135,
+    "group_id": 134,
     "multi_source": false
   },
   {
@@ -2268,7 +2252,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 136,
+    "group_id": 135,
     "multi_source": false
   },
   {
@@ -2284,7 +2268,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 137,
+    "group_id": 136,
     "multi_source": false
   },
   {
@@ -2300,7 +2284,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 138,
+    "group_id": 137,
     "multi_source": false
   },
   {
@@ -2316,7 +2300,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 139,
+    "group_id": 138,
     "multi_source": false
   },
   {
@@ -2332,7 +2316,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 140,
+    "group_id": 139,
     "multi_source": false
   },
   {
@@ -2364,7 +2348,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 141,
+    "group_id": 140,
     "multi_source": false
   },
   {
@@ -2380,7 +2364,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 142,
+    "group_id": 141,
     "multi_source": false
   },
   {
@@ -2396,7 +2380,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 143,
+    "group_id": 142,
     "multi_source": false
   },
   {
@@ -2412,7 +2396,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 144,
+    "group_id": 143,
     "multi_source": false
   },
   {
@@ -2428,7 +2412,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 145,
+    "group_id": 144,
     "multi_source": false
   },
   {
@@ -2444,7 +2428,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 146,
+    "group_id": 145,
     "multi_source": false
   },
   {
@@ -2460,7 +2444,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 147,
+    "group_id": 146,
     "multi_source": false
   },
   {
@@ -2492,7 +2476,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 148,
+    "group_id": 147,
     "multi_source": false
   },
   {
@@ -2508,7 +2492,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 149,
+    "group_id": 148,
     "multi_source": false
   },
   {
@@ -2524,7 +2508,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 150,
+    "group_id": 149,
     "multi_source": false
   },
   {
@@ -2540,7 +2524,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 151,
+    "group_id": 150,
     "multi_source": false
   },
   {
@@ -2572,7 +2556,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 152,
+    "group_id": 151,
     "multi_source": false
   },
   {
@@ -2588,7 +2572,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 153,
+    "group_id": 152,
     "multi_source": false
   },
   {
@@ -2601,6 +2585,22 @@
     "venue": "The Coffee Theatre, Indiranagar, Bengaluru",
     "price_min": 499.0,
     "price_max": 499.0,
+    "currency": "INR",
+    "image": "",
+    "extra": {},
+    "group_id": 153,
+    "multi_source": false
+  },
+  {
+    "title": "Underground Comedy Scene, Koramangala",
+    "city": "Bangalore",
+    "category": "Comedy",
+    "source": "Eventz",
+    "url": "https://www.eventz.co.in/events-list/underground-comedy-scene%2C-koramangala",
+    "date": "2026-08-24T00:00:00",
+    "venue": "The Underground Comedy Club, Bengaluru",
+    "price_min": 149.0,
+    "price_max": 149.0,
     "currency": "INR",
     "image": "",
     "extra": {},
