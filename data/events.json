@@ -218,7 +218,7 @@
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEwL2Jhbm5lcnMvZWMyYjcyMDAtOTkxMS0xMWYxLTlhNDAtN2I5MGRlNzIwMTI1LXJpbWctdzEyMDAtaDYwMC1kYzE4MTgxOC1nbWlyLmpwZz92PTE3ODY4NDM3NzM.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czQvYmFubmVycy9jNjcwZmVjMC05YzY1LTExZjEtODBiYi1lYmZhNjYxMmMwOTUtcmltZy13MTIwMC1oNjAwLWRjMTgxODE4LWdtaXIuanBnP3Y9MTc4NzIwOTY0MQ.avif",
     "extra": {},
     "group_id": 13,
     "multi_source": false
@@ -634,7 +634,7 @@
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czMvYmFubmVycy9kZmQ2M2E4MC05YWFiLTExZjEtOWJjNi04YjRmNTZkYjZjNDMtcmltZy13MTIwMC1oNjAwLWRjZjhkODg4LWdtaXIuanBnP3Y9MTc4NzAxOTg0MQ.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEvYmFubmVycy85YjAzN2I2MC05YzQxLTExZjEtODBiYi1lYmZhNjYxMmMwOTUtcmltZy13MTIwMC1oNjAwLWRjMTgwODE4LWdtaXIuanBnP3Y9MTc4NzE5NDEwMQ.avif",
     "extra": {},
     "group_id": 35,
     "multi_source": false
@@ -682,7 +682,7 @@
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czMvYmFubmVycy82YzBlODIwMC05YjM4LTExZjEtODEyYi1hMzk2NjlhMGUxMDktcmltZy13MTIwMC1oNjAwLWRjNjgwODA4LWdtaXIuanBnP3Y9MTc4NzA4MDIwNQ.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czQvYmFubmVycy81NDQyOTk0MC05YzU1LTExZjEtODBiYi1lYmZhNjYxMmMwOTUtcmltZy13MTIwMC1oNjAwLWRjNjgwODA4LWdtaXIuanBnP3Y9MTc4NzIwMjU3Mg.avif",
     "extra": {},
     "group_id": 38,
     "multi_source": false
@@ -842,7 +842,7 @@
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czgvYmFubmVycy8wZDFlZDA4MC05YmMyLTExZjEtYmFhYi05ZDc2MzgzYTBlMDAtcmltZy13MTIwMC1oNjAwLWRjZDhkOGQ4LWdtaXIuanBnP3Y9MTc4NzEzOTMyMg.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czkvYmFubmVycy9jZTFlZjc2MC05YzYyLTExZjEtODBiYi1lYmZhNjYxMmMwOTUtcmltZy13MTIwMC1oNjAwLWRjZDhkOGQ4LWdtaXIuanBnP3Y9MTc4NzIwODM2Ng.avif",
     "extra": {},
     "group_id": 48,
     "multi_source": false
@@ -864,22 +864,6 @@
     "multi_source": false
   },
   {
-    "title": "Unpopular Opinions ft. Sahil Shah & Special Guests",
-    "city": "Mumbai",
-    "category": "Comedy",
-    "source": "AllEvents",
-    "url": "https://allevents.in/mumbai/unpopular-opinions-ft-sahil-shah-and-special-guests/3900030525298021",
-    "date": "2026-08-22",
-    "venue": "Khar Comedy Club: Mumbai",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czMvYmFubmVycy9mODk2MzBmMC05NzAxLTExZjEtODk3Zi1lZmY4YzhiMDBhNGYtcmltZy13MTIwMC1oNjAwLWRjNDgyODU4LWdtaXIuanBnP3Y9MTc4NjYxNzAxNA.avif",
-    "extra": {},
-    "group_id": 50,
-    "multi_source": false
-  },
-  {
     "title": "Sunil Grover Live in Mumbai",
     "city": "Mumbai",
     "category": "Comedy",
@@ -892,7 +876,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czgvYmFubmVycy8yYTY4MDQ0MC05YjY4LTExZjEtOTRjNS1kM2EyNDEyZThjMzAtcmltZy13MTIwMC1oNjc1LWRjMTgxODE4LWdtaXIuanBnP3Y9MTc4NzEwMDcxMQ.avif",
     "extra": {},
-    "group_id": 51,
+    "group_id": 50,
     "multi_source": false
   },
   {
@@ -908,7 +892,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czUvYmFubmVycy9lY2ViOWE4MC05YWNlLTExZjEtOWJjNi04YjRmNTZkYjZjNDMtcmltZy13MTIwMC1oNjAwLWRjZjhkODY4LWdtaXIuanBnP3Y9MTc4NzAzNDkxMg.avif",
     "extra": {},
-    "group_id": 52,
+    "group_id": 51,
     "multi_source": false
   },
   {
@@ -923,6 +907,22 @@
     "price_max": null,
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czYvYmFubmVycy9hODQ1YzBiMC05YTU0LTExZjEtOWJjNi04YjRmNTZkYjZjNDMtcmltZy13MTIwMC1oNjAwLWRjZjhjODI4LWdtaXIuanBnP3Y9MTc4Njk4MjM4MQ.avif",
+    "extra": {},
+    "group_id": 52,
+    "multi_source": false
+  },
+  {
+    "title": "The Lavari Show: Mumbai",
+    "city": "Mumbai",
+    "category": "Comedy",
+    "source": "AllEvents",
+    "url": "https://allevents.in/mumbai/the-lavari-show-mumbai/3900030548567153",
+    "date": "2026-08-27",
+    "venue": "Dinanath Mangeshkar Natyagruha: Vile Parle",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEwL2Jhbm5lcnMvOTFmMzgxMzAtOWJkNS0xMWYxLWJhYWItOWQ3NjM4M2EwZTAwLXJpbWctdzEyMDAtaDYwMC1kYzk4ODg3OC1nbWlyLmpwZz92PTE3ODcxNDc3MDA.avif",
     "extra": {},
     "group_id": 53,
     "multi_source": false
@@ -1082,7 +1082,7 @@
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czQvYmFubmVycy9kMGQzM2ZlMC05YWNiLTExZjEtOWJjNi04YjRmNTZkYjZjNDMtcmltZy13MTIwMC1oNjAwLWRjMTgxODU4LWdtaXIuanBnP3Y9MTc4NzAzMzU3NQ.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czQvYmFubmVycy83MzJkODhmMC05YzY1LTExZjEtODBiYi1lYmZhNjYxMmMwOTUtcmltZy13MTIwMC1oNjAwLWRjMTgxODU4LWdtaXIuanBnP3Y9MTc4NzIwOTUxMg.avif",
     "extra": {},
     "group_id": 62,
     "multi_source": false
@@ -1434,7 +1434,7 @@
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czQvYmFubmVycy9kMGQzM2ZlMC05YWNiLTExZjEtOWJjNi04YjRmNTZkYjZjNDMtcmltZy13MTIwMC1oNjAwLWRjMTgxODU4LWdtaXIuanBnP3Y9MTc4NzAzMzU1OQ.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czQvYmFubmVycy83MzJkODhmMC05YzY1LTExZjEtODBiYi1lYmZhNjYxMmMwOTUtcmltZy13MTIwMC1oNjAwLWRjMTgxODU4LWdtaXIuanBnP3Y9MTc4NzIwOTQ5Ng.avif",
     "extra": {},
     "group_id": 83,
     "multi_source": false
@@ -1568,6 +1568,22 @@
     "multi_source": false
   },
   {
+    "title": "Threads of Love- Handmade Fabric Rakhi MakWorkshop",
+    "city": "Delhi NCR",
+    "category": "Kids",
+    "source": "AllEvents",
+    "url": "https://allevents.in/new-delhi/threads-of-love-handmade-fabric-rakhi-makworkshop/3900030586828133",
+    "date": "2026-08-22",
+    "venue": "Inomi Creative Labs: Gurugram",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czcvYmFubmVycy85MTNjNjZjMC05YzQ0LTExZjEtODBiYi1lYmZhNjYxMmMwOTUtcmltZy13MTIwMC1oNjAwLWRjZjhmOGU4LWdtaXIuanBnP3Y9MTc4NzE5NTM3Mw.avif",
+    "extra": {},
+    "group_id": 91,
+    "multi_source": false
+  },
+  {
     "title": "Paper Quilling Ganesha - Ganesh Chaturthi Special",
     "city": "Delhi NCR",
     "category": "Kids",
@@ -1580,7 +1596,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEwL2Jhbm5lcnMvM2NkNzFmOTAtOWI3Yi0xMWYxLTk0YzUtZDNhMjQxMmU4YzMwLXJpbWctdzEyMDAtaDYwMC1kY2Y4ZjhmOC1nbWlyLmpwZz92PTE3ODcxMDg5MDI.avif",
     "extra": {},
-    "group_id": 91,
+    "group_id": 92,
     "multi_source": false
   },
   {
@@ -1596,7 +1612,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czkvYmFubmVycy81MDdiMWJkMC05YWE2LTExZjEtOWJjNi04YjRmNTZkYjZjNDMtcmltZy13MTIwMC1oNjAwLWRjZjhmOGY4LWdtaXIuanBnP3Y9MTc4NzAxNzQ1Mw.avif",
     "extra": {},
-    "group_id": 92,
+    "group_id": 93,
     "multi_source": false
   },
   {
@@ -1612,7 +1628,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czUvYmFubmVycy83M2Y1NmVlMC04ZjU2LTExZjEtYTMzYS1mNzE1MDY2MmE1YWEtcmltZy13MTIwMC1oNjAwLWRjMTgwODM4LWdtaXIuanBnP3Y9MTc4NTc3MzY5MA.avif",
     "extra": {},
-    "group_id": 93,
+    "group_id": 94,
     "multi_source": false
   },
   {
@@ -1627,22 +1643,6 @@
     "price_max": null,
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEvYmFubmVycy9mN2MxMDIwMC05NzgyLTExZjEtYWViOS04NWFiZTQ4ODhiZTgtcmltZy13MTIwMC1oNjAwLWRjMDgwODE4LWdtaXIuanBnP3Y9MTc4NjY3MjQxOQ.avif",
-    "extra": {},
-    "group_id": 94,
-    "multi_source": false
-  },
-  {
-    "title": "5 Days Free Yoga Classes For Kids",
-    "city": "Delhi NCR",
-    "category": "Kids",
-    "source": "AllEvents",
-    "url": "https://allevents.in/new-delhi/5-days-free-yoga-classes-for-kids/200030102986859",
-    "date": "2026-08-22",
-    "venue": "393, Kakrola Housing Complex Nishat Park New Delhi 110078, Delhi, India 110078, Delhi",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czgvYmFubmVycy82NWViYTFiZGJhN2EzMmIxYzU0Zjg0ZTkxOTA0ZmNiMTJkMDhkOWYzM2IzN2FmNGFjOTYwMDcwYjgwY2MxZWVmLXJpbWctdzEyMDAtaDkwMC1kY2ZmNzQxZS1nbWlyP3Y9MTc3OTQ4MjIxOQ.avif",
     "extra": {},
     "group_id": 95,
     "multi_source": false
@@ -1898,9 +1898,25 @@
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czkvYmFubmVycy9jNzcyYzlhMC05N2NiLTExZjEtOWE0MC03YjkwZGU3MjAxMjUtcmltZy13MTIwMC1oNjAwLWRjNjgzODE4LWdtaXIuanBnP3Y9MTc4NjcwMzY5MA.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czIvYmFubmVycy9mNjRhMzA5MC05YzUwLTExZjEtODBiYi1lYmZhNjYxMmMwOTUtcmltZy13MTIwMC1oNjAwLWRjNjgzODE4LWdtaXIuanBnP3Y9MTc4NzIwMDY5Ng.avif",
     "extra": {},
     "group_id": 111,
+    "multi_source": false
+  },
+  {
+    "title": "THE EMRAAN ERA ft. Emraan Hashmi & DJ Ganesh",
+    "city": "Hyderabad",
+    "category": "Nightlife",
+    "source": "AllEvents",
+    "url": "https://allevents.in/hyderabad/the-emraan-era-ft-emraan-hashmi-and-dj-ganesh/3900030581547100",
+    "date": "2026-09-05",
+    "venue": "Quake Arena: Hyderabad",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEwL2Jhbm5lcnMvMmY0MjQxNzAtOWI3Yi0xMWYxLTk0YzUtZDNhMjQxMmU4YzMwLXJpbWctdzEyMDAtaDYwMC1kYzA4MDgwOC1nbWlyLmpwZz92PTE3ODcxMDg4ODA.avif",
+    "extra": {},
+    "group_id": 112,
     "multi_source": false
   },
   {
@@ -1916,7 +1932,23 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czgvYmFubmVycy80MTBlMTRlMC05YmFmLTExZjEtOTgzYy0xYmZmNDllZjY0MTMtcmltZy13MTIwMC1oNjAwLWRjNTgwODE4LWdtaXIuanBnP3Y9MTc4NzEzMTI0Mw.avif",
     "extra": {},
-    "group_id": 112,
+    "group_id": 113,
+    "multi_source": false
+  },
+  {
+    "title": "MEGA JAMMING SESSION",
+    "city": "Hyderabad",
+    "category": "Nightlife",
+    "source": "AllEvents",
+    "url": "https://allevents.in/hyderabad/mega-jamming-session/3900030579804436",
+    "date": "2026-08-22",
+    "venue": "Amnesia Sky Bar: Madhapur",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czIvYmFubmVycy84ODBkNGY2MC05YzI2LTExZjEtODBiYi1lYmZhNjYxMmMwOTUtcmltZy13MTIwMC1oNjAwLWRjZjhlOGQ4LWdtaXIuanBnP3Y9MTc4NzE4MjQ3Mw.avif",
+    "extra": {},
+    "group_id": 114,
     "multi_source": false
   },
   {
@@ -1932,7 +1964,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czgvYmFubmVycy82OTVjMGJhMC05YWM5LTExZjEtOWJjNi04YjRmNTZkYjZjNDMtcmltZy13MTIwMC1oNjAwLWRjMDgwODI4LWdtaXIuanBnP3Y9MTc4NzAzMjUyNw.avif",
     "extra": {},
-    "group_id": 113,
+    "group_id": 115,
     "multi_source": false
   },
   {
@@ -1948,23 +1980,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEvYmFubmVycy81MmRiZjU3MC00YmE1LTExZjEtYWQxMC1hZjFjMDAwMGZlODItcmltZy13MTIwMC1oNjAwLWRjMDUwMzA2LWdtaXIuanBnP3Y9MTc3ODMzMDg4Ng.avif",
     "extra": {},
-    "group_id": 114,
-    "multi_source": false
-  },
-  {
-    "title": "90s Telugu Hits",
-    "city": "Hyderabad",
-    "category": "Nightlife",
-    "source": "AllEvents",
-    "url": "https://allevents.in/hyderabad/90s-telugu-hits/4100030567696736",
-    "date": "2026-08-29",
-    "venue": "Jammin Junction Bar &amp; Kitchen | Jubilee Hills, Hyderabad",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czMvYmFubmVycy8wZmYwNmM0MC05OTNmLTExZjEtOWE0MC03YjkwZGU3MjAxMjUtcmltZy13MTIwMC1oNjc1LWRjMDgwODA4LWdtaXIucG5nP3Y9MTc4Njg2MzE1NQ.avif",
-    "extra": {},
-    "group_id": 115,
+    "group_id": 116,
     "multi_source": false
   },
   {
@@ -1980,7 +1996,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czIvYmFubmVycy8xYzIzNTMxMC04OTFkLTExZjEtYjZjOC1lZjQxMzdkOGRjYjAtcmltZy13MTIwMC1oNjAwLWRjYzBjMGMwLWdtaXIuanBnP3Y9MTc4NTA4OTM1NA.avif",
     "extra": {},
-    "group_id": 116,
+    "group_id": 117,
     "multi_source": false
   },
   {
@@ -1994,9 +2010,9 @@
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czkvYmFubmVycy9hNjg0OThjMC05YjUxLTExZjEtODEyYi1hMzk2NjlhMGUxMDktcmltZy13MTIwMC1oNjAwLWRjMTgwODE4LWdtaXIuanBnP3Y9MTc4NzA5MTA0MQ.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czkvYmFubmVycy9lMTI2MmU3MC05YzNkLTExZjEtODBiYi1lYmZhNjYxMmMwOTUtcmltZy13MTIwMC1oNjAwLWRjMTgwODE4LWdtaXIuanBnP3Y9MTc4NzE5MjUwMA.avif",
     "extra": {},
-    "group_id": 117,
+    "group_id": 118,
     "multi_source": false
   },
   {
@@ -2012,7 +2028,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czUvYmFubmVycy8yODI0NWUyMC05YzFlLTExZjEtODBiYi1lYmZhNjYxMmMwOTUtcmltZy13MTIwMC1oNjAwLWRjZThjOGE4LWdtaXIuanBnP3Y9MTc4NzE3ODg3Ng.avif",
     "extra": {},
-    "group_id": 118,
+    "group_id": 119,
     "multi_source": false
   },
   {
@@ -2028,7 +2044,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czMvYmFubmVycy9hMmQ5Y2UxMC05MjJlLTExZjEtOGQwNC1mNTllYTI3ZDdjODgtcmltZy13MTIwMC1oNjc1LWRjOThkODI4LWdtaXIuanBnP3Y9MTc4NjA4NjQ0Mg.avif",
     "extra": {},
-    "group_id": 119,
+    "group_id": 120,
     "multi_source": false
   },
   {
@@ -2044,7 +2060,23 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czMvYmFubmVycy80Y2Q1OGE0NDdiYmVmY2ZkYjIzZGM0NWFmMGM0OWY5YmM2MmRkOTMxZGVkNGYzNWNjOGNhMDA0YmM0Mjc1MDg5LXJpbWctdzEyMDAtaDYwMC1kYzE4NjgzOC1nbWlyLmpwZz92PTE3ODU4MjM3Mjg.avif",
     "extra": {},
-    "group_id": 120,
+    "group_id": 121,
+    "multi_source": false
+  },
+  {
+    "title": "90s Telugu Hits",
+    "city": "Hyderabad",
+    "category": "Nightlife",
+    "source": "AllEvents",
+    "url": "https://allevents.in/hyderabad/90s-telugu-hits/4100030567696736",
+    "date": "2026-08-29",
+    "venue": "Jammin Junction Bar &amp; Kitchen | Jubilee Hills, Hyderabad",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czMvYmFubmVycy8wZmYwNmM0MC05OTNmLTExZjEtOWE0MC03YjkwZGU3MjAxMjUtcmltZy13MTIwMC1oNjc1LWRjMDgwODA4LWdtaXIucG5nP3Y9MTc4Njg2MzE1NQ.avif",
+    "extra": {},
+    "group_id": 122,
     "multi_source": false
   },
   {
@@ -2060,7 +2092,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czkvYmFubmVycy9iOWFmNjkwMC05YTVlLTExZjEtOWJjNi04YjRmNTZkYjZjNDMtcmltZy13MTIwMC1oNjAwLWRjMDgwODA4LWdtaXIuanBnP3Y9MTc4Njk4NjcyMg.avif",
     "extra": {},
-    "group_id": 121,
+    "group_id": 123,
     "multi_source": false
   },
   {
@@ -2075,38 +2107,6 @@
     "price_max": null,
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czMvYmFubmVycy8zMzYxZTNmMC05YzBjLTExZjEtODBiYi1lYmZhNjYxMmMwOTUtcmltZy13MTIwMC1oNjAwLWRjYjg3ODc4LWdtaXIuanBnP3Y9MTc4NzE3MTE2NA.avif",
-    "extra": {},
-    "group_id": 122,
-    "multi_source": false
-  },
-  {
-    "title": "Koti in Hyderabad",
-    "city": "Hyderabad",
-    "category": "Nightlife",
-    "source": "AllEvents",
-    "url": "https://allevents.in/hyderabad/koti-in-hyderabad/3300030393694442",
-    "date": "2026-08-22",
-    "venue": "Heart Cup Coffee: Gachibowli",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czIvYmFubmVycy9mMzUzZDc0MC03ZDgwLTExZjEtOGRlNy1hNTVjMDRlMTdmMmUtcmltZy13NjQwLWg2NDAtZGNmZTY1MDItZ21pci5qcGc_dj0xNzgzODEyODIx.avif",
-    "extra": {},
-    "group_id": 123,
-    "multi_source": false
-  },
-  {
-    "title": "MOHANA BHOGARAJU LIVE AT VAVE PUB",
-    "city": "Hyderabad",
-    "category": "Nightlife",
-    "source": "AllEvents",
-    "url": "https://allevents.in/hyderabad/mohana-bhogaraju-live-at-vave-pub/3900030562263122",
-    "date": "2026-09-05",
-    "venue": "SVM`s Vave Pub, Nagole: Hyderabad",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czcvYmFubmVycy9iOTM3NzZkMC05YjQzLTExZjEtODEyYi1hMzk2NjlhMGUxMDktcmltZy13MTIwMC1oNjAwLWRjMDgwODA4LWdtaXIuanBnP3Y9MTc4NzA4NTA1OQ.avif",
     "extra": {},
     "group_id": 124,
     "multi_source": false
