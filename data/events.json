@@ -464,19 +464,19 @@
     "multi_source": false
   },
   {
-    "title": "THE ROOM OF MEMORIES MLR 24th 7PM",
+    "title": "Little Peak Seekers (and deer feeding) September",
     "city": "Bangalore",
     "category": "Kids",
     "source": "AllEvents",
-    "url": "https://allevents.in/bangalore/the-room-of-memories-mlr-24th-7pm-tickets/80003072105290",
-    "date": "2026-10-24",
-    "venue": "MLR Cultural Centre",
+    "url": "https://allevents.in/bengaluru/little-peak-seekers-and-deer-feeding-september/100001994941212870",
+    "date": "2026-09-20",
+    "venue": "Around Big Cities",
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4yLmFsbGV2ZW50cy5pbi90aHVtYnMvdGh1bWI2YTRkMTFiODgwZDg5LmpwZw.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czgvYmFubmVycy8wNGUxODk3ZmFkYjI4NTRlNjZjOGMzNTg3NzRlNDk0MGRlMGQxMWFlZjFjZmM5ZjIxMWEwMjQ0YWQwMGNiNjFkLXJpbWctdzEyMDAtaDYwMC1kY2Q5ZGNkZC1nbWlyLmpwZz92PTE3ODUxMzQ4NzI.avif",
     "extra": {},
-    "group_id": 24,
+    "group_id": 21,
     "multi_source": false
   },
   {
@@ -1680,6 +1680,22 @@
     "multi_source": false
   },
   {
+    "title": "Unscripted",
+    "city": "Hyderabad",
+    "category": "Comedy",
+    "source": "AllEvents",
+    "url": "https://allevents.in/hyderabad/unscripted/3900030587073101",
+    "date": "2026-08-21",
+    "venue": "The Comedy Theatre: Hyderabad.",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czYvYmFubmVycy9mZGFlYzQyMC05YzRkLTExZjEtODBiYi1lYmZhNjYxMmMwOTUtcmltZy13MTIwMC1oNjAwLWRjMTgxODE4LWdtaXIuanBnP3Y9MTc4NzE5OTQyMA.avif",
+    "extra": {},
+    "group_id": 98,
+    "multi_source": false
+  },
+  {
     "title": "Rajasekhar Mamidanna Live",
     "city": "Hyderabad",
     "category": "Comedy",
@@ -1692,7 +1708,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEwL2Jhbm5lcnMvMGMyYzIzMDAtOWI4OS0xMWYxLTk0YzUtZDNhMjQxMmU4YzMwLXJpbWctdzEyMDAtaDYwMC1kY2M4OTg2OC1nbWlyLmpwZz92PTE3ODcxMTQ4MzQ.avif",
     "extra": {},
-    "group_id": 98,
+    "group_id": 99,
     "multi_source": false
   },
   {
@@ -1708,7 +1724,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czkvYmFubmVycy9jZTFlZjc2MC05YzYyLTExZjEtODBiYi1lYmZhNjYxMmMwOTUtcmltZy13MTIwMC1oNjAwLWRjZDhkOGQ4LWdtaXIuanBnP3Y9MTc4NzIwODM2MA.avif",
     "extra": {},
-    "group_id": 99,
+    "group_id": 100,
     "multi_source": false
   },
   {
@@ -1724,7 +1740,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czYvYmFubmVycy9mMWVlZmY2MC05YjM1LTExZjEtODEyYi1hMzk2NjlhMGUxMDktcmltZy13MTIwMC1oNjAwLWRjZjhmOGY4LWdtaXIuanBnP3Y9MTc4NzA3OTE0Mg.avif",
     "extra": {},
-    "group_id": 100,
+    "group_id": 101,
     "multi_source": false
   },
   {
@@ -1740,7 +1756,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czcvYmFubmVycy81YTgxMjU2MC05YzNjLTExZjEtODBiYi1lYmZhNjYxMmMwOTUtcmltZy13MTIwMC1oNjAwLWRjZjhmOGY4LWdtaXIuanBnP3Y9MTc4NzE5MTg0NQ.avif",
     "extra": {},
-    "group_id": 101,
+    "group_id": 102,
     "multi_source": false
   },
   {
@@ -1756,7 +1772,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czQvYmFubmVycy9mZWIyMzY0MC03YjIzLTExZjEtOWM1Zi1iMTViZDU2NTY1MDktcmltZy13MTIwMC1oNjAwLWRjMTcxMDE3LWdtaXIuanBnP3Y9MTc4MzU1Mjk5NQ.avif",
     "extra": {},
-    "group_id": 102,
+    "group_id": 103,
     "multi_source": false
   },
   {
@@ -1772,7 +1788,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czMvYmFubmVycy82OTdlZTk3MC01ZmNmLTExZjEtODE0NC0zNzdjMGM0MzQ1OWYtcmltZy13MTIwMC1oNjAwLWRjMDYwNTAzLWdtaXIuanBnP3Y9MTc4MDU0Nzk4Ng.avif",
     "extra": {},
-    "group_id": 103,
+    "group_id": 104,
     "multi_source": false
   },
   {
@@ -1788,7 +1804,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czcvYmFubmVycy9mMTA4YjRjMC05YThhLTExZjEtOWJjNi04YjRmNTZkYjZjNDMtcmltZy13MTIwMC1oNjAwLWRjZThlOGU4LWdtaXIuanBnP3Y9MTc4NzAwNTcwMg.avif",
     "extra": {},
-    "group_id": 104,
+    "group_id": 105,
     "multi_source": false
   },
   {
@@ -1804,7 +1820,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czkvYmFubmVycy9lYzYxNjdjMC05YmQyLTExZjEtYmFhYi05ZDc2MzgzYTBlMDAtcmltZy13MTIwMC1oNjAwLWRjMDgwODA4LWdtaXIuanBnP3Y9MTc4NzE0NjU3OA.avif",
     "extra": {},
-    "group_id": 105,
+    "group_id": 106,
     "multi_source": false
   },
   {
@@ -1820,7 +1836,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czcvYmFubmVycy8yMzJkZmZlMC05YzJiLTExZjEtODBiYi1lYmZhNjYxMmMwOTUtcmltZy13MTIwMC1oNjAwLWRjMjgwODA4LWdtaXIuanBnP3Y9MTc4NzE4NDQ1MQ.avif",
     "extra": {},
-    "group_id": 106,
+    "group_id": 107,
     "multi_source": false
   },
   {
@@ -1836,7 +1852,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czYvYmFubmVycy9lMTRjNzQ4MC05YTYzLTExZjEtOWJjNi04YjRmNTZkYjZjNDMtcmltZy13MTIwMC1oNjAwLWRjMzg3OGE4LWdtaXIuanBnP3Y9MTc4Njk4ODkxOQ.avif",
     "extra": {},
-    "group_id": 107,
+    "group_id": 108,
     "multi_source": false
   },
   {
@@ -1852,7 +1868,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czkvYmFubmVycy85N2ZjMzBmMC05YWEzLTExZjEtOWJjNi04YjRmNTZkYjZjNDMtcmltZy13MTIwMC1oNjAwLWRjZjhmOGY4LWdtaXIuanBnP3Y9MTc4NzAxNjI4NA.avif",
     "extra": {},
-    "group_id": 108,
+    "group_id": 109,
     "multi_source": false
   },
   {
@@ -1868,7 +1884,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czcvYmFubmVycy8wYzc3YzRiMC05YjBhLTExZjEtOWJjNi04YjRmNTZkYjZjNDMtcmltZy13MTIwMC1oNjAwLWRjZThlOGU4LWdtaXIuanBnP3Y9MTc4NzA2MDI4OA.avif",
     "extra": {},
-    "group_id": 109,
+    "group_id": 110,
     "multi_source": false
   },
   {
@@ -1883,22 +1899,6 @@
     "price_max": null,
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czMvYmFubmVycy84NTNkOTc2MC05YjkzLTExZjEtOTRjNS1kM2EyNDEyZThjMzAtcmltZy13MTIwMC1oNjAwLWRjNDgwODA4LWdtaXIuanBnP3Y9MTc4NzExOTM0Mw.avif",
-    "extra": {},
-    "group_id": 110,
-    "multi_source": false
-  },
-  {
-    "title": "Ilakathamafiliya. A Telugu Stand-up Comedy Show",
-    "city": "Hyderabad",
-    "category": "Comedy",
-    "source": "AllEvents",
-    "url": "https://allevents.in/hyderabad/ilakathamafiliya-a-telugu-stand-up-comedy-show/3900030479352738",
-    "date": "2026-08-30",
-    "venue": "Aaromale - Cafe and Creative Community: Hyderabad",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEvYmFubmVycy9jMzJlNDdjMC05YzIxLTExZjEtODBiYi1lYmZhNjYxMmMwOTUtcmltZy13MTIwMC1oNjAwLWRjNDgxOGI4LWdtaXIuanBnP3Y9MTc4NzE4MDQyNA.avif",
     "extra": {},
     "group_id": 111,
     "multi_source": false
