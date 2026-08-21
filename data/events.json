@@ -42,7 +42,7 @@
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEwL2Jhbm5lcnMvN2E0MzBmODAtOWNjZC0xMWYxLTgwYmItZWJmYTY2MTJjMDk1LXJpbWctdzEyMDAtaDYwMC1kYzQ4ODg0OC1nbWlyLmpwZz92PTE3ODcyNTQxNzU.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czYvYmFubmVycy82YTE4MDc0MC05YThhLTExZjEtOWJjNi04YjRmNTZkYjZjNDMtcmltZy13MTIwMC1oNjAwLWRjNDg4ODQ4LWdtaXIuanBnP3Y9MTc4NzAwNTQ3MA.avif",
     "extra": {},
     "group_id": 2,
     "multi_source": true
@@ -144,6 +144,22 @@
     "multi_source": true
   },
   {
+    "title": "I AM WORTH IT ft. Rajat Sood",
+    "city": "Bangalore",
+    "category": "Comedy",
+    "source": "AllEvents",
+    "url": "https://allevents.in/bangalore/i-am-worth-it-ft-rajat-sood/3900030516139906",
+    "date": "2026-09-05",
+    "venue": "The Comedy Theatre, Indiranagar: Bengaluru",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czQvYmFubmVycy8xY2Q1NWJkMC05Y2UzLTExZjEtODBiYi1lYmZhNjYxMmMwOTUtcmltZy13MTIwMC1oNjAwLWRjMDgyODI4LWdtaXIuanBnP3Y9MTc4NzI2MzUwMQ.avif",
+    "extra": {},
+    "group_id": 9,
+    "multi_source": true
+  },
+  {
     "title": "Comedy Nights at Indiranagar",
     "city": "Bangalore",
     "category": "Comedy",
@@ -156,7 +172,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czIvYmFubmVycy9iMmNhYjY5MC05YWRmLTExZjEtOWJjNi04YjRmNTZkYjZjNDMtcmltZy13MTIwMC1oNjAwLWRjMDgwODA4LWdtaXIuanBnP3Y9MTc4NzA0MjA5OQ.avif",
     "extra": {},
-    "group_id": 9,
+    "group_id": 10,
     "multi_source": true
   },
   {
@@ -172,7 +188,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czQvYmFubmVycy8zNmU2Mjc2MC05YjA5LTExZjEtOWJjNi04YjRmNTZkYjZjNDMtcmltZy13MTIwMC1oNjAwLWRjMzgxODA4LWdtaXIuanBnP3Y9MTc4NzA1OTk0MQ.avif",
     "extra": {},
-    "group_id": 10,
+    "group_id": 11,
     "multi_source": false
   },
   {
@@ -188,7 +204,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czkvYmFubmVycy81OWM1YzExMC05YmVlLTExZjEtOGZkNy0xM2ExMjZjMDkxYjYtcmltZy13MTIwMC1oNjAwLWRjMTg3ODc4LWdtaXIuanBnP3Y9MTc4NzE1ODM0Mw.avif",
     "extra": {},
-    "group_id": 11,
+    "group_id": 12,
     "multi_source": false
   },
   {
@@ -202,26 +218,10 @@
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czQvYmFubmVycy9jNjcwZmVjMC05YzY1LTExZjEtODBiYi1lYmZhNjYxMmMwOTUtcmltZy13MTIwMC1oNjAwLWRjMTgxODE4LWdtaXIuanBnP3Y9MTc4NzIwOTY0MQ.avif",
-    "extra": {},
-    "group_id": 12,
-    "multi_source": false
-  },
-  {
-    "title": "I AM WORTH IT ft. Rajat Sood",
-    "city": "Bangalore",
-    "category": "Comedy",
-    "source": "AllEvents",
-    "url": "https://allevents.in/bangalore/i-am-worth-it-ft-rajat-sood/3900030525359259",
-    "date": "2026-09-05",
-    "venue": "The Underground Comedy Club: Bengaluru",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czYvYmFubmVycy85N2QyNzhjMC05YTZhLTExZjEtOWJjNi04YjRmNTZkYjZjNDMtcmltZy13MTIwMC1oNjAwLWRjMDgyODI4LWdtaXIuanBnP3Y9MTc4Njk5MTgzNg.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEwL2Jhbm5lcnMvZWMyYjcyMDAtOTkxMS0xMWYxLTlhNDAtN2I5MGRlNzIwMTI1LXJpbWctdzEyMDAtaDYwMC1kYzE4MTgxOC1nbWlyLmpwZz92PTE3ODY4NDM3NzM.avif",
     "extra": {},
     "group_id": 13,
-    "multi_source": true
+    "multi_source": false
   },
   {
     "title": "Azeem Banatwalla - Generational",
@@ -362,57 +362,9 @@
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czQvYmFubmVycy83M2M4ODEyMC05YmZjLTExZjEtODBiYi1lYmZhNjYxMmMwOTUtcmltZy13MTIwMC1oNjAwLWRjZjhmOGY4LWdtaXIuanBnP3Y9MTc4NzE2NDQwMA.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czQvYmFubmVycy8zMDhkMGM3MC05Y2U1LTExZjEtODBiYi1lYmZhNjYxMmMwOTUtcmltZy13MTIwMC1oNjAwLWRjZjhmOGY4LWdtaXIuanBnP3Y9MTc4NzI2NDM2MA.avif",
     "extra": {},
     "group_id": 22,
-    "multi_source": false
-  },
-  {
-    "title": "Paleontology Workshop for Kids",
-    "city": "Bangalore",
-    "category": "Kids",
-    "source": "AllEvents",
-    "url": "https://allevents.in/bangalore/paleontology-workshop-for-kids/200030583889540",
-    "date": "2026-08-22",
-    "venue": "Above Zenith",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czMvYmFubmVycy9kZTk1MzMxNjAzMDY0M2ExM2QxYzMwMmVmMjkzNmM1Mjk1OGRmNzM2YzVjZTBmM2M3MGNiZjdmMGM0NmUxYWRiLXJpbWctdzgwMC1oNjAwLWRjZThkOGI4LWdtaXI_dj0xNzg3MTM4NjE5.avif",
-    "extra": {},
-    "group_id": 23,
-    "multi_source": false
-  },
-  {
-    "title": "THE ROOM OF MEMORIES MLR 25th 11AM",
-    "city": "Bangalore",
-    "category": "Kids",
-    "source": "AllEvents",
-    "url": "https://allevents.in/bangalore/the-room-of-memories-mlr-25th-11am-tickets/80001344574485",
-    "date": "2026-10-25",
-    "venue": "MLR Cultural Centre",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4yLmFsbGV2ZW50cy5pbi90aHVtYnMvdGh1bWI2YTRkMTFiODgwZDg5LmpwZw.avif",
-    "extra": {},
-    "group_id": 24,
-    "multi_source": false
-  },
-  {
-    "title": "THE ROOM OF MEMORIES MLR 25th 2PM",
-    "city": "Bangalore",
-    "category": "Kids",
-    "source": "AllEvents",
-    "url": "https://allevents.in/bangalore/the-room-of-memories-mlr-25th-2pm-tickets/80003258499359",
-    "date": "2026-10-25",
-    "venue": "MLR Cultural Centre",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4yLmFsbGV2ZW50cy5pbi90aHVtYnMvdGh1bWI2YTRkMTFiODgwZDg5LmpwZw.avif",
-    "extra": {},
-    "group_id": 24,
     "multi_source": false
   },
   {
@@ -428,7 +380,55 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4yLmFsbGV2ZW50cy5pbi90aHVtYnMvdGh1bWI2YTRkMTFiODgwZDg5LmpwZw.avif",
     "extra": {},
+    "group_id": 23,
+    "multi_source": false
+  },
+  {
+    "title": "Paleontology Workshop for Kids",
+    "city": "Bangalore",
+    "category": "Kids",
+    "source": "AllEvents",
+    "url": "https://allevents.in/bangalore/paleontology-workshop-for-kids/200030583889540",
+    "date": "2026-08-22",
+    "venue": "Above Zenith",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czMvYmFubmVycy9kZTk1MzMxNjAzMDY0M2ExM2QxYzMwMmVmMjkzNmM1Mjk1OGRmNzM2YzVjZTBmM2M3MGNiZjdmMGM0NmUxYWRiLXJpbWctdzgwMC1oNjAwLWRjZThkOGI4LWdtaXI_dj0xNzg3MTM4NjE5.avif",
+    "extra": {},
     "group_id": 24,
+    "multi_source": false
+  },
+  {
+    "title": "THE ROOM OF MEMORIES MLR 25th 11AM",
+    "city": "Bangalore",
+    "category": "Kids",
+    "source": "AllEvents",
+    "url": "https://allevents.in/bangalore/the-room-of-memories-mlr-25th-11am-tickets/80001344574485",
+    "date": "2026-10-25",
+    "venue": "MLR Cultural Centre",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4yLmFsbGV2ZW50cy5pbi90aHVtYnMvdGh1bWI2YTRkMTFiODgwZDg5LmpwZw.avif",
+    "extra": {},
+    "group_id": 23,
+    "multi_source": false
+  },
+  {
+    "title": "THE ROOM OF MEMORIES MLR 25th 2PM",
+    "city": "Bangalore",
+    "category": "Kids",
+    "source": "AllEvents",
+    "url": "https://allevents.in/bangalore/the-room-of-memories-mlr-25th-2pm-tickets/80003258499359",
+    "date": "2026-10-25",
+    "venue": "MLR Cultural Centre",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4yLmFsbGV2ZW50cy5pbi90aHVtYnMvdGh1bWI2YTRkMTFiODgwZDg5LmpwZw.avif",
+    "extra": {},
+    "group_id": 23,
     "multi_source": false
   },
   {
@@ -460,7 +460,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4yLmFsbGV2ZW50cy5pbi90aHVtYnMvdGh1bWI2YTRkMTFiODgwZDg5LmpwZw.avif",
     "extra": {},
-    "group_id": 24,
+    "group_id": 23,
     "multi_source": false
   },
   {
@@ -480,22 +480,6 @@
     "multi_source": false
   },
   {
-    "title": "Ticket To Fashion Fridays Models Night",
-    "city": "Bangalore",
-    "category": "Nightlife",
-    "source": "AllEvents",
-    "url": "https://allevents.in/bangalore/ticket-to-fashion-fridays-models-night/3900030044497308",
-    "date": "2026-08-21",
-    "venue": "The Terrace at Gillys Redefined: Bengaluru",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEvYmFubmVycy9hNDQyNWUxMC02MDAyLTExZjEtYjE2Zi0wZjlmNDY5NWIwYzQtcmltZy13MTIwMC1oNjAwLWRjNzgwNTA0LWdtaXIuanBnP3Y9MTc4MDU2OTk4OQ.avif",
-    "extra": {},
-    "group_id": 26,
-    "multi_source": false
-  },
-  {
     "title": "Gear Up By Flipkart",
     "city": "Bangalore",
     "category": "Nightlife",
@@ -507,6 +491,22 @@
     "price_max": null,
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czMvYmFubmVycy80MjFiZmIxMC05YmIyLTExZjEtOTgzYy0xYmZmNDllZjY0MTMtcmltZy13MTIwMC1oNjAwLWRjMDgyODc4LWdtaXIuanBnP3Y9MTc4NzEzMjUzNA.avif",
+    "extra": {},
+    "group_id": 26,
+    "multi_source": false
+  },
+  {
+    "title": "Ticket To Fashion Fridays Models Night",
+    "city": "Bangalore",
+    "category": "Nightlife",
+    "source": "AllEvents",
+    "url": "https://allevents.in/bangalore/ticket-to-fashion-fridays-models-night/3900030044497308",
+    "date": "2026-08-21",
+    "venue": "The Terrace at Gillys Redefined: Bengaluru",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEvYmFubmVycy9hNDQyNWUxMC02MDAyLTExZjEtYjE2Zi0wZjlmNDY5NWIwYzQtcmltZy13MTIwMC1oNjAwLWRjNzgwNTA0LWdtaXIuanBnP3Y9MTc4MDU2OTk4OQ.avif",
     "extra": {},
     "group_id": 27,
     "multi_source": false
@@ -528,35 +528,19 @@
     "multi_source": false
   },
   {
-    "title": "Malluminati DJ Night",
+    "title": "Bhajan Jam - Live with Abby V!",
     "city": "Bangalore",
     "category": "Nightlife",
     "source": "AllEvents",
-    "url": "https://allevents.in/bangalore/malluminati-dj-night-tickets/80003699970030",
-    "date": "2026-08-21",
-    "venue": "Babylonia - Global Food and Cocktails",
+    "url": "https://allevents.in/bangalore/bhajan-jam-live-with-abby-v/3900030526518848",
+    "date": "2026-09-05",
+    "venue": "Karnataka Trade Promotion Organisation",
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4yLmFsbGV2ZW50cy5pbi9haS1iYW5uZXJzL2FpX2Jhbm5lcl82YTgzNDI4ZTE1MjJiLmpwZw.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czYvYmFubmVycy9hZDQyMTg5MC05YzliLTExZjEtODBiYi1lYmZhNjYxMmMwOTUtcmltZy13MTIwMC1oNjAwLWRjMDgwODA4LWdtaXIuanBnP3Y9MTc4NzIzMjc4Ng.avif",
     "extra": {},
     "group_id": 29,
-    "multi_source": false
-  },
-  {
-    "title": "Ctrl+Alt+Emo (Back to 2000s)",
-    "city": "Bangalore",
-    "category": "Nightlife",
-    "source": "AllEvents",
-    "url": "https://allevents.in/bangalore/ctrlaltemo-back-to-2000s-tickets/80002980047074",
-    "date": "2026-08-29",
-    "venue": "Prism by Octavium",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4yLmFsbGV2ZW50cy5pbi90aHVtYnMvdGh1bWI2YTgxZWQxMzFjZDQyLmpwZw.avif",
-    "extra": {},
-    "group_id": 30,
     "multi_source": false
   },
   {
@@ -572,23 +556,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4yLmFsbGV2ZW50cy5pbi90aHVtYnMvdGh1bWI2YTcxOTU3NWJkNjQ0LmpwZw.avif",
     "extra": {},
-    "group_id": 31,
-    "multi_source": false
-  },
-  {
-    "title": "MVM INDIA TOUR BANGALORE EDITION",
-    "city": "Bangalore",
-    "category": "Nightlife",
-    "source": "AllEvents",
-    "url": "https://allevents.in/bangalore/mvm-india-tour-bangalore-edition-tickets/80002970507204",
-    "date": "2026-08-22",
-    "venue": "Bastian Garden City",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4yLmFsbGV2ZW50cy5pbi90aHVtYnMvdGh1bWI2YTdlOWU1NTJlODMzLmpwZw.avif",
-    "extra": {},
-    "group_id": 32,
+    "group_id": 30,
     "multi_source": false
   },
   {
@@ -604,7 +572,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czcvYmFubmVycy8wMjU2MDIzMC03MTY2LTExZjEtYmY0Ny0yYjY4ZTczYTljODEtcmltZy13MTIwMC1oNjAwLWRjZDc3ODMwLWdtaXIuanBnP3Y9MTc4MjQ4MTgzNg.avif",
     "extra": {},
-    "group_id": 33,
+    "group_id": 31,
     "multi_source": false
   },
   {
@@ -620,7 +588,23 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czkvYmFubmVycy9iOWFmNjkwMC05YTVlLTExZjEtOWJjNi04YjRmNTZkYjZjNDMtcmltZy13MTIwMC1oNjAwLWRjMDgwODA4LWdtaXIuanBnP3Y9MTc4Njk4NjcxMQ.avif",
     "extra": {},
-    "group_id": 34,
+    "group_id": 32,
+    "multi_source": false
+  },
+  {
+    "title": "THALAPATHY VIJAY HITS TAMIL DJ NIGHT",
+    "city": "Bangalore",
+    "category": "Nightlife",
+    "source": "AllEvents",
+    "url": "https://allevents.in/bangalore/thalapathy-vijay-hits-tamil-dj-night/3900030586358852",
+    "date": "2026-08-22",
+    "venue": "BudBee Restobar 104: Bengaluru",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEvYmFubmVycy8wYmQ2ODE1MC05YzJiLTExZjEtODBiYi1lYmZhNjYxMmMwOTUtcmltZy13MTIwMC1oNjAwLWRjMDgwODA4LWdtaXIuanBnP3Y9MTc4NzE4NDQxMg.avif",
+    "extra": {},
+    "group_id": 33,
     "multi_source": false
   },
   {
@@ -636,7 +620,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEwL2Jhbm5lcnMvZjY4MDU2YjAtN2IxZC0xMWYxLTg3OGEtNzFhMTk4MmU5ODMwLXJpbWctdzEyMDAtaDYwMC1kYzE3MTQxNy1nbWlyLmpwZz92PTE3ODM1NTA0MDQ.avif",
     "extra": {},
-    "group_id": 35,
+    "group_id": 34,
     "multi_source": false
   },
   {
@@ -652,7 +636,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEvYmFubmVycy9mODY4ZDI1MC05YWM1LTExZjEtOWJjNi04YjRmNTZkYjZjNDMtcmltZy13MTIwMC1oNjAwLWRjMDgwODA4LWdtaXIuanBnP3Y9MTc4NzAzMTA0OQ.avif",
     "extra": {},
-    "group_id": 36,
+    "group_id": 35,
     "multi_source": false
   },
   {
@@ -668,37 +652,53 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czMvYmFubmVycy9iZjk5NTgwMC05OWVlLTExZjEtOWE0MC03YjkwZGU3MjAxMjUtcmltZy13MTIwMC1oNjc1LWRjMDgwODA4LWdtaXIuanBnP3Y9MTc4NjkzODYxMg.avif",
     "extra": {},
+    "group_id": 36,
+    "multi_source": false
+  },
+  {
+    "title": "Maya Bazaar Bengaluru 2026",
+    "city": "Bangalore",
+    "category": "Nightlife",
+    "source": "AllEvents",
+    "url": "https://allevents.in/bangalore/maya-bazaar-bengaluru-2026-tickets/80001212961827",
+    "date": "2026-10-10",
+    "venue": "The LaLiT Ashok Bengaluru",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4yLmFsbGV2ZW50cy5pbi90aHVtYnMvdGh1bWI2YTdjNWM1NmEzMzkzLmpwZw.avif",
+    "extra": {},
     "group_id": 37,
     "multi_source": false
   },
   {
-    "title": "Bhajan Jam - Live with Abby V!",
+    "title": "Bollywood Ka Scene ft. DJ Suketu at Jollygunj",
     "city": "Bangalore",
     "category": "Nightlife",
     "source": "AllEvents",
-    "url": "https://allevents.in/bangalore/bhajan-jam-live-with-abby-v/3900030526518848",
-    "date": "2026-09-05",
-    "venue": "Karnataka Trade Promotion Organisation",
+    "url": "https://allevents.in/bangalore/bollywood-ka-scene-ft-dj-suketu-at-jollygunj/3900030521913851",
+    "date": "2026-08-22",
+    "venue": "Jollygunj, JP Nagar: Bengaluru",
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czMvYmFubmVycy8yOTU3OGQxMC05YTU0LTExZjEtOWJjNi04YjRmNTZkYjZjNDMtcmltZy13MTIwMC1oNjAwLWRjMDgwODA4LWdtaXIuanBnP3Y9MTc4Njk4MjE2OA.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEvYmFubmVycy85YjAzN2I2MC05YzQxLTExZjEtODBiYi1lYmZhNjYxMmMwOTUtcmltZy13MTIwMC1oNjAwLWRjMTgwODE4LWdtaXIuanBnP3Y9MTc4NzE5NDEwMQ.avif",
     "extra": {},
     "group_id": 38,
     "multi_source": false
   },
   {
-    "title": "The BollyWood Rave",
+    "title": "Redroom Ft. ANA LILIA",
     "city": "Bangalore",
     "category": "Nightlife",
     "source": "AllEvents",
-    "url": "https://allevents.in/bangalore/the-bollywood-rave-tickets/80003663253815",
+    "url": "https://allevents.in/bangalore/redroom-ft-ana-lilia/3900030575390710",
     "date": "2026-08-21",
-    "venue": "VIBE Koramangala",
+    "venue": "Kitty Ko, The Lalit Ashok: Bengaluru",
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4yLmFsbGV2ZW50cy5pbi90aHVtYnMvdGh1bWI2YTg1ZGI1M2NhOGZmLmpwZw.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czgvYmFubmVycy81NjBiNDk0MC05YWJlLTExZjEtOWJjNi04YjRmNTZkYjZjNDMtcmltZy13MTIwMC1oNjAwLWRjNjgwODA4LWdtaXIuanBnP3Y9MTc4NzAyNzc3MA.avif",
     "extra": {},
     "group_id": 39,
     "multi_source": false
@@ -720,22 +720,6 @@
     "multi_source": false
   },
   {
-    "title": "Kal ki Chinta Nahi Karta ft. Ravi Gupta",
-    "city": "Mumbai",
-    "category": "Comedy",
-    "source": "AllEvents",
-    "url": "https://allevents.in/mumbai/kal-ki-chinta-nahi-karta-ft-ravi-gupta/3900030185655350",
-    "date": "2026-08-21",
-    "venue": "Sri Shanmukhananda Fine Arts &amp; Sangeetha: Mumbai",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEwL2Jhbm5lcnMvNmI3NWU3MDAtNjQ3Yi0xMWYxLTk5OGUtN2Q2NjU1YTFiN2E0LXJpbWctdzEyMDAtaDYwMC1kYzEwMDMxYS1nbWlyLmpwZz92PTE3ODEwNjE2Njc.avif",
-    "extra": {},
-    "group_id": 41,
-    "multi_source": false
-  },
-  {
     "title": "Vipul Goyal Unleashed Live in Borivali",
     "city": "Mumbai",
     "category": "Comedy",
@@ -746,9 +730,9 @@
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czcvYmFubmVycy9iZjhhNzRkMC05Nzg2LTExZjEtYWViOS04NWFiZTQ4ODhiZTgtcmltZy13MTIwMC1oNjAwLWRjZjgwODg4LWdtaXIuanBnP3Y9MTc4NjY3NDA0Mg.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czQvYmFubmVycy8zMTIzYjQ4MC05Y2EwLTExZjEtODBiYi1lYmZhNjYxMmMwOTUtcmltZy13MTIwMC1oNjAwLWRjZjgwODg4LWdtaXIuanBnP3Y9MTc4NzIzNDcyNQ.avif",
     "extra": {},
-    "group_id": 42,
+    "group_id": 41,
     "multi_source": false
   },
   {
@@ -764,7 +748,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czcvYmFubmVycy8yNjYzY2M0MC03YjBhLTExZjEtOWM1Zi1iMTViZDU2NTY1MDktcmltZy13MTIwMC1oNjAwLWRjZjJlY2RkLWdtaXIuanBnP3Y9MTc4MzU0MTg5NQ.avif",
     "extra": {},
-    "group_id": 43,
+    "group_id": 42,
     "multi_source": false
   },
   {
@@ -780,7 +764,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czgvYmFubmVycy9iNGU2NGU3MC05YmVlLTExZjEtOGZkNy0xM2ExMjZjMDkxYjYtcmltZy13MTIwMC1oNjAwLWRjYjg1ODQ4LWdtaXIuanBnP3Y9MTc4NzE1ODQ5Ng.avif",
     "extra": {},
-    "group_id": 44,
+    "group_id": 43,
     "multi_source": false
   },
   {
@@ -796,7 +780,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czQvYmFubmVycy9hYTkwMzUwMC05YTk4LTExZjEtOWJjNi04YjRmNTZkYjZjNDMtcmltZy13MTIwMC1oNjAwLWRjMDgwODA4LWdtaXIuanBnP3Y9MTc4NzAxMTU5Ng.avif",
     "extra": {},
-    "group_id": 45,
+    "group_id": 44,
     "multi_source": false
   },
   {
@@ -812,7 +796,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czUvYmFubmVycy81NGY1YmJiMC05YjljLTExZjEtOTRjNS1kM2EyNDEyZThjMzAtcmltZy13MTIwMC1oNjAwLWRjMzg3OGY4LWdtaXIuanBnP3Y9MTc4NzEyMzExNg.avif",
     "extra": {},
-    "group_id": 46,
+    "group_id": 45,
     "multi_source": false
   },
   {
@@ -828,7 +812,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czIvYmFubmVycy81NTcxY2M4MC05YjdiLTExZjEtOTRjNS1kM2EyNDEyZThjMzAtcmltZy13MTIwMC1oNjAwLWRjZThlOGQ4LWdtaXIuanBnP3Y9MTc4NzEwODk0NA.avif",
     "extra": {},
-    "group_id": 47,
+    "group_id": 46,
     "multi_source": false
   },
   {
@@ -842,9 +826,9 @@
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czcvYmFubmVycy8xZDVmYjk3MC05YjhlLTExZjEtOTRjNS1kM2EyNDEyZThjMzAtcmltZy13MTIwMC1oNjAwLWRjMjg2OGI4LWdtaXIuanBnP3Y9MTc4NzExNzAxMA.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czYvYmFubmVycy82MjEzYzBhMC05Y2EzLTExZjEtODBiYi1lYmZhNjYxMmMwOTUtcmltZy13MTIwMC1oNjAwLWRjMjg2OGI4LWdtaXIuanBnP3Y9MTc4NzIzNjA5Ng.avif",
     "extra": {},
-    "group_id": 48,
+    "group_id": 47,
     "multi_source": false
   },
   {
@@ -860,7 +844,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czYvYmFubmVycy9lNTUwYzBjMC05YmZhLTExZjEtODBiYi1lYmZhNjYxMmMwOTUtcmltZy13MTIwMC1oNjAwLWRjYThjOGE4LWdtaXIuanBnP3Y9MTc4NzE2MzczMQ.avif",
     "extra": {},
-    "group_id": 49,
+    "group_id": 48,
     "multi_source": false
   },
   {
@@ -876,7 +860,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czkvYmFubmVycy9jZTFlZjc2MC05YzYyLTExZjEtODBiYi1lYmZhNjYxMmMwOTUtcmltZy13MTIwMC1oNjAwLWRjZDhkOGQ4LWdtaXIuanBnP3Y9MTc4NzIwODM2Ng.avif",
     "extra": {},
-    "group_id": 50,
+    "group_id": 49,
     "multi_source": false
   },
   {
@@ -891,6 +875,22 @@
     "price_max": null,
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czYvYmFubmVycy81NDE2OWRkMC02NTBiLTExZjEtYjAwNi02MWM5Zjk1NzFhZGItcmltZy13NjQwLWg2NDAtZGNlZmQ3ZDctZ21pci5qcGc_dj0xNzgxMTIzNDc1.avif",
+    "extra": {},
+    "group_id": 50,
+    "multi_source": false
+  },
+  {
+    "title": "Comedy Gala ft. Atul, Raunaq & Shashwat: KCC",
+    "city": "Mumbai",
+    "category": "Comedy",
+    "source": "AllEvents",
+    "url": "https://allevents.in/mumbai/comedy-gala-ft-atul-raunaq-and-shashwat-kcc/3900030586472212",
+    "date": "2026-08-26",
+    "venue": "Khar Comedy Club: Mumbai",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czYvYmFubmVycy82MGQ2ZGFhMC05YzMxLTExZjEtODBiYi1lYmZhNjYxMmMwOTUtcmltZy13MTIwMC1oNjAwLWRjYzg1ODQ4LWdtaXIuanBnP3Y9MTc4NzE4NzEzMQ.avif",
     "extra": {},
     "group_id": 51,
     "multi_source": false
@@ -944,22 +944,6 @@
     "multi_source": false
   },
   {
-    "title": "Toast & Tunes at CinCin, Bandra | 23rd Aug | 11am - 1pm",
-    "city": "Mumbai",
-    "category": "Kids",
-    "source": "AllEvents",
-    "url": "https://allevents.in/mumbai/toast-and-tunes-at-cincin-bandra-23rd-aug-11am-1pm-tickets/80005347866528",
-    "date": "2026-08-23",
-    "venue": "CinCin - Bandra West",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4yLmFsbGV2ZW50cy5pbi90aHVtYnMvdGh1bWI2YTgyYmIxNTk4YWEzLmpwZw.avif",
-    "extra": {},
-    "group_id": 55,
-    "multi_source": false
-  },
-  {
     "title": "Lenny's Kids Concert Tour - Mumbai",
     "city": "Mumbai",
     "category": "Kids",
@@ -971,6 +955,22 @@
     "price_max": null,
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czgvYmFubmVycy83NjhjZWU0MC05YWJkLTExZjEtOWJjNi04YjRmNTZkYjZjNDMtcmltZy13MTIwMC1oNjAwLWRjMDg4ODg4LWdtaXIuanBnP3Y9MTc4NzAyNzM5NQ.avif",
+    "extra": {},
+    "group_id": 55,
+    "multi_source": false
+  },
+  {
+    "title": "Toast & Tunes at CinCin, Bandra | 23rd Aug | 11am - 1pm",
+    "city": "Mumbai",
+    "category": "Kids",
+    "source": "AllEvents",
+    "url": "https://allevents.in/mumbai/toast-and-tunes-at-cincin-bandra-23rd-aug-11am-1pm-tickets/80005347866528",
+    "date": "2026-08-23",
+    "venue": "CinCin - Bandra West",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4yLmFsbGV2ZW50cy5pbi90aHVtYnMvdGh1bWI2YTgyYmIxNTk4YWEzLmpwZw.avif",
     "extra": {},
     "group_id": 56,
     "multi_source": false
@@ -992,22 +992,6 @@
     "multi_source": false
   },
   {
-    "title": "Trail and Texture",
-    "city": "Mumbai",
-    "category": "Kids",
-    "source": "AllEvents",
-    "url": "https://allevents.in/mumbai/trail-and-texture-tickets/80003723584203",
-    "date": "2026-08-23",
-    "venue": "The Nest, Malabar Hill",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4yLmFsbGV2ZW50cy5pbi90aHVtYnMvdGh1bWI2YTc5YjU2NDM1MTIxLmpwZw.avif",
-    "extra": {},
-    "group_id": 58,
-    "multi_source": false
-  },
-  {
     "title": "Ganpati making",
     "city": "Mumbai",
     "category": "Kids",
@@ -1020,7 +1004,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czcvYmFubmVycy85YWY1NjIyMC05YmIzLTExZjEtOTgzYy0xYmZmNDllZjY0MTMtcmltZy13MTIwMC1oNjAwLWRjZjhmOGY4LWdtaXIuanBnP3Y9MTc4NzEzMzExMg.avif",
     "extra": {},
-    "group_id": 59,
+    "group_id": 58,
     "multi_source": false
   },
   {
@@ -1034,9 +1018,9 @@
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czUvYmFubmVycy9hZWM1NTE2MC05YWQzLTExZjEtOWJjNi04YjRmNTZkYjZjNDMtcmltZy13MTIwMC1oNjAwLWRjZjhmOGY4LWdtaXIuanBnP3Y9MTc4NzAzNjkzOA.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEwL2Jhbm5lcnMvY2QxZWQ1ZjAtOWNlNS0xMWYxLTgwYmItZWJmYTY2MTJjMDk1LXJpbWctdzEyMDAtaDYwMC1kY2Y4ZjhmOC1nbWlyLmpwZz92PTE3ODcyNjQ2MjI.avif",
     "extra": {},
-    "group_id": 60,
+    "group_id": 59,
     "multi_source": false
   },
   {
@@ -1052,7 +1036,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czQvYmFubmVycy9mNGM3YmU3MC05OTVmLTExZjEtOWE0MC03YjkwZGU3MjAxMjUtcmltZy13MTIwMC1oNjAwLWRjZDhlOGY4LWdtaXIuanBnP3Y9MTc4Njg3NzI4NA.avif",
     "extra": {},
-    "group_id": 61,
+    "group_id": 60,
     "multi_source": false
   },
   {
@@ -1068,7 +1052,23 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czUvYmFubmVycy9lMWU0ZmJlMC05YzkwLTExZjEtODBiYi1lYmZhNjYxMmMwOTUtcmltZy13MTIwMC1oNjAwLWRjZjhlOGM4LWdtaXIuanBnP3Y9MTc4NzIyODE1MA.avif",
     "extra": {},
-    "group_id": 59,
+    "group_id": 58,
+    "multi_source": false
+  },
+  {
+    "title": "Trail and Texture",
+    "city": "Mumbai",
+    "category": "Kids",
+    "source": "AllEvents",
+    "url": "https://allevents.in/mumbai/trail-and-texture-tickets/80003723584203",
+    "date": "2026-08-23",
+    "venue": "The Nest, Malabar Hill",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4yLmFsbGV2ZW50cy5pbi90aHVtYnMvdGh1bWI2YTc5YjU2NDM1MTIxLmpwZw.avif",
+    "extra": {},
+    "group_id": 61,
     "multi_source": false
   },
   {
@@ -1136,22 +1136,6 @@
     "multi_source": false
   },
   {
-    "title": "International Dogs Day",
-    "city": "Mumbai",
-    "category": "Kids",
-    "source": "AllEvents",
-    "url": "https://allevents.in/mumbai/international-dogs-day-tickets/80001488072988",
-    "date": "2026-08-26",
-    "venue": "Pawkies Dogs Cuddle Therapy &amp; Boarding",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4yLmFsbGV2ZW50cy5pbi90aHVtYnMvdGh1bWI2YTdjODM1Yjg4NzY1LmpwZw.avif",
-    "extra": {},
-    "group_id": 66,
-    "multi_source": false
-  },
-  {
     "title": "CHEMBUR KIDS CARNIVAL",
     "city": "Mumbai",
     "category": "Kids",
@@ -1163,6 +1147,22 @@
     "price_max": null,
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czgvYmFubmVycy9lMmJlNzVmMC03OWY0LTExZjEtYWUzNi01ZDU0ZmNkODkwNjktcmltZy13MTIwMC1oNjAwLWRjZDdlYWY1LWdtaXIuanBnP3Y9MTc4MzQyMjgxMQ.avif",
+    "extra": {},
+    "group_id": 66,
+    "multi_source": false
+  },
+  {
+    "title": "International Dogs Day",
+    "city": "Mumbai",
+    "category": "Kids",
+    "source": "AllEvents",
+    "url": "https://allevents.in/mumbai/international-dogs-day-tickets/80001488072988",
+    "date": "2026-08-26",
+    "venue": "Pawkies Dogs Cuddle Therapy &amp; Boarding",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4yLmFsbGV2ZW50cy5pbi90aHVtYnMvdGh1bWI2YTdjODM1Yjg4NzY1LmpwZw.avif",
     "extra": {},
     "group_id": 67,
     "multi_source": false
@@ -1626,7 +1626,7 @@
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czkvYmFubmVycy81MDdiMWJkMC05YWE2LTExZjEtOWJjNi04YjRmNTZkYjZjNDMtcmltZy13MTIwMC1oNjAwLWRjZjhmOGY4LWdtaXIuanBnP3Y9MTc4NzAxNzQ1Mw.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czkvYmFubmVycy84YzY2YjRhMC05Y2I5LTExZjEtODBiYi1lYmZhNjYxMmMwOTUtcmltZy13MTIwMC1oNjAwLWRjZjhmOGY4LWdtaXIuanBnP3Y9MTc4NzI0NTYxNg.avif",
     "extra": {},
     "group_id": 94,
     "multi_source": false
@@ -2316,7 +2316,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 9,
+    "group_id": 10,
     "multi_source": true
   },
   {
@@ -2348,7 +2348,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 9,
+    "group_id": 10,
     "multi_source": true
   },
   {
@@ -2812,7 +2812,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 13,
+    "group_id": 9,
     "multi_source": true
   },
   {
@@ -14464,6 +14464,22 @@
     "multi_source": false
   },
   {
+    "title": "Sacrifice",
+    "city": "All USA",
+    "category": "Movies",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Sacrifice_(2025_film)",
+    "date": "2026-10-16T00:00:00",
+    "venue": "In cinemas",
+    "price_min": null,
+    "price_max": null,
+    "currency": "USD",
+    "image": "",
+    "extra": {},
+    "group_id": 752,
+    "multi_source": false
+  },
+  {
     "title": "Trust Me, I'm a Doctor",
     "city": "All USA",
     "category": "Movies",
@@ -14476,7 +14492,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 752,
+    "group_id": 753,
     "multi_source": false
   },
   {
@@ -14492,7 +14508,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 753,
+    "group_id": 754,
     "multi_source": false
   },
   {
@@ -14508,7 +14524,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 754,
+    "group_id": 755,
     "multi_source": false
   },
   {
@@ -14517,22 +14533,6 @@
     "category": "Movies",
     "source": "Wikipedia",
     "url": "https://en.wikipedia.org/wiki/Hallowarrior",
-    "date": "2026-10-16T00:00:00",
-    "venue": "In cinemas",
-    "price_min": null,
-    "price_max": null,
-    "currency": "USD",
-    "image": "",
-    "extra": {},
-    "group_id": 755,
-    "multi_source": false
-  },
-  {
-    "title": "Sacrifice",
-    "city": "All USA",
-    "category": "Movies",
-    "source": "Wikipedia",
-    "url": "https://en.wikipedia.org/wiki/Sacrifice_(2025_film)",
     "date": "2026-10-16T00:00:00",
     "venue": "In cinemas",
     "price_min": null,
@@ -15104,11 +15104,11 @@
     "multi_source": false
   },
   {
-    "title": "Clarissa",
+    "title": "Zero A. D.: The Birth of Christ",
     "city": "All USA",
     "category": "Movies",
     "source": "Wikipedia",
-    "url": "https://en.wikipedia.org/wiki/Clarissa_(2026_film)",
+    "url": "https://en.wikipedia.org/wiki/Zero_A._D.:_The_Birth_of_Christ",
     "date": "2026-12-11T00:00:00",
     "venue": "In cinemas",
     "price_min": null,
@@ -15136,11 +15136,11 @@
     "multi_source": false
   },
   {
-    "title": "Bad Day",
+    "title": "Clarissa",
     "city": "All USA",
     "category": "Movies",
     "source": "Wikipedia",
-    "url": "https://en.wikipedia.org/wiki/Bad_Day_(upcoming_film)",
+    "url": "https://en.wikipedia.org/wiki/Clarissa_(2026_film)",
     "date": "2026-12-11T00:00:00",
     "venue": "In cinemas",
     "price_min": null,
@@ -15152,11 +15152,11 @@
     "multi_source": false
   },
   {
-    "title": "Zero A. D.: The Birth of Christ",
+    "title": "Bad Day",
     "city": "All USA",
     "category": "Movies",
     "source": "Wikipedia",
-    "url": "https://en.wikipedia.org/wiki/Zero_A._D.:_The_Birth_of_Christ",
+    "url": "https://en.wikipedia.org/wiki/Bad_Day_(upcoming_film)",
     "date": "2026-12-11T00:00:00",
     "venue": "In cinemas",
     "price_min": null,
