@@ -1,21 +1,5 @@
 [
   {
-    "title": "VIR DAS - SOUNDS OF INDIA - BENGALURU",
-    "city": "Bangalore",
-    "category": "Comedy",
-    "source": "AllEvents",
-    "url": "https://allevents.in/bangalore/vir-das-sounds-of-india-bengaluru/3900030423975240",
-    "date": "2026-09-11",
-    "venue": "Good Shepherd Auditorium: Bengaluru",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czYvYmFubmVycy8yN2QwZGI4MC05ZDExLTExZjEtODBiYi1lYmZhNjYxMmMwOTUtcmltZy13MTIwMC1oNjAwLWRjZjhjODc4LWdtaXIuanBnP3Y9MTc4NzI4MzI0Mw.avif",
-    "extra": {},
-    "group_id": 0,
-    "multi_source": true
-  },
-  {
     "title": "Gaurav Kapoor Presents: BUNTY",
     "city": "Bangalore",
     "category": "Comedy",
@@ -27,6 +11,22 @@
     "price_max": null,
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEwL2Jhbm5lcnMvN2E0MzBmODAtOWNjZC0xMWYxLTgwYmItZWJmYTY2MTJjMDk1LXJpbWctdzEyMDAtaDYwMC1kYzQ4ODg0OC1nbWlyLmpwZz92PTE3ODcyNTQxNzU.avif",
+    "extra": {},
+    "group_id": 0,
+    "multi_source": true
+  },
+  {
+    "title": "VIR DAS - SOUNDS OF INDIA - BENGALURU",
+    "city": "Bangalore",
+    "category": "Comedy",
+    "source": "AllEvents",
+    "url": "https://allevents.in/bangalore/vir-das-sounds-of-india-bengaluru/3900030423975240",
+    "date": "2026-09-11",
+    "venue": "Good Shepherd Auditorium: Bengaluru",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czcvYmFubmVycy9iMjMwZDliMC05ZWQzLTExZjEtODZkZC1hOTUwOWRjY2FmNGItcmltZy13MTIwMC1oNjAwLWRjZjhjODc4LWdtaXIuanBnP3Y9MTc4NzQ3Njc0OQ.avif",
     "extra": {},
     "group_id": 1,
     "multi_source": true
@@ -352,22 +352,6 @@
     "multi_source": false
   },
   {
-    "title": "Dirty Niroop",
-    "city": "Bangalore",
-    "category": "Kids",
-    "source": "AllEvents",
-    "url": "https://allevents.in/bangalore/dirty-niroop/3900030603564625",
-    "date": "2026-09-06",
-    "venue": "Just BLR Comedy Club: Bengaluru",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czYvYmFubmVycy83YzFjNDFmMC05ZWIyLTExZjEtODZkZC1hOTUwOWRjY2FmNGItcmltZy13MTIwMC1oNjAwLWRjMTgwODA4LWdtaXIuanBnP3Y9MTc4NzQ2MjQ4NA.avif",
-    "extra": {},
-    "group_id": 22,
-    "multi_source": false
-  },
-  {
     "title": "THE ROOM OF MEMORIES MLR 24th 4PM",
     "city": "Bangalore",
     "category": "Kids",
@@ -380,7 +364,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4yLmFsbGV2ZW50cy5pbi90aHVtYnMvdGh1bWI2YTRkMTFiODgwZDg5LmpwZw.avif",
     "extra": {},
-    "group_id": 23,
+    "group_id": 22,
     "multi_source": false
   },
   {
@@ -396,7 +380,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4yLmFsbGV2ZW50cy5pbi90aHVtYnMvdGh1bWI2YTRkMTFiODgwZDg5LmpwZw.avif",
     "extra": {},
-    "group_id": 23,
+    "group_id": 22,
     "multi_source": false
   },
   {
@@ -412,7 +396,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4yLmFsbGV2ZW50cy5pbi90aHVtYnMvdGh1bWI2YTRkMTFiODgwZDg5LmpwZw.avif",
     "extra": {},
-    "group_id": 23,
+    "group_id": 22,
     "multi_source": false
   },
   {
@@ -428,7 +412,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4yLmFsbGV2ZW50cy5pbi90aHVtYnMvdGh1bWI2YTRkMTFiODgwZDg5LmpwZw.avif",
     "extra": {},
-    "group_id": 23,
+    "group_id": 22,
     "multi_source": false
   },
   {
@@ -444,7 +428,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4yLmFsbGV2ZW50cy5pbi90aHVtYnMvdGh1bWI2YTRkMTFiODgwZDg5LmpwZw.avif",
     "extra": {},
-    "group_id": 23,
+    "group_id": 22,
     "multi_source": false
   },
   {
@@ -475,6 +459,22 @@
     "price_max": null,
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEwL2Jhbm5lcnMvZmRmOTY5NDAtOTlmZS0xMWYxLTlhNDAtN2I5MGRlNzIwMTI1LXJpbWctdzEyMDAtaDY3NS1kY2Q4YTg2OC1nbWlyLmpwZz92PTE3ODY5NDYwNTc.avif",
+    "extra": {},
+    "group_id": 23,
+    "multi_source": false
+  },
+  {
+    "title": "Nagarbhavi Biggest open air Dandiya Garba - 2026",
+    "city": "Bangalore",
+    "category": "Kids",
+    "source": "AllEvents",
+    "url": "https://allevents.in/bangalore/nagarbhavi-biggest-open-air-dandiya-garba-2026/3900030140965739",
+    "date": "2026-10-11",
+    "venue": "The Soda Factory: Bengaluru",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEvYmFubmVycy8wNmYyMDE1MC01ZDU2LTExZjEtOGFiYy04NWUwMmJjM2UwZWQtcmltZy13MTIwMC1oNjAwLWRjZWU0NDc5LWdtaXIuanBnP3Y9MTc4MDI3NTk0OQ.avif",
     "extra": {},
     "group_id": 24,
     "multi_source": false
@@ -554,7 +554,7 @@
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czMvYmFubmVycy8wYWFlMjhiMC05ZDAxLTExZjEtODBiYi1lYmZhNjYxMmMwOTUtcmltZy13MTIwMC1oNjAwLWRjMDgwODA4LWdtaXIuanBnP3Y9MTc4NzI3NjMyOA.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEvYmFubmVycy9hMjY1NGZkMC05ZWFmLTExZjEtODZkZC1hOTUwOWRjY2FmNGItcmltZy13MTIwMC1oNjAwLWRjMDgwODA4LWdtaXIuanBnP3Y9MTc4NzQ2MTI2Ng.avif",
     "extra": {},
     "group_id": 29,
     "multi_source": false
@@ -602,7 +602,7 @@
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czUvYmFubmVycy9mMjIwMjU4MC05YjA5LTExZjEtOWJjNi04YjRmNTZkYjZjNDMtcmltZy13MTIwMC1oNjAwLWRjMDgwODA4LWdtaXIuanBnP3Y9MTc4NzA2MDI0NA.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czIvYmFubmVycy81ZjZmYWYxMC05ZWRhLTExZjEtODZkZC1hOTUwOWRjY2FmNGItcmltZy13MTIwMC1oNjAwLWRjMDgwODA4LWdtaXIuanBnP3Y9MTc4NzQ3OTYxNg.avif",
     "extra": {},
     "group_id": 32,
     "multi_source": false
@@ -666,7 +666,7 @@
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czcvYmFubmVycy83MzE2MTZlMC05YzQ1LTExZjEtODBiYi1lYmZhNjYxMmMwOTUtcmltZy13MTIwMC1oNjAwLWRjZjhlODA4LWdtaXIuanBnP3Y9MTc4NzE5NTc1Mg.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEwL2Jhbm5lcnMvOTUzNjg2YjAtOWVkNC0xMWYxLTg2ZGQtYTk1MDlkY2NhZjRiLXJpbWctdzEyMDAtaDYwMC1kY2Y4ZTgwOC1nbWlyLmpwZz92PTE3ODc0NzcxMjk.avif",
     "extra": {},
     "group_id": 36,
     "multi_source": false
@@ -896,6 +896,22 @@
     "multi_source": false
   },
   {
+    "title": "Aale Paak - Stand Up Comedy",
+    "city": "Mumbai",
+    "category": "Comedy",
+    "source": "AllEvents",
+    "url": "https://allevents.in/mumbai/aale-paak-stand-up-comedy/3900030425724511",
+    "date": "2026-08-28",
+    "venue": "Acharya Pralhad Keshav Atre RangMandir: Kalyan",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czQvYmFubmVycy9kNTRmYmYwMC05Yzg2LTExZjEtODBiYi1lYmZhNjYxMmMwOTUtcmltZy13MTIwMC1oNjAwLWRjZjhjODI4LWdtaXIuanBnP3Y9MTc4NzIyMzgzNA.avif",
+    "extra": {},
+    "group_id": 51,
+    "multi_source": false
+  },
+  {
     "title": "Mic Check: All New Jokes",
     "city": "Mumbai",
     "category": "Comedy",
@@ -908,39 +924,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czUvYmFubmVycy81MmY3OTUzMC05YmIxLTExZjEtOTgzYy0xYmZmNDllZjY0MTMtcmltZy13MTIwMC1oNjAwLWRjZjhkODM4LWdtaXIuanBnP3Y9MTc4NzEzMjEzMg.avif",
     "extra": {},
-    "group_id": 51,
-    "multi_source": false
-  },
-  {
-    "title": "Stand-up Virgin Ft Kubbra Sait & Devanshi Shah",
-    "city": "Mumbai",
-    "category": "Comedy",
-    "source": "AllEvents",
-    "url": "https://allevents.in/mumbai/stand-up-virgin-ft-kubbra-sait-and-devanshi-shah/3900030531312613",
-    "date": "2026-08-29",
-    "venue": "Backspace: Lower Parel, Mumbai",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czgvYmFubmVycy9jNjg2ZTBiMC05YmI1LTExZjEtOTgzYy0xYmZmNDllZjY0MTMtcmltZy13MTIwMC1oNjAwLWRjZThlOGU4LWdtaXIuanBnP3Y9MTc4NzEzNDA0NA.avif",
-    "extra": {},
     "group_id": 52,
-    "multi_source": false
-  },
-  {
-    "title": "Lenny's Kids Concert Tour - Mumbai",
-    "city": "Mumbai",
-    "category": "Kids",
-    "source": "AllEvents",
-    "url": "https://allevents.in/mumbai/lennys-kids-concert-tour-mumbai/3900030389495002",
-    "date": "2026-08-29",
-    "venue": "Dublin Square, Phoenix Marketcity: Mumbai",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czIvYmFubmVycy9kODU4OTYwMC05ZWE2LTExZjEtODZkZC1hOTUwOWRjY2FmNGItcmltZy13MTIwMC1oNjAwLWRjMDg4ODg4LWdtaXIuanBnP3Y9MTc4NzQ1NzQ4NQ.avif",
-    "extra": {},
-    "group_id": 53,
     "multi_source": false
   },
   {
@@ -955,6 +939,22 @@
     "price_max": null,
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4yLmFsbGV2ZW50cy5pbi90aHVtYnMvdGh1bWI2YTgyYmIxNTk4YWEzLmpwZw.avif",
+    "extra": {},
+    "group_id": 53,
+    "multi_source": false
+  },
+  {
+    "title": "Lenny's Kids Concert Tour - Mumbai",
+    "city": "Mumbai",
+    "category": "Kids",
+    "source": "AllEvents",
+    "url": "https://allevents.in/mumbai/lennys-kids-concert-tour-mumbai/3900030389495002",
+    "date": "2026-08-29",
+    "venue": "Dublin Square, Phoenix Marketcity: Mumbai",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czIvYmFubmVycy9kODU4OTYwMC05ZWE2LTExZjEtODZkZC1hOTUwOWRjY2FmNGItcmltZy13MTIwMC1oNjAwLWRjMDg4ODg4LWdtaXIuanBnP3Y9MTc4NzQ1NzQ4NQ.avif",
     "extra": {},
     "group_id": 54,
     "multi_source": false
@@ -1296,6 +1296,22 @@
     "multi_source": false
   },
   {
+    "title": "Sapan Verma Live",
+    "city": "Delhi NCR",
+    "category": "Comedy",
+    "source": "AllEvents",
+    "url": "https://allevents.in/new-delhi/sapan-verma-live/3900030216167204",
+    "date": "2026-08-30",
+    "venue": "The Laugh Store: DLF Cyberhub, Gurugram",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czQvYmFubmVycy81N2QyNmRjMC02NDkxLTExZjEtYjZlOC0zZGRkNGM4NWZhMzQtcmltZy13MTIwMC1oNjAwLWRjZTgyYTJmLWdtaXIuanBnP3Y9MTc4MTA3MTA4Mw.avif",
+    "extra": {},
+    "group_id": 75,
+    "multi_source": false
+  },
+  {
     "title": "Spoiler Alert - A Standup Comedy Solo by Anshu Mor",
     "city": "Delhi NCR",
     "category": "Comedy",
@@ -1307,22 +1323,6 @@
     "price_max": null,
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czgvYmFubmVycy81YTk1YTdjMC05ZGZkLTExZjEtODZkZC1hOTUwOWRjY2FmNGItcmltZy13MTIwMC1oNjAwLWRjMjg2OGE4LWdtaXIuanBnP3Y9MTc4NzM4NDY4OQ.avif",
-    "extra": {},
-    "group_id": 75,
-    "multi_source": false
-  },
-  {
-    "title": "Sapan Verma Live",
-    "city": "Delhi NCR",
-    "category": "Comedy",
-    "source": "AllEvents",
-    "url": "https://allevents.in/new-delhi/sapan-verma-live/3900030558524656",
-    "date": "2026-08-30",
-    "venue": "The Laughter Foyer: Gurugram",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czYvYmFubmVycy80NDU0YWEzMC05ZTY5LTExZjEtODZkZC1hOTUwOWRjY2FmNGItcmltZy13MTIwMC1oNjAwLWRjMjgwODA4LWdtaXIuanBnP3Y9MTc4NzQzMTAzOA.avif",
     "extra": {},
     "group_id": 76,
     "multi_source": false
@@ -2620,7 +2620,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 1,
+    "group_id": 0,
     "multi_source": true
   },
   {
@@ -2812,7 +2812,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 0,
+    "group_id": 1,
     "multi_source": true
   },
   {
