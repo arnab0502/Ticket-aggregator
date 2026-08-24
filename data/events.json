@@ -112,22 +112,6 @@
     "multi_source": false
   },
   {
-    "title": "Srishti Jahagirdar Live",
-    "city": "Bangalore",
-    "category": "Comedy",
-    "source": "AllEvents",
-    "url": "https://allevents.in/bangalore/srishti-jahagirdar-live/3900030586928151",
-    "date": "2026-08-30",
-    "venue": "Just BLR Comedy Club: Bengaluru",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czQvYmFubmVycy8xZDE2ZGU1MC05ZGI3LTExZjEtODZkZC1hOTUwOWRjY2FmNGItcmltZy13MTIwMC1oNjAwLWRjMDgwODA4LWdtaXIuanBnP3Y9MTc4NzM1NDUyMQ.avif",
-    "extra": {},
-    "group_id": 7,
-    "multi_source": false
-  },
-  {
     "title": "Inder Sahani Live Stand up Comedy - HSR",
     "city": "Bangalore",
     "category": "Comedy",
@@ -140,7 +124,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czcvYmFubmVycy85NTJiZTJjMC05ZGVjLTExZjEtODZkZC1hOTUwOWRjY2FmNGItcmltZy13MTIwMC1oNjAwLWRjZjhmOGY4LWdtaXIuanBnP3Y9MTc4NzM3NzQ4Ng.avif",
     "extra": {},
-    "group_id": 8,
+    "group_id": 7,
     "multi_source": false
   },
   {
@@ -156,7 +140,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4yLmFsbGV2ZW50cy5pbi90aHVtYnMvdGh1bWI2OTdiNTFmOWRmZTIxLmpwZw.avif",
     "extra": {},
-    "group_id": 9,
+    "group_id": 8,
     "multi_source": false
   },
   {
@@ -172,8 +156,24 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czcvYmFubmVycy9kYWQxNDM2MC05ZDgzLTExZjEtODBiYi1lYmZhNjYxMmMwOTUtcmltZy13MTIwMC1oNjAwLWRjMDgyODI4LWdtaXIuanBnP3Y9MTc4NzMzMjUzOQ.avif",
     "extra": {},
-    "group_id": 10,
+    "group_id": 9,
     "multi_source": true
+  },
+  {
+    "title": "Srishti Jahagirdar Live",
+    "city": "Bangalore",
+    "category": "Comedy",
+    "source": "AllEvents",
+    "url": "https://allevents.in/bangalore/srishti-jahagirdar-live/3900030586928151",
+    "date": "2026-08-30",
+    "venue": "Just BLR Comedy Club: Bengaluru",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czQvYmFubmVycy8xZDE2ZGU1MC05ZGI3LTExZjEtODZkZC1hOTUwOWRjY2FmNGItcmltZy13MTIwMC1oNjAwLWRjMDgwODA4LWdtaXIuanBnP3Y9MTc4NzM1NDUyMQ.avif",
+    "extra": {},
+    "group_id": 10,
+    "multi_source": false
   },
   {
     "title": "The Narcissist - Standup Comedy Show",
@@ -480,6 +480,22 @@
     "multi_source": false
   },
   {
+    "title": "MJ Birthday DJ Night Edition",
+    "city": "Bangalore",
+    "category": "Nightlife",
+    "source": "AllEvents",
+    "url": "https://allevents.in/bangalore/mj-birthday-dj-night-edition-tickets/80001575460845",
+    "date": "2026-09-05",
+    "venue": "Boche &amp; Shakesbierre - Brewpub &amp; Club",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4yLmFsbGV2ZW50cy5pbi90aHVtYnMvdGh1bWI2YTgzMTgxMmMxNTQzLmpwZw.avif",
+    "extra": {},
+    "group_id": 25,
+    "multi_source": false
+  },
+  {
     "title": "Gear Up By Flipkart",
     "city": "Bangalore",
     "category": "Nightlife",
@@ -492,7 +508,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czIvYmFubmVycy8yNWQyNzRjMC05ZTE0LTExZjEtODZkZC1hOTUwOWRjY2FmNGItcmltZy13MTIwMC1oNjAwLWRjMDgyODc4LWdtaXIuanBnP3Y9MTc4NzM5NDQ3OQ.avif",
     "extra": {},
-    "group_id": 25,
+    "group_id": 26,
     "multi_source": false
   },
   {
@@ -508,7 +524,39 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czgvYmFubmVycy9iMmZkZmU0MC05ZTkyLTExZjEtODZkZC1hOTUwOWRjY2FmNGItcmltZy13MTIwMC1oNjAwLWRjMDgwODA4LWdtaXIuanBnP3Y9MTc4NzQ0ODgzMw.avif",
     "extra": {},
-    "group_id": 26,
+    "group_id": 27,
+    "multi_source": false
+  },
+  {
+    "title": "SUPER STAR SOUTH DJ - ONAM SPECIAL",
+    "city": "Bangalore",
+    "category": "Nightlife",
+    "source": "AllEvents",
+    "url": "https://allevents.in/bangalore/super-star-south-dj-onam-special-tickets/80008073838257",
+    "date": "2026-08-29",
+    "venue": "Boche Club - Brigade Road",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4yLmFsbGV2ZW50cy5pbi90aHVtYnMvdGh1bWI2YTcxOTU3NWJkNjQ0LmpwZw.avif",
+    "extra": {},
+    "group_id": 28,
+    "multi_source": false
+  },
+  {
+    "title": "Ctrl+Alt+Emo (Back to 2000s)",
+    "city": "Bangalore",
+    "category": "Nightlife",
+    "source": "AllEvents",
+    "url": "https://allevents.in/bangalore/ctrlaltemo-back-to-2000s-tickets/80002980047074",
+    "date": "2026-08-29",
+    "venue": "Prism by Octavium",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4yLmFsbGV2ZW50cy5pbi90aHVtYnMvdGh1bWI2YTgxZWQxMzFjZDQyLmpwZw.avif",
+    "extra": {},
+    "group_id": 29,
     "multi_source": false
   },
   {
@@ -524,7 +572,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEvYmFubmVycy9hMjY1NGZkMC05ZWFmLTExZjEtODZkZC1hOTUwOWRjY2FmNGItcmltZy13MTIwMC1oNjAwLWRjMDgwODA4LWdtaXIuanBnP3Y9MTc4NzQ2MTI2Ng.avif",
     "extra": {},
-    "group_id": 27,
+    "group_id": 30,
     "multi_source": false
   },
   {
@@ -540,7 +588,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czUvYmFubmVycy9mMmNjY2Y1MC03YjQzLTExZjEtOWM1Zi1iMTViZDU2NTY1MDktcmltZy13MTIwMC1oNjAwLWRjMWMxNjEzLWdtaXIuanBnP3Y9MTc4MzU2NjcxOQ.avif",
     "extra": {},
-    "group_id": 28,
+    "group_id": 31,
     "multi_source": false
   },
   {
@@ -556,7 +604,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czUvYmFubmVycy84NTM5MTUxMC05ZGI4LTExZjEtODZkZC1hOTUwOWRjY2FmNGItcmltZy13MTIwMC1oNjAwLWRjMDgwODA4LWdtaXIuanBnP3Y9MTc4NzM1NTEyNg.avif",
     "extra": {},
-    "group_id": 29,
+    "group_id": 32,
     "multi_source": false
   },
   {
@@ -571,70 +619,6 @@
     "price_max": null,
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czkvYmFubmVycy83YzYyOTVmMC03MzExLTExZjEtYmY0Ny0yYjY4ZTczYTljODEtcmltZy13MTIwMC1oNjAwLWRjNDYxYjEzLWdtaXIuanBnP3Y9MTc4MjY2NTQzNg.avif",
-    "extra": {},
-    "group_id": 30,
-    "multi_source": false
-  },
-  {
-    "title": "Maya Bazaar Bengaluru 2026",
-    "city": "Bangalore",
-    "category": "Nightlife",
-    "source": "AllEvents",
-    "url": "https://allevents.in/bangalore/maya-bazaar-bengaluru-2026-tickets/80001212961827",
-    "date": "2026-10-10",
-    "venue": "The LaLiT Ashok Bengaluru",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4yLmFsbGV2ZW50cy5pbi90aHVtYnMvdGh1bWI2YTdjNWM1NmEzMzkzLmpwZw.avif",
-    "extra": {},
-    "group_id": 31,
-    "multi_source": false
-  },
-  {
-    "title": "TELUGU TASHAN NIGHT FRIDAY",
-    "city": "Bangalore",
-    "category": "Nightlife",
-    "source": "AllEvents",
-    "url": "https://allevents.in/bangalore/telugu-tashan-night-friday/3900030044668223",
-    "date": "2026-09-04",
-    "venue": "Gilly`s 104: Bengaluru",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czUvYmFubmVycy8zZmZiNzVlMC02NDU4LTExZjEtOWM4Ni1jM2QzMjcwZDQ5YTctcmltZy13MTIwMC1oNjAwLWRjMWIxNjEzLWdtaXIuanBnP3Y9MTc4MTA0NjU2Mg.avif",
-    "extra": {},
-    "group_id": 28,
-    "multi_source": false
-  },
-  {
-    "title": "DJ HEMANTH - FRIDAY BOLLYWOOD NIGHT",
-    "city": "Bangalore",
-    "category": "Nightlife",
-    "source": "AllEvents",
-    "url": "https://allevents.in/bangalore/dj-hemanth-friday-bollywood-night/3900030577913124",
-    "date": "2026-08-28",
-    "venue": "ABV - Artisanal Bier Village: Bengaluru",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czIvYmFubmVycy81ZjZmYWYxMC05ZWRhLTExZjEtODZkZC1hOTUwOWRjY2FmNGItcmltZy13MTIwMC1oNjAwLWRjMDgwODA4LWdtaXIuanBnP3Y9MTc4NzQ3OTYxNg.avif",
-    "extra": {},
-    "group_id": 32,
-    "multi_source": false
-  },
-  {
-    "title": "Onam Village at Ranch, Big Banyan Vineyard and Resort",
-    "city": "Bangalore",
-    "category": "Nightlife",
-    "source": "AllEvents",
-    "url": "https://allevents.in/bangalore/onam-village-at-ranch-big-banyan-vineyard-and-resort/4100030511369621",
-    "date": "2026-08-29",
-    "venue": "Ranch | Nelamangala Town, Bangalore",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czgvYmFubmVycy84YzYxNzJmMC05MGQwLTExZjEtYmFlMy1mZjdiODc2ZTNhOGQtcmltZy13MTIwMC1oNjc1LWRjZjhmOGY4LWdtaXIuanBnP3Y9MTc4NTkzNjA4MA.avif",
     "extra": {},
     "group_id": 33,
     "multi_source": false
@@ -656,33 +640,49 @@
     "multi_source": false
   },
   {
-    "title": "Onam After Party Jamming Event by Make Some Ochha",
+    "title": "TELUGU TASHAN NIGHT FRIDAY",
     "city": "Bangalore",
     "category": "Nightlife",
     "source": "AllEvents",
-    "url": "https://allevents.in/bangalore/onam-after-party-jamming-event-by-make-some-ochha/3900030575441313",
-    "date": "2026-08-30",
-    "venue": "Just BLR Comedy Club: Bengaluru",
+    "url": "https://allevents.in/bangalore/telugu-tashan-night-friday/3900030044668223",
+    "date": "2026-09-04",
+    "venue": "Gilly`s 104: Bengaluru",
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEwL2Jhbm5lcnMvOTUzNjg2YjAtOWVkNC0xMWYxLTg2ZGQtYTk1MDlkY2NhZjRiLXJpbWctdzEyMDAtaDYwMC1kY2Y4ZTgwOC1nbWlyLmpwZz92PTE3ODc0NzcxMjk.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czUvYmFubmVycy8zZmZiNzVlMC02NDU4LTExZjEtOWM4Ni1jM2QzMjcwZDQ5YTctcmltZy13MTIwMC1oNjAwLWRjMWIxNjEzLWdtaXIuanBnP3Y9MTc4MTA0NjU2Mg.avif",
+    "extra": {},
+    "group_id": 31,
+    "multi_source": false
+  },
+  {
+    "title": "DJ HEMANTH - FRIDAY BOLLYWOOD NIGHT",
+    "city": "Bangalore",
+    "category": "Nightlife",
+    "source": "AllEvents",
+    "url": "https://allevents.in/bangalore/dj-hemanth-friday-bollywood-night/3900030577913124",
+    "date": "2026-08-28",
+    "venue": "ABV - Artisanal Bier Village: Bengaluru",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czIvYmFubmVycy81ZjZmYWYxMC05ZWRhLTExZjEtODZkZC1hOTUwOWRjY2FmNGItcmltZy13MTIwMC1oNjAwLWRjMDgwODA4LWdtaXIuanBnP3Y9MTc4NzQ3OTYxNg.avif",
     "extra": {},
     "group_id": 35,
     "multi_source": false
   },
   {
-    "title": "Sukoon Wali Qawwali - Live Concert Experience",
+    "title": "Onam Village at Ranch, Big Banyan Vineyard and Resort",
     "city": "Bangalore",
     "category": "Nightlife",
     "source": "AllEvents",
-    "url": "https://allevents.in/bangalore/sukoon-wali-qawwali-live-concert-experience/4100030428659212",
-    "date": "2026-09-12",
-    "venue": "Phoenix Marketcity Courtyard",
+    "url": "https://allevents.in/bangalore/onam-village-at-ranch-big-banyan-vineyard-and-resort/4100030511369621",
+    "date": "2026-08-29",
+    "venue": "Ranch | Nelamangala Town, Bangalore",
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEvYmFubmVycy9jYzYxMzBhMC04OTcwLTExZjEtOWM1Yi05NzRiMTkyMmY1NDctcmltZy13MTIwMC1oNjc1LWRjMzAxNjA0LWdtaXIuanBnP3Y9MTc4NTEyNTI5OA.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czgvYmFubmVycy84YzYxNzJmMC05MGQwLTExZjEtYmFlMy1mZjdiODc2ZTNhOGQtcmltZy13MTIwMC1oNjc1LWRjZjhmOGY4LWdtaXIuanBnP3Y9MTc4NTkzNjA4MA.avif",
     "extra": {},
     "group_id": 36,
     "multi_source": false
@@ -2700,7 +2700,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 10,
+    "group_id": 9,
     "multi_source": true
   },
   {
@@ -3280,7 +3280,7 @@
     "multi_source": false
   },
   {
-    "title": "Drishyam 3",
+    "title": "Drishyam: The Conclusion",
     "city": "All India",
     "category": "Movies",
     "source": "Wikipedia",
