@@ -432,22 +432,6 @@
     "multi_source": false
   },
   {
-    "title": "THE ROOM OF MEMORIES MLR 24th 7PM",
-    "city": "Bangalore",
-    "category": "Kids",
-    "source": "AllEvents",
-    "url": "https://allevents.in/bangalore/the-room-of-memories-mlr-24th-7pm-tickets/80003072105290",
-    "date": "2026-10-24",
-    "venue": "MLR Cultural Centre",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4yLmFsbGV2ZW50cy5pbi90aHVtYnMvdGh1bWI2YTRkMTFiODgwZDg5LmpwZw.avif",
-    "extra": {},
-    "group_id": 23,
-    "multi_source": false
-  },
-  {
     "title": "Little Peak Seekers (and deer feeding) September",
     "city": "Bangalore",
     "category": "Kids",
@@ -464,17 +448,33 @@
     "multi_source": false
   },
   {
-    "title": "Gorillaz The Mountain Tour 2027",
+    "title": "THE ROOM OF MEMORIES MLR 24th 7PM",
     "city": "Bangalore",
     "category": "Kids",
     "source": "AllEvents",
-    "url": "https://allevents.in/bangalore/gorillaz-the-mountain-tour-2027/4100029945653844",
-    "date": "2027-01-23",
-    "venue": "District Arena @ Terraform",
+    "url": "https://allevents.in/bangalore/the-room-of-memories-mlr-24th-7pm-tickets/80003072105290",
+    "date": "2026-10-24",
+    "venue": "MLR Cultural Centre",
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEwL2Jhbm5lcnMvZmRmOTY5NDAtOTlmZS0xMWYxLTlhNDAtN2I5MGRlNzIwMTI1LXJpbWctdzEyMDAtaDY3NS1kY2Q4YTg2OC1nbWlyLmpwZz92PTE3ODY5NDYwNTc.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4yLmFsbGV2ZW50cy5pbi90aHVtYnMvdGh1bWI2YTRkMTFiODgwZDg5LmpwZw.avif",
+    "extra": {},
+    "group_id": 23,
+    "multi_source": false
+  },
+  {
+    "title": "Nagarbhavi Biggest open air Dandiya Garba - 2026",
+    "city": "Bangalore",
+    "category": "Kids",
+    "source": "AllEvents",
+    "url": "https://allevents.in/bangalore/nagarbhavi-biggest-open-air-dandiya-garba-2026/3900030140965739",
+    "date": "2026-10-11",
+    "venue": "The Soda Factory: Bengaluru",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEvYmFubmVycy8wNmYyMDE1MC01ZDU2LTExZjEtOGFiYy04NWUwMmJjM2UwZWQtcmltZy13MTIwMC1oNjAwLWRjZWU0NDc5LWdtaXIuanBnP3Y9MTc4MDI3NTk0OQ.avif",
     "extra": {},
     "group_id": 24,
     "multi_source": false
@@ -1232,22 +1232,6 @@
     "multi_source": false
   },
   {
-    "title": "Telling Lies By Aashish Solanki",
-    "city": "Delhi NCR",
-    "category": "Comedy",
-    "source": "AllEvents",
-    "url": "https://allevents.in/new-delhi/telling-lies-by-aashish-solanki/3900030387575435",
-    "date": "2026-09-12",
-    "venue": "The Laugh Casa, Rcube Monad Mall: Noida",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czkvYmFubmVycy9jZjI5YTE1MC05ZTZhLTExZjEtODZkZC1hOTUwOWRjY2FmNGItcmltZy13MTIwMC1oNjAwLWRjZjhlODE4LWdtaXIuanBnP3Y9MTc4NzQzMTcwMA.avif",
-    "extra": {},
-    "group_id": 69,
-    "multi_source": false
-  },
-  {
     "title": "Sapan Verma Live",
     "city": "Delhi NCR",
     "category": "Comedy",
@@ -1260,7 +1244,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czQvYmFubmVycy81N2QyNmRjMC02NDkxLTExZjEtYjZlOC0zZGRkNGM4NWZhMzQtcmltZy13MTIwMC1oNjAwLWRjZTgyYTJmLWdtaXIuanBnP3Y9MTc4MTA3MTA4Mw.avif",
     "extra": {},
-    "group_id": 70,
+    "group_id": 69,
     "multi_source": false
   },
   {
@@ -1276,7 +1260,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czgvYmFubmVycy81YTk1YTdjMC05ZGZkLTExZjEtODZkZC1hOTUwOWRjY2FmNGItcmltZy13MTIwMC1oNjAwLWRjMjg2OGE4LWdtaXIuanBnP3Y9MTc4NzM4NDY4OQ.avif",
     "extra": {},
-    "group_id": 71,
+    "group_id": 70,
     "multi_source": false
   },
   {
@@ -1292,7 +1276,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czQvYmFubmVycy9hMWQ3YTBmMC05ZTBlLTExZjEtODZkZC1hOTUwOWRjY2FmNGItcmltZy13MTIwMC1oNjAwLWRjMDgwODA4LWdtaXIuanBnP3Y9MTc4NzM5MjExNg.avif",
     "extra": {},
-    "group_id": 72,
+    "group_id": 71,
     "multi_source": false
   },
   {
@@ -1308,7 +1292,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czIvYmFubmVycy9iMmZjNjEzMC05ZDhkLTExZjEtODBiYi1lYmZhNjYxMmMwOTUtcmltZy13MTIwMC1oNjAwLWRjMjg2OGE4LWdtaXIuanBnP3Y9MTc4NzMzNjc1MQ.avif",
     "extra": {},
-    "group_id": 73,
+    "group_id": 72,
     "multi_source": false
   },
   {
@@ -1324,7 +1308,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czMvYmFubmVycy83OTM0NjE5MC05ZDcwLTExZjEtODBiYi1lYmZhNjYxMmMwOTUtcmltZy13MTIwMC1oNjAwLWRjZjhmOGY4LWdtaXIuanBnP3Y9MTc4NzMyNDE4Nw.avif",
     "extra": {},
-    "group_id": 74,
+    "group_id": 73,
     "multi_source": false
   },
   {
@@ -1339,6 +1323,22 @@
     "price_max": null,
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czgvYmFubmVycy9jNjljNTk1MC05ZTdhLTExZjEtODZkZC1hOTUwOWRjY2FmNGItcmltZy13MTIwMC1oNjAwLWRjZjhlOGM4LWdtaXIuanBnP3Y9MTc4NzQzODU1OA.avif",
+    "extra": {},
+    "group_id": 74,
+    "multi_source": false
+  },
+  {
+    "title": "RageBait- A Stand Up Solo By Shubham Shandilya",
+    "city": "Delhi NCR",
+    "category": "Comedy",
+    "source": "AllEvents",
+    "url": "https://allevents.in/new-delhi/ragebait-a-stand-up-solo-by-shubham-shandilya/3900030546663609",
+    "date": "2026-08-29",
+    "venue": "The Comedy Theatre - Hauz Khass Village: Delhi",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czUvYmFubmVycy81Yjk3MjRiMC05YmY5LTExZjEtODBiYi1lYmZhNjYxMmMwOTUtcmltZy13MTIwMC1oNjAwLWRjYzgyODE4LWdtaXIuanBnP3Y9MTc4NzE2MzA4Mg.avif",
     "extra": {},
     "group_id": 75,
     "multi_source": false
@@ -1360,17 +1360,17 @@
     "multi_source": false
   },
   {
-    "title": "Vaibhav Sethia - Experimental Show",
+    "title": "Tab Tum Kahaan The? By Sundeep Sharma",
     "city": "Delhi NCR",
     "category": "Comedy",
     "source": "AllEvents",
-    "url": "https://allevents.in/new-delhi/vaibhav-sethia-experimental-show/3900030491320356",
-    "date": "2026-08-29",
-    "venue": "The Laughter Foyer: Gurugram",
+    "url": "https://allevents.in/new-delhi/tab-tum-kahaan-the-by-sundeep-sharma/3900030525928116",
+    "date": "2026-09-12",
+    "venue": "Bipin Chandra Pal Bhavan Auditorium: Delhi",
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czIvYmFubmVycy81YTEyMzQwMC04ZjY0LTExZjEtYTMzYS1mNzE1MDY2MmE1YWEtcmltZy13MTIwMC1oNjAwLWRjZjgxODc4LWdtaXIuanBnP3Y9MTc4NTc3OTY1OQ.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czIvYmFubmVycy9iOTM5MmM2MC05ZWU0LTExZjEtODZkZC1hOTUwOWRjY2FmNGItcmltZy13MTIwMC1oNjAwLWRjNzgxODE4LWdtaXIuanBnP3Y9MTc4NzQ4NDA4Mw.avif",
     "extra": {},
     "group_id": 77,
     "multi_source": false
@@ -1450,7 +1450,7 @@
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czIvYmFubmVycy9mYzE3MDExMC05YjI0LTExZjEtOWJjNi04YjRmNTZkYjZjNDMtcmltZy13MTIwMC1oNjAwLWRjOTg3OGU4LWdtaXIuanBnP3Y9MTc4NzA3MTg3NA.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czgvYmFubmVycy8wNGI0MGY4MC05ZjUyLTExZjEtYTUyYi05NzBhNGI1MzQ1ZTctcmltZy13MTIwMC1oNjAwLWRjOTg3OGU4LWdtaXIuanBnP3Y9MTc4NzUzMTAyMA.avif",
     "extra": {},
     "group_id": 82,
     "multi_source": false
@@ -1920,6 +1920,22 @@
     "multi_source": false
   },
   {
+    "title": "Hyderabad Dance Championship",
+    "city": "Hyderabad",
+    "category": "Nightlife",
+    "source": "AllEvents",
+    "url": "https://allevents.in/hyderabad/hyderabad-dance-championship/3900030461279729",
+    "date": "2026-09-13",
+    "venue": "Rangbhoomi Spaces &amp; Events:Hyderabad",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czMvYmFubmVycy9jOWRkZGUwMC05YzMwLTExZjEtODBiYi1lYmZhNjYxMmMwOTUtcmltZy13MTIwMC1oNjAwLWRjMDgwODA4LWdtaXIuanBnP3Y9MTc4NzE4Njg3OA.avif",
+    "extra": {},
+    "group_id": 112,
+    "multi_source": false
+  },
+  {
     "title": "Mrp Night ft. Suppi and the Vibe",
     "city": "Hyderabad",
     "category": "Nightlife",
@@ -1932,7 +1948,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czUvYmFubmVycy85Zjk2OGU1MC05ZTgxLTExZjEtODZkZC1hOTUwOWRjY2FmNGItcmltZy13MTIwMC1oNjAwLWRjMzgwODA4LWdtaXIuanBnP3Y9MTc4NzQ0MTQ5OQ.avif",
     "extra": {},
-    "group_id": 112,
+    "group_id": 113,
     "multi_source": false
   },
   {
@@ -1948,7 +1964,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czUvYmFubmVycy8zMDA2ODIzMC05OTEyLTExZjEtOWE0MC03YjkwZGU3MjAxMjUtcmltZy13MTIwMC1oNjc1LWRjZjhmOGU4LWdtaXIuanBnP3Y9MTc4Njg0Mzg4MQ.avif",
     "extra": {},
-    "group_id": 113,
+    "group_id": 114,
     "multi_source": false
   },
   {
@@ -1964,7 +1980,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czMvYmFubmVycy80ZTA1ODI4MC05ZGM4LTExZjEtODZkZC1hOTUwOWRjY2FmNGItcmltZy13MTIwMC1oNjAwLWRjZThkOGU4LWdtaXIuanBnP3Y9MTc4NzM2MTkwNQ.avif",
     "extra": {},
-    "group_id": 114,
+    "group_id": 115,
     "multi_source": false
   },
   {
@@ -1980,7 +1996,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czMvYmFubmVycy85MTUzMDFjMC03YTczLTExZjEtOWM1Zi1iMTViZDU2NTY1MDktcmltZy13MTIwMC1oNjAwLWRjMWEwMjAyLWdtaXIuanBnP3Y9MTc4MzQ3NzIyMA.avif",
     "extra": {},
-    "group_id": 115,
+    "group_id": 116,
     "multi_source": false
   },
   {
@@ -1996,22 +2012,6 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEwL2Jhbm5lcnMvMjM0ZWYxYjAtODlkZC0xMWYxLWI5MmUtNDFiNTg0ZmRiM2M5LXJpbWctdzEyMDAtaDY3NS1kY2ZmZWFkMC1nbWlyLmpwZz92PTE3ODUxNzE4MzA.avif",
     "extra": {},
-    "group_id": 116,
-    "multi_source": false
-  },
-  {
-    "title": "Hyderabad Dance Championship",
-    "city": "Hyderabad",
-    "category": "Nightlife",
-    "source": "AllEvents",
-    "url": "https://allevents.in/hyderabad/hyderabad-dance-championship/3900030461279729",
-    "date": "2026-09-13",
-    "venue": "Rangbhoomi Spaces &amp; Events:Hyderabad",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czMvYmFubmVycy9jOWRkZGUwMC05YzMwLTExZjEtODBiYi1lYmZhNjYxMmMwOTUtcmltZy13MTIwMC1oNjAwLWRjMDgwODA4LWdtaXIuanBnP3Y9MTc4NzE4Njg3OA.avif",
-    "extra": {},
     "group_id": 117,
     "multi_source": false
   },
@@ -2026,7 +2026,7 @@
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czcvYmFubmVycy9kNWVhMzY5MC05ZDEwLTExZjEtODBiYi1lYmZhNjYxMmMwOTUtcmltZy13MTIwMC1oNjAwLWRjMjgwODA4LWdtaXIuanBnP3Y9MTc4NzI4MzEwNQ.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czIvYmFubmVycy9hOWJmYjI4MC05ZjYyLTExZjEtYTUyYi05NzBhNGI1MzQ1ZTctcmltZy13MTIwMC1oNjAwLWRjMjgwODA4LWdtaXIuanBnP3Y9MTc4NzUzODE1Mg.avif",
     "extra": {},
     "group_id": 118,
     "multi_source": false
