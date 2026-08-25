@@ -23,8 +23,8 @@
     "url": "https://allevents.in/bangalore/gaurav-kapoor-presents-bunty/3900030559312456",
     "date": "2026-08-30",
     "venue": "The Comedy Theatre, Indiranagar: Bengaluru",
-    "price_min": null,
-    "price_max": null,
+    "price_min": 1.0,
+    "price_max": 799.0,
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czQvYmFubmVycy8xYTVkMGU5MC05ZmIxLTExZjEtYTliNi01ZjNjMzRkOTI1OWItcmltZy13MTIwMC1oNjAwLWRjNDg4ODQ4LWdtaXIuanBnP3Y9MTc4NzU3MTg0Mg.avif",
     "extra": {},
@@ -512,17 +512,17 @@
     "multi_source": false
   },
   {
-    "title": "Ctrl+Alt+Emo (Back to 2000s)",
+    "title": "THULLATHA MANAMUM THULLUM MOVIE NIGHT AND DJ NIGHT",
     "city": "Bangalore",
     "category": "Nightlife",
     "source": "AllEvents",
-    "url": "https://allevents.in/bangalore/ctrlaltemo-back-to-2000s-tickets/80002980047074",
-    "date": "2026-08-29",
-    "venue": "Prism by Octavium",
+    "url": "https://allevents.in/bangalore/thullatha-manamum-thullum-movie-night-and-dj-night-tickets/80001387583202",
+    "date": "2026-08-28",
+    "venue": "GToxe (The Premium Rooftop Vibe)",
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4yLmFsbGV2ZW50cy5pbi90aHVtYnMvdGh1bWI2YTgxZWQxMzFjZDQyLmpwZw.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4yLmFsbGV2ZW50cy5pbi90aHVtYnMvdGh1bWI2YThjMTBkZGI5N2ZhLmpwZw.avif",
     "extra": {},
     "group_id": 27,
     "multi_source": false
@@ -544,6 +544,22 @@
     "multi_source": false
   },
   {
+    "title": "ONAM FEST 2.0 (tamil and malayalam)",
+    "city": "Bangalore",
+    "category": "Nightlife",
+    "source": "AllEvents",
+    "url": "https://allevents.in/bangalore/onam-fest-20-tamil-and-malayalam-tickets/80004044020804",
+    "date": "2026-08-26",
+    "venue": "WJM7+JXQ",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4yLmFsbGV2ZW50cy5pbi90aHVtYnMvdGh1bWI2YThiYzc0MzIwNGEyLmpwZw.avif",
+    "extra": {},
+    "group_id": 29,
+    "multi_source": false
+  },
+  {
     "title": "TELUGU TASHAN NIGHT",
     "city": "Bangalore",
     "category": "Nightlife",
@@ -556,7 +572,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czUvYmFubmVycy9mMmNjY2Y1MC03YjQzLTExZjEtOWM1Zi1iMTViZDU2NTY1MDktcmltZy13MTIwMC1oNjAwLWRjMWMxNjEzLWdtaXIuanBnP3Y9MTc4MzU2NjcxOQ.avif",
     "extra": {},
-    "group_id": 29,
+    "group_id": 30,
     "multi_source": false
   },
   {
@@ -572,7 +588,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czUvYmFubmVycy84NTM5MTUxMC05ZGI4LTExZjEtODZkZC1hOTUwOWRjY2FmNGItcmltZy13MTIwMC1oNjAwLWRjMDgwODA4LWdtaXIuanBnP3Y9MTc4NzM1NTEyNg.avif",
     "extra": {},
-    "group_id": 30,
+    "group_id": 31,
     "multi_source": false
   },
   {
@@ -588,7 +604,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czkvYmFubmVycy83YzYyOTVmMC03MzExLTExZjEtYmY0Ny0yYjY4ZTczYTljODEtcmltZy13MTIwMC1oNjAwLWRjNDYxYjEzLWdtaXIuanBnP3Y9MTc4MjY2NTQzNg.avif",
     "extra": {},
-    "group_id": 31,
+    "group_id": 32,
     "multi_source": false
   },
   {
@@ -604,7 +620,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czIvYmFubmVycy84ZDMwNTk2MC02M2U2LTExZjEtOWM4Ni1jM2QzMjcwZDQ5YTctcmltZy13MTIwMC1oNjAwLWRjNzgwNTA0LWdtaXIuanBnP3Y9MTc4MDk5NzcyOQ.avif",
     "extra": {},
-    "group_id": 32,
+    "group_id": 33,
     "multi_source": false
   },
   {
@@ -620,7 +636,23 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czcvYmFubmVycy81Nzk2Mjk1MC05ZTdmLTExZjEtODZkZC1hOTUwOWRjY2FmNGItcmltZy13MTIwMC1oNjAwLWRjYjg2ODQ4LWdtaXIuanBnP3Y9MTc4NzQ0MDUxOQ.avif",
     "extra": {},
-    "group_id": 33,
+    "group_id": 34,
+    "multi_source": false
+  },
+  {
+    "title": "Maya Bazaar Bengaluru 2026",
+    "city": "Bangalore",
+    "category": "Nightlife",
+    "source": "AllEvents",
+    "url": "https://allevents.in/bangalore/maya-bazaar-bengaluru-2026-tickets/80001212961827",
+    "date": "2026-10-10",
+    "venue": "The LaLiT Ashok Bengaluru",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4yLmFsbGV2ZW50cy5pbi90aHVtYnMvdGh1bWI2YTdjNWM1NmEzMzkzLmpwZw.avif",
+    "extra": {},
+    "group_id": 35,
     "multi_source": false
   },
   {
@@ -636,7 +668,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czUvYmFubmVycy8zZmZiNzVlMC02NDU4LTExZjEtOWM4Ni1jM2QzMjcwZDQ5YTctcmltZy13MTIwMC1oNjAwLWRjMWIxNjEzLWdtaXIuanBnP3Y9MTc4MTA0NjU2Mg.avif",
     "extra": {},
-    "group_id": 29,
+    "group_id": 30,
     "multi_source": false
   },
   {
@@ -651,38 +683,6 @@
     "price_max": null,
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czIvYmFubmVycy81ZjZmYWYxMC05ZWRhLTExZjEtODZkZC1hOTUwOWRjY2FmNGItcmltZy13MTIwMC1oNjAwLWRjMDgwODA4LWdtaXIuanBnP3Y9MTc4NzQ3OTYxNg.avif",
-    "extra": {},
-    "group_id": 34,
-    "multi_source": false
-  },
-  {
-    "title": "Onam Village at Ranch, Big Banyan Vineyard and Resort",
-    "city": "Bangalore",
-    "category": "Nightlife",
-    "source": "AllEvents",
-    "url": "https://allevents.in/bangalore/onam-village-at-ranch-big-banyan-vineyard-and-resort/4100030511369621",
-    "date": "2026-08-29",
-    "venue": "Ranch | Nelamangala Town, Bangalore",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czgvYmFubmVycy84YzYxNzJmMC05MGQwLTExZjEtYmFlMy1mZjdiODc2ZTNhOGQtcmltZy13MTIwMC1oNjc1LWRjZjhmOGY4LWdtaXIuanBnP3Y9MTc4NTkzNjA4MA.avif",
-    "extra": {},
-    "group_id": 35,
-    "multi_source": false
-  },
-  {
-    "title": "Onam After Party Jamming Event by Make Some Ochha",
-    "city": "Bangalore",
-    "category": "Nightlife",
-    "source": "AllEvents",
-    "url": "https://allevents.in/bangalore/onam-after-party-jamming-event-by-make-some-ochha/3900030575441313",
-    "date": "2026-08-30",
-    "venue": "Just BLR Comedy Club: Bengaluru",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEwL2Jhbm5lcnMvOTUzNjg2YjAtOWVkNC0xMWYxLTg2ZGQtYTk1MDlkY2NhZjRiLXJpbWctdzEyMDAtaDYwMC1kY2Y4ZTgwOC1nbWlyLmpwZz92PTE3ODc0NzcxMjk.avif",
     "extra": {},
     "group_id": 36,
     "multi_source": false
@@ -1108,7 +1108,7 @@
     "city": "Mumbai",
     "category": "Kids",
     "source": "AllEvents",
-    "url": "https://allevents.in/mumbai/international-dogs-day-tickets/80001488072988",
+    "url": "https://allevents.in/mumbai/international-dogs-day/80001488072988",
     "date": "2026-08-26",
     "venue": "Pawkies Dogs Cuddle Therapy &amp; Boarding",
     "price_min": null,
@@ -1802,7 +1802,7 @@
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czgvYmFubmVycy82OTA4N2QwMC05ZWIxLTExZjEtODZkZC1hOTUwOWRjY2FmNGItcmltZy13MTIwMC1oNjAwLWRjMDgwODA4LWdtaXIuanBnP3Y9MTc4NzQ2MjAyMw.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czQvYmFubmVycy84ZDFlMGIyMC1hMDQ1LTExZjEtYTliNi01ZjNjMzRkOTI1OWItcmltZy13MTIwMC1oNjAwLWRjMDgwODA4LWdtaXIuanBnP3Y9MTc4NzYzNTYwMA.avif",
     "extra": {},
     "group_id": 104,
     "multi_source": false
