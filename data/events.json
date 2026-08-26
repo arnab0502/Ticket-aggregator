@@ -522,7 +522,7 @@
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEvYmFubmVycy9hMjY1NGZkMC05ZWFmLTExZjEtODZkZC1hOTUwOWRjY2FmNGItcmltZy13MTIwMC1oNjAwLWRjMDgwODA4LWdtaXIuanBnP3Y9MTc4NzQ2MTI2Ng.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czMvYmFubmVycy83Zjc0ZDAxMC1hMTU1LTExZjEtYTk3Ny05OWQxZDMzZTk5YmQtcmltZy13MTIwMC1oNjAwLWRjMDgwODA4LWdtaXIuanBnP3Y9MTc4Nzc1MjQwNg.avif",
     "extra": {},
     "group_id": 28,
     "multi_source": false
@@ -794,7 +794,7 @@
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czQvYmFubmVycy9iYTAwMzlmMC05ZmI1LTExZjEtYTliNi01ZjNjMzRkOTI1OWItcmltZy13MTIwMC1oNjAwLWRjMDgwODA4LWdtaXIuanBnP3Y9MTc4NzU3MzgzMw.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czUvYmFubmVycy81OGZiNWUzMC1hMTZhLTExZjEtYTk3Ny05OWQxZDMzZTk5YmQtcmltZy13MTIwMC1oNjAwLWRjMDgwODA4LWdtaXIuanBnP3Y9MTc4Nzc2MTM2MA.avif",
     "extra": {},
     "group_id": 44,
     "multi_source": false
@@ -1088,6 +1088,22 @@
     "multi_source": false
   },
   {
+    "title": "CHEMBUR KIDS CARNIVAL",
+    "city": "Mumbai",
+    "category": "Kids",
+    "source": "AllEvents",
+    "url": "https://allevents.in/mumbai/chembur-kids-carnival/3900029794343939",
+    "date": "2026-10-31",
+    "venue": "St. Anthony`s Homes Co-Operative Society: Mumbai",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czgvYmFubmVycy9lMmJlNzVmMC03OWY0LTExZjEtYWUzNi01ZDU0ZmNkODkwNjktcmltZy13MTIwMC1oNjAwLWRjZDdlYWY1LWdtaXIuanBnP3Y9MTc4MzQyMjgxMQ.avif",
+    "extra": {},
+    "group_id": 62,
+    "multi_source": false
+  },
+  {
     "title": "Crochet Making",
     "city": "Mumbai",
     "category": "Kids",
@@ -1099,22 +1115,6 @@
     "price_max": null,
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEvYmFubmVycy9hYmE5ZjZkMC05ZTI0LTExZjEtODZkZC1hOTUwOWRjY2FmNGItcmltZy13MTIwMC1oNjAwLWRjZThlOGU4LWdtaXIuanBnP3Y9MTc4NzQwMTU3Ng.avif",
-    "extra": {},
-    "group_id": 62,
-    "multi_source": false
-  },
-  {
-    "title": "CHEMBUR KIDS CARNIVAL",
-    "city": "Mumbai",
-    "category": "Kids",
-    "source": "AllEvents",
-    "url": "https://allevents.in/mumbai/chembur-kids-carnival/3900030046702643",
-    "date": "2026-10-31",
-    "venue": "St. Anthony`s Homes Co-Operative Society: Mumbai",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEvYmFubmVycy8wOGQ0NmMwMC01ZmJlLTExZjEtYjE2Zi0wZjlmNDY5NWIwYzQtcmltZy13MTIwMC1oNjAwLWRjZDdlYWY1LWdtaXIuanBnP3Y9MTc4MDU0MDUyMg.avif",
     "extra": {},
     "group_id": 63,
     "multi_source": false
@@ -1152,17 +1152,17 @@
     "multi_source": false
   },
   {
-    "title": "International Dogs Day",
+    "title": "Sportives Smiley Obstacle Run",
     "city": "Mumbai",
     "category": "Kids",
     "source": "AllEvents",
-    "url": "https://allevents.in/mumbai/international-dogs-day/80001488072988",
-    "date": "2026-08-26",
-    "venue": "Pawkies Dogs Cuddle Therapy &amp; Boarding",
+    "url": "https://allevents.in/mumbai/sportives-smiley-obstacle-run/80002219698224",
+    "date": "2027-01-10",
+    "venue": "Inorbit Mall Malad, New Link Road, Malad, Malad West, Mumbai, Maharashtra, India",
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4yLmFsbGV2ZW50cy5pbi90aHVtYnMvdGh1bWI2YTdjODM1Yjg4NzY1LmpwZw.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4yLmFsbGV2ZW50cy5pbi90aHVtYnMvdGh1bWI2OWQ5MDkwODlhYTU0LmpwZw.avif",
     "extra": {},
     "group_id": 66,
     "multi_source": false
@@ -14784,11 +14784,11 @@
     "multi_source": false
   },
   {
-    "title": "The Adventures of Cliff Booth",
+    "title": "The Further Mis-Adventures of Cliff Booth",
     "city": "All USA",
     "category": "Movies",
     "source": "Wikipedia",
-    "url": "https://en.wikipedia.org/wiki/The_Adventures_of_Cliff_Booth",
+    "url": "https://en.wikipedia.org/wiki/The_Further_Mis-Adventures_of_Cliff_Booth",
     "date": "2026-11-25T00:00:00",
     "venue": "In cinemas",
     "price_min": null,
