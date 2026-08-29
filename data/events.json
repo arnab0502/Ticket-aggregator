@@ -58,7 +58,7 @@
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czUvYmFubmVycy81YTMxNGZlMC1hMTliLTExZjEtYTk3Ny05OWQxZDMzZTk5YmQtcmltZy13MTIwMC1oNjAwLWRjZDhkOGQ4LWdtaXIuanBnP3Y9MTc4Nzc4MjQwMw.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czkvYmFubmVycy9mNGUxMWVmMC1hMzg4LTExZjEtOTk4OC1iZmM2MzhjMzNhNWEtcmltZy13MTIwMC1oNjAwLWRjZDhkOGQ4LWdtaXIuanBnP3Y9MTc4Nzk5NDQwNA.avif",
     "extra": {},
     "group_id": 3,
     "multi_source": false
@@ -122,7 +122,7 @@
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czQvYmFubmVycy9iZDZiMGZhMC1hMWVjLTExZjEtOGIwOS00Yjk5ZjhmZTQ4NzItcmltZy13MTIwMC1oNjAwLWRjMjg2OGE4LWdtaXIuanBnP3Y9MTc4NzgxNzM1OA.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czIvYmFubmVycy82YTU4ZGJiMC1hMzljLTExZjEtOTk4OC1iZmM2MzhjMzNhNWEtcmltZy13MTIwMC1oNjAwLWRjMjg2OGE4LWdtaXIuanBnP3Y9MTc4ODAwMjc2MQ.avif",
     "extra": {},
     "group_id": 7,
     "multi_source": false
@@ -224,17 +224,17 @@
     "multi_source": false
   },
   {
-    "title": "Rock Bottom - A Standup Solo By Shubham Pujari",
+    "title": "Voices in my head by Rohit Swain",
     "city": "Bangalore",
     "category": "Comedy",
     "source": "AllEvents",
-    "url": "https://allevents.in/bangalore/rock-bottom-a-standup-solo-by-shubham-pujari/3900030486430132",
-    "date": "2026-09-12",
-    "venue": "The Comedy Theatre, Indiranagar: Bengaluru",
+    "url": "https://allevents.in/bangalore/voices-in-my-head-by-rohit-swain/3900030601570819",
+    "date": "2026-09-05",
+    "venue": "The Underground Comedy Club: Bengaluru",
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czQvYmFubmVycy8xNjUwNWQ0MC1hMzUxLTExZjEtOTk4OC1iZmM2MzhjMzNhNWEtcmltZy13MTIwMC1oNjAwLWRjMDgwODA4LWdtaXIuanBnP3Y9MTc4Nzk3MDQyOQ.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czQvYmFubmVycy9iZGY5NzU0MC1hMmEyLTExZjEtOTk4OC1iZmM2MzhjMzNhNWEtcmltZy13MTIwMC1oNjAwLWRjMDgwODA4LWdtaXIuanBnP3Y9MTc4Nzg5NTUzMw.avif",
     "extra": {},
     "group_id": 14,
     "multi_source": false
@@ -288,22 +288,6 @@
     "multi_source": false
   },
   {
-    "title": "NAMMA RUN BENGALURU 2026",
-    "city": "Bangalore",
-    "category": "Kids",
-    "source": "AllEvents",
-    "url": "https://allevents.in/bangalore/namma-run-bengaluru-2026/3900030139121715",
-    "date": "2026-10-11",
-    "venue": "St Josephs School CBSE: Bengaluru",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czYvYmFubmVycy9kNDBlNjNmMC02MDAyLTExZjEtOWJjMC04N2ExOTUwNzE5NWItcmltZy13MTIwMC1oNjAwLWRjZmVmZWZlLWdtaXIuanBnP3Y9MTc4MDU3MDA2OQ.avif",
-    "extra": {},
-    "group_id": 17,
-    "multi_source": false
-  },
-  {
     "title": "Science Explorer",
     "city": "Bangalore",
     "category": "Kids",
@@ -315,6 +299,22 @@
     "price_max": null,
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEvYmFubmVycy9hM2NkNDIyMC1hMmJlLTExZjEtOTk4OC1iZmM2MzhjMzNhNWEtcmltZy13MTIwMC1oNjAwLWRjZjhjODA4LWdtaXIuanBnP3Y9MTc4NzkwNzUxMA.avif",
+    "extra": {},
+    "group_id": 17,
+    "multi_source": false
+  },
+  {
+    "title": "NAMMA RUN BENGALURU 2026",
+    "city": "Bangalore",
+    "category": "Kids",
+    "source": "AllEvents",
+    "url": "https://allevents.in/bangalore/namma-run-bengaluru-2026/3900030139121715",
+    "date": "2026-10-11",
+    "venue": "St Josephs School CBSE: Bengaluru",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czYvYmFubmVycy9kNDBlNjNmMC02MDAyLTExZjEtOWJjMC04N2ExOTUwNzE5NWItcmltZy13MTIwMC1oNjAwLWRjZmVmZWZlLWdtaXIuanBnP3Y9MTc4MDU3MDA2OQ.avif",
     "extra": {},
     "group_id": 18,
     "multi_source": false
@@ -458,7 +458,7 @@
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czYvYmFubmVycy9mYjI1ZDJlMC1hMTdkLTExZjEtYTk3Ny05OWQxZDMzZTk5YmQtcmltZy13MTIwMC1oNjAwLWRjZjhmOGY4LWdtaXIuanBnP3Y9MTc4Nzc2OTc4OA.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEwL2Jhbm5lcnMvM2UzYjZkNzAtYTM3MS0xMWYxLTk5ODgtYmZjNjM4YzMzYTVhLXJpbWctdzEyMDAtaDYwMC1kY2Y4ZjhmOC1nbWlyLmpwZz92PTE3ODc5ODQyMTk.avif",
     "extra": {},
     "group_id": 23,
     "multi_source": false
@@ -576,22 +576,6 @@
     "multi_source": false
   },
   {
-    "title": "Maya Bazaar Bengaluru 2026",
-    "city": "Bangalore",
-    "category": "Nightlife",
-    "source": "AllEvents",
-    "url": "https://allevents.in/bangalore/maya-bazaar-bengaluru-2026-tickets/80001212961827",
-    "date": "2026-10-10",
-    "venue": "The LaLiT Ashok Bengaluru",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4yLmFsbGV2ZW50cy5pbi90aHVtYnMvdGh1bWI2YTdjNWM1NmEzMzkzLmpwZw.avif",
-    "extra": {},
-    "group_id": 31,
-    "multi_source": false
-  },
-  {
     "title": "Onam Village at Ranch, Big Banyan Vineyard and Resort",
     "city": "Bangalore",
     "category": "Nightlife",
@@ -603,6 +587,22 @@
     "price_max": null,
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czgvYmFubmVycy84YzYxNzJmMC05MGQwLTExZjEtYmFlMy1mZjdiODc2ZTNhOGQtcmltZy13MTIwMC1oNjc1LWRjZjhmOGY4LWdtaXIuanBnP3Y9MTc4NTkzNjA4MA.avif",
+    "extra": {},
+    "group_id": 31,
+    "multi_source": false
+  },
+  {
+    "title": "Onam After Party Jamming Event by Make Some Ochha",
+    "city": "Bangalore",
+    "category": "Nightlife",
+    "source": "AllEvents",
+    "url": "https://allevents.in/bangalore/onam-after-party-jamming-event-by-make-some-ochha/3900030575441313",
+    "date": "2026-08-30",
+    "venue": "Just BLR Comedy Club: Bengaluru",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czQvYmFubmVycy9lNzYzYTUyMC1hMTMyLTExZjEtYTk3Ny05OWQxZDMzZTk5YmQtcmltZy13MTIwMC1oNjAwLWRjZjhlODA4LWdtaXIuanBnP3Y9MTc4NzczNzU0Mg.avif",
     "extra": {},
     "group_id": 32,
     "multi_source": false
@@ -624,22 +624,6 @@
     "multi_source": false
   },
   {
-    "title": "Onam After Party Jamming Event by Make Some Ochha",
-    "city": "Bangalore",
-    "category": "Nightlife",
-    "source": "AllEvents",
-    "url": "https://allevents.in/bangalore/onam-after-party-jamming-event-by-make-some-ochha/3900030575441313",
-    "date": "2026-08-30",
-    "venue": "Just BLR Comedy Club: Bengaluru",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czQvYmFubmVycy9lNzYzYTUyMC1hMTMyLTExZjEtYTk3Ny05OWQxZDMzZTk5YmQtcmltZy13MTIwMC1oNjAwLWRjZjhlODA4LWdtaXIuanBnP3Y9MTc4NzczNzU0Mg.avif",
-    "extra": {},
-    "group_id": 34,
-    "multi_source": false
-  },
-  {
     "title": "South Superstar Night Bangalores Biggest South NT",
     "city": "Bangalore",
     "category": "Nightlife",
@@ -651,6 +635,22 @@
     "price_max": null,
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEvYmFubmVycy83YjU5NTU4MC03YjIzLTExZjEtOWM1Zi1iMTViZDU2NTY1MDktcmltZy13MTIwMC1oNjAwLWRjNDcxOTEyLWdtaXIuanBnP3Y9MTc4MzU1Mjc3NQ.avif",
+    "extra": {},
+    "group_id": 34,
+    "multi_source": false
+  },
+  {
+    "title": "Hittale - A pot of Ancient Wisdom",
+    "city": "Bangalore",
+    "category": "Nightlife",
+    "source": "AllEvents",
+    "url": "https://allevents.in/bangalore/hittale-a-pot-of-ancient-wisdom-tickets/80004853252704",
+    "date": "2026-08-29",
+    "venue": "The Purple Turtles - Lights &amp; Furniture Shop in Bangalore, Lavelle Road, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka, India",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4yLmFsbGV2ZW50cy5pbi90aHVtYnMvdGh1bWI2YThiZjIxMDZjMjQ2LmpwZw.avif",
     "extra": {},
     "group_id": 35,
     "multi_source": false
@@ -762,7 +762,7 @@
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czIvYmFubmVycy82ZDg5YzdmMC1hMTM5LTExZjEtYTk3Ny05OWQxZDMzZTk5YmQtcmltZy13MTIwMC1oNjAwLWRjMzg3OGY4LWdtaXIuanBnP3Y9MTc4Nzc0MDM0NA.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czQvYmFubmVycy8yM2Q5NzhmMC1hM2JjLTExZjEtOTk4OC1iZmM2MzhjMzNhNWEtcmltZy13MTIwMC1oNjAwLWRjMzg3OGY4LWdtaXIuanBnP3Y9MTc4ODAxNjM4Nw.avif",
     "extra": {},
     "group_id": 42,
     "multi_source": false
@@ -1088,22 +1088,6 @@
     "multi_source": false
   },
   {
-    "title": "🎨 Paint Your Own Ganesha & Krishna | ₹100 Workshop",
-    "city": "Mumbai",
-    "category": "Kids",
-    "source": "AllEvents",
-    "url": "https://allevents.in/mumbai/paint-your-own-ganesha-and-krishna-₹100-workshop/200030629102406",
-    "date": "2026-08-29",
-    "venue": "Vikas College of Arts Commerce and Science",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czUvYmFubmVycy9lMjJiYzAwYzFiZGE5Y2ZhYjIxODc3ZTBhZTJlYzM2NWUwMDlhZDRlMTBhZTBkYzczMzkzMzJjNWVhZDBkNDIyLXJpbWctdzEwMjQtaDE1MzYtZGNmOGU4YzgtZ21pcj92PTE3ODc5ODc1MjY.avif",
-    "extra": {},
-    "group_id": 62,
-    "multi_source": false
-  },
-  {
     "title": "Small World Kids Art Party",
     "city": "Mumbai",
     "category": "Kids",
@@ -1116,7 +1100,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czcvYmFubmVycy9iOTFmNmM1MC05ZmI0LTExZjEtYTliNi01ZjNjMzRkOTI1OWItcmltZy13MTIwMC1oNjAwLWRjOThjOGU4LWdtaXIuanBnP3Y9MTc4NzU3MzQwOA.avif",
     "extra": {},
-    "group_id": 63,
+    "group_id": 62,
     "multi_source": false
   },
   {
@@ -1131,6 +1115,22 @@
     "price_max": null,
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czgvYmFubmVycy9lMmJlNzVmMC03OWY0LTExZjEtYWUzNi01ZDU0ZmNkODkwNjktcmltZy13MTIwMC1oNjAwLWRjZDdlYWY1LWdtaXIuanBnP3Y9MTc4MzQyMjgxMQ.avif",
+    "extra": {},
+    "group_id": 63,
+    "multi_source": false
+  },
+  {
+    "title": "Ganpati Idol Making Workshop (Kids)",
+    "city": "Mumbai",
+    "category": "Kids",
+    "source": "AllEvents",
+    "url": "https://allevents.in/mumbai/ganpati-idol-making-workshop-kids/3900030629136929",
+    "date": "2026-09-06",
+    "venue": "ArtVilla Academy, Borivali: Mumbai",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czYvYmFubmVycy8zYWRmM2U5MC1hMzdiLTExZjEtOTk4OC1iZmM2MzhjMzNhNWEtcmltZy13MTIwMC1oNjAwLWRjMTgxODA4LWdtaXIuanBnP3Y9MTc4Nzk4ODUwOA.avif",
     "extra": {},
     "group_id": 64,
     "multi_source": false
@@ -1328,6 +1328,22 @@
     "multi_source": false
   },
   {
+    "title": "Sapan Verma Live",
+    "city": "Delhi NCR",
+    "category": "Comedy",
+    "source": "AllEvents",
+    "url": "https://allevents.in/new-delhi/sapan-verma-live/3900030216167204",
+    "date": "2026-08-30",
+    "venue": "The Laugh Store: DLF Cyberhub, Gurugram",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czQvYmFubmVycy81N2QyNmRjMC02NDkxLTExZjEtYjZlOC0zZGRkNGM4NWZhMzQtcmltZy13MTIwMC1oNjAwLWRjZTgyYTJmLWdtaXIuanBnP3Y9MTc4MTA3MTA4Mw.avif",
+    "extra": {},
+    "group_id": 77,
+    "multi_source": false
+  },
+  {
     "title": "Telling Lies By Aashish Solanki",
     "city": "Delhi NCR",
     "category": "Comedy",
@@ -1340,7 +1356,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEvYmFubmVycy8wNjMzMjYzMC1hMzA3LTExZjEtOTk4OC1iZmM2MzhjMzNhNWEtcmltZy13MTIwMC1oNjAwLWRjZjhlODE4LWdtaXIuanBnP3Y9MTc4NzkzODU5OA.avif",
     "extra": {},
-    "group_id": 77,
+    "group_id": 78,
     "multi_source": false
   },
   {
@@ -1356,7 +1372,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czcvYmFubmVycy8xYjE3NGFiMC1hMmNlLTExZjEtOTk4OC1iZmM2MzhjMzNhNWEtcmltZy13MTIwMC1oNjAwLWRjNzgxODE4LWdtaXIuanBnP3Y9MTc4NzkxNDE3Mw.avif",
     "extra": {},
-    "group_id": 78,
+    "group_id": 79,
     "multi_source": false
   },
   {
@@ -1372,7 +1388,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czkvYmFubmVycy8xNjE2YzE5MC1hMzRmLTExZjEtOTk4OC1iZmM2MzhjMzNhNWEtcmltZy13MTIwMC1oNjAwLWRjMjg2OGE4LWdtaXIuanBnP3Y9MTc4Nzk2OTU1NQ.avif",
     "extra": {},
-    "group_id": 79,
+    "group_id": 80,
     "multi_source": false
   },
   {
@@ -1388,7 +1404,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czkvYmFubmVycy8zZjViNTgzMC1hMzc4LTExZjEtOTk4OC1iZmM2MzhjMzNhNWEtcmltZy13MTIwMC1oNjAwLWRjYzgyODE4LWdtaXIuanBnP3Y9MTc4Nzk4NzIyNw.avif",
     "extra": {},
-    "group_id": 80,
+    "group_id": 81,
     "multi_source": false
   },
   {
@@ -1403,22 +1419,6 @@
     "price_max": null,
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czgvYmFubmVycy83ZmE4YWZjMC1hMzYyLTExZjEtOTk4OC1iZmM2MzhjMzNhNWEtcmltZy13MTIwMC1oNjAwLWRjMTgxODU4LWdtaXIuanBnP3Y9MTc4Nzk3Nzg4Ng.avif",
-    "extra": {},
-    "group_id": 81,
-    "multi_source": false
-  },
-  {
-    "title": "TOXIC - Abhishek Upmanyu Live",
-    "city": "Delhi NCR",
-    "category": "Comedy",
-    "source": "AllEvents",
-    "url": "https://allevents.in/new-delhi/toxic-abhishek-upmanyu-live/3900030586179658",
-    "date": "2026-09-26",
-    "venue": "Kedarnath Sahni Auditorium: Delhi",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czYvYmFubmVycy8zZGIyYjJiMC1hMmYzLTExZjEtOTk4OC1iZmM2MzhjMzNhNWEtcmltZy13MTIwMC1oNjAwLWRjMDg0OGQ4LWdtaXIuanBnP3Y9MTc4NzkzMDEwOA.avif",
     "extra": {},
     "group_id": 82,
     "multi_source": false
@@ -1456,22 +1456,6 @@
     "multi_source": false
   },
   {
-    "title": "Na Ser Na Paair by Manpreet Singh",
-    "city": "Delhi NCR",
-    "category": "Kids",
-    "source": "AllEvents",
-    "url": "https://allevents.in/new-delhi/na-ser-na-paair-by-manpreet-singh/3900030571284212",
-    "date": "2026-09-27",
-    "venue": "Studio XO: Noida",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czYvYmFubmVycy80ZWVkY2ZhMC1hMWZhLTExZjEtOGIwOS00Yjk5ZjhmZTQ4NzItcmltZy13MTIwMC1oNjAwLWRjOTg3OGU4LWdtaXIuanBnP3Y9MTc4NzgyMzIwMw.avif",
-    "extra": {},
-    "group_id": 85,
-    "multi_source": false
-  },
-  {
     "title": "THE ROOM OF MEMORIES",
     "city": "Delhi NCR",
     "category": "Kids",
@@ -1483,6 +1467,22 @@
     "price_max": null,
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4yLmFsbGV2ZW50cy5pbi90aHVtYnMvdGh1bWI2YTRkMTFiODgwZDg5LmpwZw.avif",
+    "extra": {},
+    "group_id": 85,
+    "multi_source": false
+  },
+  {
+    "title": "Na Ser Na Paair by Manpreet Singh",
+    "city": "Delhi NCR",
+    "category": "Kids",
+    "source": "AllEvents",
+    "url": "https://allevents.in/new-delhi/na-ser-na-paair-by-manpreet-singh/3900030571284212",
+    "date": "2026-09-27",
+    "venue": "Studio XO: Noida",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czYvYmFubmVycy81OGJiNGZmMC1hMzgzLTExZjEtOTk4OC1iZmM2MzhjMzNhNWEtcmltZy13MTIwMC1oNjAwLWRjOTg3OGU4LWdtaXIuanBnP3Y9MTc4Nzk5MjAxMQ.avif",
     "extra": {},
     "group_id": 86,
     "multi_source": false
@@ -2010,7 +2010,7 @@
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czcvYmFubmVycy8xMzI1ODg2MC05ZDk5LTExZjEtODBiYi1lYmZhNjYxMmMwOTUtcmltZy13MTIwMC1oNjAwLWRjMDgwODA4LWdtaXIuanBnP3Y9MTc4NzM0MTYyMA.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czkvYmFubmVycy8yODEzMjM0MC1hMzc1LTExZjEtOTk4OC1iZmM2MzhjMzNhNWEtcmltZy13MTIwMC1oNjAwLWRjMDgwODA4LWdtaXIuanBnP3Y9MTc4Nzk4NTkwMA.avif",
     "extra": {},
     "group_id": 119,
     "multi_source": false
