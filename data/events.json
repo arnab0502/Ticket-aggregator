@@ -112,6 +112,22 @@
     "multi_source": false
   },
   {
+    "title": "Abijit Ganguly Live",
+    "city": "Bangalore",
+    "category": "Comedy",
+    "source": "AllEvents",
+    "url": "https://allevents.in/bangalore/abijit-ganguly-live/3900030491178044",
+    "date": "2026-09-13",
+    "venue": "The Comedy Theatre, Indiranagar: Bengaluru",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czcvYmFubmVycy9lN2YwZTNmMC1hNGY2LTExZjEtODM0NS04MTYwZjEzMDZjNjYtcmltZy13MTIwMC1oNjAwLWRjNDgwODA4LWdtaXIuanBnP3Y9MTc4ODE1MTU4Mw.avif",
+    "extra": {},
+    "group_id": 7,
+    "multi_source": false
+  },
+  {
     "title": "I AM WORTH IT ft. Rajat Sood",
     "city": "Bangalore",
     "category": "Comedy",
@@ -124,7 +140,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEwL2Jhbm5lcnMvNTFhZGU3MjAtYTRjNS0xMWYxLTgzNDUtODE2MGYxMzA2YzY2LXJpbWctdzEyMDAtaDYwMC1kYzA4MjgyOC1nbWlyLmpwZz92PTE3ODgxMzAyODY.avif",
     "extra": {},
-    "group_id": 7,
+    "group_id": 8,
     "multi_source": true
   },
   {
@@ -140,7 +156,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czUvYmFubmVycy9hY2MwYTBmMC1hMjk4LTExZjEtOTk4OC1iZmM2MzhjMzNhNWEtcmltZy13MTIwMC1oNjAwLWRjNTgwODI4LWdtaXIuanBnP3Y9MTc4Nzg5MTIwOQ.avif",
     "extra": {},
-    "group_id": 8,
+    "group_id": 9,
     "multi_source": false
   },
   {
@@ -156,24 +172,8 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4yLmFsbGV2ZW50cy5pbi90aHVtYnMvdGh1bWI2OTdiNTFmOWRmZTIxLmpwZw.avif",
     "extra": {},
-    "group_id": 9,
-    "multi_source": false
-  },
-  {
-    "title": "RageBait- A Stand Up Solo By Shubham Shandilya",
-    "city": "Bangalore",
-    "category": "Comedy",
-    "source": "AllEvents",
-    "url": "https://allevents.in/bangalore/ragebait-a-stand-up-solo-by-shubham-shandilya/3900030546664631",
-    "date": "2026-09-12",
-    "venue": "The Comedy Theatre, Church Street: Bengaluru",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czQvYmFubmVycy9mN2NkM2I0MC1hNTVkLTExZjEtODk5MC01ZDA0ZDIzMWEyZGQtcmltZy13MTIwMC1oNjAwLWRjYzgyODE4LWdtaXIuanBnP3Y9MTc4ODE5NTg1NQ.avif",
-    "extra": {},
     "group_id": 10,
-    "multi_source": true
+    "multi_source": false
   },
   {
     "title": "Inder Sahani Live - A Standup Comedy Show",
@@ -202,10 +202,26 @@
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czUvYmFubmVycy82MTFjZWE3MC1hNDJiLTExZjEtOTk4OC1iZmM2MzhjMzNhNWEtcmltZy13MTIwMC1oNjAwLWRjMTgxODU4LWdtaXIuanBnP3Y9MTc4ODA2NDE3MA.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czYvYmFubmVycy9iNjJhZTAyMC1hNjI1LTExZjEtODk5MC01ZDA0ZDIzMWEyZGQtcmltZy13MTIwMC1oNjAwLWRjMTgxODU4LWdtaXIuanBnP3Y9MTc4ODI4MTYzOA.avif",
     "extra": {},
     "group_id": 12,
     "multi_source": false
+  },
+  {
+    "title": "RageBait- A Stand Up Solo By Shubham Shandilya",
+    "city": "Bangalore",
+    "category": "Comedy",
+    "source": "AllEvents",
+    "url": "https://allevents.in/bangalore/ragebait-a-stand-up-solo-by-shubham-shandilya/3900030525350120",
+    "date": "2026-09-12",
+    "venue": "Venue To Be Announced: Bengaluru",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czcvYmFubmVycy8yZDI5ODA1MC05NDM4LTExZjEtYjlmMS04Mzg0NzM2ODk3MjgtcmltZy13MTIwMC1oNjAwLWRjYzgyODE4LWdtaXIuanBnP3Y9MTc4NjMxMDQ3Ng.avif",
+    "extra": {},
+    "group_id": 13,
+    "multi_source": true
   },
   {
     "title": "Rock Bottom - A Standup Solo By Shubham Pujari",
@@ -219,22 +235,6 @@
     "price_max": null,
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czQvYmFubmVycy8xNjUwNWQ0MC1hMzUxLTExZjEtOTk4OC1iZmM2MzhjMzNhNWEtcmltZy13MTIwMC1oNjAwLWRjMDgwODA4LWdtaXIuanBnP3Y9MTc4Nzk3MDQyOQ.avif",
-    "extra": {},
-    "group_id": 13,
-    "multi_source": false
-  },
-  {
-    "title": "MIND THE (GENERATION) GAP !!",
-    "city": "Bangalore",
-    "category": "Comedy",
-    "source": "AllEvents",
-    "url": "https://allevents.in/bangalore/mind-the-generation-gap/3900030600821116",
-    "date": "2026-09-12",
-    "venue": "Atta Galatta: Indiranagar",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czUvYmFubmVycy81ZmEyNzRhMC1hNGM5LTExZjEtODM0NS04MTYwZjEzMDZjNjYtcmltZy13MTIwMC1oNjAwLWRjMDgwODA4LWdtaXIuanBnP3Y9MTc4ODEzMjAyMg.avif",
     "extra": {},
     "group_id": 14,
     "multi_source": false
@@ -432,6 +432,22 @@
     "multi_source": false
   },
   {
+    "title": "Festival Meetup",
+    "city": "Bangalore",
+    "category": "Kids",
+    "source": "AllEvents",
+    "url": "https://allevents.in/bangalore/festival-meetup-tickets/80004786026331",
+    "date": "2026-09-12",
+    "venue": "The Elite Royale",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4yLmFsbGV2ZW50cy5pbi90aHVtYnMvdGh1bWI2YTk2YzNmNDFmY2Q2LmpwZw.avif",
+    "extra": {},
+    "group_id": 22,
+    "multi_source": false
+  },
+  {
     "title": "Carnival Edition 2026",
     "city": "Bangalore",
     "category": "Kids",
@@ -443,22 +459,6 @@
     "price_max": null,
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czMvYmFubmVycy9lMGJmYmQ5MC05OWEyLTExZjEtOWE0MC03YjkwZGU3MjAxMjUtcmltZy13MTIwMC1oNjc1LWRjZjhlOGI4LWdtaXIucG5nP3Y9MTc4NjkwNjAyNg.avif",
-    "extra": {},
-    "group_id": 22,
-    "multi_source": false
-  },
-  {
-    "title": "Doodle Workshop for Kids",
-    "city": "Bangalore",
-    "category": "Kids",
-    "source": "AllEvents",
-    "url": "https://allevents.in/bangalore/doodle-workshop-for-kids/3900030527037927",
-    "date": "2026-09-05",
-    "venue": "Casa Fresco: Indiranagar",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEwL2Jhbm5lcnMvYmI0ODNlZjAtYTRjNi0xMWYxLTgzNDUtODE2MGYxMzA2YzY2LXJpbWctdzEyMDAtaDYwMC1kY2Y4ZjhmOC1nbWlyLmpwZz92PTE3ODgxMzA4ODc.avif",
     "extra": {},
     "group_id": 23,
     "multi_source": false
@@ -954,7 +954,7 @@
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czcvYmFubmVycy83MGMwZGYwMC1hNDE2LTExZjEtOTk4OC1iZmM2MzhjMzNhNWEtcmltZy13MTIwMC1oNjAwLWRjZjhlOGM4LWdtaXIuanBnP3Y9MTc4ODA1NTE3MQ.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czMvYmFubmVycy8zZTQ4YWI4MC1hNWYwLTExZjEtODk5MC01ZDA0ZDIzMWEyZGQtcmltZy13MTIwMC1oNjAwLWRjZjhlOGM4LWdtaXIuanBnP3Y9MTc4ODI1ODY2OA.avif",
     "extra": {},
     "group_id": 54,
     "multi_source": false
@@ -970,7 +970,7 @@
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czUvYmFubmVycy82MTFjZWE3MC1hNDJiLTExZjEtOTk4OC1iZmM2MzhjMzNhNWEtcmltZy13MTIwMC1oNjAwLWRjMTgxODU4LWdtaXIuanBnP3Y9MTc4ODA2NDE4NA.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czYvYmFubmVycy9iNjJhZTAyMC1hNjI1LTExZjEtODk5MC01ZDA0ZDIzMWEyZGQtcmltZy13MTIwMC1oNjAwLWRjMTgxODU4LWdtaXIuanBnP3Y9MTc4ODI4MTY1Mg.avif",
     "extra": {},
     "group_id": 55,
     "multi_source": false
@@ -989,22 +989,6 @@
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czkvYmFubmVycy8wYzRkY2IyMC03YjI0LTExZjEtODc4YS03MWExOTgyZTk4MzAtcmltZy13MTIwMC1oNjAwLWRjMTcxMDE3LWdtaXIuanBnP3Y9MTc4MzU1MzAxOA.avif",
     "extra": {},
     "group_id": 56,
-    "multi_source": false
-  },
-  {
-    "title": "Ganpati making",
-    "city": "Mumbai",
-    "category": "Kids",
-    "source": "AllEvents",
-    "url": "https://allevents.in/mumbai/ganpati-making/3900030583562753",
-    "date": "2026-09-06",
-    "venue": "Third Wave Coffee: Lokhandwala",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEvYmFubmVycy9hNzFmMDFmMC1hNWVmLTExZjEtODk5MC01ZDA0ZDIzMWEyZGQtcmltZy13MTIwMC1oNjAwLWRjZjhmOGY4LWdtaXIuanBnP3Y9MTc4ODI1ODQxNA.avif",
-    "extra": {},
-    "group_id": 54,
     "multi_source": false
   },
   {
@@ -1028,13 +1012,13 @@
     "city": "Mumbai",
     "category": "Kids",
     "source": "AllEvents",
-    "url": "https://allevents.in/mumbai/chembur-kids-carnival/3900030046702643",
+    "url": "https://allevents.in/mumbai/chembur-kids-carnival/3900029794343939",
     "date": "2026-10-31",
     "venue": "St. Anthony`s Homes Co-Operative Society: Mumbai",
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEvYmFubmVycy8wOGQ0NmMwMC01ZmJlLTExZjEtYjE2Zi0wZjlmNDY5NWIwYzQtcmltZy13MTIwMC1oNjAwLWRjZDdlYWY1LWdtaXIuanBnP3Y9MTc4MDU0MDUyMg.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czgvYmFubmVycy9lMmJlNzVmMC03OWY0LTExZjEtYWUzNi01ZDU0ZmNkODkwNjktcmltZy13MTIwMC1oNjAwLWRjZDdlYWY1LWdtaXIuanBnP3Y9MTc4MzQyMjgxMQ.avif",
     "extra": {},
     "group_id": 58,
     "multi_source": false
@@ -1162,7 +1146,7 @@
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czcvYmFubmVycy9iM2NiNTQ2MC1hM2Y4LTExZjEtOTk4OC1iZmM2MzhjMzNhNWEtcmltZy13MTIwMC1oNjAwLWRjNzgxODE4LWdtaXIuanBnP3Y9MTc4ODA0MjQwOQ.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czYvYmFubmVycy8wOGVmMTgwMC1hNjFmLTExZjEtODk5MC01ZDA0ZDIzMWEyZGQtcmltZy13MTIwMC1oNjAwLWRjNzgxODE4LWdtaXIuanBnP3Y9MTc4ODI3ODc3Nw.avif",
     "extra": {},
     "group_id": 66,
     "multi_source": false
@@ -1194,7 +1178,7 @@
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czgvYmFubmVycy9jN2E4YTRiMC1hNDE2LTExZjEtOTk4OC1iZmM2MzhjMzNhNWEtcmltZy13MTIwMC1oNjAwLWRjMjg2OGE4LWdtaXIuanBnP3Y9MTc4ODA1NTMyMg.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czMvYmFubmVycy80OTRiZDZlMC1hNjFmLTExZjEtODk5MC01ZDA0ZDIzMWEyZGQtcmltZy13MTIwMC1oNjAwLWRjMjg2OGE4LWdtaXIuanBnP3Y9MTc4ODI3ODg3OA.avif",
     "extra": {},
     "group_id": 68,
     "multi_source": false
@@ -1274,7 +1258,7 @@
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czUvYmFubmVycy82MTFjZWE3MC1hNDJiLTExZjEtOTk4OC1iZmM2MzhjMzNhNWEtcmltZy13MTIwMC1oNjAwLWRjMTgxODU4LWdtaXIuanBnP3Y9MTc4ODA2NDE2NA.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czYvYmFubmVycy9iNjJhZTAyMC1hNjI1LTExZjEtODk5MC01ZDA0ZDIzMWEyZGQtcmltZy13MTIwMC1oNjAwLWRjMTgxODU4LWdtaXIuanBnP3Y9MTc4ODI4MTYzMg.avif",
     "extra": {},
     "group_id": 73,
     "multi_source": false
@@ -1392,6 +1376,22 @@
     "multi_source": false
   },
   {
+    "title": "Stress Free Parenting",
+    "city": "Delhi NCR",
+    "category": "Kids",
+    "source": "AllEvents",
+    "url": "https://allevents.in/new-delhi/stress-free-parenting/100001999245144044",
+    "date": "2026-09-01",
+    "venue": "Shikshalaya Pre-School",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czIvYmFubmVycy8yOTJhYWM5OThkNzZiMWFhOTcwZGM2NjBiYzRjNjRmMmEwMzY2NmVlYjNkODc2OTQ2OWZlNTMyYjJhZmVlMzJlLXJpbWctdzEyMDAtaDkwMC1kY2M4YzhiOC1nbWlyLmpwZz92PTE3ODgyMTQ4Nzk.avif",
+    "extra": {},
+    "group_id": 81,
+    "multi_source": false
+  },
+  {
     "title": "Paper Quilling Ganesha - Ganesh Chaturthi Special",
     "city": "Delhi NCR",
     "category": "Kids",
@@ -1404,7 +1404,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czMvYmFubmVycy83YjdkZjRiMC1hNGM5LTExZjEtODM0NS04MTYwZjEzMDZjNjYtcmltZy13MTIwMC1oNjAwLWRjZjhmOGY4LWdtaXIuanBnP3Y9MTc4ODEzMjA2OQ.avif",
     "extra": {},
-    "group_id": 81,
+    "group_id": 82,
     "multi_source": false
   },
   {
@@ -1418,9 +1418,9 @@
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czUvYmFubmVycy8yNzUwMWYzMC1hMzY2LTExZjEtOTk4OC1iZmM2MzhjMzNhNWEtcmltZy13MTIwMC1oNjAwLWRjZjhmOGY4LWdtaXIuanBnP3Y9MTc4Nzk3OTQ1Ng.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czUvYmFubmVycy9kMTdlOTc5MC1hNWVlLTExZjEtODk5MC01ZDA0ZDIzMWEyZGQtcmltZy13MTIwMC1oNjAwLWRjZjhmOGY4LWdtaXIuanBnP3Y9MTc4ODI1ODA1Ng.avif",
     "extra": {},
-    "group_id": 82,
+    "group_id": 83,
     "multi_source": false
   },
   {
@@ -1436,7 +1436,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEvYmFubmVycy9kNzIwMjFiMC1hNDY3LTExZjEtODM0NS04MTYwZjEzMDZjNjYtcmltZy13MTIwMC1oNjAwLWRjZjhmOGY4LWdtaXIuanBnP3Y9MTc4ODA5MDEzMg.avif",
     "extra": {},
-    "group_id": 83,
+    "group_id": 84,
     "multi_source": false
   },
   {
@@ -1452,7 +1452,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czUvYmFubmVycy83M2Y1NmVlMC04ZjU2LTExZjEtYTMzYS1mNzE1MDY2MmE1YWEtcmltZy13MTIwMC1oNjAwLWRjMTgwODM4LWdtaXIuanBnP3Y9MTc4NTc3MzY5MA.avif",
     "extra": {},
-    "group_id": 84,
+    "group_id": 85,
     "multi_source": false
   },
   {
@@ -1468,7 +1468,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czQvYmFubmVycy9kZmY2MjFlMC1hNTVjLTExZjEtODk5MC01ZDA0ZDIzMWEyZGQtcmltZy13MTIwMC1oNjAwLWRjMjgyODI4LWdtaXIuanBnP3Y9MTc4ODE5NTM3OQ.avif",
     "extra": {},
-    "group_id": 85,
+    "group_id": 86,
     "multi_source": false
   },
   {
@@ -1484,7 +1484,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czcvYmFubmVycy83MDE0YjkzMC1hMzU1LTExZjEtOTk4OC1iZmM2MzhjMzNhNWEtcmltZy13MTIwMC1oNjAwLWRjZjhlOGM4LWdtaXIuanBnP3Y9MTc4Nzk3MjI3Nw.avif",
     "extra": {},
-    "group_id": 86,
+    "group_id": 87,
     "multi_source": false
   },
   {
@@ -1500,7 +1500,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4yLmFsbGV2ZW50cy5pbi90aHVtYnMvdGh1bWI2YThjMWUxYTg2NDA5LmpwZw.avif",
     "extra": {},
-    "group_id": 87,
+    "group_id": 88,
     "multi_source": false
   },
   {
@@ -1516,7 +1516,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czYvYmFubmVycy83NjdlNjYxMC1hMzEyLTExZjEtOTk4OC1iZmM2MzhjMzNhNWEtcmltZy13MTIwMC1oNjAwLWRjMDgwODA4LWdtaXIuanBnP3Y9MTc4Nzk0MzUxMQ.avif",
     "extra": {},
-    "group_id": 88,
+    "group_id": 89,
     "multi_source": false
   },
   {
@@ -1530,9 +1530,9 @@
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czUvYmFubmVycy8xMDc2ODQ1NzBlN2NmNjU1OTUwZWIzMjY4Nzk3NDI5YzJmOWQzOTEwMzcxNDVjOGE3ZGNmNThjMjZlY2ZjY2Q2LXJpbWctdzEyMDAtaDYyOC1kY2Y4ZjhmOC1nbWlyP3Y9MTc4NzYxMDAwOQ.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czUvYmFubmVycy8xMDc2ODQ1NzBlN2NmNjU1OTUwZWIzMjY4Nzk3NDI5YzJmOWQzOTEwMzcxNDVjOGE3ZGNmNThjMjZlY2ZjY2Q2LXJpbWctdzEyMDAtaDYyOC1kY2Y4ZjhmOC1nbWlyP3Y9MTc4ODI1MTM0OQ.avif",
     "extra": {},
-    "group_id": 89,
+    "group_id": 90,
     "multi_source": false
   },
   {
@@ -1547,22 +1547,6 @@
     "price_max": null,
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czcvYmFubmVycy8zNGVkYzRjZmRlMmYxZWFkZjk0ZjBhMTM1ODhlYWI3MzA0NzlhMThiMzBmMWZjYThhNDc1ZjI4OWJlMWEyMTU4LXJpbWctdzEyMDAtaDYyOC1kY2Y4ZThlOC1nbWlyP3Y9MTc4ODE5OTU2OA.avif",
-    "extra": {},
-    "group_id": 90,
-    "multi_source": false
-  },
-  {
-    "title": "Stress Free Parenting",
-    "city": "Delhi NCR",
-    "category": "Kids",
-    "source": "AllEvents",
-    "url": "https://allevents.in/new-delhi/stress-free-parenting/100001999245144044",
-    "date": "2026-09-01",
-    "venue": "Shikshalaya Pre-School",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czIvYmFubmVycy8yOTJhYWM5OThkNzZiMWFhOTcwZGM2NjBiYzRjNjRmMmEwMzY2NmVlYjNkODc2OTQ2OWZlNTMyYjJhZmVlMzJlLXJpbWctdzEyMDAtaDkwMC1kY2M4YzhiOC1nbWlyLmpwZz92PTE3ODgyMTQ4Nzk.avif",
     "extra": {},
     "group_id": 91,
     "multi_source": false
@@ -2172,7 +2156,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 10,
+    "group_id": 13,
     "multi_source": true
   },
   {
@@ -2380,7 +2364,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 7,
+    "group_id": 8,
     "multi_source": true
   },
   {
@@ -14368,6 +14352,22 @@
     "multi_source": false
   },
   {
+    "title": "Mouse",
+    "city": "All USA",
+    "category": "Movies",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Mouse_(2026_film)",
+    "date": "2026-11-06T00:00:00",
+    "venue": "In cinemas",
+    "price_min": null,
+    "price_max": null,
+    "currency": "USD",
+    "image": "",
+    "extra": {},
+    "group_id": 748,
+    "multi_source": false
+  },
+  {
     "title": "Jimmy",
     "city": "All USA",
     "category": "Movies",
@@ -14380,7 +14380,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 748,
+    "group_id": 749,
     "multi_source": false
   },
   {
@@ -14396,7 +14396,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 749,
+    "group_id": 750,
     "multi_source": false
   },
   {
@@ -14412,7 +14412,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 750,
+    "group_id": 751,
     "multi_source": false
   },
   {
@@ -14428,7 +14428,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 751,
+    "group_id": 752,
     "multi_source": false
   },
   {
@@ -14444,7 +14444,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 752,
+    "group_id": 753,
     "multi_source": false
   },
   {
@@ -14460,7 +14460,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 753,
+    "group_id": 754,
     "multi_source": false
   },
   {
@@ -14476,7 +14476,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 754,
+    "group_id": 755,
     "multi_source": false
   },
   {
@@ -14492,7 +14492,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 755,
+    "group_id": 756,
     "multi_source": false
   },
   {
@@ -14508,7 +14508,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 756,
+    "group_id": 757,
     "multi_source": false
   },
   {
@@ -14524,7 +14524,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 757,
+    "group_id": 758,
     "multi_source": false
   },
   {
@@ -14540,7 +14540,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 758,
+    "group_id": 759,
     "multi_source": false
   },
   {
@@ -14556,7 +14556,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 759,
+    "group_id": 760,
     "multi_source": false
   },
   {
@@ -14572,7 +14572,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 760,
+    "group_id": 761,
     "multi_source": false
   },
   {
@@ -14588,7 +14588,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 761,
+    "group_id": 762,
     "multi_source": false
   },
   {
@@ -14604,7 +14604,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 762,
+    "group_id": 763,
     "multi_source": false
   },
   {
@@ -14620,7 +14620,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 763,
+    "group_id": 764,
     "multi_source": false
   },
   {
@@ -14636,7 +14636,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 764,
+    "group_id": 765,
     "multi_source": false
   },
   {
@@ -14652,7 +14652,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 765,
+    "group_id": 766,
     "multi_source": false
   },
   {
@@ -14668,7 +14668,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 766,
+    "group_id": 767,
     "multi_source": false
   },
   {
@@ -14684,7 +14684,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 767,
+    "group_id": 768,
     "multi_source": false
   },
   {
@@ -14700,7 +14700,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 768,
+    "group_id": 769,
     "multi_source": false
   },
   {
@@ -14716,7 +14716,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 769,
+    "group_id": 770,
     "multi_source": false
   },
   {
@@ -14732,7 +14732,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 770,
+    "group_id": 771,
     "multi_source": false
   },
   {
@@ -14748,7 +14748,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 771,
+    "group_id": 772,
     "multi_source": false
   },
   {
@@ -14764,7 +14764,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 772,
+    "group_id": 773,
     "multi_source": false
   },
   {
@@ -14780,7 +14780,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 773,
+    "group_id": 774,
     "multi_source": false
   },
   {
@@ -14796,7 +14796,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 774,
+    "group_id": 775,
     "multi_source": false
   },
   {
@@ -14812,7 +14812,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 775,
+    "group_id": 776,
     "multi_source": false
   },
   {
@@ -14828,7 +14828,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 776,
+    "group_id": 777,
     "multi_source": false
   },
   {
@@ -14844,7 +14844,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 777,
+    "group_id": 778,
     "multi_source": false
   },
   {
@@ -14860,7 +14860,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 778,
+    "group_id": 779,
     "multi_source": false
   },
   {
@@ -14876,7 +14876,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 779,
+    "group_id": 780,
     "multi_source": false
   },
   {
@@ -14892,7 +14892,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 780,
+    "group_id": 781,
     "multi_source": false
   },
   {
@@ -14908,7 +14908,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 781,
+    "group_id": 782,
     "multi_source": false
   },
   {
@@ -14924,7 +14924,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 782,
+    "group_id": 783,
     "multi_source": false
   },
   {
@@ -14940,7 +14940,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 783,
+    "group_id": 784,
     "multi_source": false
   },
   {
@@ -14956,7 +14956,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 784,
+    "group_id": 785,
     "multi_source": false
   },
   {
@@ -14972,7 +14972,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 785,
+    "group_id": 786,
     "multi_source": false
   }
 ]
