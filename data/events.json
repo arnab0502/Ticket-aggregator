@@ -288,17 +288,17 @@
     "multi_source": false
   },
   {
-    "title": "THE ROOM OF MEMORIES MLR 24th 4PM",
+    "title": "Traya Utsav- Chapter 2.0",
     "city": "Bangalore",
     "category": "Kids",
     "source": "AllEvents",
-    "url": "https://allevents.in/bangalore/the-room-of-memories-mlr-24th-4pm-tickets/80003400916253",
-    "date": "2026-10-24",
-    "venue": "MLR Cultural Centre",
+    "url": "https://allevents.in/bangalore/traya-utsav-chapter-20-tickets/80001240771606",
+    "date": "2026-10-10",
+    "venue": "Jayamahal Palace Exhibition Center",
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4yLmFsbGV2ZW50cy5pbi90aHVtYnMvdGh1bWI2YTRkMTFiODgwZDg5LmpwZw.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4yLmFsbGV2ZW50cy5pbi90aHVtYnMvdGh1bWI2YTk1MWRlYzU0NDhlLmpwZw.avif",
     "extra": {},
     "group_id": 17,
     "multi_source": false
@@ -316,7 +316,23 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4yLmFsbGV2ZW50cy5pbi90aHVtYnMvdGh1bWI2YTRkMTFiODgwZDg5LmpwZw.avif",
     "extra": {},
-    "group_id": 17,
+    "group_id": 18,
+    "multi_source": false
+  },
+  {
+    "title": "THE ROOM OF MEMORIES MLR 24th 4PM",
+    "city": "Bangalore",
+    "category": "Kids",
+    "source": "AllEvents",
+    "url": "https://allevents.in/bangalore/the-room-of-memories-mlr-24th-4pm-tickets/80003400916253",
+    "date": "2026-10-24",
+    "venue": "MLR Cultural Centre",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4yLmFsbGV2ZW50cy5pbi90aHVtYnMvdGh1bWI2YTRkMTFiODgwZDg5LmpwZw.avif",
+    "extra": {},
+    "group_id": 18,
     "multi_source": false
   },
   {
@@ -332,7 +348,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4yLmFsbGV2ZW50cy5pbi90aHVtYnMvdGh1bWI2YTRkMTFiODgwZDg5LmpwZw.avif",
     "extra": {},
-    "group_id": 17,
+    "group_id": 18,
     "multi_source": false
   },
   {
@@ -348,7 +364,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czYvYmFubmVycy9hNmZkMzdiMC1hNGIzLTExZjEtODM0NS04MTYwZjEzMDZjNjYtcmltZy13MTIwMC1oNjAwLWRjMTgwODA4LWdtaXIuanBnP3Y9MTc4ODEyMjY5Mw.avif",
     "extra": {},
-    "group_id": 18,
+    "group_id": 19,
     "multi_source": true
   },
   {
@@ -364,7 +380,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czgvYmFubmVycy8wNGUxODk3ZmFkYjI4NTRlNjZjOGMzNTg3NzRlNDk0MGRlMGQxMWFlZjFjZmM5ZjIxMWEwMjQ0YWQwMGNiNjFkLXJpbWctdzEyMDAtaDYwMC1kY2Q5ZGNkZC1nbWlyLmpwZz92PTE3ODUxMzQ4NzI.avif",
     "extra": {},
-    "group_id": 19,
+    "group_id": 20,
     "multi_source": false
   },
   {
@@ -380,7 +396,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4yLmFsbGV2ZW50cy5pbi90aHVtYnMvdGh1bWI2YTRkMTFiODgwZDg5LmpwZw.avif",
     "extra": {},
-    "group_id": 17,
+    "group_id": 18,
     "multi_source": false
   },
   {
@@ -396,7 +412,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4yLmFsbGV2ZW50cy5pbi90aHVtYnMvdGh1bWI2YTRkMTFiODgwZDg5LmpwZw.avif",
     "extra": {},
-    "group_id": 17,
+    "group_id": 18,
     "multi_source": false
   },
   {
@@ -412,7 +428,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEvYmFubmVycy8wNmYyMDE1MC01ZDU2LTExZjEtOGFiYy04NWUwMmJjM2UwZWQtcmltZy13MTIwMC1oNjAwLWRjZWU0NDc5LWdtaXIuanBnP3Y9MTc4MDI3NTk0OQ.avif",
     "extra": {},
-    "group_id": 20,
+    "group_id": 21,
     "multi_source": false
   },
   {
@@ -428,7 +444,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czMvYmFubmVycy9lMGJmYmQ5MC05OWEyLTExZjEtOWE0MC03YjkwZGU3MjAxMjUtcmltZy13MTIwMC1oNjc1LWRjZjhlOGI4LWdtaXIucG5nP3Y9MTc4NjkwNjAyNg.avif",
     "extra": {},
-    "group_id": 21,
+    "group_id": 22,
     "multi_source": false
   },
   {
@@ -443,22 +459,6 @@
     "price_max": null,
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEwL2Jhbm5lcnMvYmI0ODNlZjAtYTRjNi0xMWYxLTgzNDUtODE2MGYxMzA2YzY2LXJpbWctdzEyMDAtaDYwMC1kY2Y4ZjhmOC1nbWlyLmpwZz92PTE3ODgxMzA4ODc.avif",
-    "extra": {},
-    "group_id": 22,
-    "multi_source": false
-  },
-  {
-    "title": "City to Summit - Shivagange Trek - September",
-    "city": "Bangalore",
-    "category": "Kids",
-    "source": "AllEvents",
-    "url": "https://allevents.in/bengaluru/city-to-summit-shivagange-trek-september/100001996996735995",
-    "date": "2026-09-26",
-    "venue": "Around Big Cities",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czMvYmFubmVycy85ZWEzOGViYjY3YTAyYjc2MDA3ZWE1ZGFiODQwOTdkNTgxOTZjNTRmZTk0YTY4ZmM5NzFiMjdiZjM0NDljOTA2LXJpbWctdzEyMDAtaDYwMC1kYzA4MTgyOC1nbWlyLmpwZz92PTE3ODYyNDgzMTY.avif",
     "extra": {},
     "group_id": 23,
     "multi_source": false
@@ -624,6 +624,22 @@
     "multi_source": false
   },
   {
+    "title": "Holly Bolly Ladies Night",
+    "city": "Bangalore",
+    "category": "Nightlife",
+    "source": "AllEvents",
+    "url": "https://allevents.in/bangalore/holly-bolly-ladies-night/3900029813088250",
+    "date": "2026-09-06",
+    "venue": "Blurred: Bengaluru",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czcvYmFubmVycy81MzM0NTZkMC00YjcyLTExZjEtYTk5NS1hZmMxMjI4NzkxMmQtcmltZy13MTIwMC1oNjAwLWRjMDMwMjE2LWdtaXIuanBnP3Y9MTc3ODMwODk4Mg.avif",
+    "extra": {},
+    "group_id": 34,
+    "multi_source": false
+  },
+  {
     "title": "The Red Room Heist Wednesday Experience",
     "city": "Bangalore",
     "category": "Nightlife",
@@ -636,7 +652,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEvYmFubmVycy9iZTQ0ZDhkMC03MzEwLTExZjEtYmY0Ny0yYjY4ZTczYTljODEtcmltZy13MTIwMC1oNjAwLWRjNDcwNTA2LWdtaXIuanBnP3Y9MTc4MjY2NTExNw.avif",
     "extra": {},
-    "group_id": 34,
+    "group_id": 35,
     "multi_source": false
   },
   {
@@ -651,22 +667,6 @@
     "price_max": null,
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czIvYmFubmVycy8zZmQ5OGJjMC03YjVlLTExZjEtODc4YS03MWExOTgyZTk4MzAtcmltZy13MTIwMC1oNjAwLWRjMDQwMzAzLWdtaXIuanBnP3Y9MTc4MzU3ODAxNQ.avif",
-    "extra": {},
-    "group_id": 35,
-    "multi_source": false
-  },
-  {
-    "title": "KANNADA KICK NIGHT",
-    "city": "Bangalore",
-    "category": "Nightlife",
-    "source": "AllEvents",
-    "url": "https://allevents.in/bangalore/kannada-kick-night/3900030301949032",
-    "date": "2026-09-03",
-    "venue": "BudBee Restobar 104: Bengaluru",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czUvYmFubmVycy85NzJmYmVmMC03YjQzLTExZjEtYmRmYy0yMzQyYmZkMDEwOTYtcmltZy13MTIwMC1oNjAwLWRjMmYwNzE4LWdtaXIuanBnP3Y9MTc4MzU2NjU2NQ.avif",
     "extra": {},
     "group_id": 36,
     "multi_source": false
@@ -768,22 +768,6 @@
     "multi_source": false
   },
   {
-    "title": "Rock Bottom - A Standup Solo By Shubham Pujari",
-    "city": "Mumbai",
-    "category": "Comedy",
-    "source": "AllEvents",
-    "url": "https://allevents.in/mumbai/rock-bottom-a-standup-solo-by-shubham-pujari/3900030064034738",
-    "date": "2026-09-05",
-    "venue": "The Habitat: Mumbai",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czUvYmFubmVycy83NzczOTgxMC02NDMzLTExZjEtOTUxYy1jOTQyYjdiMWVjYzUtcmltZy13MTIwMC1oNjAwLWRjNDcwMjAyLWdtaXIuanBnP3Y9MTc4MTAzMDc2Mw.avif",
-    "extra": {},
-    "group_id": 43,
-    "multi_source": false
-  },
-  {
     "title": "Not a Crowdwork Comedy Show",
     "city": "Mumbai",
     "category": "Comedy",
@@ -796,7 +780,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czMvYmFubmVycy8yYjhiNGM3MC03YWQ4LTExZjEtOWM1Zi1iMTViZDU2NTY1MDktcmltZy13MTIwMC1oNjAwLWRjMDIwNjE4LWdtaXIuanBnP3Y9MTc4MzUyMDQyOA.avif",
     "extra": {},
-    "group_id": 44,
+    "group_id": 43,
     "multi_source": false
   },
   {
@@ -812,7 +796,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czgvYmFubmVycy82OGViNWM4MC1hNTVlLTExZjEtODk5MC01ZDA0ZDIzMWEyZGQtcmltZy13MTIwMC1oNjAwLWRjZThlOGU4LWdtaXIuanBnP3Y9MTc4ODE5NjAzMw.avif",
     "extra": {},
-    "group_id": 45,
+    "group_id": 44,
     "multi_source": false
   },
   {
@@ -828,7 +812,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czMvYmFubmVycy80ZTg2MGE0MC05NDVlLTExZjEtYjlmMS04Mzg0NzM2ODk3MjgtcmltZy13MTIwMC1oNjAwLWRjZDhkOGQ4LWdtaXIuanBnP3Y9MTc4NjMyNjgxOQ.avif",
     "extra": {},
-    "group_id": 46,
+    "group_id": 45,
     "multi_source": false
   },
   {
@@ -843,6 +827,22 @@
     "price_max": null,
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czcvYmFubmVycy9iM2NiNTQ2MC1hM2Y4LTExZjEtOTk4OC1iZmM2MzhjMzNhNWEtcmltZy13MTIwMC1oNjAwLWRjNzgxODE4LWdtaXIuanBnP3Y9MTc4ODA0MjQwNA.avif",
+    "extra": {},
+    "group_id": 46,
+    "multi_source": false
+  },
+  {
+    "title": "Rock Bottom - A Standup Solo By Shubham Pujari",
+    "city": "Mumbai",
+    "category": "Comedy",
+    "source": "AllEvents",
+    "url": "https://allevents.in/mumbai/rock-bottom-a-standup-solo-by-shubham-pujari/3900030064034738",
+    "date": "2026-09-05",
+    "venue": "The Habitat: Mumbai",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czUvYmFubmVycy83NzczOTgxMC02NDMzLTExZjEtOTUxYy1jOTQyYjdiMWVjYzUtcmltZy13MTIwMC1oNjAwLWRjNDcwMjAyLWdtaXIuanBnP3Y9MTc4MTAzMDc2Mw.avif",
     "extra": {},
     "group_id": 47,
     "multi_source": false
@@ -992,6 +992,22 @@
     "multi_source": false
   },
   {
+    "title": "Ganpati making",
+    "city": "Mumbai",
+    "category": "Kids",
+    "source": "AllEvents",
+    "url": "https://allevents.in/mumbai/ganpati-making/3900030583562753",
+    "date": "2026-09-06",
+    "venue": "Third Wave Coffee: Lokhandwala",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEvYmFubmVycy9hNzFmMDFmMC1hNWVmLTExZjEtODk5MC01ZDA0ZDIzMWEyZGQtcmltZy13MTIwMC1oNjAwLWRjZjhmOGY4LWdtaXIuanBnP3Y9MTc4ODI1ODQxNA.avif",
+    "extra": {},
+    "group_id": 54,
+    "multi_source": false
+  },
+  {
     "title": "Gorillaz The Mountain Tour 2027",
     "city": "Mumbai",
     "category": "Kids",
@@ -1012,13 +1028,13 @@
     "city": "Mumbai",
     "category": "Kids",
     "source": "AllEvents",
-    "url": "https://allevents.in/mumbai/chembur-kids-carnival/3900029794343939",
+    "url": "https://allevents.in/mumbai/chembur-kids-carnival/3900030046702643",
     "date": "2026-10-31",
     "venue": "St. Anthony`s Homes Co-Operative Society: Mumbai",
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czgvYmFubmVycy9lMmJlNzVmMC03OWY0LTExZjEtYWUzNi01ZDU0ZmNkODkwNjktcmltZy13MTIwMC1oNjAwLWRjZDdlYWY1LWdtaXIuanBnP3Y9MTc4MzQyMjgxMQ.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEvYmFubmVycy8wOGQ0NmMwMC01ZmJlLTExZjEtYjE2Zi0wZjlmNDY5NWIwYzQtcmltZy13MTIwMC1oNjAwLWRjZDdlYWY1LWdtaXIuanBnP3Y9MTc4MDU0MDUyMg.avif",
     "extra": {},
     "group_id": 58,
     "multi_source": false
@@ -1162,7 +1178,7 @@
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czkvYmFubmVycy83MDUwNGIyMC1hMzFmLTExZjEtOTk4OC1iZmM2MzhjMzNhNWEtcmltZy13MTIwMC1oNjAwLWRjMjg2OGE4LWdtaXIuanBnP3Y9MTc4Nzk0OTA4NA.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czYvYmFubmVycy81MzllMjYxMC1hNWQwLTExZjEtODk5MC01ZDA0ZDIzMWEyZGQtcmltZy13MTIwMC1oNjAwLWRjMjg2OGE4LWdtaXIuanBnP3Y9MTc4ODI0NDk2MA.avif",
     "extra": {},
     "group_id": 67,
     "multi_source": false
@@ -1184,6 +1200,22 @@
     "multi_source": false
   },
   {
+    "title": "Telling Lies By Aashish Solanki",
+    "city": "Delhi NCR",
+    "category": "Comedy",
+    "source": "AllEvents",
+    "url": "https://allevents.in/new-delhi/telling-lies-by-aashish-solanki/3900030387575435",
+    "date": "2026-09-12",
+    "venue": "The Laugh Casa, Rcube Monad Mall: Noida",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czkvYmFubmVycy82ODljMmZlMC1hNTAyLTExZjEtODM0NS04MTYwZjEzMDZjNjYtcmltZy13MTIwMC1oNjAwLWRjZjhlODE4LWdtaXIuanBnP3Y9MTc4ODE1NjUxOA.avif",
+    "extra": {},
+    "group_id": 69,
+    "multi_source": false
+  },
+  {
     "title": "CRY DADDY By Anirban Dasgupta",
     "city": "Delhi NCR",
     "category": "Comedy",
@@ -1196,7 +1228,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czQvYmFubmVycy8xM2I2MmE3MC1hNGZlLTExZjEtODM0NS04MTYwZjEzMDZjNjYtcmltZy13MTIwMC1oNjAwLWRjZjhmODA4LWdtaXIuanBnP3Y9MTc4ODE1NDY1OA.avif",
     "extra": {},
-    "group_id": 69,
+    "group_id": 70,
     "multi_source": false
   },
   {
@@ -1210,9 +1242,9 @@
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czIvYmFubmVycy9lMmI4MDEyMC1hM2Q0LTExZjEtOTk4OC1iZmM2MzhjMzNhNWEtcmltZy13MTIwMC1oNjAwLWRjMDgwODA4LWdtaXIuanBnP3Y9MTc4ODAyNzAxNQ.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czcvYmFubmVycy9jNTVhMjY0MC1hNWQ2LTExZjEtODk5MC01ZDA0ZDIzMWEyZGQtcmltZy13MTIwMC1oNjAwLWRjMDgwODA4LWdtaXIuanBnP3Y9MTc4ODI0NzcyNw.avif",
     "extra": {},
-    "group_id": 70,
+    "group_id": 71,
     "multi_source": false
   },
   {
@@ -1227,22 +1259,6 @@
     "price_max": null,
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czgvYmFubmVycy8wYzZhODgwMC1hMjhlLTExZjEtOGIwOS00Yjk5ZjhmZTQ4NzItcmltZy13MTIwMC1oNjAwLWRjZjhmOGY4LWdtaXIuanBnP3Y9MTc4Nzg4NjY0MA.avif",
-    "extra": {},
-    "group_id": 71,
-    "multi_source": false
-  },
-  {
-    "title": "Telling Lies By Aashish Solanki",
-    "city": "Delhi NCR",
-    "category": "Comedy",
-    "source": "AllEvents",
-    "url": "https://allevents.in/new-delhi/telling-lies-by-aashish-solanki/3900030387575435",
-    "date": "2026-09-12",
-    "venue": "The Laugh Casa, Rcube Monad Mall: Noida",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czkvYmFubmVycy82ODljMmZlMC1hNTAyLTExZjEtODM0NS04MTYwZjEzMDZjNjYtcmltZy13MTIwMC1oNjAwLWRjZjhlODE4LWdtaXIuanBnP3Y9MTc4ODE1NjUxOA.avif",
     "extra": {},
     "group_id": 72,
     "multi_source": false
@@ -2396,7 +2412,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 18,
+    "group_id": 19,
     "multi_source": true
   },
   {
