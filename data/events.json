@@ -112,22 +112,6 @@
     "multi_source": false
   },
   {
-    "title": "Abijit Ganguly Live",
-    "city": "Bangalore",
-    "category": "Comedy",
-    "source": "AllEvents",
-    "url": "https://allevents.in/bangalore/abijit-ganguly-live/3900030491178044",
-    "date": "2026-09-13",
-    "venue": "The Comedy Theatre, Indiranagar: Bengaluru",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czcvYmFubmVycy9lN2YwZTNmMC1hNGY2LTExZjEtODM0NS04MTYwZjEzMDZjNjYtcmltZy13MTIwMC1oNjAwLWRjNDgwODA4LWdtaXIuanBnP3Y9MTc4ODE1MTU4Mw.avif",
-    "extra": {},
-    "group_id": 7,
-    "multi_source": false
-  },
-  {
     "title": "I AM WORTH IT ft. Rajat Sood",
     "city": "Bangalore",
     "category": "Comedy",
@@ -140,7 +124,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEwL2Jhbm5lcnMvNTFhZGU3MjAtYTRjNS0xMWYxLTgzNDUtODE2MGYxMzA2YzY2LXJpbWctdzEyMDAtaDYwMC1kYzA4MjgyOC1nbWlyLmpwZz92PTE3ODgxMzAyODY.avif",
     "extra": {},
-    "group_id": 8,
+    "group_id": 7,
     "multi_source": true
   },
   {
@@ -156,7 +140,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czUvYmFubmVycy9hY2MwYTBmMC1hMjk4LTExZjEtOTk4OC1iZmM2MzhjMzNhNWEtcmltZy13MTIwMC1oNjAwLWRjNTgwODI4LWdtaXIuanBnP3Y9MTc4Nzg5MTIwOQ.avif",
     "extra": {},
-    "group_id": 9,
+    "group_id": 8,
     "multi_source": false
   },
   {
@@ -172,7 +156,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4yLmFsbGV2ZW50cy5pbi90aHVtYnMvdGh1bWI2OTdiNTFmOWRmZTIxLmpwZw.avif",
     "extra": {},
-    "group_id": 10,
+    "group_id": 9,
     "multi_source": false
   },
   {
@@ -188,7 +172,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czgvYmFubmVycy8xNWE2YWYzMC1hNTUzLTExZjEtYjdkOS03M2ViZDdhMmJjMDItcmltZy13MTIwMC1oNjAwLWRjZjhmOGY4LWdtaXIuanBnP3Y9MTc4ODE5MTE2OA.avif",
     "extra": {},
-    "group_id": 11,
+    "group_id": 10,
     "multi_source": true
   },
   {
@@ -204,7 +188,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czYvYmFubmVycy9iNjJhZTAyMC1hNjI1LTExZjEtODk5MC01ZDA0ZDIzMWEyZGQtcmltZy13MTIwMC1oNjAwLWRjMTgxODU4LWdtaXIuanBnP3Y9MTc4ODI4MTYzOA.avif",
     "extra": {},
-    "group_id": 12,
+    "group_id": 11,
     "multi_source": false
   },
   {
@@ -220,7 +204,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czcvYmFubmVycy8yZDI5ODA1MC05NDM4LTExZjEtYjlmMS04Mzg0NzM2ODk3MjgtcmltZy13MTIwMC1oNjAwLWRjYzgyODE4LWdtaXIuanBnP3Y9MTc4NjMxMDQ3Ng.avif",
     "extra": {},
-    "group_id": 13,
+    "group_id": 12,
     "multi_source": true
   },
   {
@@ -235,6 +219,22 @@
     "price_max": null,
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czQvYmFubmVycy8xNjUwNWQ0MC1hMzUxLTExZjEtOTk4OC1iZmM2MzhjMzNhNWEtcmltZy13MTIwMC1oNjAwLWRjMDgwODA4LWdtaXIuanBnP3Y9MTc4Nzk3MDQyOQ.avif",
+    "extra": {},
+    "group_id": 13,
+    "multi_source": false
+  },
+  {
+    "title": "MIND THE (GENERATION) GAP !!",
+    "city": "Bangalore",
+    "category": "Comedy",
+    "source": "AllEvents",
+    "url": "https://allevents.in/bangalore/mind-the-generation-gap/3900030600821116",
+    "date": "2026-09-12",
+    "venue": "Atta Galatta: Indiranagar",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czUvYmFubmVycy81ZmEyNzRhMC1hNGM5LTExZjEtODM0NS04MTYwZjEzMDZjNjYtcmltZy13MTIwMC1oNjAwLWRjMDgwODA4LWdtaXIuanBnP3Y9MTc4ODEzMjAyMg.avif",
     "extra": {},
     "group_id": 14,
     "multi_source": false
@@ -298,7 +298,7 @@
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEvYmFubmVycy84NzAxNDcxMC1hNjZkLTExZjEtODk5MC01ZDA0ZDIzMWEyZGQtcmltZy13MTIwMC1oNjAwLWRjZjhjODA4LWdtaXIuanBnP3Y9MTc4ODMxMjQ3Nw.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czQvYmFubmVycy9hM2UxOTcyMC1hNjI0LTExZjEtODk5MC01ZDA0ZDIzMWEyZGQtcmltZy13MTIwMC1oNjAwLWRjZjhjODA4LWdtaXIuanBnP3Y9MTc4ODI4MTE3Mg.avif",
     "extra": {},
     "group_id": 17,
     "multi_source": false
@@ -474,7 +474,7 @@
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEwL2Jhbm5lcnMvM2JjMjQ0YTAtYTU3NS0xMWYxLTg5OTAtNWQwNGQyMzFhMmRkLXJpbWctdzEyMDAtaDYwMC1kYzA4MTg2OC1nbWlyLmpwZz92PTE3ODgyMDU4MzU.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czcvYmFubmVycy9hMGQ3YmM3MC1hNjdhLTExZjEtODk5MC01ZDA0ZDIzMWEyZGQtcmltZy13MTIwMC1oNjAwLWRjMDgxODY4LWdtaXIuanBnP3Y9MTc4ODMxODEwNA.avif",
     "extra": {},
     "group_id": 24,
     "multi_source": false
@@ -762,7 +762,7 @@
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czkvYmFubmVycy80MWY0MmE1MC1hNWNmLTExZjEtODk5MC01ZDA0ZDIzMWEyZGQtcmltZy13MTIwMC1oNjAwLWRjYjg1ODQ4LWdtaXIuanBnP3Y9MTc4ODI0NDUwMA.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czIvYmFubmVycy9mZWE3ZjUyMC1hNmE5LTExZjEtODk5MC01ZDA0ZDIzMWEyZGQtcmltZy13MTIwMC1oNjAwLWRjYjg1ODQ4LWdtaXIuanBnP3Y9MTc4ODMzODQ0Nw.avif",
     "extra": {},
     "group_id": 42,
     "multi_source": false
@@ -832,17 +832,17 @@
     "multi_source": false
   },
   {
-    "title": "Fresh Violence ft. Punit Pania",
+    "title": "ImagiNesan - A Live Standup Show By Nesan David",
     "city": "Mumbai",
     "category": "Comedy",
     "source": "AllEvents",
-    "url": "https://allevents.in/mumbai/fresh-violence-ft-punit-pania/3900030545833643",
-    "date": "2026-09-06",
-    "venue": "Backspace: Lower Parel, Mumbai",
+    "url": "https://allevents.in/mumbai/imaginesan-a-live-standup-show-by-nesan-david/3900030494983536",
+    "date": "2026-09-13",
+    "venue": "Backspace: Bandra West, Mumbai",
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czgvYmFubmVycy80MmMyODRhMC1hNTEwLTExZjEtODM0NS04MTYwZjEzMDZjNjYtcmltZy13MTIwMC1oNjAwLWRjYzhiODg4LWdtaXIuanBnP3Y9MTc4ODE2MjQ2OA.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czUvYmFubmVycy9jODU5ZTgyMC1hNDZhLTExZjEtODM0NS04MTYwZjEzMDZjNjYtcmltZy13MTIwMC1oNjAwLWRjMDgwODA4LWdtaXIuanBnP3Y9MTc4ODA5MTQwNg.avif",
     "extra": {},
     "group_id": 47,
     "multi_source": false
@@ -864,22 +864,6 @@
     "multi_source": false
   },
   {
-    "title": "ImagiNesan - A Live Standup Show By Nesan David",
-    "city": "Mumbai",
-    "category": "Comedy",
-    "source": "AllEvents",
-    "url": "https://allevents.in/mumbai/imaginesan-a-live-standup-show-by-nesan-david/3900030494983536",
-    "date": "2026-09-13",
-    "venue": "Backspace: Bandra West, Mumbai",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czUvYmFubmVycy9jODU5ZTgyMC1hNDZhLTExZjEtODM0NS04MTYwZjEzMDZjNjYtcmltZy13MTIwMC1oNjAwLWRjMDgwODA4LWdtaXIuanBnP3Y9MTc4ODA5MTQwNg.avif",
-    "extra": {},
-    "group_id": 49,
-    "multi_source": false
-  },
-  {
     "title": "Out Of ORDER ft. Shashi Dhiman",
     "city": "Mumbai",
     "category": "Comedy",
@@ -892,7 +876,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEvYmFubmVycy83ZWM1Mzk1MC1hNWVlLTExZjEtODk5MC01ZDA0ZDIzMWEyZGQtcmltZy13MTIwMC1oNjAwLWRjNTgwODI4LWdtaXIuanBnP3Y9MTc4ODI1Nzk0Nw.avif",
     "extra": {},
-    "group_id": 50,
+    "group_id": 49,
     "multi_source": false
   },
   {
@@ -907,6 +891,22 @@
     "price_max": null,
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czgvYmFubmVycy83MmY0ODc4MC1hNjNkLTExZjEtODk5MC01ZDA0ZDIzMWEyZGQtcmltZy13MTIwMC1oNjAwLWRjMDgwODA4LWdtaXIuanBnP3Y9MTc4ODI5MTgyNw.avif",
+    "extra": {},
+    "group_id": 50,
+    "multi_source": false
+  },
+  {
+    "title": "Fresh Violence ft. Punit Pania",
+    "city": "Mumbai",
+    "category": "Comedy",
+    "source": "AllEvents",
+    "url": "https://allevents.in/mumbai/fresh-violence-ft-punit-pania/3900030545833643",
+    "date": "2026-09-06",
+    "venue": "Backspace: Lower Parel, Mumbai",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czgvYmFubmVycy80MmMyODRhMC1hNTEwLTExZjEtODM0NS04MTYwZjEzMDZjNjYtcmltZy13MTIwMC1oNjAwLWRjYzhiODg4LWdtaXIuanBnP3Y9MTc4ODE2MjQ2OA.avif",
     "extra": {},
     "group_id": 51,
     "multi_source": false
@@ -1472,22 +1472,6 @@
     "multi_source": false
   },
   {
-    "title": "Felt Toys",
-    "city": "Delhi NCR",
-    "category": "Kids",
-    "source": "AllEvents",
-    "url": "https://allevents.in/new-delhi/felt-toys/3900030646380227",
-    "date": "2026-09-02",
-    "venue": "Tim Hortons, Basant Lok: Delhi",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czQvYmFubmVycy9mNGY5Y2Y0MC1hNjc2LTExZjEtODk5MC01ZDA0ZDIzMWEyZGQtcmltZy13MTIwMC1oNjAwLWRjZDhjOGM4LWdtaXIuanBnP3Y9MTc4ODMxNjUyNw.avif",
-    "extra": {},
-    "group_id": 86,
-    "multi_source": false
-  },
-  {
     "title": "Kids dance",
     "city": "Delhi NCR",
     "category": "Kids",
@@ -1500,7 +1484,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czUvYmFubmVycy85OGYxY2IxMC1hNjU1LTExZjEtODk5MC01ZDA0ZDIzMWEyZGQtcmltZy13MTIwMC1oNjAwLWRjMDgwODA4LWdtaXIuanBnP3Y9MTc4ODMwMjE5OQ.avif",
     "extra": {},
-    "group_id": 87,
+    "group_id": 86,
     "multi_source": false
   },
   {
@@ -1516,7 +1500,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czQvYmFubmVycy9kZmY2MjFlMC1hNTVjLTExZjEtODk5MC01ZDA0ZDIzMWEyZGQtcmltZy13MTIwMC1oNjAwLWRjMjgyODI4LWdtaXIuanBnP3Y9MTc4ODE5NTM3OQ.avif",
     "extra": {},
-    "group_id": 88,
+    "group_id": 87,
     "multi_source": false
   },
   {
@@ -1531,6 +1515,22 @@
     "price_max": null,
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czUvYmFubmVycy8xMDc2ODQ1NzBlN2NmNjU1OTUwZWIzMjY4Nzk3NDI5YzJmOWQzOTEwMzcxNDVjOGE3ZGNmNThjMjZlY2ZjY2Q2LXJpbWctdzEyMDAtaDYyOC1kY2Y4ZjhmOC1nbWlyP3Y9MTc4ODI1MTM0OQ.avif",
+    "extra": {},
+    "group_id": 88,
+    "multi_source": false
+  },
+  {
+    "title": "Felt Toys",
+    "city": "Delhi NCR",
+    "category": "Kids",
+    "source": "AllEvents",
+    "url": "https://allevents.in/new-delhi/felt-toys/3900030634937506",
+    "date": "2026-09-02",
+    "venue": "Chaayos Cafe - Connaught Place: Delhi",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czQvYmFubmVycy9mNGY5Y2Y0MC1hNjc2LTExZjEtODk5MC01ZDA0ZDIzMWEyZGQtcmltZy13MTIwMC1oNjAwLWRjZDhjOGM4LWdtaXIuanBnP3Y9MTc4ODMxNjUzNw.avif",
     "extra": {},
     "group_id": 89,
     "multi_source": false
@@ -1578,7 +1578,7 @@
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czcvYmFubmVycy8zNTcyMjZhMC1hNDZkLTExZjEtODM0NS04MTYwZjEzMDZjNjYtcmltZy13MTIwMC1oNjAwLWRjZjhmOGY4LWdtaXIuanBnP3Y9MTc4ODA5MjQzOA.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czUvYmFubmVycy81YTQ5Y2UwMC1hNjhhLTExZjEtODk5MC01ZDA0ZDIzMWEyZGQtcmltZy13MTIwMC1oNjAwLWRjZjhmOGY4LWdtaXIuanBnP3Y9MTc4ODMyNDg1Nw.avif",
     "extra": {},
     "group_id": 92,
     "multi_source": false
@@ -1706,7 +1706,7 @@
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czIvYmFubmVycy9lM2QwNzUyMC1hNGM4LTExZjEtODM0NS04MTYwZjEzMDZjNjYtcmltZy13MTIwMC1oNjAwLWRjMDgwODA4LWdtaXIuanBnP3Y9MTc4ODEzMTgxNA.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czQvYmFubmVycy85MGMyOWU0MC1hNjg5LTExZjEtODk5MC01ZDA0ZDIzMWEyZGQtcmltZy13MTIwMC1oNjAwLWRjMDgwODA4LWdtaXIuanBnP3Y9MTc4ODMyNDUxOQ.avif",
     "extra": {},
     "group_id": 100,
     "multi_source": false
@@ -2156,7 +2156,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 11,
+    "group_id": 10,
     "multi_source": true
   },
   {
@@ -2172,7 +2172,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 13,
+    "group_id": 12,
     "multi_source": true
   },
   {
@@ -2380,7 +2380,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 8,
+    "group_id": 7,
     "multi_source": true
   },
   {
@@ -2880,7 +2880,7 @@
     "multi_source": false
   },
   {
-    "title": "Jeevan Bheema Yojana",
+    "title": "Jeevan Ya Bheema Con?",
     "city": "All India",
     "category": "Movies",
     "source": "Wikipedia",
