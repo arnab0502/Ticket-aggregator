@@ -103,8 +103,8 @@
     "url": "https://allevents.in/bangalore/i-am-worth-it-ft-rajat-sood/3900030516139906",
     "date": "2026-09-05",
     "venue": "The Comedy Theatre, Indiranagar: Bengaluru",
-    "price_min": 300.0,
-    "price_max": 708.0,
+    "price_min": null,
+    "price_max": null,
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czYvYmFubmVycy9jODExMTRmMC1hNmZmLTExZjEtODk5MC01ZDA0ZDIzMWEyZGQtcmltZy13MTIwMC1oNjAwLWRjMDgyODI4LWdtaXIuanBnP3Y9MTc4ODM3NTI5OA.avif",
     "extra": {},
@@ -160,22 +160,6 @@
     "multi_source": false
   },
   {
-    "title": "Out Of ORDER ft. Shashi Dhiman",
-    "city": "Bangalore",
-    "category": "Comedy",
-    "source": "AllEvents",
-    "url": "https://allevents.in/bangalore/out-of-order-ft-shashi-dhiman/3900030594189841",
-    "date": "2026-09-04",
-    "venue": "The Laugh Junction: Bengaluru",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czUvYmFubmVycy9hY2MwYTBmMC1hMjk4LTExZjEtOTk4OC1iZmM2MzhjMzNhNWEtcmltZy13MTIwMC1oNjAwLWRjNTgwODI4LWdtaXIuanBnP3Y9MTc4Nzg5MTIwOQ.avif",
-    "extra": {},
-    "group_id": 10,
-    "multi_source": false
-  },
-  {
     "title": "ComicCast Society: Live Stand-Up Comedy Evening",
     "city": "Bangalore",
     "category": "Comedy",
@@ -187,6 +171,22 @@
     "price_max": null,
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4yLmFsbGV2ZW50cy5pbi90aHVtYnMvdGh1bWI2OTdiNTFmOWRmZTIxLmpwZw.avif",
+    "extra": {},
+    "group_id": 10,
+    "multi_source": false
+  },
+  {
+    "title": "Out Of ORDER ft. Shashi Dhiman",
+    "city": "Bangalore",
+    "category": "Comedy",
+    "source": "AllEvents",
+    "url": "https://allevents.in/bangalore/out-of-order-ft-shashi-dhiman/3900030594189841",
+    "date": "2026-09-04",
+    "venue": "The Laugh Junction: Bengaluru",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czUvYmFubmVycy9hY2MwYTBmMC1hMjk4LTExZjEtOTk4OC1iZmM2MzhjMzNhNWEtcmltZy13MTIwMC1oNjAwLWRjNTgwODI4LWdtaXIuanBnP3Y9MTc4Nzg5MTIwOQ.avif",
     "extra": {},
     "group_id": 11,
     "multi_source": false
@@ -234,7 +234,7 @@
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czQvYmFubmVycy8xNjUwNWQ0MC1hMzUxLTExZjEtOTk4OC1iZmM2MzhjMzNhNWEtcmltZy13MTIwMC1oNjAwLWRjMDgwODA4LWdtaXIuanBnP3Y9MTc4Nzk3MDQyOQ.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czQvYmFubmVycy81ZmZhOGJhMC1hNzdhLTExZjEtYjk4Zi1jYmViYTM1ODViM2EtcmltZy13MTIwMC1oNjAwLWRjMDgwODA4LWdtaXIuanBnP3Y9MTc4ODQyNzk2Mg.avif",
     "extra": {},
     "group_id": 14,
     "multi_source": false
@@ -304,6 +304,38 @@
     "multi_source": false
   },
   {
+    "title": "Kids Art Party - Bangalore",
+    "city": "Bangalore",
+    "category": "Kids",
+    "source": "AllEvents",
+    "url": "https://allevents.in/bangalore/kids-art-party-bangalore/3900030606064212",
+    "date": "2026-09-06",
+    "venue": "Indiranagar Social: Bengaluru",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czUvYmFubmVycy81MjllN2U5MC1hNmJiLTExZjEtODk5MC01ZDA0ZDIzMWEyZGQtcmltZy13MTIwMC1oNjAwLWRjMjgyODI4LWdtaXIuanBnP3Y9MTc4ODM0NTg5NA.avif",
+    "extra": {},
+    "group_id": 18,
+    "multi_source": false
+  },
+  {
+    "title": "Bangalore Secret Treks",
+    "city": "Bangalore",
+    "category": "Kids",
+    "source": "AllEvents",
+    "url": "https://allevents.in/bangalore/bangalore-secret-treks-tickets/80002523255091",
+    "date": "2026-10-02",
+    "venue": "Around Big Cities",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4yLmFsbGV2ZW50cy5pbi90aHVtYnMvdGh1bWI2YTg0NGI1ZTUxYzEzLmpwZw.avif",
+    "extra": {},
+    "group_id": 19,
+    "multi_source": false
+  },
+  {
     "title": "THE ROOM OF MEMORIES MLR 25th 2PM",
     "city": "Bangalore",
     "category": "Kids",
@@ -336,22 +368,6 @@
     "multi_source": false
   },
   {
-    "title": "Kids Art Party - Bangalore",
-    "city": "Bangalore",
-    "category": "Kids",
-    "source": "AllEvents",
-    "url": "https://allevents.in/bangalore/kids-art-party-bangalore/3900030606064212",
-    "date": "2026-09-06",
-    "venue": "Indiranagar Social: Bengaluru",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czUvYmFubmVycy81MjllN2U5MC1hNmJiLTExZjEtODk5MC01ZDA0ZDIzMWEyZGQtcmltZy13MTIwMC1oNjAwLWRjMjgyODI4LWdtaXIuanBnP3Y9MTc4ODM0NTg5NA.avif",
-    "extra": {},
-    "group_id": 18,
-    "multi_source": false
-  },
-  {
     "title": "Dirty Niroop",
     "city": "Bangalore",
     "category": "Kids",
@@ -364,7 +380,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czUvYmFubmVycy80NDg4OTBmMC1hNmI4LTExZjEtODk5MC01ZDA0ZDIzMWEyZGQtcmltZy13MTIwMC1oNjAwLWRjMTgwODA4LWdtaXIuanBnP3Y9MTc4ODM0NDU3Nw.avif",
     "extra": {},
-    "group_id": 19,
+    "group_id": 20,
     "multi_source": true
   },
   {
@@ -380,7 +396,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czgvYmFubmVycy8wNGUxODk3ZmFkYjI4NTRlNjZjOGMzNTg3NzRlNDk0MGRlMGQxMWFlZjFjZmM5ZjIxMWEwMjQ0YWQwMGNiNjFkLXJpbWctdzEyMDAtaDYwMC1kY2Q5ZGNkZC1nbWlyLmpwZz92PTE3ODUxMzQ4NzI.avif",
     "extra": {},
-    "group_id": 20,
+    "group_id": 21,
     "multi_source": false
   },
   {
@@ -428,7 +444,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEvYmFubmVycy8wNmYyMDE1MC01ZDU2LTExZjEtOGFiYy04NWUwMmJjM2UwZWQtcmltZy13MTIwMC1oNjAwLWRjZWU0NDc5LWdtaXIuanBnP3Y9MTc4MDI3NTk0OQ.avif",
     "extra": {},
-    "group_id": 21,
+    "group_id": 22,
     "multi_source": false
   },
   {
@@ -443,22 +459,6 @@
     "price_max": null,
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czMvYmFubmVycy9lMGJmYmQ5MC05OWEyLTExZjEtOWE0MC03YjkwZGU3MjAxMjUtcmltZy13MTIwMC1oNjc1LWRjZjhlOGI4LWdtaXIucG5nP3Y9MTc4NjkwNjAyNg.avif",
-    "extra": {},
-    "group_id": 22,
-    "multi_source": false
-  },
-  {
-    "title": "Doodle Workshop for Kids",
-    "city": "Bangalore",
-    "category": "Kids",
-    "source": "AllEvents",
-    "url": "https://allevents.in/bangalore/doodle-workshop-for-kids/3900030527037927",
-    "date": "2026-09-05",
-    "venue": "Casa Fresco: Indiranagar",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czgvYmFubmVycy9jODQ0NzRhMC1hNzM5LTExZjEtYjk4Zi1jYmViYTM1ODViM2EtcmltZy13MTIwMC1oNjAwLWRjZjhmOGY4LWdtaXIuanBnP3Y9MTc4ODQwMDIwNA.avif",
     "extra": {},
     "group_id": 23,
     "multi_source": false
@@ -608,6 +608,22 @@
     "multi_source": false
   },
   {
+    "title": "WAR OF DJs RUMBLE RUSH BollyTech",
+    "city": "Bangalore",
+    "category": "Nightlife",
+    "source": "AllEvents",
+    "url": "https://allevents.in/bangalore/war-of-djs-rumble-rush-bollytech/3900030139788353",
+    "date": "2026-09-09",
+    "venue": "The Terrace at Gillys Redefined: Bengaluru",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czcvYmFubmVycy9kYzZhYzlkMC01ZDMyLTExZjEtYjc1NS1hZDU0NWRkMTI5YzUtcmltZy13MTIwMC1oNjAwLWRjMzAxODE0LWdtaXIuanBnP3Y9MTc4MDI2MDg0NQ.avif",
+    "extra": {},
+    "group_id": 33,
+    "multi_source": false
+  },
+  {
     "title": "Mandragora Live In Bangalore",
     "city": "Bangalore",
     "category": "Nightlife",
@@ -620,7 +636,23 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEvYmFubmVycy80ODUyYTg2MC1hNmE0LTExZjEtODk5MC01ZDA0ZDIzMWEyZGQtcmltZy13MTIwMC1oNjAwLWRjMDgwODA4LWdtaXIuanBnP3Y9MTc4ODMzNTk5NA.avif",
     "extra": {},
-    "group_id": 33,
+    "group_id": 34,
+    "multi_source": false
+  },
+  {
+    "title": "LITJAM: A Sufi Jam - Bengaluru",
+    "city": "Bangalore",
+    "category": "Nightlife",
+    "source": "AllEvents",
+    "url": "https://allevents.in/bangalore/litjam-a-sufi-jam-bengaluru-tickets/80003665295532",
+    "date": "2026-09-20",
+    "venue": "URU - JP Nagar",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4yLmFsbGV2ZW50cy5pbi90aHVtYnMvdGh1bWI2YTk2Njg5NGQ4NzBjLmpwZw.avif",
+    "extra": {},
+    "group_id": 35,
     "multi_source": false
   },
   {
@@ -635,38 +667,6 @@
     "price_max": null,
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czYvYmFubmVycy9hYjlkMGE3MC00YjYyLTExZjEtODUzNC02YjY0NzI1OTE4MWItcmltZy13MTIwMC1oNjAwLWRjMjAxYzFkLWdtaXIuanBnP3Y9MTc3ODMwMjI1OA.avif",
-    "extra": {},
-    "group_id": 34,
-    "multi_source": false
-  },
-  {
-    "title": "Holly Bolly Ladies Night",
-    "city": "Bangalore",
-    "category": "Nightlife",
-    "source": "AllEvents",
-    "url": "https://allevents.in/bangalore/holly-bolly-ladies-night/3900029813088250",
-    "date": "2026-09-06",
-    "venue": "Blurred: Bengaluru",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czcvYmFubmVycy81MzM0NTZkMC00YjcyLTExZjEtYTk5NS1hZmMxMjI4NzkxMmQtcmltZy13MTIwMC1oNjAwLWRjMDMwMjE2LWdtaXIuanBnP3Y9MTc3ODMwODk4Mg.avif",
-    "extra": {},
-    "group_id": 35,
-    "multi_source": false
-  },
-  {
-    "title": "KANNADA KICK NIGHT",
-    "city": "Bangalore",
-    "category": "Nightlife",
-    "source": "AllEvents",
-    "url": "https://allevents.in/bangalore/kannada-kick-night/3900030301949032",
-    "date": "2026-09-03",
-    "venue": "BudBee Restobar 104: Bengaluru",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czUvYmFubmVycy85NzJmYmVmMC03YjQzLTExZjEtYmRmYy0yMzQyYmZkMDEwOTYtcmltZy13MTIwMC1oNjAwLWRjMmYwNzE4LWdtaXIuanBnP3Y9MTc4MzU2NjU2NQ.avif",
     "extra": {},
     "group_id": 36,
     "multi_source": false
@@ -1306,7 +1306,7 @@
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czkvYmFubmVycy8yNDQzMDRiMC1hNTczLTExZjEtODk5MC01ZDA0ZDIzMWEyZGQtcmltZy13MTIwMC1oNjAwLWRjMDgwODA4LWdtaXIuanBnP3Y9MTc4ODIwNDk0Mw.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czIvYmFubmVycy80NWVjZDU3MC1hNzc0LTExZjEtYjk4Zi1jYmViYTM1ODViM2EtcmltZy13MTIwMC1oNjAwLWRjMDgwODA4LWdtaXIuanBnP3Y9MTc4ODQyNTMzMg.avif",
     "extra": {},
     "group_id": 75,
     "multi_source": false
@@ -1504,22 +1504,6 @@
     "multi_source": false
   },
   {
-    "title": "Diwali & Karwachauth Exhibition",
-    "city": "Delhi NCR",
-    "category": "Kids",
-    "source": "AllEvents",
-    "url": "https://allevents.in/new-delhi/diwali-and-karwachauth-exhibition-tickets/80003761222486",
-    "date": "2026-10-24",
-    "venue": "Punjabi Bagh Club, Ring Road, near Mahanvir Nursing Home, West Punjabi Bagh, Punjabi Bagh, New Delhi, Delhi, India",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4yLmFsbGV2ZW50cy5pbi90aHVtYnMvdGh1bWI2YThjMWUxYTg2NDA5LmpwZw.avif",
-    "extra": {},
-    "group_id": 88,
-    "multi_source": false
-  },
-  {
     "title": "Felt Toys",
     "city": "Delhi NCR",
     "category": "Kids",
@@ -1532,7 +1516,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czQvYmFubmVycy9mNGY5Y2Y0MC1hNjc2LTExZjEtODk5MC01ZDA0ZDIzMWEyZGQtcmltZy13MTIwMC1oNjAwLWRjZDhjOGM4LWdtaXIuanBnP3Y9MTc4ODMxNjUyNw.avif",
     "extra": {},
-    "group_id": 89,
+    "group_id": 88,
     "multi_source": false
   },
   {
@@ -1548,23 +1532,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czUvYmFubmVycy81NjE0ZGEwMC1hNzUyLTExZjEtYjk4Zi1jYmViYTM1ODViM2EtcmltZy13MTIwMC1oNjAwLWRjMDgwODA4LWdtaXIuanBnP3Y9MTc4ODQxMDc0OQ.avif",
     "extra": {},
-    "group_id": 90,
-    "multi_source": false
-  },
-  {
-    "title": "Kids Art Party - Delhi NCR",
-    "city": "Delhi NCR",
-    "category": "Kids",
-    "source": "AllEvents",
-    "url": "https://allevents.in/new-delhi/kids-art-party-delhi-ncr/3900030630020006",
-    "date": "2026-09-05",
-    "venue": "ShellBeacon Cafe: New Delhi",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czQvYmFubmVycy9kZmY2MjFlMC1hNTVjLTExZjEtODk5MC01ZDA0ZDIzMWEyZGQtcmltZy13MTIwMC1oNjAwLWRjMjgyODI4LWdtaXIuanBnP3Y9MTc4ODE5NTM3OQ.avif",
-    "extra": {},
-    "group_id": 91,
+    "group_id": 89,
     "multi_source": false
   },
   {
@@ -1580,7 +1548,23 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czUvYmFubmVycy8xMDc2ODQ1NzBlN2NmNjU1OTUwZWIzMjY4Nzk3NDI5YzJmOWQzOTEwMzcxNDVjOGE3ZGNmNThjMjZlY2ZjY2Q2LXJpbWctdzEyMDAtaDYyOC1kY2Y4ZjhmOC1nbWlyP3Y9MTc4ODI1MTM0OQ.avif",
     "extra": {},
-    "group_id": 92,
+    "group_id": 90,
+    "multi_source": false
+  },
+  {
+    "title": "Diwali & Karwachauth Exhibition",
+    "city": "Delhi NCR",
+    "category": "Kids",
+    "source": "AllEvents",
+    "url": "https://allevents.in/new-delhi/diwali-and-karwachauth-exhibition-tickets/80003761222486",
+    "date": "2026-10-24",
+    "venue": "Punjabi Bagh Club, Ring Road, near Mahanvir Nursing Home, West Punjabi Bagh, Punjabi Bagh, New Delhi, Delhi, India",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4yLmFsbGV2ZW50cy5pbi90aHVtYnMvdGh1bWI2YThjMWUxYTg2NDA5LmpwZw.avif",
+    "extra": {},
+    "group_id": 91,
     "multi_source": false
   },
   {
@@ -1595,6 +1579,22 @@
     "price_max": null,
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czcvYmFubmVycy8zNGVkYzRjZmRlMmYxZWFkZjk0ZjBhMTM1ODhlYWI3MzA0NzlhMThiMzBmMWZjYThhNDc1ZjI4OWJlMWEyMTU4LXJpbWctdzEyMDAtaDYyOC1kY2Y4ZThlOC1nbWlyP3Y9MTc4ODE5OTU2OA.avif",
+    "extra": {},
+    "group_id": 92,
+    "multi_source": false
+  },
+  {
+    "title": "Ekatva Festival 2026",
+    "city": "Delhi NCR",
+    "category": "Kids",
+    "source": "AllEvents",
+    "url": "https://allevents.in/new-delhi/ekatva-festival-2026/4100030639972212",
+    "date": "2026-10-24",
+    "venue": "Sunder Nursery",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czQvYmFubmVycy9jNThmZmVjMC1hNTkzLTExZjEtODk5MC01ZDA0ZDIzMWEyZGQtcmltZy13MTIwMC1oNjc1LWRjMzg2ODU4LWdtaXIuanBnP3Y9MTc4ODIxODk1MQ.avif",
     "extra": {},
     "group_id": 93,
     "multi_source": false
@@ -1690,7 +1690,7 @@
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czgvYmFubmVycy9lMjVjY2NkMC1hNzc5LTExZjEtYjk4Zi1jYmViYTM1ODViM2EtcmltZy13MTIwMC1oNjAwLWRjMTgxODE4LWdtaXIuanBnP3Y9MTc4ODQyNzczNQ.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEvYmFubmVycy8zZjM3OWRlMC1hNGM4LTExZjEtODM0NS04MTYwZjEzMDZjNjYtcmltZy13MTIwMC1oNjAwLWRjMTgxODE4LWdtaXIuanBnP3Y9MTc4ODEzMTUzOA.avif",
     "extra": {},
     "group_id": 99,
     "multi_source": false
@@ -1850,7 +1850,7 @@
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czkvYmFubmVycy9iODQxN2QwMC1hNWQ2LTExZjEtODk5MC01ZDA0ZDIzMWEyZGQtcmltZy13MTIwMC1oNjAwLWRjMDgwODA4LWdtaXIuanBnP3Y9MTc4ODI0NzcwNQ.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czgvYmFubmVycy9lMGVkOGZmMC1hNzdhLTExZjEtYjk4Zi1jYmViYTM1ODViM2EtcmltZy13MTIwMC1oNjAwLWRjMDgwODA4LWdtaXIuanBnP3Y9MTc4ODQyODE2Mg.avif",
     "extra": {},
     "group_id": 108,
     "multi_source": false
@@ -1968,22 +1968,6 @@
     "multi_source": false
   },
   {
-    "title": "Jamming Night",
-    "city": "Hyderabad",
-    "category": "Nightlife",
-    "source": "AllEvents",
-    "url": "https://allevents.in/hyderabad/jamming-night/3900030484994837",
-    "date": "2026-09-06",
-    "venue": "Red Rhino-Craft Brewery and Kitchen: Hyderabad.",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEvYmFubmVycy8xMzJiZjVjMS1hNTU0LTExZjEtYjdkOS03M2ViZDdhMmJjMDItcmltZy13MTIwMC1oNjAwLWRjMDgwODA4LWdtaXIuanBnP3Y9MTc4ODE5MTYxMA.avif",
-    "extra": {},
-    "group_id": 116,
-    "multi_source": false
-  },
-  {
     "title": "Anirudh DJ Night",
     "city": "Hyderabad",
     "category": "Nightlife",
@@ -1995,6 +1979,22 @@
     "price_max": null,
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czIvYmFubmVycy81ODc1NmZmMC1hNTg5LTExZjEtODk5MC01ZDA0ZDIzMWEyZGQtcmltZy13MTIwMC1oNjAwLWRjMjgwODA4LWdtaXIuanBnP3Y9MTc4ODIxNDQ3Mw.avif",
+    "extra": {},
+    "group_id": 116,
+    "multi_source": false
+  },
+  {
+    "title": "Jamming Night",
+    "city": "Hyderabad",
+    "category": "Nightlife",
+    "source": "AllEvents",
+    "url": "https://allevents.in/hyderabad/jamming-night/3900030484994837",
+    "date": "2026-09-06",
+    "venue": "Red Rhino-Craft Brewery and Kitchen: Hyderabad.",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czIvYmFubmVycy8yNDdlODI1MC1hNzdjLTExZjEtYjk4Zi1jYmViYTM1ODViM2EtcmltZy13MTIwMC1oNjAwLWRjMDgwODA4LWdtaXIuanBnP3Y9MTc4ODQyODcxNQ.avif",
     "extra": {},
     "group_id": 117,
     "multi_source": false
@@ -2444,7 +2444,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 19,
+    "group_id": 20,
     "multi_source": true
   },
   {
