@@ -32,22 +32,6 @@
     "multi_source": false
   },
   {
-    "title": "Roll No. 27 by Nishant Tanwar",
-    "city": "Bangalore",
-    "category": "Comedy",
-    "source": "AllEvents",
-    "url": "https://allevents.in/bangalore/roll-no-27-by-nishant-tanwar/3900030645337238",
-    "date": "2026-09-04",
-    "venue": "The Underground Comedy Club: Bengaluru",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czIvYmFubmVycy9jOGZjNGQzMC1hNmRjLTExZjEtODk5MC01ZDA0ZDIzMWEyZGQtcmltZy13MTIwMC1oNjAwLWRjZThlOGM4LWdtaXIuanBnP3Y9MTc4ODM2MDI2Mg.avif",
-    "extra": {},
-    "group_id": 2,
-    "multi_source": false
-  },
-  {
     "title": "LinkedUp : A Dating Show for the Employed",
     "city": "Bangalore",
     "category": "Comedy",
@@ -59,6 +43,22 @@
     "price_max": null,
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czcvYmFubmVycy82ODVkNDgyMC05ZTFkLTExZjEtODZkZC1hOTUwOWRjY2FmNGItcmltZy13MTIwMC1oNjAwLWRjMjg2OGI4LWdtaXIuanBnP3Y9MTc4NzM5ODQ1Ng.avif",
+    "extra": {},
+    "group_id": 2,
+    "multi_source": false
+  },
+  {
+    "title": "Roll No. 27 by Nishant Tanwar",
+    "city": "Bangalore",
+    "category": "Comedy",
+    "source": "AllEvents",
+    "url": "https://allevents.in/bangalore/roll-no-27-by-nishant-tanwar/3900030645337238",
+    "date": "2026-09-04",
+    "venue": "The Underground Comedy Club: Bengaluru",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czIvYmFubmVycy9jOGZjNGQzMC1hNmRjLTExZjEtODk5MC01ZDA0ZDIzMWEyZGQtcmltZy13MTIwMC1oNjAwLWRjZThlOGM4LWdtaXIuanBnP3Y9MTc4ODM2MDI2Mg.avif",
     "extra": {},
     "group_id": 3,
     "multi_source": false
@@ -74,7 +74,7 @@
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czgvYmFubmVycy8wYTFkNjBjMC1hNmNkLTExZjEtODk5MC01ZDA0ZDIzMWEyZGQtcmltZy13MTIwMC1oNjAwLWRjZjhkODY4LWdtaXIuanBnP3Y9MTc4ODM1MzUxNg.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEwL2Jhbm5lcnMvZDk1ZTg4MDAtYTdlMC0xMWYxLWE0YTEtZWI1OTM1NmJjMDhiLXJpbWctdzEyMDAtaDYwMC1kY2Y4ZDg2OC1nbWlyLmpwZz92PTE3ODg0NzE5NjQ.avif",
     "extra": {},
     "group_id": 4,
     "multi_source": true
@@ -336,11 +336,11 @@
     "multi_source": false
   },
   {
-    "title": "THE ROOM OF MEMORIES MLR 25th 2PM",
+    "title": "THE ROOM OF MEMORIES MLR 25th 11AM",
     "city": "Bangalore",
     "category": "Kids",
     "source": "AllEvents",
-    "url": "https://allevents.in/bangalore/the-room-of-memories-mlr-25th-2pm-tickets/80003258499359",
+    "url": "https://allevents.in/bangalore/the-room-of-memories-mlr-25th-11am-tickets/80001344574485",
     "date": "2026-10-25",
     "venue": "MLR Cultural Centre",
     "price_min": null,
@@ -352,11 +352,11 @@
     "multi_source": false
   },
   {
-    "title": "THE ROOM OF MEMORIES MLR 25th 11AM",
+    "title": "THE ROOM OF MEMORIES MLR 25th 2PM",
     "city": "Bangalore",
     "category": "Kids",
     "source": "AllEvents",
-    "url": "https://allevents.in/bangalore/the-room-of-memories-mlr-25th-11am-tickets/80001344574485",
+    "url": "https://allevents.in/bangalore/the-room-of-memories-mlr-25th-2pm-tickets/80003258499359",
     "date": "2026-10-25",
     "venue": "MLR Cultural Centre",
     "price_min": null,
@@ -496,6 +496,22 @@
     "multi_source": false
   },
   {
+    "title": "Bollywood & Punjabi night vapour Indiranagar",
+    "city": "Bangalore",
+    "category": "Nightlife",
+    "source": "AllEvents",
+    "url": "https://allevents.in/bangalore/bollywood-and-punjabi-night-vapour-indiranagar/3900030630472041",
+    "date": "2026-09-05",
+    "venue": "Vapour Pub And Brewery,  Indiranagar: Bengaluru",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czcvYmFubmVycy8xYWQ5ZTVkMC1hN2FiLTExZjEtYTRhMS1lYjU5MzU2YmMwOGItcmltZy13MTIwMC1oNjAwLWRjMDgwODA4LWdtaXIuanBnP3Y9MTc4ODQ0ODg3NQ.avif",
+    "extra": {},
+    "group_id": 26,
+    "multi_source": false
+  },
+  {
     "title": "Sukoon Wali Qawwali - Live Concert Experience",
     "city": "Bangalore",
     "category": "Nightlife",
@@ -507,22 +523,6 @@
     "price_max": null,
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEvYmFubmVycy9jYzYxMzBhMC04OTcwLTExZjEtOWM1Yi05NzRiMTkyMmY1NDctcmltZy13MTIwMC1oNjc1LWRjMzAxNjA0LWdtaXIuanBnP3Y9MTc4NTEyNTI5OA.avif",
-    "extra": {},
-    "group_id": 26,
-    "multi_source": false
-  },
-  {
-    "title": "Bollywood & Punjabi night vapour Indiranagar",
-    "city": "Bangalore",
-    "category": "Nightlife",
-    "source": "AllEvents",
-    "url": "https://allevents.in/bangalore/bollywood-and-punjabi-night-vapour-indiranagar/3900030630472041",
-    "date": "2026-09-05",
-    "venue": "Vapour Pub And Brewery,  Indiranagar: Bengaluru",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czgvYmFubmVycy84NjU5YjczMC1hNzQzLTExZjEtYjk4Zi1jYmViYTM1ODViM2EtcmltZy13MTIwMC1oNjAwLWRjMDgwODA4LWdtaXIuanBnP3Y9MTc4ODQwNDM4OA.avif",
     "extra": {},
     "group_id": 27,
     "multi_source": false
@@ -640,22 +640,6 @@
     "multi_source": false
   },
   {
-    "title": "LITJAM: A Sufi Jam - Bengaluru",
-    "city": "Bangalore",
-    "category": "Nightlife",
-    "source": "AllEvents",
-    "url": "https://allevents.in/bangalore/litjam-a-sufi-jam-bengaluru-tickets/80003665295532",
-    "date": "2026-09-20",
-    "venue": "URU - JP Nagar",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4yLmFsbGV2ZW50cy5pbi90aHVtYnMvdGh1bWI2YTk2Njg5NGQ4NzBjLmpwZw.avif",
-    "extra": {},
-    "group_id": 35,
-    "multi_source": false
-  },
-  {
     "title": "Bangalore Open Air 2026",
     "city": "Bangalore",
     "category": "Nightlife",
@@ -667,6 +651,22 @@
     "price_max": null,
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czYvYmFubmVycy9hYjlkMGE3MC00YjYyLTExZjEtODUzNC02YjY0NzI1OTE4MWItcmltZy13MTIwMC1oNjAwLWRjMjAxYzFkLWdtaXIuanBnP3Y9MTc3ODMwMjI1OA.avif",
+    "extra": {},
+    "group_id": 35,
+    "multi_source": false
+  },
+  {
+    "title": "Holly Bolly Ladies Night",
+    "city": "Bangalore",
+    "category": "Nightlife",
+    "source": "AllEvents",
+    "url": "https://allevents.in/bangalore/holly-bolly-ladies-night/3900029813088250",
+    "date": "2026-09-06",
+    "venue": "Blurred: Bengaluru",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czcvYmFubmVycy81MzM0NTZkMC00YjcyLTExZjEtYTk5NS1hZmMxMjI4NzkxMmQtcmltZy13MTIwMC1oNjAwLWRjMDMwMjE2LWdtaXIuanBnP3Y9MTc3ODMwODk4Mg.avif",
     "extra": {},
     "group_id": 36,
     "multi_source": false
@@ -1060,13 +1060,13 @@
     "city": "Mumbai",
     "category": "Kids",
     "source": "AllEvents",
-    "url": "https://allevents.in/mumbai/chembur-kids-carnival/3900030046702643",
+    "url": "https://allevents.in/mumbai/chembur-kids-carnival/3900029794343939",
     "date": "2026-10-31",
     "venue": "St. Anthony`s Homes Co-Operative Society: Mumbai",
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEvYmFubmVycy8wOGQ0NmMwMC01ZmJlLTExZjEtYjE2Zi0wZjlmNDY5NWIwYzQtcmltZy13MTIwMC1oNjAwLWRjZDdlYWY1LWdtaXIuanBnP3Y9MTc4MDU0MDUyMg.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czgvYmFubmVycy9lMmJlNzVmMC03OWY0LTExZjEtYWUzNi01ZDU0ZmNkODkwNjktcmltZy13MTIwMC1oNjAwLWRjZDdlYWY1LWdtaXIuanBnP3Y9MTc4MzQyMjgxMQ.avif",
     "extra": {},
     "group_id": 60,
     "multi_source": false
@@ -1146,7 +1146,7 @@
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEvYmFubmVycy8wYWY2NTg3MC1hNmM5LTExZjEtODk5MC01ZDA0ZDIzMWEyZGQtcmltZy13MTIwMC1oNjAwLWRjZjhlOGM4LWdtaXIuanBnP3Y9MTc4ODM1MTc4Mg.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czMvYmFubmVycy83NzI1NjkzMC1hN2FjLTExZjEtYTRhMS1lYjU5MzU2YmMwOGItcmltZy13MTIwMC1oNjAwLWRjZjhlOGM4LWdtaXIuanBnP3Y9MTc4ODQ0OTQ2MA.avif",
     "extra": {},
     "group_id": 65,
     "multi_source": false
@@ -1194,7 +1194,7 @@
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czYvYmFubmVycy84MmRmZDU3MC1hN2MxLTExZjEtYTRhMS1lYjU5MzU2YmMwOGItcmltZy13MTIwMC1oNjAwLWRjMDgwODA4LWdtaXIuanBnP3Y9MTc4ODQ1ODQ5OQ.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czYvYmFubmVycy9iODM2NzI0MC1hNzBmLTExZjEtODk5MC01ZDA0ZDIzMWEyZGQtcmltZy13MTIwMC1oNjAwLWRjMDgwODA4LWdtaXIuanBnP3Y9MTc4ODM4MjEzOA.avif",
     "extra": {},
     "group_id": 68,
     "multi_source": false
@@ -1370,7 +1370,7 @@
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czQvYmFubmVycy8zNmQ5MmNiMC1hNzBhLTExZjEtODk5MC01ZDA0ZDIzMWEyZGQtcmltZy13MTIwMC1oNjAwLWRjNTgwODI4LWdtaXIuanBnP3Y9MTc4ODM3OTc3OA.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czUvYmFubmVycy9kYWI1ZTYzMC1hN2Q2LTExZjEtYTRhMS1lYjU5MzU2YmMwOGItcmltZy13MTIwMC1oNjAwLWRjNTgwODI4LWdtaXIuanBnP3Y9MTc4ODQ2NzY3MA.avif",
     "extra": {},
     "group_id": 79,
     "multi_source": false
@@ -1674,7 +1674,7 @@
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEvYmFubmVycy8zZjM3OWRlMC1hNGM4LTExZjEtODM0NS04MTYwZjEzMDZjNjYtcmltZy13MTIwMC1oNjAwLWRjMTgxODE4LWdtaXIuanBnP3Y9MTc4ODEzMTUzOA.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czIvYmFubmVycy9hZGQ5ZGRlMC1hN2UyLTExZjEtYTRhMS1lYjU5MzU2YmMwOGItcmltZy13MTIwMC1oNjAwLWRjMTgxODE4LWdtaXIuanBnP3Y9MTc4ODQ3Mjc0NA.avif",
     "extra": {},
     "group_id": 98,
     "multi_source": false
