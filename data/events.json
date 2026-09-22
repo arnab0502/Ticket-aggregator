@@ -74,7 +74,7 @@
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czUvYmFubmVycy8yM2I2YjZjMC1iM2I3LTExZjEtYWNiMi1iN2I2NTY4ZjUxMDQtcmltZy13MTIwMC1oNjAwLWRjMDgwODA4LWdtaXIuanBnP3Y9MTc4OTc3MzQ1OA.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czMvYmFubmVycy8wZDY4Njk2MC1iNmFkLTExZjEtOWExMC1hOWJmZTU3ZWU3MGItcmltZy13MTIwMC1oNjAwLWRjMDgwODA4LWdtaXIuanBnP3Y9MTc5MDA5ODk3OQ.avif",
     "extra": {},
     "group_id": 4,
     "multi_source": true
@@ -544,54 +544,6 @@
     "multi_source": false
   },
   {
-    "title": "THE KORMANGALA BIGGEST LADIES TUESDAY NIGHT",
-    "city": "Bangalore",
-    "category": "Nightlife",
-    "source": "AllEvents",
-    "url": "https://allevents.in/bangalore/the-kormangala-biggest-ladies-tuesday-night/3900030712823956",
-    "date": "2026-09-22",
-    "venue": "Sugar Factory Reloaded: Bengaluru",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czkvYmFubmVycy8zM2ZiOWY1MC1iMzJiLTExZjEtYjcyOS0zZmY4ZGZmMDQ0MGEtcmltZy13MTIwMC1oNjAwLWRjMDgwODA4LWdtaXIuanBnP3Y9MTc4OTcxMzM1Ng.avif",
-    "extra": {},
-    "group_id": 29,
-    "multi_source": false
-  },
-  {
-    "title": "Thalaivar Thalapathy Friday Night",
-    "city": "Bangalore",
-    "category": "Nightlife",
-    "source": "AllEvents",
-    "url": "https://allevents.in/bangalore/thalaivar-thalapathy-friday-night-tickets/80009570485163",
-    "date": "2026-09-25",
-    "venue": "Babylonia - Global Food and Cocktails",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4yLmFsbGV2ZW50cy5pbi90aHVtYnMvdGh1bWI2YWIyMjA3MjQ1OGYzLmpwZw.avif",
-    "extra": {},
-    "group_id": 30,
-    "multi_source": false
-  },
-  {
-    "title": "Gujarati Jamanvaar 2026",
-    "city": "Bangalore",
-    "category": "Nightlife",
-    "source": "AllEvents",
-    "url": "https://allevents.in/bangalore/gujarati-jamanvaar-2026-tickets/80003835763848",
-    "date": "2026-09-27",
-    "venue": "Party Hall 1, PSN Club House",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4yLmFsbGV2ZW50cy5pbi90aHVtYnMvdGh1bWI2YTk5MzU2ODMyODdkLmpwZw.avif",
-    "extra": {},
-    "group_id": 31,
-    "multi_source": false
-  },
-  {
     "title": "Isha Malviya Live : Shaky Shaky India Tour",
     "city": "Bangalore",
     "category": "Nightlife",
@@ -604,7 +556,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czYvYmFubmVycy9hNjI4NDk0MC1iNGJlLTExZjEtODczNS03NzNjNWRkZWRiNDgtcmltZy13MTIwMC1oNjAwLWRjMDgwODA4LWdtaXIuanBnP3Y9MTc4OTg4NjYzNA.avif",
     "extra": {},
-    "group_id": 32,
+    "group_id": 29,
     "multi_source": false
   },
   {
@@ -620,7 +572,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czkvYmFubmVycy8zYjc2YWI2MC1iM2M4LTExZjEtYWNiMi1iN2I2NTY4ZjUxMDQtcmltZy13MTIwMC1oNjAwLWRjMDgwODA4LWdtaXIuanBnP3Y9MTc4OTc4MDc5OQ.avif",
     "extra": {},
-    "group_id": 33,
+    "group_id": 30,
     "multi_source": false
   },
   {
@@ -636,7 +588,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czQvYmFubmVycy80NTNlNjA1MC1hMWJlLTExZjEtOGIwOS00Yjk5ZjhmZTQ4NzItcmltZy13MTIwMC1oNjc1LWRjMDgwODA4LWdtaXIuanBnP3Y9MTc4Nzc5NzQwMA.avif",
     "extra": {},
-    "group_id": 34,
+    "group_id": 31,
     "multi_source": false
   },
   {
@@ -652,7 +604,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czUvYmFubmVycy84YWY5Yzc4MjUzNzdiMGYxMTg5YWZkMTMwYzg3YjZkMWQ2ZjQ0OTgyZTg1MDkwZDhmMDQ1NjFlNWM4ZjQ5NmNhLXJpbWctdzEyMDAtaDQ1MC1kY2Y4ZjhlOC1nbWlyLmpwZz92PTE3ODg5ODE1Mjc.avif",
     "extra": {},
-    "group_id": 35,
+    "group_id": 32,
     "multi_source": false
   },
   {
@@ -668,7 +620,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czMvYmFubmVycy9jMDRiZGU2MC1iNDM1LTExZjEtYWNiMi1iN2I2NTY4ZjUxMDQtcmltZy13MTIwMC1oNjAwLWRjMDgwODA4LWdtaXIuanBnP3Y9MTc4OTgyNzgzNw.avif",
     "extra": {},
-    "group_id": 36,
+    "group_id": 33,
     "multi_source": false
   },
   {
@@ -684,7 +636,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czcvYmFubmVycy80NzkyYjYwMC1iNDk1LTExZjEtODczNS03NzNjNWRkZWRiNDgtcmltZy13MTIwMC1oNjAwLWRjNThhOGE4LWdtaXIuanBnP3Y9MTc4OTg2ODg2Ng.avif",
     "extra": {},
-    "group_id": 37,
+    "group_id": 34,
     "multi_source": false
   },
   {
@@ -700,7 +652,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czQvYmFubmVycy9mNDJmYzYwMC1iM2ZmLTExZjEtYWNiMi1iN2I2NTY4ZjUxMDQtcmltZy13MTIwMC1oNjAwLWRjMjgxODA4LWdtaXIuanBnP3Y9MTc4OTgwNDczMg.avif",
     "extra": {},
-    "group_id": 38,
+    "group_id": 35,
     "multi_source": false
   },
   {
@@ -715,6 +667,54 @@
     "price_max": null,
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czUvYmFubmVycy9mZjcwOTRmMC1iMDcwLTExZjEtODAxMS03Mzk0ZjU3ZjcwMDQtcmltZy13MTIwMC1oNjAwLWRjMDg5OGY4LWdtaXIuanBnP3Y9MTc4OTQxMzQ3OQ.avif",
+    "extra": {},
+    "group_id": 36,
+    "multi_source": false
+  },
+  {
+    "title": "Dating Dilemma - Bengaluru",
+    "city": "Bangalore",
+    "category": "Nightlife",
+    "source": "AllEvents",
+    "url": "https://allevents.in/bangalore/dating-dilemma-bengaluru/4100030716410706",
+    "date": "2026-09-26",
+    "venue": "Koramangala Social",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czcvYmFubmVycy80ZTFkZjNhMC1iNDVkLTExZjEtYWNiMi1iN2I2NTY4ZjUxMDQtcmltZy13MTIwMC1oNjc1LWRjMzgzODM4LWdtaXIuanBnP3Y9MTc4OTg0NDgyNg.avif",
+    "extra": {},
+    "group_id": 37,
+    "multi_source": false
+  },
+  {
+    "title": "The Ultimate Saturday Night Experience UN80",
+    "city": "Bangalore",
+    "category": "Nightlife",
+    "source": "AllEvents",
+    "url": "https://allevents.in/bangalore/the-ultimate-saturday-night-experience-un80/3900030534237331",
+    "date": "2026-09-26",
+    "venue": "BudBee Restobar 104: Bengaluru",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEwL2Jhbm5lcnMvZDQyNGJkOTAtYjVlMi0xMWYxLWEyODYtMDNhY2M5ZWI0MGFiLXJpbWctdzEyMDAtaDYwMC1kYzA4MDgwOC1nbWlyLmpwZz92PTE3OTAwMTIxMjU.avif",
+    "extra": {},
+    "group_id": 38,
+    "multi_source": false
+  },
+  {
+    "title": "Garba With Gujjubhai",
+    "city": "Bangalore",
+    "category": "Nightlife",
+    "source": "AllEvents",
+    "url": "https://allevents.in/bangalore/garba-with-gujjubhai/4100030690138627",
+    "date": "2026-10-11",
+    "venue": "JNR convention complex",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czIvYmFubmVycy8zNTczYmZmMC1hZWMzLTExZjEtYWU4ZS1jYjIzYWNkZmVhNjUtcmltZy13MTIwMC1oNjc1LWRjMTgxODE4LWdtaXIucG5nP3Y9MTc4OTIyODg4Ng.avif",
     "extra": {},
     "group_id": 39,
     "multi_source": false
@@ -1104,6 +1104,22 @@
     "multi_source": false
   },
   {
+    "title": "Kids Dance Workshop",
+    "city": "Mumbai",
+    "category": "Kids",
+    "source": "AllEvents",
+    "url": "https://allevents.in/mumbai/kids-dance-workshop/3900030722736915",
+    "date": "2026-09-27",
+    "venue": "The Flex Dance Studio: Mumbai",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czcvYmFubmVycy8xMWE1MzM1MC1iNWVhLTExZjEtYTI4Ni0wM2FjYzllYjQwYWItcmltZy13MTIwMC1oNjAwLWRjZjhhOGI4LWdtaXIuanBnP3Y9MTc5MDAxNTIzNA.avif",
+    "extra": {},
+    "group_id": 64,
+    "multi_source": false
+  },
+  {
     "title": "DIY Clay Puzzle",
     "city": "Mumbai",
     "category": "Kids",
@@ -1116,7 +1132,23 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czUvYmFubmVycy81Y2ViMjhhMC1iMmM2LTExZjEtODkwOS0zZmEyNmIxZTI1ZmEtcmltZy13MTIwMC1oNjAwLWRjYzhjOGM4LWdtaXIuanBnP3Y9MTc4OTY3MDA1Nw.avif",
     "extra": {},
-    "group_id": 64,
+    "group_id": 65,
+    "multi_source": false
+  },
+  {
+    "title": "DIY Fairy House",
+    "city": "Mumbai",
+    "category": "Kids",
+    "source": "AllEvents",
+    "url": "https://allevents.in/mumbai/diy-fairy-house/3900030720776113",
+    "date": "2026-09-26",
+    "venue": "Hitchki Powai: Mumbai",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEwL2Jhbm5lcnMvZWM1ZDY4NDAtYjU3ZC0xMWYxLWFhYzgtYjE5ZjZmMjgxM2NkLXJpbWctdzEyMDAtaDYwMC1kYzM4MzgyOC1nbWlyLmpwZz92PTE3ODk5Njg3OTI.avif",
+    "extra": {},
+    "group_id": 66,
     "multi_source": false
   },
   {
@@ -1132,7 +1164,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czkvYmFubmVycy8xOGM0YzFmY2UyZDdkNzZhOGMzODc2NWUzYjkzMjBhZjEwZGYwYjdiZTI4Y2M3NmZhNWIzZGFmNWMwYjUzMDQzLXJpbWctdzEyMDAtaDQxMi1kY2Y4ZjhmOC1nbWlyP3Y9MTc4NzMyNzk5OA.avif",
     "extra": {},
-    "group_id": 65,
+    "group_id": 67,
     "multi_source": false
   },
   {
@@ -1148,7 +1180,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czcvYmFubmVycy9lZTBhNThjMC01ZDQ4LTExZjEtOTAwNy04OTE3YmVlNDlkZjEtcmltZy13MTIwMC1oNjAwLWRjNzY2MGFhLWdtaXIuanBnP3Y9MTc4MDI3MDMyNA.avif",
     "extra": {},
-    "group_id": 66,
+    "group_id": 68,
     "multi_source": false
   },
   {
@@ -1163,38 +1195,6 @@
     "price_max": null,
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czQvYmFubmVycy81YmYwN2RkMC1iNjVjLTExZjEtYTI4Ni0wM2FjYzllYjQwYWItcmltZy13MTIwMC1oNjAwLWRjMDgwODA4LWdtaXIuanBnP3Y9MTc5MDA2NDMyMg.avif",
-    "extra": {},
-    "group_id": 67,
-    "multi_source": false
-  },
-  {
-    "title": "RESOLUTION 2027 INDIA",
-    "city": "Mumbai",
-    "category": "Kids",
-    "source": "AllEvents",
-    "url": "https://allevents.in/mumbai/resolution-2027-india/3900030707947125",
-    "date": "2026-12-31",
-    "venue": "Venue To Be Announced: Mumbai",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czMvYmFubmVycy8zN2IxYjc4MC1iNjYyLTExZjEtYTI4Ni0wM2FjYzllYjQwYWItcmltZy13MTIwMC1oNjAwLWRjMDgwODE4LWdtaXIuanBnP3Y9MTc5MDA2NjkxMA.avif",
-    "extra": {},
-    "group_id": 68,
-    "multi_source": false
-  },
-  {
-    "title": "Sportives Smiley Obstacle Run",
-    "city": "Mumbai",
-    "category": "Kids",
-    "source": "AllEvents",
-    "url": "https://allevents.in/mumbai/sportives-smiley-obstacle-run/80002219698224",
-    "date": "2027-01-10",
-    "venue": "Inorbit Mall Malad, New Link Road, Malad, Malad West, Mumbai, Maharashtra, India",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4yLmFsbGV2ZW50cy5pbi90aHVtYnMvdGh1bWI2OWQ5MDkwODlhYTU0LmpwZw.avif",
     "extra": {},
     "group_id": 69,
     "multi_source": false
