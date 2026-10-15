@@ -373,7 +373,7 @@
     "category": "Kids",
     "source": "AllEvents",
     "url": "https://allevents.in/bangalore/redroom-dandiya-2026-at-lolas-manyata-tech-park/4100030742489126",
-    "date": "2026-10-15",
+    "date": "2026-10-16",
     "venue": "Lola's",
     "price_min": null,
     "price_max": null,
@@ -629,7 +629,7 @@
     "category": "Nightlife",
     "source": "AllEvents",
     "url": "https://allevents.in/bengaluru/gcg-navratri-2026/100002000144545177",
-    "date": "2026-10-15",
+    "date": "2026-10-16",
     "venue": "Saraswath Bhavan",
     "price_min": null,
     "price_max": null,
@@ -1248,6 +1248,22 @@
     "multi_source": false
   },
   {
+    "title": "Rohan Gujral Live",
+    "city": "Delhi NCR",
+    "category": "Comedy",
+    "source": "AllEvents",
+    "url": "https://allevents.in/new-delhi/rohan-gujral-live/3900030712126155",
+    "date": "2026-10-23",
+    "venue": "The Comedy Theatre: Gurgaon",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czIvYmFubmVycy8xNWM5YWYzMC1jODNmLTExZjEtOTdiOS1hZjFkNWRlZTBlMzYtcmltZy13MTIwMC1oNjAwLWRjMzgwODA4LWdtaXIuanBnP3Y9MTc5MjAzMDg4Mw.avif",
+    "extra": {},
+    "group_id": 75,
+    "multi_source": false
+  },
+  {
     "title": "Bali Ka Basra by Tushar Basra - A Stand Up Solo",
     "city": "Delhi NCR",
     "category": "Comedy",
@@ -1259,22 +1275,6 @@
     "price_max": null,
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEvYmFubmVycy9mOWJlZjgyMC1jNzk2LTExZjEtYjY4OS05NTk0ZTFmYWE4YjItcmltZy13MTIwMC1oNjAwLWRjMTg3ODc4LWdtaXIuanBnP3Y9MTc5MTk1ODY2Nw.avif",
-    "extra": {},
-    "group_id": 75,
-    "multi_source": false
-  },
-  {
-    "title": "Saikiran Checks In",
-    "city": "Delhi NCR",
-    "category": "Comedy",
-    "source": "AllEvents",
-    "url": "https://allevents.in/new-delhi/saikiran-checks-in/3900030678335821",
-    "date": "2026-10-24",
-    "venue": "The Laugh Store: DLF Cyberhub, Gurugram",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEwL2Jhbm5lcnMvMjQwNTBjNzAtYzNkZi0xMWYxLTk2MWItZWRmMTVmOWRjYTgyLXJpbWctdzEyMDAtaDYwMC1kYzA4MDgwOC1nbWlyLmpwZz92PTE3OTE1NDk4NTc.avif",
     "extra": {},
     "group_id": 76,
     "multi_source": false
@@ -1296,6 +1296,22 @@
     "multi_source": false
   },
   {
+    "title": "Saikiran Checks In",
+    "city": "Delhi NCR",
+    "category": "Comedy",
+    "source": "AllEvents",
+    "url": "https://allevents.in/new-delhi/saikiran-checks-in/3900030678335821",
+    "date": "2026-10-24",
+    "venue": "The Laugh Store: DLF Cyberhub, Gurugram",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEwL2Jhbm5lcnMvMjQwNTBjNzAtYzNkZi0xMWYxLTk2MWItZWRmMTVmOWRjYTgyLXJpbWctdzEyMDAtaDYwMC1kYzA4MDgwOC1nbWlyLmpwZz92PTE3OTE1NDk4NTc.avif",
+    "extra": {},
+    "group_id": 78,
+    "multi_source": false
+  },
+  {
     "title": "Out Of Syllabus By Sapan Verma",
     "city": "Delhi NCR",
     "category": "Comedy",
@@ -1308,7 +1324,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czUvYmFubmVycy81Y2YzZTNlMC1jNzRlLTExZjEtYjY4OS05NTk0ZTFmYWE4YjItcmltZy13MTIwMC1oNjAwLWRjODgyODE4LWdtaXIuanBnP3Y9MTc5MTkyNzQ4MA.avif",
     "extra": {},
-    "group_id": 78,
+    "group_id": 79,
     "multi_source": false
   },
   {
@@ -1323,22 +1339,6 @@
     "price_max": null,
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czIvYmFubmVycy85N2RlODBiMC1jNDJkLTExZjEtOTYxYi1lZGYxNWY5ZGNhODItcmltZy13MTIwMC1oNjAwLWRjMTgxODE4LWdtaXIuanBnP3Y9MTc5MTU4MzU1Mg.avif",
-    "extra": {},
-    "group_id": 79,
-    "multi_source": false
-  },
-  {
-    "title": "Meaningless Ft. Shiv Mohan Yadav",
-    "city": "Delhi NCR",
-    "category": "Comedy",
-    "source": "AllEvents",
-    "url": "https://allevents.in/new-delhi/meaningless-ft-shiv-mohan-yadav/3900030614314520",
-    "date": "2026-10-17",
-    "venue": "The Laughter Foyer: Gurugram",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czkvYmFubmVycy8xYjhmOWMwMC1jNWNkLTExZjEtYmEwMy1iNzUwNWQ0ZTdkNDItcmltZy13MTIwMC1oNjAwLWRjMDgzODA4LWdtaXIuanBnP3Y9MTc5MTc2MjAxNA.avif",
     "extra": {},
     "group_id": 80,
     "multi_source": false
