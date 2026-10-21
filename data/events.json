@@ -112,6 +112,22 @@
     "multi_source": false
   },
   {
+    "title": "Naanum Foodie Dhaan by Praveen Kumar",
+    "city": "Bangalore",
+    "category": "Comedy",
+    "source": "AllEvents",
+    "url": "https://allevents.in/bangalore/naanum-foodie-dhaan-by-praveen-kumar/3900030628338252",
+    "date": "2026-12-06",
+    "venue": "The Underground Comedy Club: Bengaluru",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEvYmFubmVycy82ZTIwYjZiMC1jYjNjLTExZjEtODdhZi1hNWZlNzgyMDFiNzgtcmltZy13MTIwMC1oNjAwLWRjMjg2OGE4LWdtaXIuanBnP3Y9MTc5MjM1OTU4OA.avif",
+    "extra": {},
+    "group_id": 7,
+    "multi_source": false
+  },
+  {
     "title": "Phulka Dots Ft. Amruta Bendre",
     "city": "Bangalore",
     "category": "Comedy",
@@ -124,7 +140,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czIvYmFubmVycy81NmRkYWJiMC1jOGU1LTExZjEtODQ5ZC1kMTk2MTIwZGE0NjgtcmltZy13MTIwMC1oNjAwLWRjZjhlOGQ4LWdtaXIuanBnP3Y9MTc5MjEwMjI4Nw.avif",
     "extra": {},
-    "group_id": 7,
+    "group_id": 8,
     "multi_source": false
   },
   {
@@ -140,7 +156,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czMvYmFubmVycy84MDdhOGM4MC1jYzI0LTExZjEtODdhZi1hNWZlNzgyMDFiNzgtcmltZy13MTIwMC1oNjAwLWRjZjhlOGM4LWdtaXIuanBnP3Y9MTc5MjQ1OTI1Nw.avif",
     "extra": {},
-    "group_id": 8,
+    "group_id": 9,
     "multi_source": false
   },
   {
@@ -156,7 +172,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czYvYmFubmVycy9hOGE1ZmZkMC1jMGI5LTExZjEtYWE3ZS04OTNmZjAwYWMzZjItcmltZy13MTIwMC1oNjAwLWRjMzgzODU4LWdtaXIuanBnP3Y9MTc5MTIwMzkwNQ.avif",
     "extra": {},
-    "group_id": 9,
+    "group_id": 10,
     "multi_source": false
   },
   {
@@ -170,9 +186,9 @@
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czIvYmFubmVycy9hYjc5ZGZjMC1jNzlkLTExZjEtYWM3NS0xNWE4N2UyNzI0ZDgtcmltZy13MTIwMC1oNjAwLWRjZjhmOGY4LWdtaXIuanBnP3Y9MTc5MTk2MTU0Mg.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czQvYmFubmVycy9jYTIzMjBkMC1jY2I2LTExZjEtOWI3ZS1kNzA5ZTMyNjhiNzgtcmltZy13MTIwMC1oNjAwLWRjZjhmOGY4LWdtaXIuanBnP3Y9MTc5MjUyMjA4Nw.avif",
     "extra": {},
-    "group_id": 10,
+    "group_id": 11,
     "multi_source": false
   },
   {
@@ -186,25 +202,25 @@
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czIvYmFubmVycy9hNjYxMzQ3MC1jOWMzLTExZjEtODU3OS0zYjNmZTZhYjI3MDQtcmltZy13MTIwMC1oNjAwLWRjMDgwODA4LWdtaXIuanBnP3Y9MTc5MjE5Nzc1Nw.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czQvYmFubmVycy85ZDZkZWQ1MC1jY2I1LTExZjEtOWI3ZS1kNzA5ZTMyNjhiNzgtcmltZy13MTIwMC1oNjAwLWRjMDgwODA4LWdtaXIuanBnP3Y9MTc5MjUyMTU4Mg.avif",
     "extra": {},
-    "group_id": 11,
+    "group_id": 12,
     "multi_source": false
   },
   {
-    "title": "Naanum Foodie Dhaan by Praveen Kumar",
+    "title": "Out Of Syllabus - Sapan Verma - 2026 New Tour",
     "city": "Bangalore",
     "category": "Comedy",
     "source": "AllEvents",
-    "url": "https://allevents.in/bangalore/naanum-foodie-dhaan-by-praveen-kumar/3900030628338252",
-    "date": "2026-12-06",
+    "url": "https://allevents.in/bangalore/out-of-syllabus-sapan-verma-2026-new-tour/3900030703791842",
+    "date": "2026-12-13",
     "venue": "The Underground Comedy Club: Bengaluru",
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEvYmFubmVycy82ZTIwYjZiMC1jYjNjLTExZjEtODdhZi1hNWZlNzgyMDFiNzgtcmltZy13MTIwMC1oNjAwLWRjMjg2OGE4LWdtaXIuanBnP3Y9MTc5MjM1OTU4OA.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czIvYmFubmVycy80OThkNzhjMC1jY2Y4LTExZjEtOWI3ZS1kNzA5ZTMyNjhiNzgtcmltZy13MTIwMC1oNjAwLWRjODgyODE4LWdtaXIuanBnP3Y9MTc5MjU1MDIzNg.avif",
     "extra": {},
-    "group_id": 12,
+    "group_id": 13,
     "multi_source": false
   },
   {
@@ -219,22 +235,6 @@
     "price_max": null,
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4yLmFsbGV2ZW50cy5pbi90aHVtYnMvdGh1bWI2YTRkMTFiODgwZDg5LmpwZw.avif",
-    "extra": {},
-    "group_id": 13,
-    "multi_source": false
-  },
-  {
-    "title": "Out Of Syllabus - Sapan Verma - 2026 New Tour",
-    "city": "Bangalore",
-    "category": "Comedy",
-    "source": "AllEvents",
-    "url": "https://allevents.in/bangalore/out-of-syllabus-sapan-verma-2026-new-tour/3900030703791842",
-    "date": "2026-12-13",
-    "venue": "The Underground Comedy Club: Bengaluru",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czgvYmFubmVycy8xMGI5ODY4MC1jOTQwLTExZjEtODQ5ZC1kMTk2MTIwZGE0NjgtcmltZy13MTIwMC1oNjAwLWRjODgyODE4LWdtaXIuanBnP3Y9MTc5MjE0MTI2Ng.avif",
     "extra": {},
     "group_id": 14,
     "multi_source": false
@@ -332,7 +332,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4yLmFsbGV2ZW50cy5pbi90aHVtYnMvdGh1bWI2YTRkMTFiODgwZDg5LmpwZw.avif",
     "extra": {},
-    "group_id": 13,
+    "group_id": 14,
     "multi_source": false
   },
   {
@@ -348,7 +348,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4yLmFsbGV2ZW50cy5pbi90aHVtYnMvdGh1bWI2YTRkMTFiODgwZDg5LmpwZw.avif",
     "extra": {},
-    "group_id": 13,
+    "group_id": 14,
     "multi_source": false
   },
   {
@@ -364,7 +364,23 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4yLmFsbGV2ZW50cy5pbi90aHVtYnMvdGh1bWI2YTRkMTFiODgwZDg5LmpwZw.avif",
     "extra": {},
-    "group_id": 13,
+    "group_id": 14,
+    "multi_source": false
+  },
+  {
+    "title": "LITTLE BEATS FESTIVAL",
+    "city": "Bangalore",
+    "category": "Kids",
+    "source": "AllEvents",
+    "url": "https://allevents.in/bangalore/little-beats-festival/3900030669826338",
+    "date": "2026-11-15",
+    "venue": "Kalyani Kala Mandir: Bengaluru",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czUvYmFubmVycy85ZTNlMTc2MC1jYzJkLTExZjEtYjJjZi1hNTU1Yzk2OWZlNTUtcmltZy13MTIwMC1oNjAwLWRjMDgwODI4LWdtaXIuanBnP3Y9MTc5MjQ2MzE3Mg.avif",
+    "extra": {},
+    "group_id": 19,
     "multi_source": false
   },
   {
@@ -380,7 +396,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4yLmFsbGV2ZW50cy5pbi90aHVtYnMvdGh1bWI2YTRkMTFiODgwZDg5LmpwZw.avif",
     "extra": {},
-    "group_id": 13,
+    "group_id": 14,
     "multi_source": false
   },
   {
@@ -396,7 +412,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czcvYmFubmVycy9lYjIzY2U0OWQ5NGI3MGEzOTNjOGY2MmNkOTFiMzQwMzIyMjgzNTFjYjMyMjE1YWM1M2QwZWZkYmNmYjEwNGZlLXJpbWctdzEyMDAtaDYwMC1kY2Q5ZGNkZC1nbWlyLmpwZz92PTE3ODUxMzQ0MzA.avif",
     "extra": {},
-    "group_id": 19,
+    "group_id": 20,
     "multi_source": false
   },
   {
@@ -411,22 +427,6 @@
     "price_max": null,
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4yLmFsbGV2ZW50cy5pbi90aHVtYnMvdGh1bWI2YWFhMzI3MjQyNTEzLmpwZw.avif",
-    "extra": {},
-    "group_id": 20,
-    "multi_source": false
-  },
-  {
-    "title": "LITTLE BEATS FESTIVAL",
-    "city": "Bangalore",
-    "category": "Kids",
-    "source": "AllEvents",
-    "url": "https://allevents.in/bangalore/little-beats-festival/3900030669826338",
-    "date": "2026-11-15",
-    "venue": "Kalyani Kala Mandir: Bengaluru",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czUvYmFubmVycy85ZTNlMTc2MC1jYzJkLTExZjEtYjJjZi1hNTU1Yzk2OWZlNTUtcmltZy13MTIwMC1oNjAwLWRjMDgwODI4LWdtaXIuanBnP3Y9MTc5MjQ2MzE3Mg.avif",
     "extra": {},
     "group_id": 21,
     "multi_source": false
@@ -448,17 +448,17 @@
     "multi_source": false
   },
   {
-    "title": "Silly Papa By Angad Singh Ranyal",
+    "title": "Try Three Hobbies in One Visit",
     "city": "Bangalore",
     "category": "Kids",
     "source": "AllEvents",
-    "url": "https://allevents.in/bangalore/silly-papa-by-angad-singh-ranyal/3900030729454646",
-    "date": "2026-12-20",
-    "venue": "Just BLR Comedy Club: Bengaluru",
+    "url": "https://allevents.in/bangalore/try-three-hobbies-in-one-visit/3900030743688428",
+    "date": "2026-10-22",
+    "venue": "Hobby Ghar: Seshadripuram, Bengaluru.",
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czcvYmFubmVycy8zMWQ2ZjgyMC1jOTA0LTExZjEtODQ5ZC1kMTk2MTIwZGE0NjgtcmltZy13MTIwMC1oNjAwLWRjMTgxODU4LWdtaXIuanBnP3Y9MTc5MjExNTU2NA.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czMvYmFubmVycy9hZGJhMTg1MC1jYzZhLTExZjEtYjJjZi1hNTU1Yzk2OWZlNTUtcmltZy13MTIwMC1oNjAwLWRjODg5ODU4LWdtaXIuanBnP3Y9MTc5MjQ4OTM5Nw.avif",
     "extra": {},
     "group_id": 23,
     "multi_source": false
@@ -512,6 +512,22 @@
     "multi_source": false
   },
   {
+    "title": "Halloween Night 2026",
+    "city": "Bangalore",
+    "category": "Nightlife",
+    "source": "AllEvents",
+    "url": "https://allevents.in/bangalore/halloween-night-2026/3900030763420002",
+    "date": "2026-10-30",
+    "venue": "Queen - The Club: Bengaluru",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEvYmFubmVycy9jN2M2MTY1MC1jOTNhLTExZjEtODQ5ZC1kMTk2MTIwZGE0NjgtcmltZy13MTIwMC1oNjAwLWRjMDgwODA4LWdtaXIuanBnP3Y9MTc5MjEzODk3Mg.avif",
+    "extra": {},
+    "group_id": 27,
+    "multi_source": false
+  },
+  {
     "title": "Anime Multiverse : Cosplay Edition Season 2",
     "city": "Bangalore",
     "category": "Nightlife",
@@ -523,22 +539,6 @@
     "price_max": null,
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czQvYmFubmVycy9iZmExOTc5MC01YTgzLTExZjEtYjU1Mi04ZDlhMTUyODQ5MjgtcmltZy13MTIwMC1oNjAwLWRjOTIyMDIxLWdtaXIuanBnP3Y9MTc3OTk2NTczMw.avif",
-    "extra": {},
-    "group_id": 27,
-    "multi_source": false
-  },
-  {
-    "title": "Halloween Night 2026",
-    "city": "Bangalore",
-    "category": "Nightlife",
-    "source": "AllEvents",
-    "url": "https://allevents.in/bangalore/halloween-night-2026/3900030730669250",
-    "date": "2026-10-30",
-    "venue": "BudBee Restobar 104: Bengaluru",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEvYmFubmVycy9jN2M2MTY1MC1jOTNhLTExZjEtODQ5ZC1kMTk2MTIwZGE0NjgtcmltZy13MTIwMC1oNjAwLWRjMDgwODA4LWdtaXIuanBnP3Y9MTc5MjEzODk3Nw.avif",
     "extra": {},
     "group_id": 28,
     "multi_source": false
@@ -560,51 +560,19 @@
     "multi_source": false
   },
   {
-    "title": "Keinemusik presents Adam Port - Bengaluru",
+    "title": "Sip and Clay",
     "city": "Bangalore",
     "category": "Nightlife",
     "source": "AllEvents",
-    "url": "https://allevents.in/bangalore/keinemusik-presents-adam-port-bengaluru/200030680197036",
-    "date": "2026-11-15",
-    "venue": "Bhartiya Mall of Bengaluru (Bhartiya City Mall)",
+    "url": "https://allevents.in/bangalore/sip-and-clay/3900030763345303",
+    "date": "2026-10-24",
+    "venue": "Third Wave Coffee, Church Street: Bengaluru",
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czcvYmFubmVycy82M2NlY2MzNjU1MmMwNTU0NjI1MWFkN2QwNTAyNWQ0YTFkYWUyYmMxMGM3ZjE1Y2Q2MjA2OTI5ODQzYjE2Njk4LXJpbWctdzEyMDAtaDYyOC1kYzA4MDgwOC1nbWlyP3Y9MTc4ODk4MDM3Ng.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEwL2Jhbm5lcnMvMTYyYWRiZjAtY2JiNi0xMWYxLTg3YWYtYTVmZTc4MjAxYjc4LXJpbWctdzEyMDAtaDYwMC1kYzg4NTgzOC1nbWlyLmpwZz92PTE3OTI0MTE4MzQ.avif",
     "extra": {},
     "group_id": 30,
-    "multi_source": false
-  },
-  {
-    "title": "Halloween Edition with Qurated",
-    "city": "Bangalore",
-    "category": "Nightlife",
-    "source": "AllEvents",
-    "url": "https://allevents.in/bangalore/halloween-edition-with-qurated/3900030745588934",
-    "date": "2026-10-31",
-    "venue": "Hard Rock Cafe: Bengaluru",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEvYmFubmVycy8zNTZhNzNmMC1jYmM5LTExZjEtODdhZi1hNWZlNzgyMDFiNzgtcmltZy13MTIwMC1oNjAwLWRjMzgwODA4LWdtaXIuanBnP3Y9MTc5MjQyMDA0Nw.avif",
-    "extra": {},
-    "group_id": 31,
-    "multi_source": false
-  },
-  {
-    "title": "Full Moon Festival Neon Glow Dance Unleash",
-    "city": "Bangalore",
-    "category": "Nightlife",
-    "source": "AllEvents",
-    "url": "https://allevents.in/bangalore/full-moon-festival-neon-glow-dance-unleash/3900030755458825",
-    "date": "2026-10-30",
-    "venue": "Queen - The Club: Bengaluru",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czQvYmFubmVycy8zNDdlM2VjMC1jYzQzLTExZjEtYjJjZi1hNTU1Yzk2OWZlNTUtcmltZy13MTIwMC1oNjAwLWRjMDgwODA4LWdtaXIuanBnP3Y9MTc5MjQ3MjQ0NA.avif",
-    "extra": {},
-    "group_id": 32,
     "multi_source": false
   },
   {
@@ -620,7 +588,55 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czkvYmFubmVycy8xZjczMGEzMC1jYWNmLTExZjEtODdhZi1hNWZlNzgyMDFiNzgtcmltZy13MTIwMC1oNjAwLWRjMDgwODA4LWdtaXIuanBnP3Y9MTc5MjMxMjYzNg.avif",
     "extra": {},
+    "group_id": 31,
+    "multi_source": false
+  },
+  {
+    "title": "Halloween Edition with Qurated",
+    "city": "Bangalore",
+    "category": "Nightlife",
+    "source": "AllEvents",
+    "url": "https://allevents.in/bangalore/halloween-edition-with-qurated/3900030745588934",
+    "date": "2026-10-31",
+    "venue": "Hard Rock Cafe: Bengaluru",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEvYmFubmVycy8zNTZhNzNmMC1jYmM5LTExZjEtODdhZi1hNWZlNzgyMDFiNzgtcmltZy13MTIwMC1oNjAwLWRjMzgwODA4LWdtaXIuanBnP3Y9MTc5MjQyMDA0Nw.avif",
+    "extra": {},
+    "group_id": 32,
+    "multi_source": false
+  },
+  {
+    "title": "Keinemusik presents Adam Port - Bengaluru",
+    "city": "Bangalore",
+    "category": "Nightlife",
+    "source": "AllEvents",
+    "url": "https://allevents.in/bangalore/keinemusik-presents-adam-port-bengaluru/200030680197036",
+    "date": "2026-11-15",
+    "venue": "Bhartiya Mall of Bengaluru (Bhartiya City Mall)",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czcvYmFubmVycy82M2NlY2MzNjU1MmMwNTU0NjI1MWFkN2QwNTAyNWQ0YTFkYWUyYmMxMGM3ZjE1Y2Q2MjA2OTI5ODQzYjE2Njk4LXJpbWctdzEyMDAtaDYyOC1kYzA4MDgwOC1nbWlyP3Y9MTc4ODk4MDM3Ng.avif",
+    "extra": {},
     "group_id": 33,
+    "multi_source": false
+  },
+  {
+    "title": "Full Moon Festival Neon Glow Dance Unleash",
+    "city": "Bangalore",
+    "category": "Nightlife",
+    "source": "AllEvents",
+    "url": "https://allevents.in/bangalore/full-moon-festival-neon-glow-dance-unleash/3900030755458825",
+    "date": "2026-10-30",
+    "venue": "Queen - The Club: Bengaluru",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czQvYmFubmVycy8zNDdlM2VjMC1jYzQzLTExZjEtYjJjZi1hNTU1Yzk2OWZlNTUtcmltZy13MTIwMC1oNjAwLWRjMDgwODA4LWdtaXIuanBnP3Y9MTc5MjQ3MjQ0NA.avif",
+    "extra": {},
+    "group_id": 34,
     "multi_source": false
   },
   {
@@ -636,7 +652,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4yLmFsbGV2ZW50cy5pbi90aHVtYnMvdGh1bWI2YWQ3NTQxMjQ2ZmEyLmpwZw.avif",
     "extra": {},
-    "group_id": 34,
+    "group_id": 35,
     "multi_source": false
   },
   {
@@ -651,22 +667,6 @@
     "price_max": null,
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czQvYmFubmVycy8xNzYwNzg2MC1jYjRiLTExZjEtODdhZi1hNWZlNzgyMDFiNzgtcmltZy13MTIwMC1oNjAwLWRjMDgwODA4LWdtaXIuanBnP3Y9MTc5MjM2NTg4MA.avif",
-    "extra": {},
-    "group_id": 35,
-    "multi_source": false
-  },
-  {
-    "title": "Sip and Clay",
-    "city": "Bangalore",
-    "category": "Nightlife",
-    "source": "AllEvents",
-    "url": "https://allevents.in/bangalore/sip-and-clay/3900030763346111",
-    "date": "2026-10-24",
-    "venue": "The Dual Room: Bengaluru",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEwL2Jhbm5lcnMvMTYyYWRiZjAtY2JiNi0xMWYxLTg3YWYtYTVmZTc4MjAxYjc4LXJpbWctdzEyMDAtaDYwMC1kYzg4NTgzOC1nbWlyLmpwZz92PTE3OTI0MTE4NDY.avif",
     "extra": {},
     "group_id": 36,
     "multi_source": false
@@ -1034,7 +1034,7 @@
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czkvYmFubmVycy8xMzhkODU0MC1jOWM4LTExZjEtODU3OS0zYjNmZTZhYjI3MDQtcmltZy13MTIwMC1oNjAwLWRjZjhmOGY4LWdtaXIuanBnP3Y9MTc5MjE5OTY1OA.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czIvYmFubmVycy8wNTVkOTJkMC1jY2VkLTExZjEtOWI3ZS1kNzA5ZTMyNjhiNzgtcmltZy13MTIwMC1oNjAwLWRjZjhmOGY4LWdtaXIuanBnP3Y9MTc5MjU0NTM3OQ.avif",
     "extra": {},
     "group_id": 58,
     "multi_source": false
@@ -1104,22 +1104,6 @@
     "multi_source": false
   },
   {
-    "title": "Terrarium Workshop",
-    "city": "Mumbai",
-    "category": "Kids",
-    "source": "AllEvents",
-    "url": "https://allevents.in/mumbai/terrarium-workshop/3900030828866035",
-    "date": "2026-10-25",
-    "venue": "CJ Corner of Joy: Navi Mumbai",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czcvYmFubmVycy9jMDBjZjgxMC1jYzg4LTExZjEtOWI3ZS1kNzA5ZTMyNjhiNzgtcmltZy13MTIwMC1oNjAwLWRjZjhlOGQ4LWdtaXIuanBnP3Y9MTc5MjUwMjMxMw.avif",
-    "extra": {},
-    "group_id": 63,
-    "multi_source": false
-  },
-  {
     "title": "Sportives Smiley Obstacle Run",
     "city": "Mumbai",
     "category": "Kids",
@@ -1131,6 +1115,22 @@
     "price_max": null,
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4yLmFsbGV2ZW50cy5pbi90aHVtYnMvdGh1bWI2OWQ5MDkwODlhYTU0LmpwZw.avif",
+    "extra": {},
+    "group_id": 63,
+    "multi_source": false
+  },
+  {
+    "title": "Terrarium Workshop",
+    "city": "Mumbai",
+    "category": "Kids",
+    "source": "AllEvents",
+    "url": "https://allevents.in/mumbai/terrarium-workshop/3900030828866035",
+    "date": "2026-10-25",
+    "venue": "CJ Corner of Joy: Navi Mumbai",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czcvYmFubmVycy9jMDBjZjgxMC1jYzg4LTExZjEtOWI3ZS1kNzA5ZTMyNjhiNzgtcmltZy13MTIwMC1oNjAwLWRjZjhlOGQ4LWdtaXIuanBnP3Y9MTc5MjUwMjMxMw.avif",
     "extra": {},
     "group_id": 64,
     "multi_source": false
