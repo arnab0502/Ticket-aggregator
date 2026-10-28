@@ -74,7 +74,7 @@
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEvYmFubmVycy9kMjIxN2ViMC1jZGY4LTExZjEtOGI4NC04YmNkNDM5NzJhYTItcmltZy13MTIwMC1oNjAwLWRjMjg2OGE4LWdtaXIuanBnP3Y9MTc5MjY2MDQwNA.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEvYmFubmVycy8yNTA3OGNlMC1kMmM4LTExZjEtODI4OC1jMWE0M2FkOTlmNjktcmltZy13MTIwMC1oNjAwLWRjMjg2OGE4LWdtaXIuanBnP3Y9MTc5MzE4OTI1OQ.avif",
     "extra": {},
     "group_id": 4,
     "multi_source": false
@@ -416,6 +416,22 @@
     "multi_source": false
   },
   {
+    "title": "DIY Hair Accessories",
+    "city": "Bangalore",
+    "category": "Kids",
+    "source": "AllEvents",
+    "url": "https://allevents.in/bangalore/diy-hair-accessories/3900030314743956",
+    "date": "2026-10-31",
+    "venue": "Fabrizo - Creative Activity Hub: BTM Layout",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czMvYmFubmVycy9jZjcyNmMwMC03YjNkLTExZjEtYmRmYy0yMzQyYmZkMDEwOTYtcmltZy13MTIwMC1oNjAwLWRjMjc2NDc1LWdtaXIuanBnP3Y9MTc4MzU2NDA4Mw.avif",
+    "extra": {},
+    "group_id": 25,
+    "multi_source": false
+  },
+  {
     "title": "At Rasala — Japanese Craft & Tea Experience",
     "city": "Bangalore",
     "category": "Kids",
@@ -428,7 +444,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czUvYmFubmVycy9hMjI1YzJhZjc2NjdjZjEzM2UyOTJiNWE3NDFjMTVlODNlZjQyMzFiZTk2ZGU1NzUyN2FjOWRhMWQ2ZjEyOGRhLXJpbWctdzEyMDAtaDYwMC1kYzk4NjgzOC1nbWlyLmpwZz92PTE3OTI2MTEyMzU.avif",
     "extra": {},
-    "group_id": 25,
+    "group_id": 26,
     "multi_source": false
   },
   {
@@ -444,7 +460,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czQvYmFubmVycy9iNGMxZjJjMC1kMjQyLTExZjEtODQ0Ny05Nzc5ZTFhZTkzN2UtcmltZy13MTIwMC1oNjAwLWRjMTgwODA4LWdtaXIuanBnP3Y9MTc5MzEzMTkzNg.avif",
     "extra": {},
-    "group_id": 26,
+    "group_id": 27,
     "multi_source": false
   },
   {
@@ -459,22 +475,6 @@
     "price_max": null,
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czcvYmFubmVycy85ZTA5Y2YxMC1jNzlhLTExZjEtYWM3NS0xNWE4N2UyNzI0ZDgtcmltZy13MTIwMC1oNjc1LWRjZjhlOGQ4LWdtaXIuanBnP3Y9MTc5MTk2MDIzMQ.avif",
-    "extra": {},
-    "group_id": 27,
-    "multi_source": false
-  },
-  {
-    "title": "Toran Painting Workshop Create Your Own Festive",
-    "city": "Bangalore",
-    "category": "Kids",
-    "source": "AllEvents",
-    "url": "https://allevents.in/bangalore/toran-painting-workshop-create-your-own-festive/3900030922414539",
-    "date": "2026-10-31",
-    "venue": "Cafe Coffee Day: Whitefield, Bengaluru",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEvYmFubmVycy9lNjAzMjM2MC1kMjA5LTExZjEtODQ0Ny05Nzc5ZTFhZTkzN2UtcmltZy13MTIwMC1oNjAwLWRjMjg2ODg4LWdtaXIuanBnP3Y9MTc5MzEwNzUzOA.avif",
     "extra": {},
     "group_id": 28,
     "multi_source": false
@@ -548,15 +548,31 @@
     "city": "Bangalore",
     "category": "Nightlife",
     "source": "AllEvents",
-    "url": "https://allevents.in/bangalore/halloween-night-2026/3900030730669250",
+    "url": "https://allevents.in/bangalore/halloween-night-2026/3900030763420002",
     "date": "2026-10-30",
-    "venue": "BudBee Restobar 104: Bengaluru",
+    "venue": "Queen - The Club: Bengaluru",
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czUvYmFubmVycy9hMTg1MDBjMC1kMWRhLTExZjEtYWU1Zi03OWQ4OGNlMjAwZTQtcmltZy13MTIwMC1oNjAwLWRjMDgwODA4LWdtaXIuanBnP3Y9MTc5MzA4NzI0OA.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czUvYmFubmVycy9hMTg1MDBjMC1kMWRhLTExZjEtYWU1Zi03OWQ4OGNlMjAwZTQtcmltZy13MTIwMC1oNjAwLWRjMDgwODA4LWdtaXIuanBnP3Y9MTc5MzA4NzI0Mg.avif",
     "extra": {},
     "group_id": 33,
+    "multi_source": false
+  },
+  {
+    "title": "Halloween Thalapathy Kacheri",
+    "city": "Bangalore",
+    "category": "Nightlife",
+    "source": "AllEvents",
+    "url": "https://allevents.in/bangalore/halloween-thalapathy-kacheri-tickets/80001488369272",
+    "date": "2026-10-30",
+    "venue": "Babylonia - Global Food and Cocktails",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4yLmFsbGV2ZW50cy5pbi9haS1iYW5uZXJzL2FpX2Jhbm5lcl82YWUyMTIxZDA1ZDMzLmpwZw.avif",
+    "extra": {},
+    "group_id": 34,
     "multi_source": false
   },
   {
@@ -572,7 +588,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEwL2Jhbm5lcnMvNTMwMzIxMDAtY2VjMS0xMWYxLTlhZTktYmIzNzk0ZmUzYmNkLXJpbWctdzEyMDAtaDYwMC1kYzM4MDgwOC1nbWlyLmpwZz92PTE3OTI3NDY1MTQ.avif",
     "extra": {},
-    "group_id": 34,
+    "group_id": 35,
     "multi_source": false
   },
   {
@@ -586,9 +602,25 @@
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czUvYmFubmVycy9lMGQ4NzgyMC1jZWM4LTExZjEtOTU4Zi0zMWFkODU1NWJhYmItcmltZy13MTIwMC1oNjAwLWRjMDgwODA4LWdtaXIuanBnP3Y9MTc5Mjc0OTc1OA.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czkvYmFubmVycy9jYWZjNjlmMC1kMjgxLTExZjEtODI4OC1jMWE0M2FkOTlmNjktcmltZy13MTIwMC1oNjAwLWRjMDgwODA4LWdtaXIuanBnP3Y9MTc5MzE1OTAzMg.avif",
     "extra": {},
-    "group_id": 35,
+    "group_id": 36,
+    "multi_source": false
+  },
+  {
+    "title": "Halloween Costume Theme Party",
+    "city": "Bangalore",
+    "category": "Nightlife",
+    "source": "AllEvents",
+    "url": "https://allevents.in/bangalore/halloween-costume-theme-party-tickets/80001185102230",
+    "date": "2026-10-31",
+    "venue": "Buddiezz Cafe - Board Games Cafe, Buddiezz Cafe, 80 Feet Road, next to Glen Bake House, 6th Block, Koramangala, Bengaluru, Karnataka, India",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4yLmFsbGV2ZW50cy5pbi90aHVtYnMvdGh1bWI2YWRlNjMwNTIwMGFiLmpwZw.avif",
+    "extra": {},
+    "group_id": 37,
     "multi_source": false
   },
   {
@@ -604,7 +636,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czIvYmFubmVycy9lODIyNTcyMC1kMThiLTExZjEtOTU0Ny1jZDZlMDg0Y2I3MmItcmltZy13MTIwMC1oNjAwLWRjMDgwODA4LWdtaXIuanBnP3Y9MTc5MzA1MzQyNQ.avif",
     "extra": {},
-    "group_id": 36,
+    "group_id": 38,
     "multi_source": false
   },
   {
@@ -620,7 +652,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czcvYmFubmVycy84YjRhMjQ4MC1kMWQ0LTExZjEtYWU1Zi03OWQ4OGNlMjAwZTQtcmltZy13MTIwMC1oNjAwLWRjMDgwODA4LWdtaXIuanBnP3Y9MTc5MzA4NDYyMg.avif",
     "extra": {},
-    "group_id": 37,
+    "group_id": 39,
     "multi_source": false
   },
   {
@@ -636,7 +668,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czkvYmFubmVycy8xMTIzMjUwMC01ZjU5LTExZjEtYjE2Zi0wZjlmNDY5NWIwYzQtcmltZy13MTIwMC1oNjAwLWRjNjA0NTJkLWdtaXIuanBnP3Y9MTc4MDQ5NzE1Nw.avif",
     "extra": {},
-    "group_id": 38,
+    "group_id": 40,
     "multi_source": false
   },
   {
@@ -651,38 +683,6 @@
     "price_max": null,
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czMvYmFubmVycy81Y2U1NTMxMC1kMmMxLTExZjEtODI4OC1jMWE0M2FkOTlmNjktcmltZy13MTIwMC1oNjAwLWRjMDgwODA4LWdtaXIuanBnP3Y9MTc5MzE4NjMzNQ.avif",
-    "extra": {},
-    "group_id": 39,
-    "multi_source": false
-  },
-  {
-    "title": "SHAAM-E-RAFI-2",
-    "city": "Bangalore",
-    "category": "Nightlife",
-    "source": "AllEvents",
-    "url": "https://allevents.in/bangalore/shaam-e-rafi-2/3900030635769030",
-    "date": "2026-11-22",
-    "venue": "Bharatiya Vidya Bhavan: Bengaluru",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czYvYmFubmVycy8yNzAzYjk2MC1kMjc4LTExZjEtOTJkMC04M2JmNDQ4ODQzYTAtcmltZy13MTIwMC1oNjAwLWRjMDgwODA4LWdtaXIuanBnP3Y9MTc5MzE1NDg5MQ.avif",
-    "extra": {},
-    "group_id": 40,
-    "multi_source": false
-  },
-  {
-    "title": "B Town Bollywood Fashion Fridays Futuristic",
-    "city": "Bangalore",
-    "category": "Nightlife",
-    "source": "AllEvents",
-    "url": "https://allevents.in/bangalore/b-town-bollywood-fashion-fridays-futuristic/3900030140255455",
-    "date": "2026-12-04",
-    "venue": "Gilly`s 104: Bengaluru",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czcvYmFubmVycy9lZjIxYTQ4MC01ZjVlLTExZjEtYWY2MC0wNTdmM2ZhYjllMDYtcmltZy13MTIwMC1oNjAwLWRjMTgxOTJmLWdtaXIuanBnP3Y9MTc4MDQ5OTY3Nw.avif",
     "extra": {},
     "group_id": 41,
     "multi_source": false
@@ -714,7 +714,7 @@
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEvYmFubmVycy9hZWE4Y2VhMC1jZTlhLTExZjEtOWFlOS1iYjM3OTRmZTNiY2QtcmltZy13MTIwMC1oNjAwLWRjZjhmOGQ4LWdtaXIuanBnP3Y9MTc5MjcyOTkxNw.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czUvYmFubmVycy81ZTRjNWQ1MC1kMmU2LTExZjEtODI4OC1jMWE0M2FkOTlmNjktcmltZy13MTIwMC1oNjAwLWRjZjhmOGQ4LWdtaXIuanBnP3Y9MTc5MzIwMjIyOQ.avif",
     "extra": {},
     "group_id": 43,
     "multi_source": false
@@ -746,7 +746,7 @@
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czgvYmFubmVycy82OWQyODM1MC1jZmZmLTExZjEtOTU4Zi0zMWFkODU1NWJhYmItcmltZy13MTIwMC1oNjAwLWRjZjgwODg4LWdtaXIuanBnP3Y9MTc5Mjg4MzEzOA.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czQvYmFubmVycy8wNWI1Y2E3MC1kMmNiLTExZjEtODI4OC1jMWE0M2FkOTlmNjktcmltZy13MTIwMC1oNjAwLWRjZjgwODg4LWdtaXIuanBnP3Y9MTc5MzE5MDQ5MQ.avif",
     "extra": {},
     "group_id": 45,
     "multi_source": false
@@ -778,7 +778,7 @@
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czgvYmFubmVycy9iMjRkMGIzMC1jZTVkLTExZjEtOGI4NC04YmNkNDM5NzJhYTItcmltZy13MTIwMC1oNjAwLWRjYjg1ODQ4LWdtaXIuanBnP3Y9MTc5MjcwMzcyNA.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czYvYmFubmVycy85YTExN2Y5MC1kMmNlLTExZjEtODI4OC1jMWE0M2FkOTlmNjktcmltZy13MTIwMC1oNjAwLWRjYjg1ODQ4LWdtaXIuanBnP3Y9MTc5MzE5MjAyMQ.avif",
     "extra": {},
     "group_id": 47,
     "multi_source": false
@@ -896,6 +896,22 @@
     "multi_source": false
   },
   {
+    "title": "FAMILY MATTERS - A STANDUP COMEDY SPECIAL",
+    "city": "Mumbai",
+    "category": "Comedy",
+    "source": "AllEvents",
+    "url": "https://allevents.in/mumbai/family-matters-a-standup-comedy-special/3900030524756137",
+    "date": "2026-10-31",
+    "venue": "Ink-A-Laugh Comedy Club: Vile Parle (W), Mumbai",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czgvYmFubmVycy9kOWQ2ZGFlMC05N2ZlLTExZjEtOWE0MC03YjkwZGU3MjAxMjUtcmltZy13MTIwMC1oNjAwLWRjMzgwODE4LWdtaXIuanBnP3Y9MTc4NjcyNTYyNQ.avif",
+    "extra": {},
+    "group_id": 55,
+    "multi_source": false
+  },
+  {
     "title": "Thinking & Doing - Joel Dsouza",
     "city": "Mumbai",
     "category": "Comedy",
@@ -907,22 +923,6 @@
     "price_max": null,
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czgvYmFubmVycy9iMWUwYWJjMC1kMWY1LTExZjEtYmZjNS04NTlkNTYwYzMzZGItcmltZy13MTIwMC1oNjAwLWRjZjhmOGU4LWdtaXIuanBnP3Y9MTc5MzA5ODg2MA.avif",
-    "extra": {},
-    "group_id": 55,
-    "multi_source": false
-  },
-  {
-    "title": "MEANWHILE By Manjeet Sarkar",
-    "city": "Mumbai",
-    "category": "Comedy",
-    "source": "AllEvents",
-    "url": "https://allevents.in/mumbai/meanwhile-by-manjeet-sarkar/3900030389579913",
-    "date": "2026-10-31",
-    "venue": "Backspace: Bandra West, Mumbai",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czUvYmFubmVycy8xYmJiYWQ2MC1iMTNhLTExZjEtYTczNi0xZjFiZDFkOWExMjctcmltZy13MTIwMC1oNjAwLWRjZThlOGU4LWdtaXIuanBnP3Y9MTc4OTQ5OTg5NA.avif",
     "extra": {},
     "group_id": 56,
     "multi_source": false
@@ -1488,22 +1488,6 @@
     "multi_source": false
   },
   {
-    "title": "Satkarma Yoga",
-    "city": "Delhi NCR",
-    "category": "Kids",
-    "source": "AllEvents",
-    "url": "https://allevents.in/new-delhi/satkarma-yoga/200030904938344",
-    "date": "2026-10-28",
-    "venue": "393, Kakrola Housing Complex Nishat Park New Delhi 110078, Delhi, India 110078, Delhi",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czMvYmFubmVycy83N2UwMjU2YTI5YTMyZDc4Nzc4ZjYyYWZlY2U0MmRiODQ5MDA3Y2Y2OWUzYjdkZGU4ZDBkZTIwN2MwZmUxNDQ4LXJpbWctdzEyMDAtaDgwMC1kYzQ4MTgwOC1nbWlyP3Y9MTc5Mjg3MzI0NA.avif",
-    "extra": {},
-    "group_id": 92,
-    "multi_source": false
-  },
-  {
     "title": "Halloween for Kids",
     "city": "Delhi NCR",
     "category": "Kids",
@@ -1515,6 +1499,22 @@
     "price_max": null,
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czYvYmFubmVycy9kZGM4OTJjMC1kMGJhLTExZjEtOTU4Zi0zMWFkODU1NWJhYmItcmltZy13MTIwMC1oNjAwLWRjMDgwODA4LWdtaXIuanBnP3Y9MTc5Mjk2MzY0Mg.avif",
+    "extra": {},
+    "group_id": 92,
+    "multi_source": false
+  },
+  {
+    "title": "Parent Toddler Monthly Program in Gurgaon",
+    "city": "Delhi NCR",
+    "category": "Kids",
+    "source": "AllEvents",
+    "url": "https://allevents.in/new-delhi/parent-toddler-monthly-program-in-gurgaon/3900030929522312",
+    "date": "2026-11-14",
+    "venue": "Haplap Kids Club: Gurugram",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czkvYmFubmVycy82YWQ5ZDZkMC1kMjk0LTExZjEtODI4OC1jMWE0M2FkOTlmNjktcmltZy13MTIwMC1oNjAwLWRjZjhmOGY4LWdtaXIuanBnP3Y9MTc5MzE2NzAzMQ.avif",
     "extra": {},
     "group_id": 93,
     "multi_source": false
@@ -1568,22 +1568,6 @@
     "multi_source": false
   },
   {
-    "title": "Korean Handbok Doll Workshop",
-    "city": "Delhi NCR",
-    "category": "Kids",
-    "source": "AllEvents",
-    "url": "https://allevents.in/new-delhi/korean-handbok-doll-workshop/3900030922209615",
-    "date": "2026-10-28",
-    "venue": "Kenangan Coffee: Delhi",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czIvYmFubmVycy9lZWVkZmU0MC1kMjA1LTExZjEtODQ0Ny05Nzc5ZTFhZTkzN2UtcmltZy13MTIwMC1oNjAwLWRjYjhhODk4LWdtaXIuanBnP3Y9MTc5MzEwNTgzNQ.avif",
-    "extra": {},
-    "group_id": 97,
-    "multi_source": false
-  },
-  {
     "title": "Rupali Tyagi Live",
     "city": "Delhi NCR",
     "category": "Kids",
@@ -1594,9 +1578,9 @@
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czcvYmFubmVycy9kMTdlOThmMC1jZmFlLTExZjEtOTU4Zi0zMWFkODU1NWJhYmItcmltZy13MTIwMC1oNjAwLWRjNTg1ODk4LWdtaXIuanBnP3Y9MTc5Mjg0ODUxNw.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czgvYmFubmVycy9jMWNhMjczMC1kMmM0LTExZjEtODI4OC1jMWE0M2FkOTlmNjktcmltZy13MTIwMC1oNjAwLWRjNTg1ODk4LWdtaXIuanBnP3Y9MTc5MzE4Nzc5Mw.avif",
     "extra": {},
-    "group_id": 98,
+    "group_id": 97,
     "multi_source": false
   },
   {
@@ -1612,21 +1596,37 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czYvYmFubmVycy8wNDEyZGMzMC1kMjQ0LTExZjEtODQ0Ny05Nzc5ZTFhZTkzN2UtcmltZy13MTIwMC1oNjAwLWRjZjhjODQ4LWdtaXIuanBnP3Y9MTc5MzEzMjQ5OQ.avif",
     "extra": {},
+    "group_id": 98,
+    "multi_source": false
+  },
+  {
+    "title": "PARVEEN TANEJA",
+    "city": "Delhi NCR",
+    "category": "Kids",
+    "source": "AllEvents",
+    "url": "https://allevents.in/new-delhi/parveen-taneja/200030890081105",
+    "date": "2027-06-01",
+    "venue": "SHOP NO-6 Parthvi Raj Market Khan Markit,New Delhi",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czgvYmFubmVycy8xNTFjYTk2ZTBhMDBmYzcwZDZlZmJlOWFhZTQ3NzMwNDRmZTY4MjAzYzhjYzU3M2IwN2YwZDdlMTI4NmJjODRjLXJpbWctdzU0MC1oMTIwMC1kYzA4MDgwOC1nbWlyP3Y9MTc5Mjc4NDQ2NQ.avif",
+    "extra": {},
     "group_id": 99,
     "multi_source": false
   },
   {
-    "title": "Baddie Since the 90s By Harpriya Bains",
+    "title": "4 KIDS BABY SHOP 🏪",
     "city": "Delhi NCR",
     "category": "Kids",
     "source": "AllEvents",
-    "url": "https://allevents.in/new-delhi/baddie-since-the-90s-by-harpriya-bains/3900030782295123",
-    "date": "2026-11-21",
-    "venue": "The Laugh Store: DLF Cyberhub, Gurugram",
+    "url": "https://allevents.in/new-delhi/4-kids-baby-shop/200030890099506",
+    "date": "2027-08-10",
+    "venue": "Thinkers corner Emene by North west filling station �",
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czkvYmFubmVycy9jZmI2MjZmMC1jZTliLTExZjEtOWFlOS1iYjM3OTRmZTNiY2QtcmltZy13MTIwMC1oNjAwLWRjZDhhODc4LWdtaXIuanBnP3Y9MTc5MjczMDQwMg.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czIvYmFubmVycy8zNGVhODVjOTVhZGM3ZGVjZGY5NDU1NGI1YmU1YzQ5YjVhMWRiMzY0OTViMDgwYTVkMGY3YWM3MTUwMGZmMGRiLXJpbWctdzcyMC1oODM0LWRjYzhjOGQ4LWdtaXI_dj0xNzkyNzg0NTI2.avif",
     "extra": {},
     "group_id": 100,
     "multi_source": false
@@ -1744,22 +1744,6 @@
     "multi_source": false
   },
   {
-    "title": "B.Tech to Bewars",
-    "city": "Hyderabad",
-    "category": "Comedy",
-    "source": "AllEvents",
-    "url": "https://allevents.in/hyderabad/btech-to-bewars/3900030903773009",
-    "date": "2026-10-31",
-    "venue": "Aaromale - Cafe and Creative Community: Hyderabad",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czYvYmFubmVycy9lZTU3MzE5MC1kMWJhLTExZjEtOTU0Ny1jZDZlMDg0Y2I3MmItcmltZy13MTIwMC1oNjAwLWRjMDgwODA4LWdtaXIuanBnP3Y9MTc5MzA3MzYyMQ.avif",
-    "extra": {},
-    "group_id": 108,
-    "multi_source": false
-  },
-  {
     "title": "ZAR THE STAR: CALL CENTRE REVENGE",
     "city": "Hyderabad",
     "category": "Comedy",
@@ -1772,7 +1756,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czYvYmFubmVycy9iMTBjZmNjMC1iOGY2LTExZjEtYjdhYy0wOWVlZTI4Nzk5ZmUtcmltZy13MTIwMC1oNjc1LWRjZjhhODE4LWdtaXIuanBnP3Y9MTc5MDM1MDUwOQ.avif",
     "extra": {},
-    "group_id": 109,
+    "group_id": 108,
     "multi_source": false
   },
   {
@@ -1787,6 +1771,22 @@
     "price_max": null,
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czQvYmFubmVycy80ZGExMWI4MC1kMWY2LTExZjEtYmZjNS04NTlkNTYwYzMzZGItcmltZy13MTIwMC1oNjAwLWRjMDgwODA4LWdtaXIuanBnP3Y9MTc5MzA5OTEzMg.avif",
+    "extra": {},
+    "group_id": 109,
+    "multi_source": false
+  },
+  {
+    "title": "B.Tech to Bewars",
+    "city": "Hyderabad",
+    "category": "Comedy",
+    "source": "AllEvents",
+    "url": "https://allevents.in/hyderabad/btech-to-bewars/3900030903773009",
+    "date": "2026-10-31",
+    "venue": "Aaromale - Cafe and Creative Community: Hyderabad",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czYvYmFubmVycy9lZTU3MzE5MC1kMWJhLTExZjEtOTU0Ny1jZDZlMDg0Y2I3MmItcmltZy13MTIwMC1oNjAwLWRjMDgwODA4LWdtaXIuanBnP3Y9MTc5MzA3MzYyMQ.avif",
     "extra": {},
     "group_id": 110,
     "multi_source": false
@@ -1984,6 +1984,22 @@
     "multi_source": false
   },
   {
+    "title": "The Devils Party",
+    "city": "Hyderabad",
+    "category": "Nightlife",
+    "source": "AllEvents",
+    "url": "https://allevents.in/hyderabad/the-devils-party/4100030930102005",
+    "date": "2026-10-31",
+    "venue": "Radio Bar | Hitech City, Hyderabad",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEwL2Jhbm5lcnMvNTU3YjkzOTAtZDJiZC0xMWYxLTgyODgtYzFhNDNhZDk5ZjY5LXJpbWctdzEyMDAtaDY3NS1kYzE4MTgxOC1nbWlyLmpwZz92PTE3OTMxODQ2MDU.avif",
+    "extra": {},
+    "group_id": 123,
+    "multi_source": false
+  },
+  {
     "title": "Halloween party",
     "city": "Hyderabad",
     "category": "Nightlife",
@@ -1997,6 +2013,22 @@
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czIvYmFubmVycy8xODg3MzRkMC1kMjQwLTExZjEtODQ0Ny05Nzc5ZTFhZTkzN2UtcmltZy13MTIwMC1oNjAwLWRjMDgwODA4LWdtaXIuanBnP3Y9MTc5MzEzMDgxNQ.avif",
     "extra": {},
     "group_id": 119,
+    "multi_source": false
+  },
+  {
+    "title": "Halloween Night - Raakasa",
+    "city": "Hyderabad",
+    "category": "Nightlife",
+    "source": "AllEvents",
+    "url": "https://allevents.in/hyderabad/halloween-night-raakasa/3900030929339943",
+    "date": "2026-10-30",
+    "venue": "Komma - The Club: Hyderabad",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czcvYmFubmVycy9kNDQ0ZWNkMC1kMjhiLTExZjEtODI4OC1jMWE0M2FkOTlmNjktcmltZy13MTIwMC1oNjAwLWRjMDgwODA4LWdtaXIuanBnP3Y9MTc5MzE2MzM0Mg.avif",
+    "extra": {},
+    "group_id": 124,
     "multi_source": false
   },
   {
@@ -2028,7 +2060,23 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4yLmFsbGV2ZW50cy5pbi90aHVtYnMvdGh1bWI2YTE5MzdmYzJjYTIzLmpwZw.avif",
     "extra": {},
-    "group_id": 123,
+    "group_id": 125,
+    "multi_source": false
+  },
+  {
+    "title": "Gaanam with Gamyam - An Open Jam Session",
+    "city": "Hyderabad",
+    "category": "Nightlife",
+    "source": "AllEvents",
+    "url": "https://allevents.in/hyderabad/gaanam-with-gamyam-an-open-jam-session/3900030930400932",
+    "date": "2026-10-31",
+    "venue": "Jammin Junction Bar &amp; Kitchen: Hyderabad",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czcvYmFubmVycy9lNTM5MjBjMC1kMmM2LTExZjEtODI4OC1jMWE0M2FkOTlmNjktcmltZy13MTIwMC1oNjAwLWRjNTgyODA4LWdtaXIuanBnP3Y9MTc5MzE4ODcxMQ.avif",
+    "extra": {},
+    "group_id": 126,
     "multi_source": false
   },
   {
@@ -2059,54 +2107,6 @@
     "price_max": null,
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4yLmFsbGV2ZW50cy5pbi90aHVtYnMvdGh1bWI2YWUxMWYwNTNhMTBlLmpwZw.avif",
-    "extra": {},
-    "group_id": 124,
-    "multi_source": false
-  },
-  {
-    "title": "RESOLUTION 2027 INDIA",
-    "city": "Hyderabad",
-    "category": "Nightlife",
-    "source": "AllEvents",
-    "url": "https://allevents.in/hyderabad/resolution-2027-india/3900030707944803",
-    "date": "2026-12-31",
-    "venue": "Venue To Be Announced: Hyderabad",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEwL2Jhbm5lcnMvYjZlZmIwYzAtZDI1OS0xMWYxLTkyZDAtODNiZjQ0ODg0M2EwLXJpbWctdzEyMDAtaDYwMC1kYzA4MDgxOC1nbWlyLmpwZz92PTE3OTMxNDE4Mjg.avif",
-    "extra": {},
-    "group_id": 125,
-    "multi_source": false
-  },
-  {
-    "title": "Jammers Live Band at Akan on Oct 30th",
-    "city": "Hyderabad",
-    "category": "Nightlife",
-    "source": "AllEvents",
-    "url": "https://allevents.in/hyderabad/jammers-live-band-at-akan-on-oct-30th/3900030794168114",
-    "date": "2026-10-30",
-    "venue": "Akan: Hyderabad",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czcvYmFubmVycy9hNmNlNTFiMC1kMTY0LTExZjEtOTU0Ny1jZDZlMDg0Y2I3MmItcmltZy13MTIwMC1oNjAwLWRjMDgwODE4LWdtaXIuanBnP3Y9MTc5MzAzNjU2NQ.avif",
-    "extra": {},
-    "group_id": 126,
-    "multi_source": false
-  },
-  {
-    "title": "Asia Jewels Show 2026-Hyderabad",
-    "city": "Hyderabad",
-    "category": "Nightlife",
-    "source": "AllEvents",
-    "url": "https://allevents.in/hyderabad/asia-jewels-show-2026-hyderabad/200030785614238",
-    "date": "2026-11-27",
-    "venue": "Taj Krishna, Hyderabad",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czYvYmFubmVycy85YzBlZjA1ZWViNTMxM2U5ZWIwZTdlOGNmZGRlMzI1MGFjZjQyNmVjNzFmZmM2NTJhMWUwYjlkY2I2NDc3NTI1LXJpbWctdzEyMDAtaDQ4MC1kYzM4MzgyOC1nbWlyP3Y9MTc5MTI3OTI3Nw.avif",
     "extra": {},
     "group_id": 127,
     "multi_source": false
