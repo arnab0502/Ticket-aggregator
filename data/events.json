@@ -1,5 +1,37 @@
 [
   {
+    "title": "Anmol Garg presents Ankita's Brother",
+    "city": "Bangalore",
+    "category": "Comedy",
+    "source": "AllEvents",
+    "url": "https://allevents.in/bangalore/anmol-garg-presents-ankitas-brother/3900031017520154",
+    "date": "2026-11-14",
+    "venue": "Comedy Square: Bengaluru",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEwL2Jhbm5lcnMvZTcwZTE3MjAtZGNmMy0xMWYxLWE1M2ItZTczZTdmNWM0NmJjLXJpbWctdzEyMDAtaDYwMC1kY2Y4ZjhlOC1nbWlyLmpwZz92PTE3OTQzMDc1NTM.avif",
+    "extra": {},
+    "group_id": 0,
+    "multi_source": false
+  },
+  {
+    "title": "KANNADA ALL-STARS @ KALYAN NAGAR",
+    "city": "Bangalore",
+    "category": "Comedy",
+    "source": "AllEvents",
+    "url": "https://allevents.in/bangalore/kannada-all-stars-kalyan-nagar/3900031017529737",
+    "date": "2026-11-14",
+    "venue": "Banter Comedy Club: Bengaluru",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czYvYmFubmVycy8yNGQ4ZTA4MC1kY2Y0LTExZjEtYTUzYi1lNzNlN2Y1YzQ2YmMtcmltZy13MTIwMC1oNjAwLWRjYzgwODA4LWdtaXIuanBnP3Y9MTc5NDMwNzY1Nw.avif",
+    "extra": {},
+    "group_id": 1,
+    "multi_source": false
+  },
+  {
     "title": "D for Drama's PATNA KA SUPERHERO",
     "city": "Bangalore",
     "category": "Comedy",
@@ -12,7 +44,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czcvYmFubmVycy9kMGUxYmEyMC1kOTE5LTExZjEtOTAzYy0xZmI1M2YzNTdjMTQtcmltZy13MTIwMC1oNjAwLWRjMDgwODA4LWdtaXIuanBnP3Y9MTc5Mzg4NDAzMg.avif",
     "extra": {},
-    "group_id": 0,
+    "group_id": 2,
     "multi_source": false
   },
   {
@@ -28,7 +60,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czYvYmFubmVycy8zMzEyZTAxMC1kNzk1LTExZjEtYWM1YS0wZDVlY2ZkY2NmYTktcmltZy13MTIwMC1oNjAwLWRjNDgwODA4LWdtaXIuanBnP3Y9MTc5MzcxNzEzMA.avif",
     "extra": {},
-    "group_id": 1,
+    "group_id": 3,
     "multi_source": false
   },
   {
@@ -44,7 +76,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czYvYmFubmVycy9hOGE1ZmZkMC1jMGI5LTExZjEtYWE3ZS04OTNmZjAwYWMzZjItcmltZy13MTIwMC1oNjAwLWRjMzgzODU4LWdtaXIuanBnP3Y9MTc5MTIwMzkwNQ.avif",
     "extra": {},
-    "group_id": 2,
+    "group_id": 4,
     "multi_source": false
   },
   {
@@ -60,7 +92,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czUvYmFubmVycy9lZGVhMzhkMC1kYWQ3LTExZjEtYjBhZC01ZjAzOGVhYTlmMWMtcmltZy13MTIwMC1oNjAwLWRjYjhiOGI4LWdtaXIuanBnP3Y9MTc5NDA3NTYzNg.avif",
     "extra": {},
-    "group_id": 3,
+    "group_id": 5,
     "multi_source": true
   },
   {
@@ -76,7 +108,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czcvYmFubmVycy85ZGFiMTA0MC1kYjAxLTExZjEtYjBhZC01ZjAzOGVhYTlmMWMtcmltZy13MTIwMC1oNjAwLWRjMjg2OGE4LWdtaXIuanBnP3Y9MTc5NDA5MzU1Mw.avif",
     "extra": {},
-    "group_id": 4,
+    "group_id": 6,
     "multi_source": false
   },
   {
@@ -92,7 +124,23 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEvYmFubmVycy8zZmMzZDM3MC1kOTJkLTExZjEtOTAzYy0xZmI1M2YzNTdjMTQtcmltZy13MTIwMC1oNjAwLWRjODgyODE4LWdtaXIuanBnP3Y9MTc5Mzg5MjM5MA.avif",
     "extra": {},
-    "group_id": 5,
+    "group_id": 7,
+    "multi_source": false
+  },
+  {
+    "title": "LIT-MIC: Bengaluru Open Mic | Poetry, Stories, Comedy, Music | Edition 106",
+    "city": "Bangalore",
+    "category": "Comedy",
+    "source": "AllEvents",
+    "url": "https://allevents.in/bangalore/lit-mic-bengaluru-open-mic-poetry-stories-comedy-music-edition-106-tickets/80002319154830",
+    "date": "2026-11-15",
+    "venue": "Living Roots",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4yLmFsbGV2ZW50cy5pbi90aHVtYnMvdGh1bWI2YWYyYzU5NGVjM2FlLmpwZw.avif",
+    "extra": {},
+    "group_id": 8,
     "multi_source": false
   },
   {
@@ -108,7 +156,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czUvYmFubmVycy9hY2M2Y2U5MC1kYWQ3LTExZjEtYjBhZC01ZjAzOGVhYTlmMWMtcmltZy13MTIwMC1oNjAwLWRjMDgwODA4LWdtaXIuanBnP3Y9MTc5NDA3NTUyNw.avif",
     "extra": {},
-    "group_id": 6,
+    "group_id": 9,
     "multi_source": false
   },
   {
@@ -124,7 +172,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czQvYmFubmVycy85ZmJjMGM2MC1kYWY1LTExZjEtYjBhZC01ZjAzOGVhYTlmMWMtcmltZy13MTIwMC1oNjAwLWRjZjhmOGY4LWdtaXIuanBnP3Y9MTc5NDA4ODM5MA.avif",
     "extra": {},
-    "group_id": 7,
+    "group_id": 10,
     "multi_source": false
   },
   {
@@ -140,7 +188,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEvYmFubmVycy84MmIwMmRmMC1kOTE5LTExZjEtOTAzYy0xZmI1M2YzNTdjMTQtcmltZy13MTIwMC1oNjAwLWRjMDgwODA4LWdtaXIuanBnP3Y9MTc5Mzg4MzkwMQ.avif",
     "extra": {},
-    "group_id": 8,
+    "group_id": 11,
     "multi_source": false
   },
   {
@@ -156,7 +204,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czcvYmFubmVycy9iN2EwYTkyMC1kOTFiLTExZjEtOTAzYy0xZmI1M2YzNTdjMTQtcmltZy13MTIwMC1oNjAwLWRjZjhlOGU4LWdtaXIuanBnP3Y9MTc5Mzg4NDg0OQ.avif",
     "extra": {},
-    "group_id": 9,
+    "group_id": 12,
     "multi_source": false
   },
   {
@@ -172,7 +220,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czIvYmFubmVycy9mMzYyYjE5MC1kOTE4LTExZjEtOTAzYy0xZmI1M2YzNTdjMTQtcmltZy13MTIwMC1oNjAwLWRjMDgwODA4LWdtaXIuanBnP3Y9MTc5Mzg4MzY2MQ.avif",
     "extra": {},
-    "group_id": 10,
+    "group_id": 13,
     "multi_source": false
   },
   {
@@ -187,54 +235,6 @@
     "price_max": null,
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czQvYmFubmVycy8xOTVjOTQ2MC1kOTFlLTExZjEtOTAzYy0xZmI1M2YzNTdjMTQtcmltZy13MTIwMC1oNjAwLWRjZjhmODA4LWdtaXIuanBnP3Y9MTc5Mzg4NTg3Mg.avif",
-    "extra": {},
-    "group_id": 11,
-    "multi_source": false
-  },
-  {
-    "title": "The Office Gossip Show by Anmol Garg",
-    "city": "Bangalore",
-    "category": "Comedy",
-    "source": "AllEvents",
-    "url": "https://allevents.in/bangalore/the-office-gossip-show-by-anmol-garg/3900030965823652",
-    "date": "2026-11-22",
-    "venue": "The Comedy Theatre, Indiranagar: Bengaluru",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czYvYmFubmVycy9iNzk2NDZmMC1kYWRlLTExZjEtYjBhZC01ZjAzOGVhYTlmMWMtcmltZy13MTIwMC1oNjAwLWRjZDhiOGE4LWdtaXIuanBnP3Y9MTc5NDA3ODU1Mg.avif",
-    "extra": {},
-    "group_id": 12,
-    "multi_source": false
-  },
-  {
-    "title": "Mere Yaar ki Shaadi a Comedy Show by Aakash Mehta",
-    "city": "Bangalore",
-    "category": "Comedy",
-    "source": "AllEvents",
-    "url": "https://allevents.in/bangalore/mere-yaar-ki-shaadi-a-comedy-show-by-aakash-mehta/3900030734166809",
-    "date": "2026-12-06",
-    "venue": "Prabhat Kaladwarka Koramangala Club: Bengaluru",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czIvYmFubmVycy9hNTg5NjFjMC1kYTdjLTExZjEtYjBhZC01ZjAzOGVhYTlmMWMtcmltZy13MTIwMC1oNjAwLWRjZjhmOGU4LWdtaXIuanBnP3Y9MTc5NDAzNjQ1Mw.avif",
-    "extra": {},
-    "group_id": 13,
-    "multi_source": false
-  },
-  {
-    "title": "The Star",
-    "city": "Bangalore",
-    "category": "Comedy",
-    "source": "AllEvents",
-    "url": "https://allevents.in/bangalore/the-star/3900031012074028",
-    "date": "2026-12-04",
-    "venue": "Ranga Shankara: Bengaluru",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEwL2Jhbm5lcnMvOWRmYWIyMzAtZGM0Ni0xMWYxLWJiNjQtN2Y3YWFhNzc4OGYyLXJpbWctdzEyMDAtaDYwMC1kYzA4MDgzOC1nbWlyLmpwZz92PTE3OTQyMzMxMjg.avif",
     "extra": {},
     "group_id": 14,
     "multi_source": false
@@ -608,6 +608,22 @@
     "multi_source": false
   },
   {
+    "title": "Punjabi Boiler Room Red Room",
+    "city": "Bangalore",
+    "category": "Nightlife",
+    "source": "AllEvents",
+    "url": "https://allevents.in/bangalore/punjabi-boiler-room-red-room/3900031012011339",
+    "date": "2026-11-14",
+    "venue": "BudBee Restobar 104: Bengaluru",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czcvYmFubmVycy82MmNjYTkzMC1kYzQ1LTExZjEtYmI2NC03ZjdhYWE3Nzg4ZjItcmltZy13MTIwMC1oNjAwLWRjMDgwODA4LWdtaXIuanBnP3Y9MTc5NDIzMjU5OQ.avif",
+    "extra": {},
+    "group_id": 36,
+    "multi_source": false
+  },
+  {
     "title": "NOLIMMITS MUSIC FESTIVAL FT. RIHYA",
     "city": "Bangalore",
     "category": "Nightlife",
@@ -620,7 +636,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czUvYmFubmVycy9iZjcxY2MxMC1kOTE2LTExZjEtOTAzYy0xZmI1M2YzNTdjMTQtcmltZy13MTIwMC1oNjAwLWRjZjhmOGY4LWdtaXIuanBnP3Y9MTc5Mzg4MjcxNA.avif",
     "extra": {},
-    "group_id": 36,
+    "group_id": 37,
     "multi_source": false
   },
   {
@@ -636,7 +652,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czcvYmFubmVycy80ZDQyN2M3MC1kYWQ4LTExZjEtYjBhZC01ZjAzOGVhYTlmMWMtcmltZy13MTIwMC1oNjAwLWRjMDgwODA4LWdtaXIuanBnP3Y9MTc5NDA3NTc5Ng.avif",
     "extra": {},
-    "group_id": 37,
+    "group_id": 38,
     "multi_source": false
   },
   {
@@ -652,7 +668,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czkvYmFubmVycy9jMzM3OTU1MC1kYzQ1LTExZjEtYmI2NC03ZjdhYWE3Nzg4ZjItcmltZy13MTIwMC1oNjAwLWRjMDgwODA4LWdtaXIuanBnP3Y9MTc5NDIzMjc2MQ.avif",
     "extra": {},
-    "group_id": 38,
+    "group_id": 39,
     "multi_source": false
   },
   {
@@ -667,22 +683,6 @@
     "price_max": null,
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czgvYmFubmVycy82MmI3MDE5MC1kOTE0LTExZjEtOTAzYy0xZmI1M2YzNTdjMTQtcmltZy13MTIwMC1oNjAwLWRjMDgwODA4LWdtaXIuanBnP3Y9MTc5Mzg4MTcwMA.avif",
-    "extra": {},
-    "group_id": 39,
-    "multi_source": false
-  },
-  {
-    "title": "Houseful Sunday",
-    "city": "Bangalore",
-    "category": "Nightlife",
-    "source": "AllEvents",
-    "url": "https://allevents.in/bangalore/houseful-sunday/3900030140188808",
-    "date": "2026-11-29",
-    "venue": "Big Pitcher: Indiranagar, Bengaluru",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czkvYmFubmVycy8xMTIzMjUwMC01ZjU5LTExZjEtYjE2Zi0wZjlmNDY5NWIwYzQtcmltZy13MTIwMC1oNjAwLWRjNjA0NTJkLWdtaXIuanBnP3Y9MTc4MDQ5NzE1Nw.avif",
     "extra": {},
     "group_id": 40,
     "multi_source": false
@@ -816,6 +816,22 @@
     "multi_source": false
   },
   {
+    "title": "Kal ki Chinta Nahi Karta ft. Ravi Gupta",
+    "city": "Mumbai",
+    "category": "Comedy",
+    "source": "AllEvents",
+    "url": "https://allevents.in/mumbai/kal-ki-chinta-nahi-karta-ft-ravi-gupta/3900030764278537",
+    "date": "2026-11-27",
+    "venue": "Vishnudas Bhave Natyagruha: Navi Mumbai",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czQvYmFubmVycy9mOGE1NTI2MC1kYTdjLTExZjEtYjBhZC01ZjAzOGVhYTlmMWMtcmltZy13MTIwMC1oNjAwLWRjZjhmOGY4LWdtaXIuanBnP3Y9MTc5NDAzNjU3MA.avif",
+    "extra": {},
+    "group_id": 49,
+    "multi_source": false
+  },
+  {
     "title": "IPTA Mumbai's Taj Mahal Ka Tender",
     "city": "Mumbai",
     "category": "Comedy",
@@ -828,7 +844,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czMvYmFubmVycy8xODdiODkzMC1kOGRjLTExZjEtYjVjNC01OTg3NTk0OTUxZGUtcmltZy13MTIwMC1oNjAwLWRjMDgwODA4LWdtaXIuanBnP3Y9MTc5Mzg1NzUyNA.avif",
     "extra": {},
-    "group_id": 49,
+    "group_id": 50,
     "multi_source": false
   },
   {
@@ -844,7 +860,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czgvYmFubmVycy8yOTc3OWM0MC1kOGRlLTExZjEtYjVjNC01OTg3NTk0OTUxZGUtcmltZy13MTIwMC1oNjAwLWRjMDgwODA4LWdtaXIuanBnP3Y9MTc5Mzg1ODQxMQ.avif",
     "extra": {},
-    "group_id": 50,
+    "group_id": 51,
     "multi_source": false
   },
   {
@@ -859,22 +875,6 @@
     "price_max": null,
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czgvYmFubmVycy82MjIyNmFlMC1kOGUxLTExZjEtOTAzYy0xZmI1M2YzNTdjMTQtcmltZy13MTIwMC1oNjAwLWRjZThjODM4LWdtaXIuanBnP3Y9MTc5Mzg1OTc5NQ.avif",
-    "extra": {},
-    "group_id": 51,
-    "multi_source": false
-  },
-  {
-    "title": "TOM & JERRY",
-    "city": "Mumbai",
-    "category": "Comedy",
-    "source": "AllEvents",
-    "url": "https://allevents.in/mumbai/tom-and-jerry/3900030973822928",
-    "date": "2026-11-29",
-    "venue": "Royal Opera House Theatre: Mumbai",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEvYmFubmVycy9hZmFhY2Q4MC1kOGRiLTExZjEtYjVjNC01OTg3NTk0OTUxZGUtcmltZy13MTIwMC1oNjAwLWRjZThjODU4LWdtaXIuanBnP3Y9MTc5Mzg1NzM0OA.avif",
     "extra": {},
     "group_id": 52,
     "multi_source": false
@@ -896,6 +896,22 @@
     "multi_source": false
   },
   {
+    "title": "Varhad Nighalaya Londanla",
+    "city": "Mumbai",
+    "category": "Comedy",
+    "source": "AllEvents",
+    "url": "https://allevents.in/mumbai/varhad-nighalaya-londanla/3900030984708628",
+    "date": "2026-11-20",
+    "venue": "Ravindra Natya Mandir: Mumbai",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czgvYmFubmVycy8xYjJjNzliMC1kOWRmLTExZjEtOGVkOC1hYjAzZDg5Yzg0YmMtcmltZy13MTIwMC1oNjAwLWRjZjhmOGY4LWdtaXIuanBnP3Y9MTc5Mzk2ODc2OA.avif",
+    "extra": {},
+    "group_id": 54,
+    "multi_source": false
+  },
+  {
     "title": "Patra Patri",
     "city": "Mumbai",
     "category": "Comedy",
@@ -907,22 +923,6 @@
     "price_max": null,
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czcvYmFubmVycy9lMWFjYzMzMC1kOGZjLTExZjEtOTAzYy0xZmI1M2YzNTdjMTQtcmltZy13MTIwMC1oNjAwLWRjZTgzODQ4LWdtaXIuanBnP3Y9MTc5Mzg3MTYwNQ.avif",
-    "extra": {},
-    "group_id": 54,
-    "multi_source": false
-  },
-  {
-    "title": "Pahili Lagnachi Dusari Premachi",
-    "city": "Mumbai",
-    "category": "Comedy",
-    "source": "AllEvents",
-    "url": "https://allevents.in/mumbai/pahili-lagnachi-dusari-premachi/3900030973799515",
-    "date": "2026-11-10",
-    "venue": "Vishnudas Bhave Natyagruha: Navi Mumbai",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czgvYmFubmVycy8xNTJlZWJiMC1kOGRiLTExZjEtYjVjNC01OTg3NTk0OTUxZGUtcmltZy13MTIwMC1oNjAwLWRjMDgwODA4LWdtaXIuanBnP3Y9MTc5Mzg1NzA5NA.avif",
     "extra": {},
     "group_id": 55,
     "multi_source": false
@@ -1360,22 +1360,6 @@
     "multi_source": false
   },
   {
-    "title": "UNMUKT DELHI'S - SUNDAY OPEN MIC - Poetry Storytelling Spoken Word & Comedy",
-    "city": "Delhi NCR",
-    "category": "Comedy",
-    "source": "AllEvents",
-    "url": "https://allevents.in/new-delhi/unmukt-delhis-sunday-open-mic-poetry-storytelling-spoken-word-and-comedy/80001071137587",
-    "date": "2026-11-15",
-    "venue": "Unmukt Studio, near Palam Metro Road, Puran Nagar, Station, Palam, Delhi, India",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4yLmFsbGV2ZW50cy5pbi90aHVtYnMvdGh1bWI2YTQ4ODNlODI4YWI0LmpwZw.avif",
-    "extra": {},
-    "group_id": 83,
-    "multi_source": false
-  },
-  {
     "title": "Tab Tum Kahaan The? By Sundeep Sharma",
     "city": "Delhi NCR",
     "category": "Comedy",
@@ -1388,7 +1372,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEwL2Jhbm5lcnMvZTMxZGIwMDAtZGFiNy0xMWYxLWIwYWQtNWYwMzhlYWE5ZjFjLXJpbWctdzEyMDAtaDYwMC1kYzc4MTgxOC1nbWlyLmpwZz92PTE3OTQwNjE4NzQ.avif",
     "extra": {},
-    "group_id": 84,
+    "group_id": 83,
     "multi_source": false
   },
   {
@@ -1403,6 +1387,22 @@
     "price_max": null,
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czUvYmFubmVycy85ZDM1ZWU5MC1kOTA0LTExZjEtOTAzYy0xZmI1M2YzNTdjMTQtcmltZy13MTIwMC1oNjAwLWRjMDgwODA4LWdtaXIuanBnP3Y9MTc5Mzg3NDkyNg.avif",
+    "extra": {},
+    "group_id": 84,
+    "multi_source": false
+  },
+  {
+    "title": "Haaye Re Anarkali",
+    "city": "Delhi NCR",
+    "category": "Comedy",
+    "source": "AllEvents",
+    "url": "https://allevents.in/new-delhi/haaye-re-anarkali/3900030975923917",
+    "date": "2026-11-21",
+    "venue": "Shri Ram Centre for Performing Arts: Delhi",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czUvYmFubmVycy8wODU0NjA0MC1kOTA0LTExZjEtOTAzYy0xZmI1M2YzNTdjMTQtcmltZy13MTIwMC1oNjAwLWRjMDgwODA4LWdtaXIuanBnP3Y9MTc5Mzg3NDY3Ng.avif",
     "extra": {},
     "group_id": 85,
     "multi_source": false
@@ -1744,6 +1744,22 @@
     "multi_source": false
   },
   {
+    "title": "B.Tech to Beware",
+    "city": "Hyderabad",
+    "category": "Comedy",
+    "source": "AllEvents",
+    "url": "https://allevents.in/hyderabad/btech-to-beware/3900031017601613",
+    "date": "2026-11-22",
+    "venue": "Garage Moto Cafe: Hyderabad",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEvYmFubmVycy9lNzFhMTMyMC1kY2Y1LTExZjEtYTUzYi1lNzNlN2Y1YzQ2YmMtcmltZy13MTIwMC1oNjAwLWRjZjhiODA4LWdtaXIuanBnP3Y9MTc5NDMwODQxMg.avif",
+    "extra": {},
+    "group_id": 107,
+    "multi_source": false
+  },
+  {
     "title": "Beta Male by Varun Nair",
     "city": "Hyderabad",
     "category": "Comedy",
@@ -1756,7 +1772,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czcvYmFubmVycy9kOWI5YWEyMC1kYTkyLTExZjEtYjBhZC01ZjAzOGVhYTlmMWMtcmltZy13MTIwMC1oNjAwLWRjMDg3OGM4LWdtaXIuanBnP3Y9MTc5NDA0NTk3Mw.avif",
     "extra": {},
-    "group_id": 107,
+    "group_id": 108,
     "multi_source": false
   },
   {
@@ -1772,7 +1788,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czMvYmFubmVycy9jNmI3NzMyMC1kYjFhLTExZjEtYjBhZC01ZjAzOGVhYTlmMWMtcmltZy13MTIwMC1oNjAwLWRjMTgxODE4LWdtaXIuanBnP3Y9MTc5NDEwNDM0Nw.avif",
     "extra": {},
-    "group_id": 108,
+    "group_id": 109,
     "multi_source": false
   },
   {
@@ -1788,7 +1804,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czkvYmFubmVycy9mZjVkZDQ4MC1kOTI2LTExZjEtOTAzYy0xZmI1M2YzNTdjMTQtcmltZy13MTIwMC1oNjAwLWRjMDgwODA4LWdtaXIuanBnP3Y9MTc5Mzg4OTY5NA.avif",
     "extra": {},
-    "group_id": 109,
+    "group_id": 110,
     "multi_source": false
   },
   {
@@ -1804,7 +1820,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czcvYmFubmVycy83Zjk2OGI3MC1kOWQ1LTExZjEtOGVkOC1hYjAzZDg5Yzg0YmMtcmltZy13MTIwMC1oNjAwLWRjMDgwODA4LWdtaXIuanBnP3Y9MTc5Mzk2NDY0MQ.avif",
     "extra": {},
-    "group_id": 110,
+    "group_id": 111,
     "multi_source": false
   },
   {
@@ -1820,7 +1836,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czYvYmFubmVycy8yMDQ0YzQ5MC1kOWUyLTExZjEtOGVkOC1hYjAzZDg5Yzg0YmMtcmltZy13MTIwMC1oNjAwLWRjZjhlOGU4LWdtaXIuanBnP3Y9MTc5Mzk3MDA2NQ.avif",
     "extra": {},
-    "group_id": 111,
+    "group_id": 112,
     "multi_source": false
   },
   {
@@ -1836,7 +1852,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czUvYmFubmVycy8wZTUzOTk1MC1kYTczLTExZjEtYjBhZC01ZjAzOGVhYTlmMWMtcmltZy13MTIwMC1oNjAwLWRjZjhmOGU4LWdtaXIuanBnP3Y9MTc5NDAzMjMzNQ.avif",
     "extra": {},
-    "group_id": 112,
+    "group_id": 113,
     "multi_source": false
   },
   {
@@ -1851,22 +1867,6 @@
     "price_max": null,
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czIvYmFubmVycy9hNTg5NjFjMC1kYTdjLTExZjEtYjBhZC01ZjAzOGVhYTlmMWMtcmltZy13MTIwMC1oNjAwLWRjZjhmOGU4LWdtaXIuanBnP3Y9MTc5NDAzNjQ2NQ.avif",
-    "extra": {},
-    "group_id": 113,
-    "multi_source": false
-  },
-  {
-    "title": "Tuesday Punchlines",
-    "city": "Hyderabad",
-    "category": "Comedy",
-    "source": "AllEvents",
-    "url": "https://allevents.in/hyderabad/tuesday-punchlines/3900030964989720",
-    "date": "2026-11-10",
-    "venue": "RITHM Cafe and Latte Arts Studio: Hyderabad",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czQvYmFubmVycy83ZDJlMDZiMC1kYjI0LTExZjEtYjBhZC01ZjAzOGVhYTlmMWMtcmltZy13MTIwMC1oNjAwLWRjMDgwODA4LWdtaXIuanBnP3Y9MTc5NDEwODUxOQ.avif",
     "extra": {},
     "group_id": 114,
     "multi_source": false
@@ -2172,7 +2172,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 3,
+    "group_id": 5,
     "multi_source": true
   },
   {
