@@ -64,22 +64,6 @@
     "multi_source": true
   },
   {
-    "title": "Late Night Comedy Show",
-    "city": "Bangalore",
-    "category": "Comedy",
-    "source": "AllEvents",
-    "url": "https://allevents.in/bangalore/late-night-comedy-show/3900030994801748",
-    "date": "2026-11-13",
-    "venue": "Banter Comedy Club: Bengaluru",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czUvYmFubmVycy9hY2M2Y2U5MC1kYWQ3LTExZjEtYjBhZC01ZjAzOGVhYTlmMWMtcmltZy13MTIwMC1oNjAwLWRjMDgwODA4LWdtaXIuanBnP3Y9MTc5NDA3NTUyNw.avif",
-    "extra": {},
-    "group_id": 4,
-    "multi_source": false
-  },
-  {
     "title": "Naanum Foodie Dhaan by Praveen Kumar",
     "city": "Bangalore",
     "category": "Comedy",
@@ -92,23 +76,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czcvYmFubmVycy85ZGFiMTA0MC1kYjAxLTExZjEtYjBhZC01ZjAzOGVhYTlmMWMtcmltZy13MTIwMC1oNjAwLWRjMjg2OGE4LWdtaXIuanBnP3Y9MTc5NDA5MzU1Mw.avif",
     "extra": {},
-    "group_id": 5,
-    "multi_source": false
-  },
-  {
-    "title": "RADHIKA VAZ - LURKING, A STANDUP COMEDY SHOW",
-    "city": "Bangalore",
-    "category": "Comedy",
-    "source": "AllEvents",
-    "url": "https://allevents.in/bangalore/radhika-vaz-lurking-a-standup-comedy-show/3900030616583503",
-    "date": "2026-11-15",
-    "venue": "The Underground Comedy Club: Bengaluru",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czQvYmFubmVycy85ZmJjMGM2MC1kYWY1LTExZjEtYjBhZC01ZjAzOGVhYTlmMWMtcmltZy13MTIwMC1oNjAwLWRjZjhmOGY4LWdtaXIuanBnP3Y9MTc5NDA4ODM5MA.avif",
-    "extra": {},
-    "group_id": 6,
+    "group_id": 4,
     "multi_source": false
   },
   {
@@ -123,6 +91,38 @@
     "price_max": null,
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEvYmFubmVycy8zZmMzZDM3MC1kOTJkLTExZjEtOTAzYy0xZmI1M2YzNTdjMTQtcmltZy13MTIwMC1oNjAwLWRjODgyODE4LWdtaXIuanBnP3Y9MTc5Mzg5MjM5MA.avif",
+    "extra": {},
+    "group_id": 5,
+    "multi_source": false
+  },
+  {
+    "title": "Late Night Comedy Show",
+    "city": "Bangalore",
+    "category": "Comedy",
+    "source": "AllEvents",
+    "url": "https://allevents.in/bangalore/late-night-comedy-show/3900030994801748",
+    "date": "2026-11-13",
+    "venue": "Banter Comedy Club: Bengaluru",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czUvYmFubmVycy9hY2M2Y2U5MC1kYWQ3LTExZjEtYjBhZC01ZjAzOGVhYTlmMWMtcmltZy13MTIwMC1oNjAwLWRjMDgwODA4LWdtaXIuanBnP3Y9MTc5NDA3NTUyNw.avif",
+    "extra": {},
+    "group_id": 6,
+    "multi_source": false
+  },
+  {
+    "title": "RADHIKA VAZ - LURKING, A STANDUP COMEDY SHOW",
+    "city": "Bangalore",
+    "category": "Comedy",
+    "source": "AllEvents",
+    "url": "https://allevents.in/bangalore/radhika-vaz-lurking-a-standup-comedy-show/3900030616583503",
+    "date": "2026-11-15",
+    "venue": "The Underground Comedy Club: Bengaluru",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czQvYmFubmVycy85ZmJjMGM2MC1kYWY1LTExZjEtYjBhZC01ZjAzOGVhYTlmMWMtcmltZy13MTIwMC1oNjAwLWRjZjhmOGY4LWdtaXIuanBnP3Y9MTc5NDA4ODM5MA.avif",
     "extra": {},
     "group_id": 7,
     "multi_source": false
@@ -352,6 +352,22 @@
     "multi_source": false
   },
   {
+    "title": "X'Mas Edition",
+    "city": "Bangalore",
+    "category": "Kids",
+    "source": "AllEvents",
+    "url": "https://allevents.in/bangalore/xmas-edition/200030949337459",
+    "date": "2026-12-20",
+    "venue": "IBM Manyata , Bangalore",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEwL2Jhbm5lcnMvMTAwZTg5YmEyZjA3MWM5ZTI4NTIwZjQzNTZiYTYxYWMzYjgwZWVmMDk2YTMzYjNjZjU3Mzc5M2E4MGYyODJjMi1yaW1nLXcxMjAwLWg2MjgtZGNhODA4MTgtZ21pcj92PTE3OTM1NDA0NTY.avif",
+    "extra": {},
+    "group_id": 20,
+    "multi_source": false
+  },
+  {
     "title": "Po'pourrie: A Children's Festival",
     "city": "Bangalore",
     "category": "Kids",
@@ -381,22 +397,6 @@
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czIvYmFubmVycy9jNWEwZjAxMC1kOTE3LTExZjEtOTAzYy0xZmI1M2YzNTdjMTQtcmltZy13MTIwMC1oNjAwLWRjZjhmOGU4LWdtaXIuanBnP3Y9MTc5Mzg4MzE1NA.avif",
     "extra": {},
     "group_id": 23,
-    "multi_source": false
-  },
-  {
-    "title": "X'Mas Edition",
-    "city": "Bangalore",
-    "category": "Kids",
-    "source": "AllEvents",
-    "url": "https://allevents.in/bangalore/xmas-edition/200030949337459",
-    "date": "2026-12-20",
-    "venue": "IBM Manyata , Bangalore",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEwL2Jhbm5lcnMvMTAwZTg5YmEyZjA3MWM5ZTI4NTIwZjQzNTZiYTYxYWMzYjgwZWVmMDk2YTMzYjNjZjU3Mzc5M2E4MGYyODJjMi1yaW1nLXcxMjAwLWg2MjgtZGNhODA4MTgtZ21pcj92PTE3OTM1NDA0NTY.avif",
-    "extra": {},
-    "group_id": 20,
     "multi_source": false
   },
   {
@@ -544,22 +544,6 @@
     "multi_source": false
   },
   {
-    "title": "Tribute Tamil Jamming Night A R Rahman and Anirudh",
-    "city": "Bangalore",
-    "category": "Nightlife",
-    "source": "AllEvents",
-    "url": "https://allevents.in/bangalore/tribute-tamil-jamming-night-a-r-rahman-and-anirudh/3900030982285032",
-    "date": "2026-11-15",
-    "venue": "BudBee Restobar 104: Bengaluru",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czIvYmFubmVycy9mZTMzZWE1MC1kOWIxLTExZjEtOGVkOC1hYjAzZDg5Yzg0YmMtcmltZy13MTIwMC1oNjAwLWRjMDgwODA4LWdtaXIuanBnP3Y9MTc5Mzk0OTM5Mg.avif",
-    "extra": {},
-    "group_id": 32,
-    "multi_source": false
-  },
-  {
     "title": "Adam Port Official After Party / 15th Nov / ICB",
     "city": "Bangalore",
     "category": "Nightlife",
@@ -572,7 +556,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czcvYmFubmVycy8wMzFlZjQyNDZiMjhlZTMzMzhjYzQ0NDZkM2U2MmM5ZDIwMDA3MTliYWU2MWM1NjUzN2I0YjgxYjhlNzU0YzU0LXJpbWctdzEyMDAtaDYwMC1kYzA4MDgwOC1nbWlyP3Y9MTc5NDE1NTYxMg.avif",
     "extra": {},
-    "group_id": 33,
+    "group_id": 32,
     "multi_source": false
   },
   {
@@ -588,7 +572,39 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czUvYmFubmVycy8yMDQ3Nzg0MC1kYWQ1LTExZjEtYjBhZC01ZjAzOGVhYTlmMWMtcmltZy13MTIwMC1oNjAwLWRjMDgwODA4LWdtaXIuanBnP3Y9MTc5NDA3NDQzMg.avif",
     "extra": {},
+    "group_id": 33,
+    "multi_source": false
+  },
+  {
+    "title": "Bollywood & Commercial DJ Night - Sherlock Nights",
+    "city": "Bangalore",
+    "category": "Nightlife",
+    "source": "AllEvents",
+    "url": "https://allevents.in/bangalore/bollywood-and-commercial-dj-night-sherlock-nights/3900031012934446",
+    "date": "2026-11-14",
+    "venue": "SkyDeck by Sherlock`s: Bengaluru",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEvYmFubmVycy85MWIyNTlkMC1kYzVkLTExZjEtYmI2NC03ZjdhYWE3Nzg4ZjItcmltZy13MTIwMC1oNjAwLWRjZThjOGI4LWdtaXIuanBnP3Y9MTc5NDI0Mjk4NQ.avif",
+    "extra": {},
     "group_id": 34,
+    "multi_source": false
+  },
+  {
+    "title": "Tribute Tamil Jamming Night A R Rahman and Anirudh",
+    "city": "Bangalore",
+    "category": "Nightlife",
+    "source": "AllEvents",
+    "url": "https://allevents.in/bangalore/tribute-tamil-jamming-night-a-r-rahman-and-anirudh/3900030982285032",
+    "date": "2026-11-15",
+    "venue": "BudBee Restobar 104: Bengaluru",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czIvYmFubmVycy9mZTMzZWE1MC1kOWIxLTExZjEtOGVkOC1hYjAzZDg5Yzg0YmMtcmltZy13MTIwMC1oNjAwLWRjMDgwODA4LWdtaXIuanBnP3Y9MTc5Mzk0OTM5Mg.avif",
+    "extra": {},
+    "group_id": 35,
     "multi_source": false
   },
   {
@@ -604,7 +620,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czUvYmFubmVycy9iZjcxY2MxMC1kOTE2LTExZjEtOTAzYy0xZmI1M2YzNTdjMTQtcmltZy13MTIwMC1oNjAwLWRjZjhmOGY4LWdtaXIuanBnP3Y9MTc5Mzg4MjcxNA.avif",
     "extra": {},
-    "group_id": 35,
+    "group_id": 36,
     "multi_source": false
   },
   {
@@ -620,7 +636,23 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czcvYmFubmVycy80ZDQyN2M3MC1kYWQ4LTExZjEtYjBhZC01ZjAzOGVhYTlmMWMtcmltZy13MTIwMC1oNjAwLWRjMDgwODA4LWdtaXIuanBnP3Y9MTc5NDA3NTc5Ng.avif",
     "extra": {},
-    "group_id": 36,
+    "group_id": 37,
+    "multi_source": false
+  },
+  {
+    "title": "WEDNESDAY LADIES NYT POOL PARTY AT RISM CLUB",
+    "city": "Bangalore",
+    "category": "Nightlife",
+    "source": "AllEvents",
+    "url": "https://allevents.in/bangalore/wednesday-ladies-nyt-pool-party-at-rism-club/3900031012031521",
+    "date": "2026-11-11",
+    "venue": "Rism The Luxury Club: Bengaluru",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czkvYmFubmVycy9jMzM3OTU1MC1kYzQ1LTExZjEtYmI2NC03ZjdhYWE3Nzg4ZjItcmltZy13MTIwMC1oNjAwLWRjMDgwODA4LWdtaXIuanBnP3Y9MTc5NDIzMjc2MQ.avif",
+    "extra": {},
+    "group_id": 38,
     "multi_source": false
   },
   {
@@ -636,53 +668,21 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czgvYmFubmVycy82MmI3MDE5MC1kOTE0LTExZjEtOTAzYy0xZmI1M2YzNTdjMTQtcmltZy13MTIwMC1oNjAwLWRjMDgwODA4LWdtaXIuanBnP3Y9MTc5Mzg4MTcwMA.avif",
     "extra": {},
-    "group_id": 37,
-    "multi_source": false
-  },
-  {
-    "title": "Drishti (IIM bangalore)- The 9Teen Live Concert",
-    "city": "Bangalore",
-    "category": "Nightlife",
-    "source": "AllEvents",
-    "url": "https://allevents.in/bangalore/drishti-iim-bangalore-the-9teen-live-concert/3900030994776232",
-    "date": "2026-11-14",
-    "venue": "IIMB: Bengaluru",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEvYmFubmVycy8zODI3NzVkMC1kYWQ3LTExZjEtYjBhZC01ZjAzOGVhYTlmMWMtcmltZy13MTIwMC1oNjAwLWRjMDgxODI4LWdtaXIuanBnP3Y9MTc5NDA3NTMzMg.avif",
-    "extra": {},
-    "group_id": 38,
-    "multi_source": false
-  },
-  {
-    "title": "Tamil Jam 90s and 2000s Reloaded Retro Music Night",
-    "city": "Bangalore",
-    "category": "Nightlife",
-    "source": "AllEvents",
-    "url": "https://allevents.in/bangalore/tamil-jam-90s-and-2000s-reloaded-retro-music-night/3900031003043547",
-    "date": "2026-11-15",
-    "venue": "BudBee Restobar 104: Bengaluru",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czIvYmFubmVycy84M2UyYTY5MC1kYmEyLTExZjEtYjBhZC01ZjAzOGVhYTlmMWMtcmltZy13MTIwMC1oNjAwLWRjMDgwODA4LWdtaXIuanBnP3Y9MTc5NDE2MjY0Ng.avif",
-    "extra": {},
     "group_id": 39,
     "multi_source": false
   },
   {
-    "title": "Pottery Date - Clay and Connect",
+    "title": "Houseful Sunday",
     "city": "Bangalore",
     "category": "Nightlife",
     "source": "AllEvents",
-    "url": "https://allevents.in/bangalore/pottery-date-clay-and-connect/4100031008543234",
-    "date": "2026-11-14",
-    "venue": "Cafe De Verde",
+    "url": "https://allevents.in/bangalore/houseful-sunday/3900030140188808",
+    "date": "2026-11-29",
+    "venue": "Big Pitcher: Indiranagar, Bengaluru",
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czYvYmFubmVycy8xZWVmY2I0MC1kYmY4LTExZjEtYmI2OS00ZmFiYjJkMjEzMDItcmltZy13MTIwMC1oNjc1LWRjZThhODY4LWdtaXIuanBnP3Y9MTc5NDE5OTQxNA.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czkvYmFubmVycy8xMTIzMjUwMC01ZjU5LTExZjEtYjE2Zi0wZjlmNDY5NWIwYzQtcmltZy13MTIwMC1oNjAwLWRjNjA0NTJkLWdtaXIuanBnP3Y9MTc4MDQ5NzE1Nw.avif",
     "extra": {},
     "group_id": 40,
     "multi_source": false
@@ -816,22 +816,6 @@
     "multi_source": false
   },
   {
-    "title": "Kal ki Chinta Nahi Karta ft. Ravi Gupta",
-    "city": "Mumbai",
-    "category": "Comedy",
-    "source": "AllEvents",
-    "url": "https://allevents.in/mumbai/kal-ki-chinta-nahi-karta-ft-ravi-gupta/3900030764278537",
-    "date": "2026-11-27",
-    "venue": "Vishnudas Bhave Natyagruha: Navi Mumbai",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czQvYmFubmVycy9mOGE1NTI2MC1kYTdjLTExZjEtYjBhZC01ZjAzOGVhYTlmMWMtcmltZy13MTIwMC1oNjAwLWRjZjhmOGY4LWdtaXIuanBnP3Y9MTc5NDAzNjU3MA.avif",
-    "extra": {},
-    "group_id": 49,
-    "multi_source": false
-  },
-  {
     "title": "IPTA Mumbai's Taj Mahal Ka Tender",
     "city": "Mumbai",
     "category": "Comedy",
@@ -844,7 +828,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czMvYmFubmVycy8xODdiODkzMC1kOGRjLTExZjEtYjVjNC01OTg3NTk0OTUxZGUtcmltZy13MTIwMC1oNjAwLWRjMDgwODA4LWdtaXIuanBnP3Y9MTc5Mzg1NzUyNA.avif",
     "extra": {},
-    "group_id": 50,
+    "group_id": 49,
     "multi_source": false
   },
   {
@@ -860,7 +844,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czgvYmFubmVycy8yOTc3OWM0MC1kOGRlLTExZjEtYjVjNC01OTg3NTk0OTUxZGUtcmltZy13MTIwMC1oNjAwLWRjMDgwODA4LWdtaXIuanBnP3Y9MTc5Mzg1ODQxMQ.avif",
     "extra": {},
-    "group_id": 51,
+    "group_id": 50,
     "multi_source": false
   },
   {
@@ -876,7 +860,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czgvYmFubmVycy82MjIyNmFlMC1kOGUxLTExZjEtOTAzYy0xZmI1M2YzNTdjMTQtcmltZy13MTIwMC1oNjAwLWRjZThjODM4LWdtaXIuanBnP3Y9MTc5Mzg1OTc5NQ.avif",
     "extra": {},
-    "group_id": 52,
+    "group_id": 51,
     "multi_source": false
   },
   {
@@ -892,7 +876,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEvYmFubmVycy9hZmFhY2Q4MC1kOGRiLTExZjEtYjVjNC01OTg3NTk0OTUxZGUtcmltZy13MTIwMC1oNjAwLWRjZThjODU4LWdtaXIuanBnP3Y9MTc5Mzg1NzM0OA.avif",
     "extra": {},
-    "group_id": 53,
+    "group_id": 52,
     "multi_source": false
   },
   {
@@ -908,7 +892,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEvYmFubmVycy8zZmMzZDM3MC1kOTJkLTExZjEtOTAzYy0xZmI1M2YzNTdjMTQtcmltZy13MTIwMC1oNjAwLWRjODgyODE4LWdtaXIuanBnP3Y9MTc5Mzg5MjM3OQ.avif",
     "extra": {},
-    "group_id": 54,
+    "group_id": 53,
     "multi_source": false
   },
   {
@@ -923,6 +907,22 @@
     "price_max": null,
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czcvYmFubmVycy9lMWFjYzMzMC1kOGZjLTExZjEtOTAzYy0xZmI1M2YzNTdjMTQtcmltZy13MTIwMC1oNjAwLWRjZTgzODQ4LWdtaXIuanBnP3Y9MTc5Mzg3MTYwNQ.avif",
+    "extra": {},
+    "group_id": 54,
+    "multi_source": false
+  },
+  {
+    "title": "Pahili Lagnachi Dusari Premachi",
+    "city": "Mumbai",
+    "category": "Comedy",
+    "source": "AllEvents",
+    "url": "https://allevents.in/mumbai/pahili-lagnachi-dusari-premachi/3900030973799515",
+    "date": "2026-11-10",
+    "venue": "Vishnudas Bhave Natyagruha: Navi Mumbai",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czgvYmFubmVycy8xNTJlZWJiMC1kOGRiLTExZjEtYjVjNC01OTg3NTk0OTUxZGUtcmltZy13MTIwMC1oNjAwLWRjMDgwODA4LWdtaXIuanBnP3Y9MTc5Mzg1NzA5NA.avif",
     "extra": {},
     "group_id": 55,
     "multi_source": false
@@ -1360,6 +1360,22 @@
     "multi_source": false
   },
   {
+    "title": "UNMUKT DELHI'S - SUNDAY OPEN MIC - Poetry Storytelling Spoken Word & Comedy",
+    "city": "Delhi NCR",
+    "category": "Comedy",
+    "source": "AllEvents",
+    "url": "https://allevents.in/new-delhi/unmukt-delhis-sunday-open-mic-poetry-storytelling-spoken-word-and-comedy/80001071137587",
+    "date": "2026-11-15",
+    "venue": "Unmukt Studio, near Palam Metro Road, Puran Nagar, Station, Palam, Delhi, India",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4yLmFsbGV2ZW50cy5pbi90aHVtYnMvdGh1bWI2YTQ4ODNlODI4YWI0LmpwZw.avif",
+    "extra": {},
+    "group_id": 83,
+    "multi_source": false
+  },
+  {
     "title": "Tab Tum Kahaan The? By Sundeep Sharma",
     "city": "Delhi NCR",
     "category": "Comedy",
@@ -1372,7 +1388,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEwL2Jhbm5lcnMvZTMxZGIwMDAtZGFiNy0xMWYxLWIwYWQtNWYwMzhlYWE5ZjFjLXJpbWctdzEyMDAtaDYwMC1kYzc4MTgxOC1nbWlyLmpwZz92PTE3OTQwNjE4NzQ.avif",
     "extra": {},
-    "group_id": 83,
+    "group_id": 84,
     "multi_source": false
   },
   {
@@ -1387,22 +1403,6 @@
     "price_max": null,
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czUvYmFubmVycy85ZDM1ZWU5MC1kOTA0LTExZjEtOTAzYy0xZmI1M2YzNTdjMTQtcmltZy13MTIwMC1oNjAwLWRjMDgwODA4LWdtaXIuanBnP3Y9MTc5Mzg3NDkyNg.avif",
-    "extra": {},
-    "group_id": 84,
-    "multi_source": false
-  },
-  {
-    "title": "Haaye Re Anarkali",
-    "city": "Delhi NCR",
-    "category": "Comedy",
-    "source": "AllEvents",
-    "url": "https://allevents.in/new-delhi/haaye-re-anarkali/3900030975923917",
-    "date": "2026-11-21",
-    "venue": "Shri Ram Centre for Performing Arts: Delhi",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czUvYmFubmVycy8wODU0NjA0MC1kOTA0LTExZjEtOTAzYy0xZmI1M2YzNTdjMTQtcmltZy13MTIwMC1oNjAwLWRjMDgwODA4LWdtaXIuanBnP3Y9MTc5Mzg3NDY3Ng.avif",
     "extra": {},
     "group_id": 85,
     "multi_source": false
@@ -1568,22 +1568,6 @@
     "multi_source": false
   },
   {
-    "title": "Art date with Parents",
-    "city": "Delhi NCR",
-    "category": "Kids",
-    "source": "AllEvents",
-    "url": "https://allevents.in/new-delhi/art-date-with-parents/3900030969303627",
-    "date": "2026-11-14",
-    "venue": "Mona Cava Cafe and Pub: Delhi",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czgvYmFubmVycy9hYTRkOGJkMC1kYWM0LTExZjEtYjBhZC01ZjAzOGVhYTlmMWMtcmltZy13MTIwMC1oNjAwLWRjYjg5ODc4LWdtaXIuanBnP3Y9MTc5NDA2NzM2Mw.avif",
-    "extra": {},
-    "group_id": 96,
-    "multi_source": false
-  },
-  {
     "title": "RESOLUTION 2027 INDIA",
     "city": "Delhi NCR",
     "category": "Kids",
@@ -1595,6 +1579,22 @@
     "price_max": null,
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEwL2Jhbm5lcnMvYjZlZmIwYzAtZDI1OS0xMWYxLTkyZDAtODNiZjQ0ODg0M2EwLXJpbWctdzEyMDAtaDYwMC1kYzA4MDgxOC1nbWlyLmpwZz92PTE3OTMxNDE4MTg.avif",
+    "extra": {},
+    "group_id": 96,
+    "multi_source": false
+  },
+  {
+    "title": "Art date with Parents",
+    "city": "Delhi NCR",
+    "category": "Kids",
+    "source": "AllEvents",
+    "url": "https://allevents.in/new-delhi/art-date-with-parents/3900030969303627",
+    "date": "2026-11-14",
+    "venue": "Mona Cava Cafe and Pub: Delhi",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czgvYmFubmVycy9hYTRkOGJkMC1kYWM0LTExZjEtYjBhZC01ZjAzOGVhYTlmMWMtcmltZy13MTIwMC1oNjAwLWRjYjg5ODc4LWdtaXIuanBnP3Y9MTc5NDA2NzM2Mw.avif",
     "extra": {},
     "group_id": 97,
     "multi_source": false
@@ -1760,22 +1760,6 @@
     "multi_source": false
   },
   {
-    "title": "Jaam Rathiri : chapter 2",
-    "city": "Hyderabad",
-    "category": "Comedy",
-    "source": "AllEvents",
-    "url": "https://allevents.in/hyderabad/jaam-rathiri-chapter-2/3900030984231142",
-    "date": "2026-11-15",
-    "venue": "The Tree Stories Cafe and Restaurant: Hyderabad",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czcvYmFubmVycy83Zjk2OGI3MC1kOWQ1LTExZjEtOGVkOC1hYjAzZDg5Yzg0YmMtcmltZy13MTIwMC1oNjAwLWRjMDgwODA4LWdtaXIuanBnP3Y9MTc5Mzk2NDY0MQ.avif",
-    "extra": {},
-    "group_id": 108,
-    "multi_source": false
-  },
-  {
     "title": "A Certificate - Sravanthi Basa",
     "city": "Hyderabad",
     "category": "Comedy",
@@ -1788,7 +1772,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czMvYmFubmVycy9jNmI3NzMyMC1kYjFhLTExZjEtYjBhZC01ZjAzOGVhYTlmMWMtcmltZy13MTIwMC1oNjAwLWRjMTgxODE4LWdtaXIuanBnP3Y9MTc5NDEwNDM0Nw.avif",
     "extra": {},
-    "group_id": 109,
+    "group_id": 108,
     "multi_source": false
   },
   {
@@ -1803,6 +1787,22 @@
     "price_max": null,
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czkvYmFubmVycy9mZjVkZDQ4MC1kOTI2LTExZjEtOTAzYy0xZmI1M2YzNTdjMTQtcmltZy13MTIwMC1oNjAwLWRjMDgwODA4LWdtaXIuanBnP3Y9MTc5Mzg4OTY5NA.avif",
+    "extra": {},
+    "group_id": 109,
+    "multi_source": false
+  },
+  {
+    "title": "Jaam Rathiri : chapter 2",
+    "city": "Hyderabad",
+    "category": "Comedy",
+    "source": "AllEvents",
+    "url": "https://allevents.in/hyderabad/jaam-rathiri-chapter-2/3900030984231142",
+    "date": "2026-11-15",
+    "venue": "The Tree Stories Cafe and Restaurant: Hyderabad",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czcvYmFubmVycy83Zjk2OGI3MC1kOWQ1LTExZjEtOGVkOC1hYjAzZDg5Yzg0YmMtcmltZy13MTIwMC1oNjAwLWRjMDgwODA4LWdtaXIuanBnP3Y9MTc5Mzk2NDY0MQ.avif",
     "extra": {},
     "group_id": 110,
     "multi_source": false
@@ -1904,6 +1904,22 @@
     "multi_source": false
   },
   {
+    "title": "Classic Rock & Retro Ft. Dejaavoo",
+    "city": "Hyderabad",
+    "category": "Nightlife",
+    "source": "AllEvents",
+    "url": "https://allevents.in/hyderabad/classic-rock-and-retro-ft-dejaavoo/3900030977290609",
+    "date": "2026-11-14",
+    "venue": "Hard Rock Cafe: Hyderabad",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czUvYmFubmVycy82MTJmNzIwMC1kOTI2LTExZjEtOTAzYy0xZmI1M2YzNTdjMTQtcmltZy13MTIwMC1oNjAwLWRjMDgwODA4LWdtaXIuanBnP3Y9MTc5Mzg4OTQyOA.avif",
+    "extra": {},
+    "group_id": 117,
+    "multi_source": false
+  },
+  {
     "title": "BOX OFFICE SATURDAY FT. DJ SHADOW",
     "city": "Hyderabad",
     "category": "Nightlife",
@@ -1916,7 +1932,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czIvYmFubmVycy9hYzBlZDMyMC1kYjJkLTExZjEtYjBhZC01ZjAzOGVhYTlmMWMtcmltZy13MTIwMC1oNjAwLWRjMDgwODA4LWdtaXIuanBnP3Y9MTc5NDExMjQ2Mw.avif",
     "extra": {},
-    "group_id": 117,
+    "group_id": 118,
     "multi_source": false
   },
   {
@@ -1932,7 +1948,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czYvYmFubmVycy8wM2MyM2NlMC1kOTIzLTExZjEtOTAzYy0xZmI1M2YzNTdjMTQtcmltZy13MTIwMC1oNjAwLWRjZThlOGU4LWdtaXIuanBnP3Y9MTc5Mzg4Nzk4Mw.avif",
     "extra": {},
-    "group_id": 118,
+    "group_id": 119,
     "multi_source": false
   },
   {
@@ -1947,22 +1963,6 @@
     "price_max": null,
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czkvYmFubmVycy8yMmFhYjE3MC1kYjI5LTExZjEtYjBhZC01ZjAzOGVhYTlmMWMtcmltZy13MTIwMC1oNjAwLWRjZjhlOGQ4LWdtaXIuanBnP3Y9MTc5NDExMDUxNA.avif",
-    "extra": {},
-    "group_id": 119,
-    "multi_source": false
-  },
-  {
-    "title": "Classic Rock & Retro Ft. Dejaavoo",
-    "city": "Hyderabad",
-    "category": "Nightlife",
-    "source": "AllEvents",
-    "url": "https://allevents.in/hyderabad/classic-rock-and-retro-ft-dejaavoo/3900030977290609",
-    "date": "2026-11-14",
-    "venue": "Hard Rock Cafe: Hyderabad",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czUvYmFubmVycy82MTJmNzIwMC1kOTI2LTExZjEtOTAzYy0xZmI1M2YzNTdjMTQtcmltZy13MTIwMC1oNjAwLWRjMDgwODA4LWdtaXIuanBnP3Y9MTc5Mzg4OTQyOA.avif",
     "extra": {},
     "group_id": 120,
     "multi_source": false
@@ -13760,6 +13760,22 @@
     "multi_source": false
   },
   {
+    "title": "Bedford Park",
+    "city": "All USA",
+    "category": "Movies",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Bedford_Park_(film)",
+    "date": "2026-12-11T00:00:00",
+    "venue": "In cinemas",
+    "price_min": null,
+    "price_max": null,
+    "currency": "USD",
+    "image": "",
+    "extra": {},
+    "group_id": 731,
+    "multi_source": false
+  },
+  {
     "title": "Ink",
     "city": "All USA",
     "category": "Movies",
@@ -13772,7 +13788,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 731,
+    "group_id": 732,
     "multi_source": false
   },
   {
@@ -13788,7 +13804,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 732,
+    "group_id": 733,
     "multi_source": false
   },
   {
@@ -13804,7 +13820,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 733,
+    "group_id": 734,
     "multi_source": false
   },
   {
@@ -13820,7 +13836,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 734,
+    "group_id": 735,
     "multi_source": false
   },
   {
@@ -13836,7 +13852,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 735,
+    "group_id": 736,
     "multi_source": false
   },
   {
@@ -13852,7 +13868,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 736,
+    "group_id": 737,
     "multi_source": false
   },
   {
@@ -13868,7 +13884,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 737,
+    "group_id": 738,
     "multi_source": false
   },
   {
@@ -13884,7 +13900,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 738,
+    "group_id": 739,
     "multi_source": false
   },
   {
@@ -13893,22 +13909,6 @@
     "category": "Movies",
     "source": "Wikipedia",
     "url": "https://en.wikipedia.org/wiki/Artificial_(2026_film)",
-    "date": "2026-12-25T00:00:00",
-    "venue": "In cinemas",
-    "price_min": null,
-    "price_max": null,
-    "currency": "USD",
-    "image": "",
-    "extra": {},
-    "group_id": 739,
-    "multi_source": false
-  },
-  {
-    "title": "Nutmeg & Mistletoe",
-    "city": "All USA",
-    "category": "Movies",
-    "source": "Wikipedia",
-    "url": "https://en.wikipedia.org/wiki/Nutmeg_&_Mistletoe",
     "date": "2026-12-25T00:00:00",
     "venue": "In cinemas",
     "price_min": null,
@@ -14208,6 +14208,22 @@
     "multi_source": false
   },
   {
+    "title": "Lice",
+    "city": "All USA",
+    "category": "Movies",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Lice_(film)",
+    "date": "2027-02-05T00:00:00",
+    "venue": "In cinemas",
+    "price_min": null,
+    "price_max": null,
+    "currency": "USD",
+    "image": "",
+    "extra": {},
+    "group_id": 759,
+    "multi_source": false
+  },
+  {
     "title": "Narnia: The Magician's Nephew",
     "city": "All USA",
     "category": "Movies",
@@ -14220,7 +14236,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 759,
+    "group_id": 760,
     "multi_source": false
   },
   {
@@ -14236,7 +14252,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 760,
+    "group_id": 761,
     "multi_source": false
   },
   {
@@ -14252,7 +14268,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 761,
+    "group_id": 762,
     "multi_source": false
   },
   {
@@ -14268,7 +14284,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 762,
+    "group_id": 763,
     "multi_source": false
   },
   {
@@ -14284,7 +14300,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 763,
+    "group_id": 764,
     "multi_source": false
   },
   {
@@ -14300,7 +14316,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 764,
+    "group_id": 765,
     "multi_source": false
   },
   {
@@ -14316,7 +14332,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 765,
+    "group_id": 766,
     "multi_source": false
   },
   {
@@ -14332,7 +14348,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 766,
+    "group_id": 767,
     "multi_source": false
   },
   {
@@ -14341,22 +14357,6 @@
     "category": "Movies",
     "source": "Wikipedia",
     "url": "https://en.wikipedia.org/wiki/The_Thomas_Crown_Affair_(2027_film)",
-    "date": "2027-03-05T00:00:00",
-    "venue": "In cinemas",
-    "price_min": null,
-    "price_max": null,
-    "currency": "USD",
-    "image": "",
-    "extra": {},
-    "group_id": 767,
-    "multi_source": false
-  },
-  {
-    "title": "Bedford Park",
-    "city": "All USA",
-    "category": "Movies",
-    "source": "Wikipedia",
-    "url": "https://en.wikipedia.org/wiki/Bedford_Park_(film)",
     "date": "2027-03-05T00:00:00",
     "venue": "In cinemas",
     "price_min": null,
