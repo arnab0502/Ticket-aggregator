@@ -112,6 +112,22 @@
     "multi_source": false
   },
   {
+    "title": "Golden By AHIR SHAH",
+    "city": "Bangalore",
+    "category": "Comedy",
+    "source": "AllEvents",
+    "url": "https://allevents.in/bangalore/golden-by-ahir-shah/3900031042341046",
+    "date": "2026-12-04",
+    "venue": "The Underground Comedy Club: Bengaluru",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czkvYmFubmVycy9kYzBhM2U0MC1lNTcxLTExZjEtYjhhMC02NWVmY2MwODlmOTgtcmltZy13MTIwMC1oNjAwLWRjOTg3ODM4LWdtaXIuanBnP3Y9MTc5NTI0MTI2MQ.avif",
+    "extra": {},
+    "group_id": 7,
+    "multi_source": true
+  },
+  {
     "title": "Prashasti Singh Live (Bangalore) A Trial Show",
     "city": "Bangalore",
     "category": "Comedy",
@@ -124,7 +140,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czcvYmFubmVycy8yZWIxNTNmMC1kZTk2LTExZjEtYTdiZS0yOThiNWMwZWY1YjEtcmltZy13MTIwMC1oNjAwLWRjMjgxODY4LWdtaXIuanBnP3Y9MTc5NDQ4NzIwMw.avif",
     "extra": {},
-    "group_id": 7,
+    "group_id": 8,
     "multi_source": true
   },
   {
@@ -140,24 +156,8 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEvYmFubmVycy9mNjI1ODMxMC1lNGY1LTExZjEtYTVmZC00NzBiNjE0MWI4MGUtcmltZy13MTIwMC1oNjAwLWRjMDgwODA4LWdtaXIuanBnP3Y9MTc5NTE4ODA0Nw.avif",
     "extra": {},
-    "group_id": 8,
-    "multi_source": false
-  },
-  {
-    "title": "Golden By AHIR SHAH",
-    "city": "Bangalore",
-    "category": "Comedy",
-    "source": "AllEvents",
-    "url": "https://allevents.in/bangalore/golden-by-ahir-shah/3900031042341046",
-    "date": "2026-12-04",
-    "venue": "The Underground Comedy Club: Bengaluru",
-    "price_min": 1.5,
-    "price_max": 300.0,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czkvYmFubmVycy9kYzBhM2U0MC1lNTcxLTExZjEtYjhhMC02NWVmY2MwODlmOTgtcmltZy13MTIwMC1oNjAwLWRjOTg3ODM4LWdtaXIuanBnP3Y9MTc5NTI0MTI2MQ.avif",
-    "extra": {},
     "group_id": 9,
-    "multi_source": true
+    "multi_source": false
   },
   {
     "title": "Trial Show by Prashasti Singh",
@@ -172,7 +172,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czIvYmFubmVycy80OTQwMWNiMC1lMDJiLTExZjEtOWRhZS02NWM2MGY3NWExNTgtcmltZy13MTIwMC1oNjAwLWRjMzgzOGQ4LWdtaXIuanBnP3Y9MTc5NDY2MTE5NA.avif",
     "extra": {},
-    "group_id": 7,
+    "group_id": 8,
     "multi_source": true
   },
   {
@@ -304,6 +304,22 @@
     "multi_source": false
   },
   {
+    "title": "Glitz, Glam & 2027",
+    "city": "Bangalore",
+    "category": "Kids",
+    "source": "AllEvents",
+    "url": "https://allevents.in/bangalore/glitz-glam-and-2027/3900031150734721",
+    "date": "2026-12-31",
+    "venue": "Renaissance Bengaluru Race Course: Bengaluru",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEvYmFubmVycy84MmFlMGI0MC1lYTU1LTExZjEtYTljMS05MzZkNzg1MjA5ZDMtcmltZy13MTIwMC1oNjAwLWRjMTgwODA4LWdtaXIuanBnP3Y9MTc5NTc3ODg0MQ.avif",
+    "extra": {},
+    "group_id": 17,
+    "multi_source": false
+  },
+  {
     "title": "Gorillaz The Mountain Tour 2027",
     "city": "Bangalore",
     "category": "Kids",
@@ -316,7 +332,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czMvYmFubmVycy8yM2VhMjM2MC1iMWI1LTExZjEtYTk4OC1kNzg1ZTRiN2JhYmYtcmltZy13MTIwMC1oNjc1LWRjZDhhODY4LWdtaXIuanBnP3Y9MTc4OTU1MjY5Nw.avif",
     "extra": {},
-    "group_id": 17,
+    "group_id": 18,
     "multi_source": false
   },
   {
@@ -332,7 +348,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czIvYmFubmVycy9kYmUxZGNlMC1kM2U1LTExZjEtODI4OC1jMWE0M2FkOTlmNjktcmltZy13MTIwMC1oNjAwLWRjMTgxODU4LWdtaXIuanBnP3Y9MTc5MzMxMTk4Ng.avif",
     "extra": {},
-    "group_id": 18,
+    "group_id": 19,
     "multi_source": false
   },
   {
@@ -348,7 +364,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czMvYmFubmVycy8zMWE2MWI5MC1kZWU2LTExZjEtOTIyOS1lMWUzNjI1Y2FkYmUtcmltZy13MTIwMC1oNjAwLWRjMDg4OGY4LWdtaXIuanBnP3Y9MTc5NDUyMTU2OA.avif",
     "extra": {},
-    "group_id": 19,
+    "group_id": 20,
     "multi_source": false
   },
   {
@@ -364,7 +380,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czIvYmFubmVycy85MWNjMjgyMC1lOGZhLTExZjEtYjY1OC1jNTAyNjU4MTRlNGYtcmltZy13MTIwMC1oNjAwLWRjMDgwODA4LWdtaXIuanBnP3Y9MTc5NTYyOTgzMQ.avif",
     "extra": {},
-    "group_id": 20,
+    "group_id": 21,
     "multi_source": false
   },
   {
@@ -380,7 +396,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czkvYmFubmVycy8wODhhMjExMC1kZmI5LTExZjEtOWRhZS02NWM2MGY3NWExNTgtcmltZy13MTIwMC1oNjAwLWRjZjg0ODA4LWdtaXIuanBnP3Y9MTc5NDYxMjEyMw.avif",
     "extra": {},
-    "group_id": 21,
+    "group_id": 22,
     "multi_source": true
   },
   {
@@ -396,7 +412,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEvYmFubmVycy83MDBiMDY2Mjg0NmZkMDNhNDUwZjJiMTA0NTc4ZGJiNmU4YjE2ZmI4YTYzZmQ3ZDZhOTI5MWY2ZDlmMmEwZWY0LXJpbWctdzEyMDAtaDYwMC1kY2U4ODgwOC1nbWlyLmpwZz92PTE3OTQwNDkzMzU.avif",
     "extra": {},
-    "group_id": 22,
+    "group_id": 23,
     "multi_source": false
   },
   {
@@ -412,7 +428,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEvYmFubmVycy81ZGY5MGVhMC1kZTk2LTExZjEtYTdiZS0yOThiNWMwZWY1YjEtcmltZy13MTIwMC1oNjAwLWRjMDgwODA4LWdtaXIuanBnP3Y9MTc5NDQ4NzI4Mg.avif",
     "extra": {},
-    "group_id": 23,
+    "group_id": 24,
     "multi_source": false
   },
   {
@@ -428,7 +444,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czcvYmFubmVycy8xNWI4YjFjMC1lOWM5LTExZjEtYTg4Ni01N2Y0YjFiMDUwNGEtcmltZy13MTIwMC1oNjAwLWRjZjhlOGU4LWdtaXIuanBnP3Y9MTc5NTcxODUyOA.avif",
     "extra": {},
-    "group_id": 24,
+    "group_id": 25,
     "multi_source": false
   },
   {
@@ -444,7 +460,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czUvYmFubmVycy8yZGYzZjg4ZGIzOTc5NDlkMzMyNTc0NTdmNWNmZTg4MTAzZjk4MzY5YTIzMTQxN2E5NDQ0OWJiMWUyYzNmMDkyLXJpbWctdzEyMDAtaDY3NS1kY2Y4ZjhmOC1nbWlyP3Y9MTc5NTcyMDA1NQ.avif",
     "extra": {},
-    "group_id": 25,
+    "group_id": 26,
     "multi_source": false
   },
   {
@@ -460,39 +476,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czcvYmFubmVycy84MmVlMjIzMC1lOTNjLTExZjEtYjY1OC1jNTAyNjU4MTRlNGYtcmltZy13MTIwMC1oNjAwLWRjZjg0ODA4LWdtaXIuanBnP3Y9MTc5NTY1ODE1Mg.avif",
     "extra": {},
-    "group_id": 26,
-    "multi_source": false
-  },
-  {
-    "title": "Kids Baking Workshop",
-    "city": "Bangalore",
-    "category": "Kids",
-    "source": "AllEvents",
-    "url": "https://allevents.in/bangalore/kids-baking-workshop/3900031131515909",
-    "date": "2026-12-06",
-    "venue": "Bloom Creative Zone,Haralur(HSR Extns):Bengaluru",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czUvYmFubmVycy9hMjFiMTJhMC1lOGY5LTExZjEtYjY1OC1jNTAyNjU4MTRlNGYtcmltZy13MTIwMC1oNjAwLWRjZThkOGM4LWdtaXIuanBnP3Y9MTc5NTYyOTQyOA.avif",
-    "extra": {},
     "group_id": 27,
-    "multi_source": false
-  },
-  {
-    "title": "Smirnoff Experience ft. ALESSO - Bengaluru",
-    "city": "Bangalore",
-    "category": "Nightlife",
-    "source": "AllEvents",
-    "url": "https://allevents.in/bangalore/smirnoff-experience-ft-alesso-bengaluru/3900030974869728",
-    "date": "2026-11-27",
-    "venue": "Bhartiya Mall Of Bengaluru",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czkvYmFubmVycy9kNjE0NjJlMC1lOWM3LTExZjEtYTg4Ni01N2Y0YjFiMDUwNGEtcmltZy13MTIwMC1oNjAwLWRjMDgwODE4LWdtaXIuanBnP3Y9MTc5NTcxNzk5Mg.avif",
-    "extra": {},
-    "group_id": 28,
     "multi_source": false
   },
   {
@@ -508,7 +492,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4yLmFsbGV2ZW50cy5pbi90aHVtYnMvdGh1bWI2YWY0NTAwODAwYjAwLmpwZw.avif",
     "extra": {},
-    "group_id": 29,
+    "group_id": 28,
     "multi_source": false
   },
   {
@@ -524,39 +508,55 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czMvYmFubmVycy9kOTcwMDk0MC1kODY5LTExZjEtYTE5OC0xN2I4NDEyYWQ2MTQtcmltZy13MTIwMC1oNjU2LWRjMTgxODE4LWdtaXIuanBnP3Y9MTc5MzgwODQ1NQ.avif",
     "extra": {},
+    "group_id": 29,
+    "multi_source": false
+  },
+  {
+    "title": "Diljit Banglore tour",
+    "city": "Bangalore",
+    "category": "Nightlife",
+    "source": "AllEvents",
+    "url": "https://allevents.in/bangalore/diljit-banglore-tour/200031141877004",
+    "date": "2026-11-29",
+    "venue": "Banglore",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czYvYmFubmVycy8zZDM3M2FkOWZiZjRlNzc2MDYzMGYzNzk0MGU1M2NmMGE5MTMzZjBkM2IxOTQ0MTRjNjljOGZlZTBlYzhmNjljLXJpbWctdzEyMDAtaDYwMC1kY2Y4Yjg0OC1nbWlyP3Y9MTc5NTY5MzUwNA.avif",
+    "extra": {},
     "group_id": 30,
     "multi_source": false
   },
   {
-    "title": "Thalapathy Takeover",
+    "title": "Spokes Women Garage Sale Fest!",
     "city": "Bangalore",
     "category": "Nightlife",
     "source": "AllEvents",
-    "url": "https://allevents.in/bangalore/thalapathy-takeover-tickets/80001157552938",
-    "date": "2026-11-27",
-    "venue": "Babylonia Pub",
+    "url": "https://allevents.in/bangalore/spokes-women-garage-sale-fest-tickets/80002011191446",
+    "date": "2026-11-29",
+    "venue": "Indiranagar Club",
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4yLmFsbGV2ZW50cy5pbi9haS1iYW5uZXJzL2FpX2Jhbm5lcl82YjA1MWMwODZlNjU2LmpwZw.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4yLmFsbGV2ZW50cy5pbi90aHVtYnMvdGh1bWI2YWY1OGZhMjNlMzJlLmpwZw.avif",
     "extra": {},
     "group_id": 31,
     "multi_source": false
   },
   {
-    "title": "Tamil Fake Kalyanam Party",
+    "title": "New Year Party VELEVTE 2027",
     "city": "Bangalore",
     "category": "Nightlife",
     "source": "AllEvents",
-    "url": "https://allevents.in/bangalore/tamil-fake-kalyanam-party-tickets/80001369847101",
-    "date": "2026-11-28",
-    "venue": "Babylonia - Global Food and Cocktails",
+    "url": "https://allevents.in/bangalore/new-year-party-velevte-2027-tickets/80001589044961",
+    "date": "2026-12-31",
+    "venue": "Taj MG Road, Bengaluru",
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4yLmFsbGV2ZW50cy5pbi9haS1iYW5uZXJzL2FpX2Jhbm5lcl82YjA4NDRkZmQxMDFmLmpwZw.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4yLmFsbGV2ZW50cy5pbi90aHVtYnMvdGh1bWI2YWUzOGMyMTkyNzgzLmpwZw.avif",
     "extra": {},
-    "group_id": 32,
+    "group_id": 15,
     "multi_source": false
   },
   {
@@ -572,7 +572,55 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czIvYmFubmVycy9kMzVlMzk2MC1lYTEwLTExZjEtYTljMS05MzZkNzg1MjA5ZDMtcmltZy13MTIwMC1oNjAwLWRjZThhODk4LWdtaXIuanBnP3Y9MTc5NTc0OTM0MQ.avif",
     "extra": {},
+    "group_id": 32,
+    "multi_source": false
+  },
+  {
+    "title": "Divorced Dad Rock",
+    "city": "Bangalore",
+    "category": "Nightlife",
+    "source": "AllEvents",
+    "url": "https://allevents.in/bangalore/divorced-dad-rock-tickets/80002718611681",
+    "date": "2026-11-29",
+    "venue": "Sarjapur Social, Sarjapur - Marathahalli Road, Saket Callipolis, Rainbow Drive, Doddakannelli, Bengaluru, Karnataka, India",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4yLmFsbGV2ZW50cy5pbi90aHVtYnMvdGh1bWI2YjA1MzllYzQ0OGE3LmpwZw.avif",
+    "extra": {},
     "group_id": 33,
+    "multi_source": false
+  },
+  {
+    "title": "Tamil Fake Kalyanam Party",
+    "city": "Bangalore",
+    "category": "Nightlife",
+    "source": "AllEvents",
+    "url": "https://allevents.in/bangalore/tamil-fake-kalyanam-party-tickets/80001369847101",
+    "date": "2026-11-28",
+    "venue": "Babylonia - Global Food and Cocktails",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4yLmFsbGV2ZW50cy5pbi9haS1iYW5uZXJzL2FpX2Jhbm5lcl82YjA4NDRkZmQxMDFmLmpwZw.avif",
+    "extra": {},
+    "group_id": 34,
+    "multi_source": false
+  },
+  {
+    "title": "Flower show banglore 2026",
+    "city": "Bangalore",
+    "category": "Nightlife",
+    "source": "AllEvents",
+    "url": "https://allevents.in/bangalore/flower-show-banglore-2026/200031141877410",
+    "date": "2026-12-08",
+    "venue": "Cubbon Park, Bangalore",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czMvYmFubmVycy85YzA3ZDk2ODQxMDZhYTA2YjQ5YTZlNGYwMTNkOWM3ZmQ1MzJmNTllYmI2YzE2YTE4MmVkMWNlNmJhNjFjMTc5LXJpbWctdzk2MC1oOTYwLWRjMDgwODA4LWdtaXI_dj0xNzk1NjkzNTA5.avif",
+    "extra": {},
+    "group_id": 35,
     "multi_source": false
   },
   {
@@ -588,7 +636,23 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEwL2Jhbm5lcnMvNTkwODhlODAtZTg0MC0xMWYxLTgwOTQtZTc3ZjNmOGM2YjY0LXJpbWctdzEyMDAtaDYwMC1kYzA4MDgwOC1nbWlyLmpwZz92PTE3OTU1NDk4NDk.avif",
     "extra": {},
-    "group_id": 34,
+    "group_id": 36,
+    "multi_source": false
+  },
+  {
+    "title": "Super Star South -",
+    "city": "Bangalore",
+    "category": "Nightlife",
+    "source": "AllEvents",
+    "url": "https://allevents.in/bangalore/super-star-south-tickets/80002782924613",
+    "date": "2026-12-12",
+    "venue": "Boche Club - Brigade Road",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4yLmFsbGV2ZW50cy5pbi90aHVtYnMvdGh1bWI2YWY2ZTY3NjdmZTk3LmpwZw.avif",
+    "extra": {},
+    "group_id": 37,
     "multi_source": false
   },
   {
@@ -604,7 +668,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czkvYmFubmVycy8xMTIzMjUwMC01ZjU5LTExZjEtYjE2Zi0wZjlmNDY5NWIwYzQtcmltZy13MTIwMC1oNjAwLWRjNjA0NTJkLWdtaXIuanBnP3Y9MTc4MDQ5NzE1Nw.avif",
     "extra": {},
-    "group_id": 35,
+    "group_id": 38,
     "multi_source": false
   },
   {
@@ -620,23 +684,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czMvYmFubmVycy8zMThmZTk4MC1kODU5LTExZjEtYTE5OC0xN2I4NDEyYWQ2MTQtcmltZy13MTIwMC1oNjAwLWRjMDgwODA4LWdtaXIuanBnP3Y9MTc5MzgwMTMwMg.avif",
     "extra": {},
-    "group_id": 36,
-    "multi_source": false
-  },
-  {
-    "title": "Jam2Gather - Bengaluru Live Bollywood Jamming",
-    "city": "Bangalore",
-    "category": "Nightlife",
-    "source": "AllEvents",
-    "url": "https://allevents.in/bangalore/jam2gather-bengaluru-live-bollywood-jamming/3900031065169504",
-    "date": "2026-11-27",
-    "venue": "Rism The Luxury Club: Bengaluru",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czgvYmFubmVycy85MGM1MDI1MC1lODNmLTExZjEtODA5NC1lNzdmM2Y4YzZiNjQtcmltZy13MTIwMC1oNjAwLWRjMDgwODA4LWdtaXIuanBnP3Y9MTc5NTU0OTUxMw.avif",
-    "extra": {},
-    "group_id": 37,
+    "group_id": 39,
     "multi_source": false
   },
   {
@@ -652,55 +700,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czcvYmFubmVycy9lZjIxYTQ4MC01ZjVlLTExZjEtYWY2MC0wNTdmM2ZhYjllMDYtcmltZy13MTIwMC1oNjAwLWRjMTgxOTJmLWdtaXIuanBnP3Y9MTc4MDQ5OTY3Nw.avif",
     "extra": {},
-    "group_id": 38,
-    "multi_source": false
-  },
-  {
-    "title": "Freeze 2026",
-    "city": "Bangalore",
-    "category": "Nightlife",
-    "source": "AllEvents",
-    "url": "https://allevents.in/bangalore/freeze-2026/200031039035041",
-    "date": "2026-11-28",
-    "venue": "Phoenix mall of Asia bengaluru",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czQvYmFubmVycy82OGI1MTE0YjRlNjUzMmE4M2QzNWEzMWNmOGNkM2VmNDBlNzY3NmZjMDA2ZGY3OWJjZDkzODVmNDI1ZDU2MGQwLXJpbWctdzEwODAtaDE5MjAtZGMxODI4NDgtZ21pcj92PTE3OTQ1NTgyODE.avif",
-    "extra": {},
-    "group_id": 39,
-    "multi_source": false
-  },
-  {
-    "title": "Faraway Christmas Land",
-    "city": "Bangalore",
-    "category": "Nightlife",
-    "source": "AllEvents",
-    "url": "https://allevents.in/bangalore/faraway-christmas-land/3900031092029715",
-    "date": "2026-12-13",
-    "venue": "The Bay at Ecoworld: Bengaluru",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czUvYmFubmVycy8xYWE2MGExMC1lNWIwLTExZjEtYjhhMC02NWVmY2MwODlmOTgtcmltZy13MTIwMC1oNjAwLWRjMDgxODM4LWdtaXIuanBnP3Y9MTc5NTI2Nzk5NA.avif",
-    "extra": {},
     "group_id": 40,
-    "multi_source": false
-  },
-  {
-    "title": "FUEGO FRIDAY Bollywood DJ Night ft Deep Bhamra",
-    "city": "Bangalore",
-    "category": "Nightlife",
-    "source": "AllEvents",
-    "url": "https://allevents.in/bangalore/fuego-friday-bollywood-dj-night-ft-deep-bhamra/3900031131608010",
-    "date": "2026-11-27",
-    "venue": "TOCA Brigade and Terrace: Bengaluru",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czIvYmFubmVycy84YzE0MGMxMC1lOGZkLTExZjEtYjY1OC1jNTAyNjU4MTRlNGYtcmltZy13MTIwMC1oNjAwLWRjMDgxODA4LWdtaXIuanBnP3Y9MTc5NTYzMTExMA.avif",
-    "extra": {},
-    "group_id": 41,
     "multi_source": false
   },
   {
@@ -716,7 +716,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czgvYmFubmVycy9jY2RjNDI4MC1kYTRkLTExZjEtYjBhZC01ZjAzOGVhYTlmMWMtcmltZy13MTIwMC1oNjAwLWRjMDgxODQ4LWdtaXIuanBnP3Y9MTc5NDAxNjMxMA.avif",
     "extra": {},
-    "group_id": 42,
+    "group_id": 41,
     "multi_source": false
   },
   {
@@ -732,7 +732,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEwL2Jhbm5lcnMvOWE1ZjExYTAtZTZjYS0xMWYxLWI4YTAtNjVlZmNjMDg5Zjk4LXJpbWctdzEyMDAtaDYwMC1kY2Y4ZjhjOC1nbWlyLmpwZz92PTE3OTUzODkzMjc.avif",
     "extra": {},
-    "group_id": 43,
+    "group_id": 42,
     "multi_source": false
   },
   {
@@ -748,7 +748,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEvYmFubmVycy80MjJkY2YzMC1lNzdlLTExZjEtYjMwOC1lNzU1ZmU4ODQzMTEtcmltZy13MTIwMC1oNjAwLWRjZjhmOGM4LWdtaXIuanBnP3Y9MTc5NTQ2NjQ4OA.avif",
     "extra": {},
-    "group_id": 44,
+    "group_id": 43,
     "multi_source": false
   },
   {
@@ -762,9 +762,9 @@
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czkvYmFubmVycy8xNGQ3NGExMC1iZGU1LTExZjEtYjFhNi1iOTc3NGJkMzNlNDItcmltZy13MTIwMC1oNjc1LWRjZjhjODA4LWdtaXIuanBnP3Y9MTc5MDg5MjcwMg.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czMvYmFubmVycy9jYTMwNjVhMC1lYTYyLTExZjEtODg5OC0zYjdjOGJmY2ZhMjgtcmltZy13MTIwMC1oNjc1LWRjZjhkODA4LWdtaXIuanBnP3Y9MTc5NTc4NDU0NA.avif",
     "extra": {},
-    "group_id": 45,
+    "group_id": 44,
     "multi_source": false
   },
   {
@@ -780,7 +780,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czQvYmFubmVycy9mOGE1NTI2MC1kYTdjLTExZjEtYjBhZC01ZjAzOGVhYTlmMWMtcmltZy13MTIwMC1oNjAwLWRjZjhmOGY4LWdtaXIuanBnP3Y9MTc5NDAzNjU3MA.avif",
     "extra": {},
-    "group_id": 46,
+    "group_id": 45,
     "multi_source": false
   },
   {
@@ -796,7 +796,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czgvYmFubmVycy81MjA4MGU3MC1lOWI4LTExZjEtYTg4Ni01N2Y0YjFiMDUwNGEtcmltZy13MTIwMC1oNjAwLWRjZThjODU4LWdtaXIuanBnP3Y9MTc5NTcxMTMyOA.avif",
     "extra": {},
-    "group_id": 47,
+    "group_id": 46,
     "multi_source": false
   },
   {
@@ -812,7 +812,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czIvYmFubmVycy81NmZlMWE3MC1kYTQ4LTExZjEtYjBhZC01ZjAzOGVhYTlmMWMtcmltZy13MTIwMC1oNjAwLWRjODhmOGU4LWdtaXIuanBnP3Y9MTc5NDAxMzk5MA.avif",
     "extra": {},
-    "group_id": 48,
+    "group_id": 47,
     "multi_source": false
   },
   {
@@ -828,7 +828,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czkvYmFubmVycy8yZGY2MTNhMC1lOGYxLTExZjEtYjY1OC1jNTAyNjU4MTRlNGYtcmltZy13MTIwMC1oNjAwLWRjZjgwODg4LWdtaXIuanBnP3Y9MTc5NTYyNTc5OA.avif",
     "extra": {},
-    "group_id": 49,
+    "group_id": 48,
     "multi_source": false
   },
   {
@@ -844,7 +844,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czgvYmFubmVycy9iZWY1NmZmMC1lYTA4LTExZjEtYTljMS05MzZkNzg1MjA5ZDMtcmltZy13MTIwMC1oNjAwLWRjZTgzODQ4LWdtaXIuanBnP3Y9MTc5NTc0NTg3MQ.avif",
     "extra": {},
-    "group_id": 50,
+    "group_id": 49,
     "multi_source": false
   },
   {
@@ -860,7 +860,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEvYmFubmVycy9kM2UxMGZhMC1lODNjLTExZjEtODA5NC1lNzdmM2Y4YzZiNjQtcmltZy13MTIwMC1oNjAwLWRjZjhlOGQ4LWdtaXIuanBnP3Y9MTc5NTU0ODMzNw.avif",
     "extra": {},
-    "group_id": 51,
+    "group_id": 50,
     "multi_source": false
   },
   {
@@ -876,7 +876,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czYvYmFubmVycy84Mzg1NWUwMC1lNWFiLTExZjEtYjhhMC02NWVmY2MwODlmOTgtcmltZy13MTIwMC1oNjAwLWRjYzg3ODA4LWdtaXIuanBnP3Y9MTc5NTI2NjAyMw.avif",
     "extra": {},
-    "group_id": 52,
+    "group_id": 51,
     "multi_source": false
   },
   {
@@ -892,7 +892,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czkvYmFubmVycy8yMDI5ZTk4MC1kYWE2LTExZjEtYjBhZC01ZjAzOGVhYTlmMWMtcmltZy13MTIwMC1oNjAwLWRjYjg1ODQ4LWdtaXIuanBnP3Y9MTc5NDA1NDI0Ng.avif",
     "extra": {},
-    "group_id": 53,
+    "group_id": 52,
     "multi_source": false
   },
   {
@@ -908,7 +908,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czQvYmFubmVycy85NTNiMTExMC1lOWIzLTExZjEtYTg4Ni01N2Y0YjFiMDUwNGEtcmltZy13MTIwMC1oNjAwLWRjZTgwODg4LWdtaXIuanBnP3Y9MTc5NTcwOTI5Mw.avif",
     "extra": {},
-    "group_id": 54,
+    "group_id": 53,
     "multi_source": false
   },
   {
@@ -924,7 +924,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czIvYmFubmVycy8xZjIwN2I0MC1lOWI5LTExZjEtYTg4Ni01N2Y0YjFiMDUwNGEtcmltZy13MTIwMC1oNjAwLWRjZDhlOGY4LWdtaXIuanBnP3Y9MTc5NTcxMTY3Mg.avif",
     "extra": {},
-    "group_id": 55,
+    "group_id": 54,
     "multi_source": false
   },
   {
@@ -940,7 +940,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czYvYmFubmVycy83NWExNzAzMC1lOWI2LTExZjEtYTg4Ni01N2Y0YjFiMDUwNGEtcmltZy13MTIwMC1oNjAwLWRjMzg2ODM4LWdtaXIuanBnP3Y9MTc5NTcxMDUyOQ.avif",
     "extra": {},
-    "group_id": 56,
+    "group_id": 55,
     "multi_source": false
   },
   {
@@ -954,9 +954,9 @@
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czQvYmFubmVycy85OGZlNWE0MC1kODUyLTExZjEtYTE5OC0xN2I4NDEyYWQ2MTQtcmltZy13MTIwMC1oNjc1LWRjMTgxODE4LWdtaXIuanBnP3Y9MTc5Mzc5ODQ2OQ.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEvYmFubmVycy9iNzcyNmM2MC1lYTYyLTExZjEtODg5OC0zYjdjOGJmY2ZhMjgtcmltZy13MTIwMC1oNjc1LWRjMTgxODE4LWdtaXIuanBnP3Y9MTc5NTc4NDUxMw.avif",
     "extra": {},
-    "group_id": 57,
+    "group_id": 56,
     "multi_source": false
   },
   {
@@ -970,9 +970,9 @@
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czQvYmFubmVycy8xODU1OWEwMC1lNGI2LTExZjEtYjBlZi1iMzM1ZTkyNGIxN2EtcmltZy13MTIwMC1oNjAwLWRjNzgwODM4LWdtaXIuanBnP3Y9MTc5NTE2MDYxNg.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEwL2Jhbm5lcnMvMDkyNzdmMzAtZWE1MS0xMWYxLWE5YzEtOTM2ZDc4NTIwOWQzLXJpbWctdzEyMDAtaDYwMC1kYzc4MDgzOC1nbWlyLmpwZz92PTE3OTU3NzY5MTk.avif",
     "extra": {},
-    "group_id": 58,
+    "group_id": 57,
     "multi_source": false
   },
   {
@@ -988,7 +988,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czQvYmFubmVycy8yNDMyOTg5MC1iMzJhLTExZjEtYjcyOS0zZmY4ZGZmMDQ0MGEtcmltZy13MTIwMC1oNjAwLWRjZjhmOGY4LWdtaXIuanBnP3Y9MTc4OTcxMjkwMA.avif",
     "extra": {},
-    "group_id": 59,
+    "group_id": 58,
     "multi_source": false
   },
   {
@@ -1004,7 +1004,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czgvYmFubmVycy9iMjk3YWJmMC1lNmNiLTExZjEtYjhhMC02NWVmY2MwODlmOTgtcmltZy13MTIwMC1oNjAwLWRjZjhlOGQ4LWdtaXIuanBnP3Y9MTc5NTM4OTc5Nw.avif",
     "extra": {},
-    "group_id": 60,
+    "group_id": 59,
     "multi_source": false
   },
   {
@@ -1020,7 +1020,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czIvYmFubmVycy9kYmUxZGNlMC1kM2U1LTExZjEtODI4OC1jMWE0M2FkOTlmNjktcmltZy13MTIwMC1oNjAwLWRjMTgxODU4LWdtaXIuanBnP3Y9MTc5MzMxMTk3OA.avif",
     "extra": {},
-    "group_id": 61,
+    "group_id": 60,
     "multi_source": false
   },
   {
@@ -1036,7 +1036,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEwL2Jhbm5lcnMvZmVlZjY2YjAtZTQ2OC0xMWYxLTllNGYtZDU4YjYzZDcyMDU0LXJpbWctdzEyMDAtaDYwMC1kY2Y4ZjhmOC1nbWlyLmpwZz92PTE3OTUxMjc1MDM.avif",
     "extra": {},
-    "group_id": 62,
+    "group_id": 61,
     "multi_source": false
   },
   {
@@ -1052,7 +1052,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czgvYmFubmVycy8yYTVlMTA4MC1kOWUyLTExZjEtOGVkOC1hYjAzZDg5Yzg0YmMtcmltZy13MTIwMC1oNjc1LWRjZjhmOGY4LWdtaXIuanBnP3Y9MTc5Mzk3MDA4Mg.avif",
     "extra": {},
-    "group_id": 63,
+    "group_id": 62,
     "multi_source": false
   },
   {
@@ -1066,9 +1066,9 @@
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czcvYmFubmVycy9iY2FjYmM3MC1iMWI1LTExZjEtYTk4OC1kNzg1ZTRiN2JhYmYtcmltZy13MTIwMC1oNjc1LWRjZDhhODY4LWdtaXIuanBnP3Y9MTc4OTU1MzIxNQ.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czUvYmFubmVycy9hYzkxY2U3MC1lYTg2LTExZjEtODg5OC0zYjdjOGJmY2ZhMjgtcmltZy13MTIwMC1oNjc1LWRjZDhhODY4LWdtaXIuanBnP3Y9MTc5NTc5OTk1Ng.avif",
     "extra": {},
-    "group_id": 64,
+    "group_id": 63,
     "multi_source": false
   },
   {
@@ -1084,7 +1084,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czgvYmFubmVycy8zMmI3NzNmMC1kOGU1LTExZjEtOTAzYy0xZmI1M2YzNTdjMTQtcmltZy13MTIwMC1oNjAwLWRjZjhmOGY4LWdtaXIuanBnP3Y9MTc5Mzg2MTQzMw.avif",
     "extra": {},
-    "group_id": 65,
+    "group_id": 64,
     "multi_source": false
   },
   {
@@ -1100,7 +1100,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czgvYmFubmVycy9iZDQ2M2ZjMC1kYWE2LTExZjEtYjBhZC01ZjAzOGVhYTlmMWMtcmltZy13MTIwMC1oNjAwLWRjMDgwODA4LWdtaXIuanBnP3Y9MTc5NDA1NDUxMA.avif",
     "extra": {},
-    "group_id": 66,
+    "group_id": 65,
     "multi_source": false
   },
   {
@@ -1116,7 +1116,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czcvYmFubmVycy80ZTNlMDNhMC1lOGYzLTExZjEtYjY1OC1jNTAyNjU4MTRlNGYtcmltZy13MTIwMC1oNjAwLWRjMDgyODM4LWdtaXIuanBnP3Y9MTc5NTYyNjcxMQ.avif",
     "extra": {},
-    "group_id": 67,
+    "group_id": 66,
     "multi_source": false
   },
   {
@@ -1132,7 +1132,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czQvYmFubmVycy83YmEwYWUwMC1kYTc2LTExZjEtYjBhZC01ZjAzOGVhYTlmMWMtcmltZy13MTIwMC1oNjAwLWRjMDgwODA4LWdtaXIuanBnP3Y9MTc5NDAzMzc4NA.avif",
     "extra": {},
-    "group_id": 68,
+    "group_id": 67,
     "multi_source": false
   },
   {
@@ -1148,7 +1148,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEwL2Jhbm5lcnMvYjZlZmIwYzAtZDI1OS0xMWYxLTkyZDAtODNiZjQ0ODg0M2EwLXJpbWctdzEyMDAtaDYwMC1kYzA4MDgxOC1nbWlyLmpwZz92PTE3OTMxNDE4NDU.avif",
     "extra": {},
-    "group_id": 69,
+    "group_id": 68,
     "multi_source": false
   },
   {
@@ -1164,7 +1164,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czcvYmFubmVycy8wYmNkOWIwMC1lOTc3LTExZjEtYjY1OC1jNTAyNjU4MTRlNGYtcmltZy13MTIwMC1oNjAwLWRjZjhmOGY4LWdtaXIuanBnP3Y9MTc5NTY4MzI5Mw.avif",
     "extra": {},
-    "group_id": 70,
+    "group_id": 69,
     "multi_source": false
   },
   {
@@ -1180,7 +1180,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czgvYmFubmVycy81NTkxMTRjMC1kYTdiLTExZjEtYjBhZC01ZjAzOGVhYTlmMWMtcmltZy13MTIwMC1oNjAwLWRjZjhmOGY4LWdtaXIuanBnP3Y9MTc5NDAzNTg2Nw.avif",
     "extra": {},
-    "group_id": 71,
+    "group_id": 70,
     "multi_source": false
   },
   {
@@ -1196,7 +1196,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czYvYmFubmVycy8yOWZmNWNmMC1lOWMwLTExZjEtYTg4Ni01N2Y0YjFiMDUwNGEtcmltZy13MTIwMC1oNjAwLWRjMDg0OGE4LWdtaXIuanBnP3Y9MTc5NTcxNDY5Nw.avif",
     "extra": {},
-    "group_id": 72,
+    "group_id": 71,
     "multi_source": false
   },
   {
@@ -1212,7 +1212,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czgvYmFubmVycy85Mjg3NzA5MC1lOGY0LTExZjEtYjY1OC1jNTAyNjU4MTRlNGYtcmltZy13MTIwMC1oNjAwLWRjNTgwODI4LWdtaXIuanBnP3Y9MTc5NTYyNzI2MQ.avif",
     "extra": {},
-    "group_id": 73,
+    "group_id": 72,
     "multi_source": false
   },
   {
@@ -1228,7 +1228,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czQvYmFubmVycy8xYWJiMDI4MC1kYTQ4LTExZjEtYjBhZC01ZjAzOGVhYTlmMWMtcmltZy13MTIwMC1oNjAwLWRjMjgyODM4LWdtaXIuanBnP3Y9MTc5NDAxMzkwMQ.avif",
     "extra": {},
-    "group_id": 74,
+    "group_id": 73,
     "multi_source": false
   },
   {
@@ -1244,7 +1244,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEwL2Jhbm5lcnMvYWIwZWM5NTAtZTY5My0xMWYxLWI4YTAtNjVlZmNjMDg5Zjk4LXJpbWctdzEyMDAtaDYwMC1kYzM4MDgwOC1nbWlyLmpwZz92PTE3OTUzNjU3MzI.avif",
     "extra": {},
-    "group_id": 75,
+    "group_id": 74,
     "multi_source": false
   },
   {
@@ -1260,7 +1260,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEvYmFubmVycy8yYTA0MDkzMC1lNDIwLTExZjEtOWNlNy1hNTZjZWRlM2M5NDYtcmltZy13MTIwMC1oNjAwLWRjMzgxODE4LWdtaXIuanBnP3Y9MTc5NTA5NjIyMg.avif",
     "extra": {},
-    "group_id": 76,
+    "group_id": 75,
     "multi_source": false
   },
   {
@@ -1276,7 +1276,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czgvYmFubmVycy8xZjI0OGRkMC1kYWFlLTExZjEtYjBhZC01ZjAzOGVhYTlmMWMtcmltZy13MTIwMC1oNjAwLWRjMjgzODY4LWdtaXIuanBnP3Y9MTc5NDA1NzcwOQ.avif",
     "extra": {},
-    "group_id": 77,
+    "group_id": 76,
     "multi_source": false
   },
   {
@@ -1292,7 +1292,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czQvYmFubmVycy9kOTJjZDZkMC1kYWJiLTExZjEtYjBhZC01ZjAzOGVhYTlmMWMtcmltZy13MTIwMC1oNjAwLWRjMDgwODA4LWdtaXIuanBnP3Y9MTc5NDA2MzU3Ng.avif",
     "extra": {},
-    "group_id": 78,
+    "group_id": 77,
     "multi_source": false
   },
   {
@@ -1308,7 +1308,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEwL2Jhbm5lcnMvZTMxZGIwMDAtZGFiNy0xMWYxLWIwYWQtNWYwMzhlYWE5ZjFjLXJpbWctdzEyMDAtaDYwMC1kYzc4MTgxOC1nbWlyLmpwZz92PTE3OTQwNjE4NzQ.avif",
     "extra": {},
-    "group_id": 79,
+    "group_id": 78,
     "multi_source": false
   },
   {
@@ -1324,7 +1324,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEvYmFubmVycy8yYmE0NzdlMC1lNzQzLTExZjEtYjMwOC1lNzU1ZmU4ODQzMTEtcmltZy13MTIwMC1oNjAwLWRjMDgwODA4LWdtaXIuanBnP3Y9MTc5NTQ0MTExMA.avif",
     "extra": {},
-    "group_id": 80,
+    "group_id": 79,
     "multi_source": false
   },
   {
@@ -1340,7 +1340,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czgvYmFubmVycy9iMWQ1ZDkzMC1kYWFmLTExZjEtYjBhZC01ZjAzOGVhYTlmMWMtcmltZy13MTIwMC1oNjAwLWRjNDg4OGU4LWdtaXIuanBnP3Y9MTc5NDA1ODM1Ng.avif",
     "extra": {},
-    "group_id": 81,
+    "group_id": 80,
     "multi_source": false
   },
   {
@@ -1356,7 +1356,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czIvYmFubmVycy9lOWJhNzRkMC1kYWI2LTExZjEtYjBhZC01ZjAzOGVhYTlmMWMtcmltZy13MTIwMC1oNjAwLWRjMDgwODA4LWdtaXIuanBnP3Y9MTc5NDA2MTQ1Ng.avif",
     "extra": {},
-    "group_id": 82,
+    "group_id": 81,
     "multi_source": false
   },
   {
@@ -1372,7 +1372,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czMvYmFubmVycy9mNTkyMzlhMC1kYWI2LTExZjEtYjBhZC01ZjAzOGVhYTlmMWMtcmltZy13MTIwMC1oNjAwLWRjMjgwODA4LWdtaXIuanBnP3Y9MTc5NDA2MTQ3Ng.avif",
     "extra": {},
-    "group_id": 83,
+    "group_id": 82,
     "multi_source": false
   },
   {
@@ -1388,7 +1388,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czMvYmFubmVycy9iYmM3Y2IxMC1kNzRlLTExZjEtOWYxYi0xM2FmNjI4MGFmMjMtcmltZy13MTIwMC1oNjAwLWRjZjhlOGI4LWdtaXIuanBnP3Y9MTc5MzY4Njg1OA.avif",
     "extra": {},
-    "group_id": 84,
+    "group_id": 83,
     "multi_source": false
   },
   {
@@ -1404,7 +1404,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czYvYmFubmVycy81ODFkMjkyMC1kYWMzLTExZjEtYjBhZC01ZjAzOGVhYTlmMWMtcmltZy13MTIwMC1oNjAwLWRjZjhkOGI4LWdtaXIuanBnP3Y9MTc5NDA2NjgwMQ.avif",
     "extra": {},
-    "group_id": 85,
+    "group_id": 84,
     "multi_source": false
   },
   {
@@ -1420,7 +1420,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czQvYmFubmVycy81NjExNGVjMC1lOWM1LTExZjEtYTg4Ni01N2Y0YjFiMDUwNGEtcmltZy13MTIwMC1oNjAwLWRjMDgwODA4LWdtaXIuanBnP3Y9MTc5NTcxNjkxOA.avif",
     "extra": {},
-    "group_id": 86,
+    "group_id": 85,
     "multi_source": false
   },
   {
@@ -1436,7 +1436,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czkvYmFubmVycy9kMTk4YmI0MC1lOWM2LTExZjEtYTg4Ni01N2Y0YjFiMDUwNGEtcmltZy13MTIwMC1oNjAwLWRjZjhmOGU4LWdtaXIuanBnP3Y9MTc5NTcxNzU1NQ.avif",
     "extra": {},
-    "group_id": 87,
+    "group_id": 86,
     "multi_source": false
   },
   {
@@ -1452,7 +1452,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czIvYmFubmVycy84MDEzOTdlMC1kYWNiLTExZjEtYjBhZC01ZjAzOGVhYTlmMWMtcmltZy13MTIwMC1oNjAwLWRjMjgxODA4LWdtaXIuanBnP3Y9MTc5NDA3MDI5OA.avif",
     "extra": {},
-    "group_id": 88,
+    "group_id": 87,
     "multi_source": false
   },
   {
@@ -1468,7 +1468,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czkvYmFubmVycy9lYTI5Yjk2MC1lNjkzLTExZjEtYjhhMC02NWVmY2MwODlmOTgtcmltZy13MTIwMC1oNjAwLWRjZjhmOGU4LWdtaXIuanBnP3Y9MTc5NTM2NTgzOA.avif",
     "extra": {},
-    "group_id": 89,
+    "group_id": 88,
     "multi_source": false
   },
   {
@@ -1484,7 +1484,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czIvYmFubmVycy9kYmUxZGNlMC1kM2U1LTExZjEtODI4OC1jMWE0M2FkOTlmNjktcmltZy13MTIwMC1oNjAwLWRjMTgxODU4LWdtaXIuanBnP3Y9MTc5MzMxMTk5MQ.avif",
     "extra": {},
-    "group_id": 90,
+    "group_id": 89,
     "multi_source": false
   },
   {
@@ -1500,7 +1500,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czYvYmFubmVycy82M2NhZDJhMC1lNTM1LTExZjEtYjhhMC02NWVmY2MwODlmOTgtcmltZy13MTIwMC1oNjAwLWRjMjg4OGM4LWdtaXIuanBnP3Y9MTc5NTIxNTI4OQ.avif",
     "extra": {},
-    "group_id": 91,
+    "group_id": 90,
     "multi_source": false
   },
   {
@@ -1516,7 +1516,7 @@
     "currency": "INR",
     "image": "https://dyn-image.allevents.in/generate-image?v=4&title=Delhi+to+Dubai+Monthly+Fixed+Group+Departures+with+Flights%2C+Hotel%2C+Visa%2C+Breakfast%2C+Transfers+%26+More&date=Wed+Dec+23+2026&bg=1",
     "extra": {},
-    "group_id": 92,
+    "group_id": 91,
     "multi_source": false
   },
   {
@@ -1532,7 +1532,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czgvYmFubmVycy84ZTRhN2Y4MC1lMzI4LTExZjEtOWYzMS05ZjFhNDRmNTdiY2EtcmltZy13MTIwMC1oNjAwLWRjZjhmOGY4LWdtaXIuanBnP3Y9MTc5NDk4OTg3NQ.avif",
     "extra": {},
-    "group_id": 93,
+    "group_id": 92,
     "multi_source": false
   },
   {
@@ -1548,7 +1548,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEwL2Jhbm5lcnMvYjZlZmIwYzAtZDI1OS0xMWYxLTkyZDAtODNiZjQ0ODg0M2EwLXJpbWctdzEyMDAtaDYwMC1kYzA4MDgxOC1nbWlyLmpwZz92PTE3OTMxNDE4MTg.avif",
     "extra": {},
-    "group_id": 94,
+    "group_id": 93,
     "multi_source": false
   },
   {
@@ -1564,7 +1564,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czgvYmFubmVycy8xM2UzNTZmMC1kYTllLTExZjEtYjBhZC01ZjAzOGVhYTlmMWMtcmltZy13MTIwMC1oNjAwLWRjNTg1ODk4LWdtaXIuanBnP3Y9MTc5NDA1MDc4OQ.avif",
     "extra": {},
-    "group_id": 95,
+    "group_id": 94,
     "multi_source": false
   },
   {
@@ -1580,7 +1580,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czMvYmFubmVycy9mMDBhMTUwMC1kZWRjLTExZjEtOTIyOS1lMWUzNjI1Y2FkYmUtcmltZy13MTIwMC1oNjAwLWRjZjhmOGU4LWdtaXIuanBnP3Y9MTc5NDUxNzU5Mg.avif",
     "extra": {},
-    "group_id": 96,
+    "group_id": 95,
     "multi_source": false
   },
   {
@@ -1596,7 +1596,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEwL2Jhbm5lcnMvNWJiNWFjZjdlNDEzNGU1MmNmZGU4Zjg4OGE2ZGFmYTQyZDc4ZjhjMTM4MzM2YjNmYmY1YmQ2YmE1MDU3YjdmMy1yaW1nLXcxMjAwLWg2MzAtZGMwODA4MDgtZ21pcj92PTE3OTUwNjQ5NzI.avif",
     "extra": {},
-    "group_id": 97,
+    "group_id": 96,
     "multi_source": false
   },
   {
@@ -1612,7 +1612,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czYvYmFubmVycy9mNTU0ZjQwMC1kZDlmLTExZjEtYjVmMC1hZmI4N2UyOWM5ZDItcmltZy13MTIwMC1oOTU3LWRjZjhmOGY4LWdtaXIuanBnP3Y9MTc5NDM4MTQ1MQ.avif",
     "extra": {},
-    "group_id": 98,
+    "group_id": 97,
     "multi_source": false
   },
   {
@@ -1628,7 +1628,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEvYmFubmVycy8xMzdlMTkyMDk2MjQxZjg0ZGExYjYwYWEzMjg2OGUzMTY1NGQ3YTJkNjY3Mjk4MDI0YWUyNmE2OTQwYWU0ZjVhLXJpbWctdzEyMDAtaDgwMC1kYzQ4MTgwOC1nbWlyP3Y9MTc5NTE0OTY0NA.avif",
     "extra": {},
-    "group_id": 99,
+    "group_id": 98,
     "multi_source": false
   },
   {
@@ -1644,7 +1644,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czcvYmFubmVycy83YjUwNzgxMC1kYWFiLTExZjEtYjBhZC01ZjAzOGVhYTlmMWMtcmltZy13MTIwMC1oNjAwLWRjZDhhODc4LWdtaXIuanBnP3Y9MTc5NDA1NjU0Ng.avif",
     "extra": {},
-    "group_id": 100,
+    "group_id": 99,
     "multi_source": false
   },
   {
@@ -1660,7 +1660,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czgvYmFubmVycy8xNTFjYTk2ZTBhMDBmYzcwZDZlZmJlOWFhZTQ3NzMwNDRmZTY4MjAzYzhjYzU3M2IwN2YwZDdlMTI4NmJjODRjLXJpbWctdzU0MC1oMTIwMC1kYzA4MDgwOC1nbWlyP3Y9MTc5Mjc4NDQ2NQ.avif",
     "extra": {},
-    "group_id": 101,
+    "group_id": 100,
     "multi_source": false
   },
   {
@@ -1676,7 +1676,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czQvYmFubmVycy8xYWJiMDI4MC1kYTQ4LTExZjEtYjBhZC01ZjAzOGVhYTlmMWMtcmltZy13MTIwMC1oNjAwLWRjMjgyODM4LWdtaXIuanBnP3Y9MTc5NDAxMzg3Ng.avif",
     "extra": {},
-    "group_id": 102,
+    "group_id": 101,
     "multi_source": false
   },
   {
@@ -1690,9 +1690,9 @@
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czIvYmFubmVycy8zZjBhNWEzMC1lYTEyLTExZjEtYTljMS05MzZkNzg1MjA5ZDMtcmltZy13MTIwMC1oNjAwLWRjZjhlOGQ4LWdtaXIuanBnP3Y9MTc5NTc0OTk1MQ.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czcvYmFubmVycy85ZTdjNmRkMC1lNDc0LTExZjEtOWU0Zi1kNThiNjNkNzIwNTQtcmltZy13MTIwMC1oNjAwLWRjZjhlOGQ4LWdtaXIuanBnP3Y9MTc5NTEzMjQ5NQ.avif",
     "extra": {},
-    "group_id": 103,
+    "group_id": 102,
     "multi_source": false
   },
   {
@@ -1708,7 +1708,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czMvYmFubmVycy83YTJjYjkxMC1kMjFhLTExZjEtODQ0Ny05Nzc5ZTFhZTkzN2UtcmltZy13MTIwMC1oNjAwLWRjZjhmOGU4LWdtaXIuanBnP3Y9MTc5MzExNDY4MQ.avif",
     "extra": {},
-    "group_id": 104,
+    "group_id": 103,
     "multi_source": false
   },
   {
@@ -1724,7 +1724,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czcvYmFubmVycy9lY2ZkOWZkMC1kYWUwLTExZjEtYjBhZC01ZjAzOGVhYTlmMWMtcmltZy13MTIwMC1oNjAwLWRjMDgwODA4LWdtaXIuanBnP3Y9MTc5NDA3OTUwMA.avif",
     "extra": {},
-    "group_id": 105,
+    "group_id": 104,
     "multi_source": false
   },
   {
@@ -1740,7 +1740,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czcvYmFubmVycy8zN2I0NTFhMC1lNjVjLTExZjEtYjhhMC02NWVmY2MwODlmOTgtcmltZy13MTIwMC1oNjAwLWRjMTgxODE4LWdtaXIuanBnP3Y9MTc5NTM0MTkxNw.avif",
     "extra": {},
-    "group_id": 106,
+    "group_id": 105,
     "multi_source": false
   },
   {
@@ -1756,7 +1756,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czUvYmFubmVycy8wZTUzOTk1MC1kYTczLTExZjEtYjBhZC01ZjAzOGVhYTlmMWMtcmltZy13MTIwMC1oNjAwLWRjZjhmOGU4LWdtaXIuanBnP3Y9MTc5NDAzMjMzNQ.avif",
     "extra": {},
-    "group_id": 107,
+    "group_id": 106,
     "multi_source": false
   },
   {
@@ -1772,7 +1772,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czIvYmFubmVycy9hNTg5NjFjMC1kYTdjLTExZjEtYjBhZC01ZjAzOGVhYTlmMWMtcmltZy13MTIwMC1oNjAwLWRjZjhmOGU4LWdtaXIuanBnP3Y9MTc5NDAzNjQ2NQ.avif",
     "extra": {},
-    "group_id": 108,
+    "group_id": 107,
     "multi_source": false
   },
   {
@@ -1788,7 +1788,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEwL2Jhbm5lcnMvNjhkYzAzMTAtZTViMC0xMWYxLWI4YTAtNjVlZmNjMDg5Zjk4LXJpbWctdzEyMDAtaDYwMC1kYzA4MDgwOC1nbWlyLmpwZz92PTE3OTUyNjgxMjY.avif",
     "extra": {},
-    "group_id": 109,
+    "group_id": 108,
     "multi_source": false
   },
   {
@@ -1804,7 +1804,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czIvYmFubmVycy9mNzgyZjhiMC1lODQxLTExZjEtODA5NC1lNzdmM2Y4YzZiNjQtcmltZy13MTIwMC1oNjAwLWRjMDgwODA4LWdtaXIuanBnP3Y9MTc5NTU1MDU0NA.avif",
     "extra": {},
-    "group_id": 110,
+    "group_id": 109,
     "multi_source": false
   },
   {
@@ -1820,7 +1820,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czIvYmFubmVycy9jYjBhOTk1MC1lOGZmLTExZjEtYjY1OC1jNTAyNjU4MTRlNGYtcmltZy13MTIwMC1oNjAwLWRjMTgyOGE4LWdtaXIuanBnP3Y9MTc5NTYzMjA3NA.avif",
     "extra": {},
-    "group_id": 111,
+    "group_id": 110,
     "multi_source": false
   },
   {
@@ -1836,7 +1836,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czUvYmFubmVycy9kOGFiNjA3MC1kYjJjLTExZjEtYjBhZC01ZjAzOGVhYTlmMWMtcmltZy13MTIwMC1oNjAwLWRjYjhlOGY4LWdtaXIuanBnP3Y9MTc5NDExMjEwOA.avif",
     "extra": {},
-    "group_id": 112,
+    "group_id": 111,
     "multi_source": false
   },
   {
@@ -1852,7 +1852,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czIvYmFubmVycy9kNjcwNTk0MC1lNmNjLTExZjEtYjhhMC02NWVmY2MwODlmOTgtcmltZy13MTIwMC1oNjAwLWRjMjg1ODY4LWdtaXIuanBnP3Y9MTc5NTM5MDI4Nw.avif",
     "extra": {},
-    "group_id": 113,
+    "group_id": 112,
     "multi_source": false
   },
   {
@@ -1868,7 +1868,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czYvYmFubmVycy8yMDQ0YzQ5MC1kOWUyLTExZjEtOGVkOC1hYjAzZDg5Yzg0YmMtcmltZy13MTIwMC1oNjAwLWRjZjhlOGU4LWdtaXIuanBnP3Y9MTc5Mzk3MDA2NQ.avif",
     "extra": {},
-    "group_id": 114,
+    "group_id": 113,
     "multi_source": false
   },
   {
@@ -1884,7 +1884,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEvYmFubmVycy9hYmJiNWQwMC1kYTVlLTExZjEtYjBhZC01ZjAzOGVhYTlmMWMtcmltZy13MTIwMC1oNjAwLWRjMDgwODA4LWdtaXIuanBnP3Y9MTc5NDAyMzU3NA.avif",
     "extra": {},
-    "group_id": 115,
+    "group_id": 114,
     "multi_source": false
   },
   {
@@ -1900,7 +1900,7 @@
     "currency": "INR",
     "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czgvYmFubmVycy81MDZiYWU1MC1lNjVjLTExZjEtYjhhMC02NWVmY2MwODlmOTgtcmltZy13MTIwMC1oNjAwLWRjYjgwODA4LWdtaXIuanBnP3Y9MTc5NTM0MTk1OA.avif",
     "extra": {},
-    "group_id": 116,
+    "group_id": 115,
     "multi_source": false
   },
   {
@@ -1914,7 +1914,23 @@
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czcvYmFubmVycy84NjJlY2IxMC1lOTM4LTExZjEtYjY1OC1jNTAyNjU4MTRlNGYtcmltZy13MTIwMC1oNjc1LWRjYjgwODA4LWdtaXIuanBnP3Y9MTc5NTY1NjQ0MA.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czMvYmFubmVycy8xMzEzOTg0MC1lYTVmLTExZjEtYTljMS05MzZkNzg1MjA5ZDMtcmltZy13MTIwMC1oNjc1LWRjYjgwODA4LWdtaXIuanBnP3Y9MTc5NTc4Mjk0OA.avif",
+    "extra": {},
+    "group_id": 116,
+    "multi_source": false
+  },
+  {
+    "title": "Wonderla Amusement Park Hyderabad",
+    "city": "Hyderabad",
+    "category": "Nightlife",
+    "source": "AllEvents",
+    "url": "https://allevents.in/hyderabad/wonderla-amusement-park-hyderabad/4100031144274853",
+    "date": "2026-11-27",
+    "venue": "Wonderla Amusement Park, Hyderabad",
+    "price_min": null,
+    "price_max": null,
+    "currency": "INR",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czUvYmFubmVycy9mNTJhMTI3MC1lOWRmLTExZjEtYTg4Ni01N2Y0YjFiMDUwNGEtcmltZy13MTIwMC1oNjc1LWRjMDgwODA4LWdtaXIuanBnP3Y9MTc5NTcyODM1Mg.avif",
     "extra": {},
     "group_id": 117,
     "multi_source": false
@@ -2026,7 +2042,7 @@
     "price_min": null,
     "price_max": null,
     "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czQvYmFubmVycy8yYWE1NjZjMC1lMjA2LTExZjEtYjE0My03ZmRjZjAwNmExODQtcmltZy13MTIwMC1oNjc1LWRjMzgzODM4LWdtaXIuanBnP3Y9MTc5NDg2NTE1Mw.avif",
+    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czMvYmFubmVycy8xMDRhZmUzMC1lYTY2LTExZjEtODg5OC0zYjdjOGJmY2ZhMjgtcmltZy13MTIwMC1oNjc1LWRjMzgzODM4LWdtaXIuanBnP3Y9MTc5NTc4NTk1MA.avif",
     "extra": {},
     "group_id": 124,
     "multi_source": false
@@ -2112,22 +2128,6 @@
     "multi_source": false
   },
   {
-    "title": "FRIDAY SCENE FT. DJ SWAN AT BIG BULL",
-    "city": "Hyderabad",
-    "category": "Nightlife",
-    "source": "AllEvents",
-    "url": "https://allevents.in/hyderabad/friday-scene-ft-dj-swan-at-big-bull/3900031119377603",
-    "date": "2026-11-27",
-    "venue": "Big Bull Club: Hyderabad",
-    "price_min": null,
-    "price_max": null,
-    "currency": "INR",
-    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czgvYmFubmVycy9lNGY2N2E0MC1lODQyLTExZjEtODA5NC1lNzdmM2Y4YzZiNjQtcmltZy13MTIwMC1oNjAwLWRjMDgwODA4LWdtaXIuanBnP3Y9MTc5NTU1MDk0Mw.avif",
-    "extra": {},
-    "group_id": 130,
-    "multi_source": false
-  },
-  {
     "title": "Gaurav Kapoor Presents: BUNTY",
     "city": "Bangalore",
     "category": "Comedy",
@@ -2156,7 +2156,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 131,
+    "group_id": 130,
     "multi_source": false
   },
   {
@@ -2188,7 +2188,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 132,
+    "group_id": 131,
     "multi_source": false
   },
   {
@@ -2204,7 +2204,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 133,
+    "group_id": 132,
     "multi_source": false
   },
   {
@@ -2220,7 +2220,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 134,
+    "group_id": 133,
     "multi_source": false
   },
   {
@@ -2236,7 +2236,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 135,
+    "group_id": 134,
     "multi_source": false
   },
   {
@@ -2252,7 +2252,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 136,
+    "group_id": 135,
     "multi_source": false
   },
   {
@@ -2268,7 +2268,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 137,
+    "group_id": 136,
     "multi_source": false
   },
   {
@@ -2284,7 +2284,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 138,
+    "group_id": 137,
     "multi_source": false
   },
   {
@@ -2297,6 +2297,22 @@
     "venue": "The Underground Comedy Club, Bengaluru",
     "price_min": 499.0,
     "price_max": 499.0,
+    "currency": "INR",
+    "image": "",
+    "extra": {},
+    "group_id": 138,
+    "multi_source": false
+  },
+  {
+    "title": "Pitcher of Jokes - Comedy Show at Indiranagar",
+    "city": "Bangalore",
+    "category": "Comedy",
+    "source": "Eventz",
+    "url": "https://www.eventz.co.in/events-list/pitcher-of-jokes-comedy-show-at-indiranagar",
+    "date": "2026-11-29T00:00:00",
+    "venue": "Big Pitcher, Indiranagar, Bengaluru, Bangalore",
+    "price_min": 249.0,
+    "price_max": 249.0,
     "currency": "INR",
     "image": "",
     "extra": {},
@@ -2332,7 +2348,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 9,
+    "group_id": 7,
     "multi_source": true
   },
   {
@@ -2380,7 +2396,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 7,
+    "group_id": 8,
     "multi_source": true
   },
   {
@@ -2428,7 +2444,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 7,
+    "group_id": 8,
     "multi_source": true
   },
   {
@@ -2620,7 +2636,7 @@
     "currency": "INR",
     "image": "",
     "extra": {},
-    "group_id": 21,
+    "group_id": 22,
     "multi_source": true
   },
   {
@@ -12336,6 +12352,1222 @@
     "multi_source": false
   },
   {
+    "title": "Breeder",
+    "city": "All USA",
+    "category": "Movies",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Breeder_(film)",
+    "date": "2026-10-28T00:00:00",
+    "venue": "In cinemas",
+    "price_min": null,
+    "price_max": null,
+    "currency": "USD",
+    "image": "",
+    "extra": {},
+    "group_id": 645,
+    "multi_source": false
+  },
+  {
+    "title": "The Mosquito Bowl",
+    "city": "All USA",
+    "category": "Movies",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/The_Mosquito_Bowl",
+    "date": "2026-10-30T00:00:00",
+    "venue": "In cinemas",
+    "price_min": null,
+    "price_max": null,
+    "currency": "USD",
+    "image": "",
+    "extra": {},
+    "group_id": 646,
+    "multi_source": false
+  },
+  {
+    "title": "Christmas at the Kringles",
+    "city": "All USA",
+    "category": "Movies",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Christmas_at_the_Kringles",
+    "date": "2026-10-30T00:00:00",
+    "venue": "In cinemas",
+    "price_min": null,
+    "price_max": null,
+    "currency": "USD",
+    "image": "",
+    "extra": {},
+    "group_id": 647,
+    "multi_source": false
+  },
+  {
+    "title": "The Mongoose",
+    "city": "All USA",
+    "category": "Movies",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/The_Mongoose_(film)",
+    "date": "2026-10-30T00:00:00",
+    "venue": "In cinemas",
+    "price_min": null,
+    "price_max": null,
+    "currency": "USD",
+    "image": "",
+    "extra": {},
+    "group_id": 648,
+    "multi_source": false
+  },
+  {
+    "title": "Queen at Sea",
+    "city": "All USA",
+    "category": "Movies",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Queen_at_Sea",
+    "date": "2026-10-30T00:00:00",
+    "venue": "In cinemas",
+    "price_min": null,
+    "price_max": null,
+    "currency": "USD",
+    "image": "",
+    "extra": {},
+    "group_id": 649,
+    "multi_source": false
+  },
+  {
+    "title": "Stiletto",
+    "city": "All USA",
+    "category": "Movies",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Stiletto_(2026_film)",
+    "date": "2026-10-30T00:00:00",
+    "venue": "In cinemas",
+    "price_min": null,
+    "price_max": null,
+    "currency": "USD",
+    "image": "",
+    "extra": {},
+    "group_id": 650,
+    "multi_source": false
+  },
+  {
+    "title": "The Canvas",
+    "city": "All USA",
+    "category": "Movies",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/List_of_American_films_of_2026",
+    "date": "2026-10-30T00:00:00",
+    "venue": "In cinemas",
+    "price_min": null,
+    "price_max": null,
+    "currency": "USD",
+    "image": "",
+    "extra": {},
+    "group_id": 651,
+    "multi_source": false
+  },
+  {
+    "title": "The Holiday Hitman",
+    "city": "All USA",
+    "category": "Movies",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/The_Holiday_Hitman",
+    "date": "2026-11-03T00:00:00",
+    "venue": "In cinemas",
+    "price_min": null,
+    "price_max": null,
+    "currency": "USD",
+    "image": "",
+    "extra": {},
+    "group_id": 652,
+    "multi_source": false
+  },
+  {
+    "title": "A Dog's Perfect Christmas",
+    "city": "All USA",
+    "category": "Movies",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/A_Dog's_Perfect_Christmas",
+    "date": "2026-11-04T00:00:00",
+    "venue": "In cinemas",
+    "price_min": null,
+    "price_max": null,
+    "currency": "USD",
+    "image": "",
+    "extra": {},
+    "group_id": 653,
+    "multi_source": false
+  },
+  {
+    "title": "The Last Temptation of Becky",
+    "city": "All USA",
+    "category": "Movies",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/The_Last_Temptation_of_Becky",
+    "date": "2026-11-04T00:00:00",
+    "venue": "In cinemas",
+    "price_min": null,
+    "price_max": null,
+    "currency": "USD",
+    "image": "",
+    "extra": {},
+    "group_id": 654,
+    "multi_source": false
+  },
+  {
+    "title": "The Cat in the Hat",
+    "city": "All USA",
+    "category": "Movies",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/The_Cat_in_the_Hat_(2026_film)",
+    "date": "2026-11-06T00:00:00",
+    "venue": "In cinemas",
+    "price_min": null,
+    "price_max": null,
+    "currency": "USD",
+    "image": "",
+    "extra": {},
+    "group_id": 655,
+    "multi_source": false
+  },
+  {
+    "title": "Wild Horse Nine",
+    "city": "All USA",
+    "category": "Movies",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Wild_Horse_Nine",
+    "date": "2026-11-06T00:00:00",
+    "venue": "In cinemas",
+    "price_min": null,
+    "price_max": null,
+    "currency": "USD",
+    "image": "",
+    "extra": {},
+    "group_id": 656,
+    "multi_source": false
+  },
+  {
+    "title": "I Play Rocky",
+    "city": "All USA",
+    "category": "Movies",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/I_Play_Rocky",
+    "date": "2026-11-06T00:00:00",
+    "venue": "In cinemas",
+    "price_min": null,
+    "price_max": null,
+    "currency": "USD",
+    "image": "",
+    "extra": {},
+    "group_id": 657,
+    "multi_source": false
+  },
+  {
+    "title": "Club Kid",
+    "city": "All USA",
+    "category": "Movies",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Club_Kid_(film)",
+    "date": "2026-11-06T00:00:00",
+    "venue": "In cinemas",
+    "price_min": null,
+    "price_max": null,
+    "currency": "USD",
+    "image": "",
+    "extra": {},
+    "group_id": 658,
+    "multi_source": false
+  },
+  {
+    "title": "Being Heumann",
+    "city": "All USA",
+    "category": "Movies",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Being_Heumann",
+    "date": "2026-11-06T00:00:00",
+    "venue": "In cinemas",
+    "price_min": null,
+    "price_max": null,
+    "currency": "USD",
+    "image": "",
+    "extra": {},
+    "group_id": 659,
+    "multi_source": false
+  },
+  {
+    "title": "Jimmy",
+    "city": "All USA",
+    "category": "Movies",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Jimmy_(2026_film)",
+    "date": "2026-11-06T00:00:00",
+    "venue": "In cinemas",
+    "price_min": null,
+    "price_max": null,
+    "currency": "USD",
+    "image": "",
+    "extra": {},
+    "group_id": 660,
+    "multi_source": false
+  },
+  {
+    "title": "Mouse",
+    "city": "All USA",
+    "category": "Movies",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Mouse_(2026_film)",
+    "date": "2026-11-06T00:00:00",
+    "venue": "In cinemas",
+    "price_min": null,
+    "price_max": null,
+    "currency": "USD",
+    "image": "",
+    "extra": {},
+    "group_id": 661,
+    "multi_source": false
+  },
+  {
+    "title": "Drummer Boy",
+    "city": "All USA",
+    "category": "Movies",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Drummer_Boy_(film)",
+    "date": "2026-11-06T00:00:00",
+    "venue": "In cinemas",
+    "price_min": null,
+    "price_max": null,
+    "currency": "USD",
+    "image": "",
+    "extra": {},
+    "group_id": 662,
+    "multi_source": false
+  },
+  {
+    "title": "Zi",
+    "city": "All USA",
+    "category": "Movies",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Zi_(film)",
+    "date": "2026-11-06T00:00:00",
+    "venue": "In cinemas",
+    "price_min": null,
+    "price_max": null,
+    "currency": "USD",
+    "image": "",
+    "extra": {},
+    "group_id": 663,
+    "multi_source": false
+  },
+  {
+    "title": "The 12 Dates of Christmas",
+    "city": "All USA",
+    "category": "Movies",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/The_12_Dates_of_Christmas",
+    "date": "2026-11-06T00:00:00",
+    "venue": "In cinemas",
+    "price_min": null,
+    "price_max": null,
+    "currency": "USD",
+    "image": "",
+    "extra": {},
+    "group_id": 664,
+    "multi_source": false
+  },
+  {
+    "title": "Loves Company",
+    "city": "All USA",
+    "category": "Movies",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Loves_Company",
+    "date": "2026-11-10T00:00:00",
+    "venue": "In cinemas",
+    "price_min": null,
+    "price_max": null,
+    "currency": "USD",
+    "image": "",
+    "extra": {},
+    "group_id": 665,
+    "multi_source": false
+  },
+  {
+    "title": "Ghost Soldier",
+    "city": "All USA",
+    "category": "Movies",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Ghost_Soldier_(film)",
+    "date": "2026-11-11T00:00:00",
+    "venue": "In cinemas",
+    "price_min": null,
+    "price_max": null,
+    "currency": "USD",
+    "image": "",
+    "extra": {},
+    "group_id": 666,
+    "multi_source": false
+  },
+  {
+    "title": "The Gospel of Christmas",
+    "city": "All USA",
+    "category": "Movies",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/The_Gospel_of_Christmas",
+    "date": "2026-11-11T00:00:00",
+    "venue": "In cinemas",
+    "price_min": null,
+    "price_max": null,
+    "currency": "USD",
+    "image": "",
+    "extra": {},
+    "group_id": 667,
+    "multi_source": false
+  },
+  {
+    "title": "Confession",
+    "city": "All USA",
+    "category": "Movies",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Confession_(2026_film)",
+    "date": "2026-11-11T00:00:00",
+    "venue": "In cinemas",
+    "price_min": null,
+    "price_max": null,
+    "currency": "USD",
+    "image": "",
+    "extra": {},
+    "group_id": 668,
+    "multi_source": false
+  },
+  {
+    "title": "Ebenezer",
+    "city": "All USA",
+    "category": "Movies",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Ebenezer_(2026_film)",
+    "date": "2026-11-13T00:00:00",
+    "venue": "In cinemas",
+    "price_min": null,
+    "price_max": null,
+    "currency": "USD",
+    "image": "",
+    "extra": {},
+    "group_id": 669,
+    "multi_source": false
+  },
+  {
+    "title": "How to Rob a Bank",
+    "city": "All USA",
+    "category": "Movies",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/How_to_Rob_a_Bank_(2026_film)",
+    "date": "2026-11-13T00:00:00",
+    "venue": "In cinemas",
+    "price_min": null,
+    "price_max": null,
+    "currency": "USD",
+    "image": "",
+    "extra": {},
+    "group_id": 670,
+    "multi_source": false
+  },
+  {
+    "title": "Paper Tiger",
+    "city": "All USA",
+    "category": "Movies",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Paper_Tiger_(2026_film)",
+    "date": "2026-11-13T00:00:00",
+    "venue": "In cinemas",
+    "price_min": null,
+    "price_max": null,
+    "currency": "USD",
+    "image": "",
+    "extra": {},
+    "group_id": 671,
+    "multi_source": false
+  },
+  {
+    "title": "Heartland",
+    "city": "All USA",
+    "category": "Movies",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Heartland_(2026_film)",
+    "date": "2026-11-13T00:00:00",
+    "venue": "In cinemas",
+    "price_min": null,
+    "price_max": null,
+    "currency": "USD",
+    "image": "",
+    "extra": {},
+    "group_id": 672,
+    "multi_source": false
+  },
+  {
+    "title": "Quarter",
+    "city": "All USA",
+    "category": "Movies",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Quarter_(film)",
+    "date": "2026-11-13T00:00:00",
+    "venue": "In cinemas",
+    "price_min": null,
+    "price_max": null,
+    "currency": "USD",
+    "image": "",
+    "extra": {},
+    "group_id": 673,
+    "multi_source": false
+  },
+  {
+    "title": "God with Us",
+    "city": "All USA",
+    "category": "Movies",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/List_of_American_films_of_2026",
+    "date": "2026-11-13T00:00:00",
+    "venue": "In cinemas",
+    "price_min": null,
+    "price_max": null,
+    "currency": "USD",
+    "image": "",
+    "extra": {},
+    "group_id": 674,
+    "multi_source": false
+  },
+  {
+    "title": "Madden",
+    "city": "All USA",
+    "category": "Movies",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Madden_(film)",
+    "date": "2026-11-18T00:00:00",
+    "venue": "In cinemas",
+    "price_min": null,
+    "price_max": null,
+    "currency": "USD",
+    "image": "",
+    "extra": {},
+    "group_id": 675,
+    "multi_source": false
+  },
+  {
+    "title": "Guarding Stars",
+    "city": "All USA",
+    "category": "Movies",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Guarding_Stars",
+    "date": "2026-11-18T00:00:00",
+    "venue": "In cinemas",
+    "price_min": null,
+    "price_max": null,
+    "currency": "USD",
+    "image": "",
+    "extra": {},
+    "group_id": 676,
+    "multi_source": false
+  },
+  {
+    "title": "The Hunger Games: Sunrise on the Reaping",
+    "city": "All USA",
+    "category": "Movies",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/The_Hunger_Games:_Sunrise_on_the_Reaping",
+    "date": "2026-11-20T00:00:00",
+    "venue": "In cinemas",
+    "price_min": null,
+    "price_max": null,
+    "currency": "USD",
+    "image": "",
+    "extra": {},
+    "group_id": 677,
+    "multi_source": false
+  },
+  {
+    "title": "Steps",
+    "city": "All USA",
+    "category": "Movies",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Steps_(film)",
+    "date": "2026-11-20T00:00:00",
+    "venue": "In cinemas",
+    "price_min": null,
+    "price_max": null,
+    "currency": "USD",
+    "image": "",
+    "extra": {},
+    "group_id": 678,
+    "multi_source": false
+  },
+  {
+    "title": "Elsinore",
+    "city": "All USA",
+    "category": "Movies",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Elsinore_(film)",
+    "date": "2026-11-20T00:00:00",
+    "venue": "In cinemas",
+    "price_min": null,
+    "price_max": null,
+    "currency": "USD",
+    "image": "",
+    "extra": {},
+    "group_id": 679,
+    "multi_source": false
+  },
+  {
+    "title": "Josephine",
+    "city": "All USA",
+    "category": "Movies",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Josephine_(2026_film)",
+    "date": "2026-11-20T00:00:00",
+    "venue": "In cinemas",
+    "price_min": null,
+    "price_max": null,
+    "currency": "USD",
+    "image": "",
+    "extra": {},
+    "group_id": 680,
+    "multi_source": false
+  },
+  {
+    "title": "Best Pancakes in the County",
+    "city": "All USA",
+    "category": "Movies",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Best_Pancakes_in_the_County",
+    "date": "2026-11-20T00:00:00",
+    "venue": "In cinemas",
+    "price_min": null,
+    "price_max": null,
+    "currency": "USD",
+    "image": "",
+    "extra": {},
+    "group_id": 681,
+    "multi_source": false
+  },
+  {
+    "title": "The Vile",
+    "city": "All USA",
+    "category": "Movies",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Hoba",
+    "date": "2026-11-20T00:00:00",
+    "venue": "In cinemas",
+    "price_min": null,
+    "price_max": null,
+    "currency": "USD",
+    "image": "",
+    "extra": {},
+    "group_id": 682,
+    "multi_source": false
+  },
+  {
+    "title": "After This Death",
+    "city": "All USA",
+    "category": "Movies",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/After_This_Death",
+    "date": "2026-11-20T00:00:00",
+    "venue": "In cinemas",
+    "price_min": null,
+    "price_max": null,
+    "currency": "USD",
+    "image": "",
+    "extra": {},
+    "group_id": 683,
+    "multi_source": false
+  },
+  {
+    "title": "Clashing Through the Snow",
+    "city": "All USA",
+    "category": "Movies",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Clashing_Through_the_Snow",
+    "date": "2026-11-23T00:00:00",
+    "venue": "In cinemas",
+    "price_min": null,
+    "price_max": null,
+    "currency": "USD",
+    "image": "",
+    "extra": {},
+    "group_id": 684,
+    "multi_source": false
+  },
+  {
+    "title": "Focker-in-Law",
+    "city": "All USA",
+    "category": "Movies",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Focker-in-Law",
+    "date": "2026-11-25T00:00:00",
+    "venue": "In cinemas",
+    "price_min": null,
+    "price_max": null,
+    "currency": "USD",
+    "image": "",
+    "extra": {},
+    "group_id": 685,
+    "multi_source": false
+  },
+  {
+    "title": "Hexed",
+    "city": "All USA",
+    "category": "Movies",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Hexed_(2026_film)",
+    "date": "2026-11-25T00:00:00",
+    "venue": "In cinemas",
+    "price_min": null,
+    "price_max": null,
+    "currency": "USD",
+    "image": "",
+    "extra": {},
+    "group_id": 686,
+    "multi_source": false
+  },
+  {
+    "title": "The Further Mis-Adventures of Cliff Booth",
+    "city": "All USA",
+    "category": "Movies",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/The_Further_Mis-Adventures_of_Cliff_Booth",
+    "date": "2026-11-25T00:00:00",
+    "venue": "In cinemas",
+    "price_min": null,
+    "price_max": null,
+    "currency": "USD",
+    "image": "",
+    "extra": {},
+    "group_id": 687,
+    "multi_source": false
+  },
+  {
+    "title": "Way of the Warrior Kid",
+    "city": "All USA",
+    "category": "Movies",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Way_of_the_Warrior_Kid",
+    "date": "2026-11-25T00:00:00",
+    "venue": "In cinemas",
+    "price_min": null,
+    "price_max": null,
+    "currency": "USD",
+    "image": "",
+    "extra": {},
+    "group_id": 688,
+    "multi_source": false
+  },
+  {
+    "title": "Hershey",
+    "city": "All USA",
+    "category": "Movies",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Hershey_(film)",
+    "date": "2026-11-25T00:00:00",
+    "venue": "In cinemas",
+    "price_min": null,
+    "price_max": null,
+    "currency": "USD",
+    "image": "",
+    "extra": {},
+    "group_id": 689,
+    "multi_source": false
+  },
+  {
+    "title": "Tangles",
+    "city": "All USA",
+    "category": "Movies",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Tangles",
+    "date": "2026-11-27T00:00:00",
+    "venue": "In cinemas",
+    "price_min": null,
+    "price_max": null,
+    "currency": "USD",
+    "image": "",
+    "extra": {},
+    "group_id": 690,
+    "multi_source": false
+  },
+  {
+    "title": "In Waves",
+    "city": "All USA",
+    "category": "Movies",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/List_of_American_films_of_2026",
+    "date": "2026-11-27T00:00:00",
+    "venue": "In cinemas",
+    "price_min": null,
+    "price_max": null,
+    "currency": "USD",
+    "image": "",
+    "extra": {},
+    "group_id": 691,
+    "multi_source": false
+  },
+  {
+    "title": "The Man with the Bag",
+    "city": "All USA",
+    "category": "Movies",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/The_Man_with_the_Bag_(film)",
+    "date": "2026-12-02T00:00:00",
+    "venue": "In cinemas",
+    "price_min": null,
+    "price_max": null,
+    "currency": "USD",
+    "image": "",
+    "extra": {},
+    "group_id": 692,
+    "multi_source": false
+  },
+  {
+    "title": "In a Holidaze",
+    "city": "All USA",
+    "category": "Movies",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/In_a_Holidaze",
+    "date": "2026-12-02T00:00:00",
+    "venue": "In cinemas",
+    "price_min": null,
+    "price_max": null,
+    "currency": "USD",
+    "image": "",
+    "extra": {},
+    "group_id": 693,
+    "multi_source": false
+  },
+  {
+    "title": "Violent Night 2",
+    "city": "All USA",
+    "category": "Movies",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Violent_Night_2",
+    "date": "2026-12-04T00:00:00",
+    "venue": "In cinemas",
+    "price_min": null,
+    "price_max": null,
+    "currency": "USD",
+    "image": "",
+    "extra": {},
+    "group_id": 694,
+    "multi_source": false
+  },
+  {
+    "title": "Behemoth!",
+    "city": "All USA",
+    "category": "Movies",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Behemoth!",
+    "date": "2026-12-04T00:00:00",
+    "venue": "In cinemas",
+    "price_min": null,
+    "price_max": null,
+    "currency": "USD",
+    "image": "",
+    "extra": {},
+    "group_id": 695,
+    "multi_source": false
+  },
+  {
+    "title": "Ray Gunn",
+    "city": "All USA",
+    "category": "Movies",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Ray_Gunn",
+    "date": "2026-12-04T00:00:00",
+    "venue": "In cinemas",
+    "price_min": null,
+    "price_max": null,
+    "currency": "USD",
+    "image": "",
+    "extra": {},
+    "group_id": 696,
+    "multi_source": false
+  },
+  {
+    "title": "Diary of a Wimpy Kid Christmas: The Getaway",
+    "city": "All USA",
+    "category": "Movies",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Diary_of_a_Wimpy_Kid:_The_Getaway#Adaptation",
+    "date": "2026-12-04T00:00:00",
+    "venue": "In cinemas",
+    "price_min": null,
+    "price_max": null,
+    "currency": "USD",
+    "image": "",
+    "extra": {},
+    "group_id": 697,
+    "multi_source": false
+  },
+  {
+    "title": "Above the Below",
+    "city": "All USA",
+    "category": "Movies",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Above_the_Below",
+    "date": "2026-12-04T00:00:00",
+    "venue": "In cinemas",
+    "price_min": null,
+    "price_max": null,
+    "currency": "USD",
+    "image": "",
+    "extra": {},
+    "group_id": 698,
+    "multi_source": false
+  },
+  {
+    "title": "The Gallerist",
+    "city": "All USA",
+    "category": "Movies",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/The_Gallerist_(film)",
+    "date": "2026-12-04T00:00:00",
+    "venue": "In cinemas",
+    "price_min": null,
+    "price_max": null,
+    "currency": "USD",
+    "image": "",
+    "extra": {},
+    "group_id": 699,
+    "multi_source": false
+  },
+  {
+    "title": "November 1963",
+    "city": "All USA",
+    "category": "Movies",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/November_1963_(film)",
+    "date": "2026-12-04T00:00:00",
+    "venue": "In cinemas",
+    "price_min": null,
+    "price_max": null,
+    "currency": "USD",
+    "image": "",
+    "extra": {},
+    "group_id": 700,
+    "multi_source": false
+  },
+  {
+    "title": "Eternal Return",
+    "city": "All USA",
+    "category": "Movies",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Eternal_Return_(film)",
+    "date": "2026-12-04T00:00:00",
+    "venue": "In cinemas",
+    "price_min": null,
+    "price_max": null,
+    "currency": "USD",
+    "image": "",
+    "extra": {},
+    "group_id": 701,
+    "multi_source": false
+  },
+  {
+    "title": "Flavia",
+    "city": "All USA",
+    "category": "Movies",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Flavia_(film)",
+    "date": "2026-12-04T00:00:00",
+    "venue": "In cinemas",
+    "price_min": null,
+    "price_max": null,
+    "currency": "USD",
+    "image": "",
+    "extra": {},
+    "group_id": 702,
+    "multi_source": false
+  },
+  {
+    "title": "The Friend's House Is Here",
+    "city": "All USA",
+    "category": "Movies",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/The_Friend's_House_Is_Here",
+    "date": "2026-12-04T00:00:00",
+    "venue": "In cinemas",
+    "price_min": null,
+    "price_max": null,
+    "currency": "USD",
+    "image": "",
+    "extra": {},
+    "group_id": 703,
+    "multi_source": false
+  },
+  {
+    "title": "Games We Play",
+    "city": "All USA",
+    "category": "Movies",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/List_of_American_films_of_2026",
+    "date": "2026-12-04T00:00:00",
+    "venue": "In cinemas",
+    "price_min": null,
+    "price_max": null,
+    "currency": "USD",
+    "image": "",
+    "extra": {},
+    "group_id": 704,
+    "multi_source": false
+  },
+  {
+    "title": "The Patient",
+    "city": "All USA",
+    "category": "Movies",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/List_of_American_films_of_2026",
+    "date": "2026-12-04T00:00:00",
+    "venue": "In cinemas",
+    "price_min": null,
+    "price_max": null,
+    "currency": "USD",
+    "image": "",
+    "extra": {},
+    "group_id": 705,
+    "multi_source": false
+  },
+  {
+    "title": "The Debut",
+    "city": "All USA",
+    "category": "Movies",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/The_Debut_(2026_film)",
+    "date": "2026-12-11T00:00:00",
+    "venue": "In cinemas",
+    "price_min": null,
+    "price_max": null,
+    "currency": "USD",
+    "image": "",
+    "extra": {},
+    "group_id": 706,
+    "multi_source": false
+  },
+  {
+    "title": "Zero A. D.: The Birth of Christ",
+    "city": "All USA",
+    "category": "Movies",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Zero_A._D.:_The_Birth_of_Christ",
+    "date": "2026-12-11T00:00:00",
+    "venue": "In cinemas",
+    "price_min": null,
+    "price_max": null,
+    "currency": "USD",
+    "image": "",
+    "extra": {},
+    "group_id": 707,
+    "multi_source": false
+  },
+  {
+    "title": "Bad Day",
+    "city": "All USA",
+    "category": "Movies",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Bad_Day_(2026_film)",
+    "date": "2026-12-11T00:00:00",
+    "venue": "In cinemas",
+    "price_min": null,
+    "price_max": null,
+    "currency": "USD",
+    "image": "",
+    "extra": {},
+    "group_id": 708,
+    "multi_source": false
+  },
+  {
+    "title": "Killing Castro",
+    "city": "All USA",
+    "category": "Movies",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Killing_Castro_(film)",
+    "date": "2026-12-11T00:00:00",
+    "venue": "In cinemas",
+    "price_min": null,
+    "price_max": null,
+    "currency": "USD",
+    "image": "",
+    "extra": {},
+    "group_id": 709,
+    "multi_source": false
+  },
+  {
+    "title": "Clarissa",
+    "city": "All USA",
+    "category": "Movies",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Clarissa_(2026_film)",
+    "date": "2026-12-11T00:00:00",
+    "venue": "In cinemas",
+    "price_min": null,
+    "price_max": null,
+    "currency": "USD",
+    "image": "",
+    "extra": {},
+    "group_id": 710,
+    "multi_source": false
+  },
+  {
+    "title": "Ink",
+    "city": "All USA",
+    "category": "Movies",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Ink_(2026_film)",
+    "date": "2026-12-11T00:00:00",
+    "venue": "In cinemas",
+    "price_min": null,
+    "price_max": null,
+    "currency": "USD",
+    "image": "",
+    "extra": {},
+    "group_id": 711,
+    "multi_source": false
+  },
+  {
+    "title": "Bedford Park",
+    "city": "All USA",
+    "category": "Movies",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Bedford_Park_(film)",
+    "date": "2026-12-11T00:00:00",
+    "venue": "In cinemas",
+    "price_min": null,
+    "price_max": null,
+    "currency": "USD",
+    "image": "",
+    "extra": {},
+    "group_id": 712,
+    "multi_source": false
+  },
+  {
+    "title": "Give Me Some Sugah",
+    "city": "All USA",
+    "category": "Movies",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Give_Me_Some_Sugah",
+    "date": "2026-12-16T00:00:00",
+    "venue": "In cinemas",
+    "price_min": null,
+    "price_max": null,
+    "currency": "USD",
+    "image": "",
+    "extra": {},
+    "group_id": 713,
+    "multi_source": false
+  },
+  {
+    "title": "Avengers: Doomsday",
+    "city": "All USA",
+    "category": "Movies",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Avengers:_Doomsday",
+    "date": "2026-12-18T00:00:00",
+    "venue": "In cinemas",
+    "price_min": null,
+    "price_max": null,
+    "currency": "USD",
+    "image": "",
+    "extra": {},
+    "group_id": 714,
+    "multi_source": false
+  },
+  {
+    "title": "Dune: Part Three",
+    "city": "All USA",
+    "category": "Movies",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Dune:_Part_Three",
+    "date": "2026-12-18T00:00:00",
+    "venue": "In cinemas",
+    "price_min": null,
+    "price_max": null,
+    "currency": "USD",
+    "image": "",
+    "extra": {},
+    "group_id": 715,
+    "multi_source": false
+  },
+  {
+    "title": "The Angry Birds Movie 3",
+    "city": "All USA",
+    "category": "Movies",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/The_Angry_Birds_Movie_3",
+    "date": "2026-12-23T00:00:00",
+    "venue": "In cinemas",
+    "price_min": null,
+    "price_max": null,
+    "currency": "USD",
+    "image": "",
+    "extra": {},
+    "group_id": 716,
+    "multi_source": false
+  },
+  {
+    "title": "Jumanji: Open World",
+    "city": "All USA",
+    "category": "Movies",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Jumanji:_Open_World",
+    "date": "2026-12-25T00:00:00",
+    "venue": "In cinemas",
+    "price_min": null,
+    "price_max": null,
+    "currency": "USD",
+    "image": "",
+    "extra": {},
+    "group_id": 717,
+    "multi_source": false
+  },
+  {
+    "title": "Werwulf",
+    "city": "All USA",
+    "category": "Movies",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Werwulf",
+    "date": "2026-12-25T00:00:00",
+    "venue": "In cinemas",
+    "price_min": null,
+    "price_max": null,
+    "currency": "USD",
+    "image": "",
+    "extra": {},
+    "group_id": 718,
+    "multi_source": false
+  },
+  {
+    "title": "Mr. Irrelevant",
+    "city": "All USA",
+    "category": "Movies",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Mr._Irrelevant_(film)",
+    "date": "2026-12-25T00:00:00",
+    "venue": "In cinemas",
+    "price_min": null,
+    "price_max": null,
+    "currency": "USD",
+    "image": "",
+    "extra": {},
+    "group_id": 719,
+    "multi_source": false
+  },
+  {
+    "title": "Artificial",
+    "city": "All USA",
+    "category": "Movies",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Artificial_(2026_film)",
+    "date": "2026-12-25T00:00:00",
+    "venue": "In cinemas",
+    "price_min": null,
+    "price_max": null,
+    "currency": "USD",
+    "image": "",
+    "extra": {},
+    "group_id": 720,
+    "multi_source": false
+  },
+  {
     "title": "Pendulum",
     "city": "All USA",
     "category": "Movies",
@@ -12348,7 +13580,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 645,
+    "group_id": 721,
     "multi_source": false
   },
   {
@@ -12364,7 +13596,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 646,
+    "group_id": 722,
     "multi_source": false
   },
   {
@@ -12380,7 +13612,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 647,
+    "group_id": 723,
     "multi_source": false
   },
   {
@@ -12396,7 +13628,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 648,
+    "group_id": 724,
     "multi_source": false
   },
   {
@@ -12412,7 +13644,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 649,
+    "group_id": 725,
     "multi_source": false
   },
   {
@@ -12428,7 +13660,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 650,
+    "group_id": 726,
     "multi_source": false
   },
   {
@@ -12444,7 +13676,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 651,
+    "group_id": 727,
     "multi_source": false
   },
   {
@@ -12460,7 +13692,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 652,
+    "group_id": 728,
     "multi_source": false
   },
   {
@@ -12476,7 +13708,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 653,
+    "group_id": 729,
     "multi_source": false
   },
   {
@@ -12492,7 +13724,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 654,
+    "group_id": 730,
     "multi_source": false
   },
   {
@@ -12508,7 +13740,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 655,
+    "group_id": 731,
     "multi_source": false
   },
   {
@@ -12524,7 +13756,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 656,
+    "group_id": 732,
     "multi_source": false
   },
   {
@@ -12540,7 +13772,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 657,
+    "group_id": 733,
     "multi_source": false
   },
   {
@@ -12556,7 +13788,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 658,
+    "group_id": 734,
     "multi_source": false
   },
   {
@@ -12572,7 +13804,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 659,
+    "group_id": 735,
     "multi_source": false
   },
   {
@@ -12588,7 +13820,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 660,
+    "group_id": 736,
     "multi_source": false
   },
   {
@@ -12604,7 +13836,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 661,
+    "group_id": 737,
     "multi_source": false
   },
   {
@@ -12620,7 +13852,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 662,
+    "group_id": 738,
     "multi_source": false
   },
   {
@@ -12636,7 +13868,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 663,
+    "group_id": 739,
     "multi_source": false
   },
   {
@@ -12652,7 +13884,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 664,
+    "group_id": 740,
     "multi_source": false
   },
   {
@@ -12668,7 +13900,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 665,
+    "group_id": 741,
     "multi_source": false
   },
   {
@@ -12684,7 +13916,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 666,
+    "group_id": 742,
     "multi_source": false
   },
   {
@@ -12700,7 +13932,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 667,
+    "group_id": 743,
     "multi_source": false
   },
   {
@@ -12716,7 +13948,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 668,
+    "group_id": 744,
     "multi_source": false
   },
   {
@@ -12732,7 +13964,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 669,
+    "group_id": 745,
     "multi_source": false
   },
   {
@@ -12748,7 +13980,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 670,
+    "group_id": 746,
     "multi_source": false
   },
   {
@@ -12764,7 +13996,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 671,
+    "group_id": 747,
     "multi_source": false
   },
   {
@@ -12780,7 +14012,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 672,
+    "group_id": 748,
     "multi_source": false
   },
   {
@@ -12796,7 +14028,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 673,
+    "group_id": 749,
     "multi_source": false
   },
   {
@@ -12812,7 +14044,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 674,
+    "group_id": 750,
     "multi_source": false
   },
   {
@@ -12828,7 +14060,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 675,
+    "group_id": 751,
     "multi_source": false
   },
   {
@@ -12844,7 +14076,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 676,
+    "group_id": 752,
     "multi_source": false
   },
   {
@@ -12860,7 +14092,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 677,
+    "group_id": 753,
     "multi_source": false
   },
   {
@@ -12876,7 +14108,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 678,
+    "group_id": 754,
     "multi_source": false
   },
   {
@@ -12892,7 +14124,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 679,
+    "group_id": 755,
     "multi_source": false
   },
   {
@@ -12908,7 +14140,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 680,
+    "group_id": 756,
     "multi_source": false
   },
   {
@@ -12924,7 +14156,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 681,
+    "group_id": 757,
     "multi_source": false
   },
   {
@@ -12940,7 +14172,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 682,
+    "group_id": 758,
     "multi_source": false
   },
   {
@@ -12956,7 +14188,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 683,
+    "group_id": 759,
     "multi_source": false
   },
   {
@@ -12972,7 +14204,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 684,
+    "group_id": 760,
     "multi_source": false
   },
   {
@@ -12988,7 +14220,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 685,
+    "group_id": 761,
     "multi_source": false
   },
   {
@@ -13004,7 +14236,7 @@
     "currency": "USD",
     "image": "",
     "extra": {},
-    "group_id": 686,
+    "group_id": 762,
     "multi_source": false
   }
 ]
